@@ -1,2 +1,2 @@
-# poetry
-Markdown source and audio files for poetry about life.
+# Poetry
+Markdown source repository for poetry and voice.
