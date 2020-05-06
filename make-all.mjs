@@ -11,7 +11,7 @@ import startCase from 'lodash/startCase.js';
 import padStart from 'lodash/padStart.js';
 
 const options = {
-  title: 'Research',
+  title: 'Poetry',
   db: {
     path: './db',
   },
