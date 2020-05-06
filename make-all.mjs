@@ -12,6 +12,7 @@ import padStart from 'lodash/padStart.js';
 
 const options = {
   title: 'Poetry',
+  source: 'https://github.com/catpea/poetry',
   db: {
     path: './db',
   },
@@ -96,6 +97,9 @@ const htmlVersion = `<!DOCTYPE html>
       </article>
       `).join('\n')}
   </main>
+  <footer>
+    <small><a href="${options.title}">Source Code</a></small>
+  </footer>
 </body>
 </html>
 `;
