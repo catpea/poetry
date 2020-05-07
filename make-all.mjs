@@ -1,4 +1,5 @@
 #!/usr/bin/env -S node --experimental-modules
+
 import fs from 'fs-extra';
 import path from 'path';
 import matter from 'gray-matter';

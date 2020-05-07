@@ -1,5 +1,227 @@
 # Poetry
 
+## Don't Be Scared
+### May 6th 2020, 10:44:58 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-07T02:44:58.991Z">
+
+[Listen](audio/poetry-0062.mp3)
+
+If everyone seems scary,<br>
+that's only because scary is all you've ever met.
+
+I've met them too, I saw what they can do.<br>
+How sure of themselves, how forward and blind.
+
+But, if you spend your life in hiding,<br>
+they will win, and rob you of everything precious.
+
+So rise, begin taking care of yourself,<br>
+and begin your search.
+
+Not a search for mere friends,<br>
+but a search for The Extraordinary.
+
+<br><br>
+
+It is simple.<br>
+My friends.
+
+The only way to find The Extraordinary,<br>
+is to become Extraordinary yourself.
+
+<br><br>
+
+If you got hurt before,<br>
+then you have already come a long way.
+
+You now hold a gift of Wisdom,<br>
+a Foresight that can spare suffering.
+
+No one is to take Love of Life from you,<br>
+no one is to rob you of Joy and Laughter.
+
+Grab an [audio-book](https://librivox.org),<br>
+get to know the [local Museums](https://www.dia.org/).
+
+Learn.
+
+<br><br>
+
+## Love Yourself
+### May 6th 2020, 10:44:58 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-07T02:44:58.991Z">
+
+[Listen](audio/poetry-0061.mp3)
+
+If you don't care about yourself,<br>
+People will get scared of you.
+
+Because, if you get hurt,<br>
+you will hurt them too.
+
+You have to watch yourself,<br>
+be compassionate to yourself.
+
+<br><br>
+
+Ask...
+
+Is working too many hours a day,<br>
+helping or harming me?
+
+Are Office Walls,<br>
+helping or harming me?
+
+Does loneliness help you?<br>
+Or does it harm you?
+
+Same for getting scared,<br>
+Does hiding really help you?
+
+<br><br>
+
+Overwork and Office is unhealthy,<br>
+take those skills, and [build](https://www.youtube.com/watch?v=ZoqgAy3h4OM).
+
+Take it [outside](https://www.youtube.com/watch?v=68jy3_ABvRo),<br>
+let Nature nurture you.
+
+In her silence,<br>
+she will help you remember who you are.
+
+You must learn to treat your body with compassion,
+
+You must learn to take Great Care of our mind.
+
+And please,<br>
+make every day count.
+
+We are so beautiful,<br>
+such powerful dreamers.
+
+Above All,
+Love Yourself.
+
+<br><br>
+
+## Big Things
+### May 6th 2020, 10:44:58 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-07T02:44:58.991Z">
+
+![Illustration](image/poetry-0060-illustration.png)
+
+[Listen](audio/poetry-0060.mp3)
+
+My friends, as mighty as we are,<br>
+we can only do one thing at a time.
+
+Once you take care to choose the big things well,<br>
+the one thing before you...
+
+is what the big thing will depend on,<br>
+do it well.
+
+<br><br>
+
+
+Small things will sneak up on you,<br>
+and I am so sorry for that.
+
+It is the job of our Teachers to help us,<br>
+but today there are very few.
+
+You have to accept the responsibility,<br>
+you must fight for wisdom at all cost.
+
+In the absence of teachers,<br>
+you must become your teacher, it is your right.
+
+<br><br>
+
+If you fail to educate yourself,<br>
+people will use you.
+
+They will use the best of you,<br>
+Your Generosity, Your Kindness, Your Might.
+
+They will pay you less,<br>
+and trick you to thank them that you still have the job.
+
+They will replace you with younger people,<br>
+come your Golden Age, to save a dollar.
+
+Come a tragedy,<br>
+they will use it to make you work harder.
+
+<br><br>
+
+All of this is hard to see,<br>
+it brings so much relief and pleasure.
+
+It feels so right to choose,<br>
+but you are so much more than a worker.
+
+You must ask, if the path that you are on,<br>
+is worthy of the Magnificent Being you are.
+
+<br><br>
+
+You are meant to become a Great Being,<br>
+you have to climb to see the Big Things.
+
+Even as a Great Being, my friends,<br>
+always look to the Big Things.
+
+Do not waste your precious time,<br>
+to achieve that which [crumbles](https://en.wikipedia.org/wiki/Ozymandias).
+
+Look towards real things,<br>
+things that really last.
+
+![Ozymandias](image/poetry-0060-ozymandias.jpg)
+
+(Images courtesy of Wikipedia, [Wanderer above the Sea of Fog](https://en.wikipedia.org/wiki/Wanderer_above_the_Sea_of_Fog), [Ozymandias Collossus](https://en.wikipedia.org/wiki/Ramesseum))
+
+<br><br>
+
+## Maximum over Minimum
+### May 6th 2020, 10:44:58 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-07T02:44:58.991Z">
+
+[Listen](audio/poetry-0059.mp3)
+
+We must Always wisely choose Maximum over Minimum,<br>
+because the minimums will attack our mind and body.
+
+When hoping to live life to the fullest,<br>
+we have to choose the big things very carefully.
+
+Health, is an example of a big thing,<br>
+everything we do, must stand in support of it.
+
+Time, is a big thing,<br>
+everything we do, must count.
+
+We must frequently ask,<br>
+"Is this event harming or helping me?"
+
+We must frequently ask,<br>
+"Will this matter in six months, or next year?"
+
+We must ask,<br>
+"What are the regrets of my older self?"
+
+Because only you can judge yourself,<br>
+you must grow in wisdom, and age gracefully.
+
+Do not miss the point of life -<br>
+You are meant to become a Great Being.
+
+You are to search and find the Light of Your Life,<br>
+and discover a way contribute to Wisdom.
+
+<br><br>
+
 ## Authenticity
 ### May 5th 2020, 9:47:17 pm EDT
 <meta itemprop="dateCreated" datetime="2020-05-06T01:47:17.000Z">
