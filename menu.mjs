@@ -27,6 +27,11 @@ const questions = [
       },
       {
         key: 'j',
+        name: 'Resize Images',
+        value: './bin/resize/index.sh'
+      },
+      {
+        key: 'j',
         name: 'Convert PNG to JPG',
         value: './bin/tojpg/index.sh'
       },
