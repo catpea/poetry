@@ -19,7 +19,9 @@ the sunrise, must rise from behind dunes.
 There are no dunes taller than these,<br>
 they are ancient, born of frozen seas.
 
-The deers were the first to rise,<br>
+![cold](image/poetry-0063-mist.jpg)
+
+The deer were the first to rise,<br>
 to them belonged the sunrise.
 
 There is a place where the dunes part,<br>
@@ -27,7 +29,7 @@ by some unknown art.
 
 ![art](image/poetry-0063-art.jpg)
 
-The dears come out,<br>
+The deers come out,<br>
 it is their lake, no doubt.
 
 ![deer](image/poetry-0063-deer.jpg)
