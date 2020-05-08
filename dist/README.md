@@ -1,5 +1,53 @@
 # Poetry
 
+## Untitled no. 67
+### May 8th 2020, 9:54:26 am EDT
+<meta itemprop="dateCreated" datetime="2020-05-08T13:54:26.942Z">
+
+![Illustration](image/poetry-0067-illustration.jpg)
+
+[Listen](audio/poetry-0067.mp3)
+
+“UNIX is simple.  It just takes a genius to understand its simplicity.”– Dennis Ritchie
+
+<br><br>
+
+## Untitled no. 66
+### May 8th 2020, 9:54:23 am EDT
+<meta itemprop="dateCreated" datetime="2020-05-08T13:54:23.971Z">
+
+![Illustration](image/poetry-0066-illustration.jpg)
+
+[Listen](audio/poetry-0066.mp3)
+
+“Real knowledge is to know the extent of one’s ignorance.” – Confucius
+
+<br><br>
+
+## Untitled no. 65
+### May 8th 2020, 9:54:06 am EDT
+<meta itemprop="dateCreated" datetime="2020-05-08T13:54:06.390Z">
+
+![Illustration](image/poetry-0065-illustration.jpg)
+
+[Listen](audio/poetry-0065.mp3)
+
+“UNIX is simple.  It just takes a genius to understand its simplicity.”– Dennis Ritchie
+
+<br><br>
+
+## Untitled no. 64
+### May 8th 2020, 9:54:04 am EDT
+<meta itemprop="dateCreated" datetime="2020-05-08T13:54:04.032Z">
+
+![Illustration](image/poetry-0064-illustration.jpg)
+
+[Listen](audio/poetry-0064.mp3)
+
+“There are only two kinds of programming languages: those people always bitch about and those nobody uses.”(Bjarne Stroustrup)
+
+<br><br>
+
 ## Morning Fog at Nordhouse Dunes
 ### May 7th 2020, 9:09:37 pm EDT
 <meta itemprop="dateCreated" datetime="2020-05-08T01:09:37.630Z">
@@ -172,7 +220,7 @@ Love Yourself.
 ### May 6th 2020, 10:47:58 pm EDT
 <meta itemprop="dateCreated" datetime="2020-05-07T02:47:58.991Z">
 
-![Illustration](image/poetry-0060-illustration.png)
+![Illustration](image/poetry-0060-illustration.jpg)
 
 [Listen](audio/poetry-0060.mp3)
 
@@ -794,7 +842,7 @@ I could talk about them all day.
 ### April 28th 2020, 7:27:30 pm EDT
 <meta itemprop="dateCreated" datetime="2020-04-28T23:27:30.660Z">
 
-![Illustration](image/poetry-0051-illustration.png)
+![Illustration](image/poetry-0051-illustration.jpg)
 
 [Listen](audio/poetry-0051.mp3)
 

@@ -2,11 +2,9 @@
 
 import { exec } from 'child_process' ;
 import inquirer from 'inquirer';
-
-
-console.log('Hi, Welcome to Cat Pea Poetry Club');
-
-var questions = [
+const prompt = inquirer.prompt;
+let operate = 1;
+const questions = [
   {
     type: 'list',
     name: 'action',
@@ -15,30 +13,64 @@ var questions = [
       {
         key: 'a',
         name: 'Add New Entry',
-        value: './add-new.mjs'
+        value: './bin/new/index.mjs'
       },
       {
         key: 'c',
         name: 'Update Everything',
-        value: './make-all.mjs'
+        value: './bin/make/index.mjs'
       },
       {
         key: 'g',
         name: 'Publish To Github',
         value: 'publish'
       },
+      {
+        key: 'g',
+        name: 'Convert PNG to JPG',
+        value: './bin/tojpg/index.sh'
+      },
+
+      {
+        key: 'x',
+        name: 'Exit Menu',
+        value: 'exit-menu',
+      },
 
     ],
   },
 ];
 
-inquirer.prompt(questions).then(answers => {
-  exec(answers.action, (err, stdout, stderr) => {
-    if (err) {
-      console.error(err);
-    } else {
-     console.log(`${stdout}`);
-     //console.log(`${stderr}`);
+function execute(answers){
+  return new Promise(function(OK, NO){
+    if(answers.action === 'exit-menu'){
+      operate = false;
+      return OK();
     }
+    console.log(`Executing ${answers.action}`);
+    exec(answers.action, (err, stdout, stderr) => {
+      if (err) {
+        if(stderr) console.log(`${stderr}`);
+        NO(err);
+      } else {
+       if(stdout) console.log(`${stdout}`);
+       if(stderr) console.log(`${stderr}`);
+      }
+    })
+    .on('exit', (code) => {
+      console.log('');
+      operate++;
+      OK();
+    });
   });
-});
+}
+
+async function main(){
+  await execute({action: './bin/banner/index.mjs'})
+  while(operate){
+    const anwsers = await prompt(questions);
+    await execute(anwsers);
+  }
+}
+
+main();

@@ -27,6 +27,7 @@
     "moment": "^2.25.3",
     "moment-timezone": "^0.5.28",
     "oneof": "^2.0.0",
-    "pretty": "^2.0.0"
+    "pretty": "^2.0.0",
+    "username": "^5.1.0"
   }
 }
