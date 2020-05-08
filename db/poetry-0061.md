@@ -3,7 +3,7 @@ id: poetry-0061
 title: Love Yourself
 category: poetry
 tags: Listen Poem
-date: 2020-05-07T02:44:58.991Z
+date: 2020-05-07T02:46:58.991Z
 draft: false
 deleted: false
 ---

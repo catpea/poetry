@@ -3,7 +3,7 @@ id: poetry-0059
 title: Maximum over Minimum
 category: poetry
 tags: Listen Poem
-date: 2020-05-07T02:44:58.991Z
+date: 2020-05-07T02:48:58.991Z
 draft: false
 deleted: false
 ---

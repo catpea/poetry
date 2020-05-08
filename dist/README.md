@@ -63,8 +63,8 @@ and they are all very mighty.)
 <br><br>
 
 ## Don't Be Scared
-### May 6th 2020, 10:44:58 pm EDT
-<meta itemprop="dateCreated" datetime="2020-05-07T02:44:58.991Z">
+### May 6th 2020, 10:45:58 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-07T02:45:58.991Z">
 
 [Listen](audio/poetry-0062.mp3)
 
@@ -110,8 +110,8 @@ Learn.
 <br><br>
 
 ## Love Yourself
-### May 6th 2020, 10:44:58 pm EDT
-<meta itemprop="dateCreated" datetime="2020-05-07T02:44:58.991Z">
+### May 6th 2020, 10:46:58 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-07T02:46:58.991Z">
 
 [Listen](audio/poetry-0061.mp3)
 
@@ -167,8 +167,8 @@ Love Yourself.
 <br><br>
 
 ## Big Things
-### May 6th 2020, 10:44:58 pm EDT
-<meta itemprop="dateCreated" datetime="2020-05-07T02:44:58.991Z">
+### May 6th 2020, 10:47:58 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-07T02:47:58.991Z">
 
 ![Illustration](image/poetry-0060-illustration.png)
 
@@ -247,8 +247,8 @@ things that really last.
 <br><br>
 
 ## Maximum over Minimum
-### May 6th 2020, 10:44:58 pm EDT
-<meta itemprop="dateCreated" datetime="2020-05-07T02:44:58.991Z">
+### May 6th 2020, 10:48:58 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-07T02:48:58.991Z">
 
 [Listen](audio/poetry-0059.mp3)
 
