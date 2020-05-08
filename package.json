@@ -1,10 +1,10 @@
 {
-  "name": "research",
+  "name": "poetry",
   "version": "1.0.0",
   "description": "Markdown source for software development research.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "./menu.mjs"
   },
   "repository": {
     "type": "git",

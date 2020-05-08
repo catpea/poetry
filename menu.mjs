@@ -16,21 +16,20 @@ const questions = [
         value: './bin/new/index.mjs'
       },
       {
-        key: 'c',
+        key: 'u',
         name: 'Update Everything',
         value: './bin/make/index.mjs'
       },
       {
-        key: 'g',
+        key: 'p',
         name: 'Publish To Github',
-        value: 'publish'
+        value: './bin/publish/index.sh'
       },
       {
-        key: 'g',
+        key: 'j',
         name: 'Convert PNG to JPG',
         value: './bin/tojpg/index.sh'
       },
-
       {
         key: 'x',
         name: 'Exit Menu',
