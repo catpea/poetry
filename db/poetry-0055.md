@@ -8,6 +8,8 @@ draft: false
 deleted: false
 ---
 
+![Illustration](image/poetry-0055-illustration.jpg)
+
 [Listen](audio/poetry-0055.mp3)
 
 There is a very special group of people, that many have forgotten,<br>

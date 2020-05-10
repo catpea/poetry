@@ -572,6 +572,8 @@ just in case any of you guys want to go.
 ### May 2nd 2020, 10:15:24 pm EDT
 <meta itemprop="dateCreated" datetime="2020-05-03T02:15:24.397Z">
 
+![Illustration](image/poetry-0055-illustration.jpg)
+
 [Listen](audio/poetry-0055.mp3)
 
 There is a very special group of people, that many have forgotten,<br>
