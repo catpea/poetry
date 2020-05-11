@@ -1,10 +1,12 @@
 # Poetry
 
 ## We Are Not Robots
-### May 10th 2020, 9:29:57 pm EDT
-<meta itemprop="dateCreated" datetime="2020-05-11T01:29:57.620Z">
+### May 10th 2020, 9:57:32 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-11T01:57:32.195Z">
 
 ![Illustration](image/poetry-0066-illustration.jpg)
+
+[Listen](audio/poetry-0066.mp3)
 
 We are not robots, to be taught,<br>
 we are humans powered by inventive and original thought.

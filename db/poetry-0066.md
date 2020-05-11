@@ -3,12 +3,14 @@ id: poetry-0066
 title: We Are Not Robots
 category: poetry
 tags: Listen Poem
-date: 2020-05-11T01:29:57.620Z
+date: 2020-05-11T01:57:32.195Z
 draft: false
 deleted: false
 ---
 
 ![Illustration](image/poetry-0066-illustration.jpg)
+
+[Listen](audio/poetry-0066.mp3)
 
 We are not robots, to be taught,<br>
 we are humans powered by inventive and original thought.
