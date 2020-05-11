@@ -58,5 +58,5 @@ learn to reach your own breakthrough.
 Set your self free from the silly sting,<br>
 you are not just a little thing.
 
-No retreat, no surrender.
+No retreat, no surrender.<br>
 You are a meant to become a Great Being.
