@@ -1,6 +1,6 @@
 {
   "name": "poetry",
-  "version": "1.21.4",
+  "version": "1.21.5",
   "description": "Markdown source for software development research.",
   "main": "index.js",
   "scripts": {
