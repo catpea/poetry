@@ -12,7 +12,7 @@ const questions = [
     choices: [
       {
         key: 'a',
-        name: 'Add New Entry',
+        name: 'Add New Poem',
         value: './bin/new/index.mjs'
       },
       {
