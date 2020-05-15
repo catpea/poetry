@@ -54,7 +54,7 @@ but, if you go out there, be ready for his smart little hands,
 Bring a travel lock to secure the zippers on your tent,<br>
 and remember, Friday loves you as friend, he means no ill intent.
 
-<br><br>
+![Illustration](image/poetry-0070-nurnberg.jpg)
 
 My Dear Readers, we may each need a few weeks of Wilderness in our life,<br>
 so start slowly packing, buy a backpack, bug spray, and a knife,
