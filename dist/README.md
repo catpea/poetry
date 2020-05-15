@@ -22,7 +22,7 @@ Over at Little Torch Key, at Veterans Beach, with easy access to water,<br>
 he lived up a Palm Tree, with his Furry Wife and Tiny Daughter,
 
 Once I got lonely, and threw a little Tortilla all the way up there,<br>
-he pooped up, and it looked like he smiled - I swear.
+he popped up, and it looked like he smiled - I swear.
 
 <!-- Jack Pine -->
 Over at Ludington State Park, at the Jack Pine Hike-in Campground,<br>
