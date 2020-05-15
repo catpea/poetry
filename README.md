@@ -62,6 +62,12 @@ You can park at the [Nurnberg Trailhead][2],<br>
 and don't forget to bring a little bit of stinky cheese,<br>
 and piece of stale bread.
 
+***
+
+[Raccoon photo](https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_2.jpg):
+[author](https://de.wikipedia.org/wiki/Benutzer:Darkone),
+[license](https://creativecommons.org/licenses/by-sa/2.5/deed.en)
+
 [1]: https://goo.gl/maps/wsX31CTTXR4bzhza8
 [2]: https://goo.gl/maps/PhyA8hEuiAZnBmt1A
 
