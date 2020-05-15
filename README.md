@@ -1,8 +1,8 @@
 # Poetry
 
 ## Friday and I
-### May 14th 2020, 9:26:26 pm EDT
-<meta itemprop="dateCreated" datetime="2020-05-15T01:26:26.047Z">
+### May 14th 2020, 11:46:46 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-15T03:46:46.063Z">
 
 ![Illustration](image/poetry-0070-illustration.jpg)
 

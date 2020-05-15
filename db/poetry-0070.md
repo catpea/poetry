@@ -3,7 +3,7 @@ id: poetry-0070
 title: Friday and I
 category: poetry
 tags: Listen Poem
-date: 2020-05-15T01:26:26.047Z
+date: 2020-05-15T03:46:46.063Z
 draft: false
 deleted: false
 ---
