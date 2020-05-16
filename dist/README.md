@@ -1,8 +1,8 @@
 # Poetry
 
 ## Epoch by Epoch
-### May 15th 2020, 6:11:36 pm EDT
-<meta itemprop="dateCreated" datetime="2020-05-15T22:11:36.182Z">
+### May 15th 2020, 9:30:32 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-16T01:30:32.940Z">
 
 ![Illustration](image/poetry-0071-illustration.jpg)
 

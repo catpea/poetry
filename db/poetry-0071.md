@@ -3,7 +3,7 @@ id: poetry-0071
 title: Epoch by Epoch
 category: poetry
 tags: Listen Poem
-date: 2020-05-15T22:11:36.182Z
+date: 2020-05-16T01:30:32.940Z
 draft: false
 deleted: false
 ---
