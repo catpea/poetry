@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+  #!/usr/bin/env bash
 
 old_fullfile="$1";
 old_pathname=$(dirname -- "$old_fullfile")
@@ -24,6 +24,14 @@ echo $source;
 echo $dest;
 echo;
 
-convert -define jpeg:size=200x200   $source  -thumbnail 100x100^   -gravity center -extent 100x100 -quality 30 $sm_dest;
-convert -define jpeg:size=1000x1000 $source  -thumbnail 500x500^   -gravity center -extent 500x500 -quality 80 $md_dest;
-convert -define jpeg:size=2000x2000 $source  -thumbnail 1000x1000^ -gravity center -extent 1000x1000 -quality 80 $lg_dest;
+if [ "$source" -nt "$sm_dest" ]; then
+  convert -define jpeg:size=200x200   $source  -thumbnail 100x100^   -gravity center -extent 100x100 -quality 30 $sm_dest;
+fi;
+
+if [ "$source" -nt "$md_dest" ]; then
+  convert -define jpeg:size=1000x1000 $source  -thumbnail 500x500^   -gravity center -extent 500x500 -quality 80 $md_dest;
+fi;
+
+if [ "$source" -nt "$lg_dest" ]; then
+  convert -define jpeg:size=2000x2000 $source  -thumbnail 1000x1000^ -gravity center -extent 1000x1000 -quality 80 $lg_dest;
+fi;
