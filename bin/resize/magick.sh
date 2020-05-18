@@ -20,18 +20,21 @@ lg_dest="${old_pathname}/lg-${old_basename}";
 # echo old_extension $old_extension;
 # echo old_filename $old_filename;
 
-echo $source;
-echo $dest;
+# echo $source;
+# echo $dest;
 echo;
 
-if [ "$source" -nt "$sm_dest" ]; then
+if [ ! -f "$sm_dest" ] || [ "$source" -nt "$sm_dest" ]; then
+  echo Creating "$sm_dest"...
   convert -define jpeg:size=200x200   $source  -thumbnail 100x100^   -gravity center -extent 100x100 -quality 30 $sm_dest;
 fi;
 
-if [ "$source" -nt "$md_dest" ]; then
+if [ ! -f "$md_dest" ] || [ "$source" -nt "$md_dest" ]; then
+  echo Creating "$md_dest"...
   convert -define jpeg:size=1000x1000 $source  -thumbnail 500x500^   -gravity center -extent 500x500 -quality 80 $md_dest;
 fi;
 
-if [ "$source" -nt "$lg_dest" ]; then
+if [ ! -f "$lg_dest" ] || [ "$source" -nt "$lg_dest" ]; then
+  echo Creating "$lg_dest"...
   convert -define jpeg:size=2000x2000 $source  -thumbnail 1000x1000^ -gravity center -extent 1000x1000 -quality 80 $lg_dest;
 fi;
