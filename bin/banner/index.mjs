@@ -18,7 +18,7 @@ async function main(){
   const last = moment(used).fromNow(true);
   console.log('\n');
   console.log('-'.repeat(80));
-  console.log(`LTS MENU SYSTEM: Written ${moment(written).format("MMM Do YY")}`);
+  console.log(`LTS MENU SYSTEM: Written ${moment(written).format("MMM Do YYYY")}`);
   console.log(`Welcome back Dr. ${name}, it has been ${last}.`);
   fs.writeFileSync(path.join(dirname,'.timestamp'), (new Date).toISOString());
 }

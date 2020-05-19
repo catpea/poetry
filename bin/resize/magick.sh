@@ -1,4 +1,4 @@
-  #!/usr/bin/env bash
+#!/usr/bin/env bash
 
 old_fullfile="$1";
 old_pathname=$(dirname -- "$old_fullfile")
@@ -22,7 +22,7 @@ lg_dest="${old_pathname}/lg-${old_basename}";
 
 # echo $source;
 # echo $dest;
-echo;
+
 
 if [ ! -f "$sm_dest" ] || [ "$source" -nt "$sm_dest" ]; then
   echo Creating "$sm_dest"...
