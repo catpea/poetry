@@ -102,8 +102,6 @@ but all you have to do is rise.
 Each time,<br>
 you'll rise higher.
 
-![Illustration](image/poetry-0075-rise.jpg)
-
 (When in trouble, call the Police it is OK for kids to call the Police, they'll love helping you, don't be scared.)
 
 <br><br>
