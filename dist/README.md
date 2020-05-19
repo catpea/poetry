@@ -1,5 +1,17 @@
 # Poetry
 
+## Untitled no. 75
+### May 18th 2020, 10:31:34 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-19T02:31:34.609Z">
+
+![Illustration](image/poetry-0075-illustration.jpg)
+
+[Listen](audio/poetry-0075.mp3)
+
+“The Internet?  Is that thing still around?”  (Homer Simpson)
+
+<br><br>
+
 ## Let Mother Nature Schedule Your Rest
 ### May 18th 2020, 9:40:09 pm EDT
 <meta itemprop="dateCreated" datetime="2020-05-19T01:40:09.277Z">
@@ -34,7 +46,7 @@ Even though yesterday I ran in the rain,<br>
 I rained only a bit, so I had to train.
 
 Today, the rain seemed like too much trouble,<br>
-I rested, tomorrow I have to train double.
+I rested, but tomorrow I'll have to train double.
 
 I always tell people not to rest,<br>
 let Mother Mature decide, she knows best.

@@ -38,7 +38,7 @@ Even though yesterday I ran in the rain,<br>
 I rained only a bit, so I had to train.
 
 Today, the rain seemed like too much trouble,<br>
-I rested, tomorrow I have to train double.
+I rested, but tomorrow I'll have to train double.
 
 I always tell people not to rest,<br>
 let Mother Mature decide, she knows best.
