@@ -1,8 +1,8 @@
 # Poetry
 
 ## Universe and You
-### May 21st 2020, 5:05:42 pm EDT
-<meta itemprop="dateCreated" datetime="2020-05-21T21:05:42.461Z">
+### May 21st 2020, 7:34:04 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-21T23:34:04.282Z">
 
 ![Illustration](image/poetry-0077-illustration.jpg)
 
