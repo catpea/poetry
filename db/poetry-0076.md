@@ -29,7 +29,7 @@ and no robbers could ever stage a big enough heist.
 
 <br><br>
 
-Little chest in a safe place deep in out heart,<br>
+Little chest in a safe place deep in our heart,<br>
 it serves to light the fire that fuels our art.
 
 It prevents us from walking in reverse,<br>
