@@ -1,17 +1,5 @@
 # Poetry
 
-## Untitled no. 79
-### May 22nd 2020, 5:39:55 pm EDT
-<meta itemprop="dateCreated" datetime="2020-05-22T21:39:55.391Z">
-
-![Illustration](image/poetry-0079-illustration.jpg)
-
-[Listen](audio/poetry-0079.mp3)
-
-“It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program — such as where its bugs are.”– David Keppel
-
-<br><br>
-
 ## Thin Invisible Walls
 ### May 22nd 2020, 5:36:47 pm EDT
 <meta itemprop="dateCreated" datetime="2020-05-22T21:36:47.194Z">
