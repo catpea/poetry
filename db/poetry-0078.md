@@ -297,5 +297,4 @@ no one can teach you, you must find your own books.
 By Subtle Analogy,<br>
 Rise to Your Greatness.
 
-[1]: (https://www.google.com/search?q=Afghanistan+Then+and+Now&source=lnms&tbm=isch)
-[2]: https://en.wikipedia.org/wiki/Hypatia
+[1]: https://www.google.com/search?q=Afghanistan+Then+and+Now&source=lnms&tbm=isch
