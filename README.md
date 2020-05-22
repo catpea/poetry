@@ -1,5 +1,17 @@
 # Poetry
 
+## Untitled no. 79
+### May 22nd 2020, 5:39:55 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-22T21:39:55.391Z">
+
+![Illustration](image/poetry-0079-illustration.jpg)
+
+[Listen](audio/poetry-0079.mp3)
+
+“It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program — such as where its bugs are.”– David Keppel
+
+<br><br>
+
 ## Thin Invisible Walls
 ### May 22nd 2020, 5:36:47 pm EDT
 <meta itemprop="dateCreated" datetime="2020-05-22T21:36:47.194Z">
@@ -130,7 +142,7 @@ the pathway to Peace, Safety, Security, Self Control, Harmony, Enlightenment.
 What has occurred to cause the fog, is a drop of packets of information,<br>
 we are too complex, the world is too complex, parenting is too complex, teaching is too complex.
 
-It can get [worse][1], if we continue celebrating false graduations, and fake education,<br>
+It can get worse, if we continue celebrating false graduations, and fake education,<br>
 if we keep forgetting that our family, has Eight Billion members and each must grow up for real.
 
 The solution is to remind ourselves, that growing up is not about feeling like an adult,<br>
@@ -292,8 +304,6 @@ no one can teach you, you must find your own books.
 
 By Subtle Analogy,<br>
 Rise to Your Greatness.
-
-[1]: https://www.google.com/search?q=Afghanistan+Then+and+Now&source=lnms&tbm=isch
 
 <br><br>
 
