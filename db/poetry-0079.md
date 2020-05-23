@@ -173,7 +173,7 @@ We will erase all problems that plague the Human Family, it is what a family doe
 One day, the world will stand united in fact,<br>
 as opposed to being divided by opinion.
 
-Not even the Universe can stand in out way,<br>
+Not even the Universe can stand in our way,<br>
 our way is the Human Family Way.
 
 Like Wisdom,<br>
