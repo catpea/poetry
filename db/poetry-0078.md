@@ -10,7 +10,7 @@ deleted: false
 
 ![Illustration](image/poetry-0078-illustration.jpg)
 
-[Listen](audio/poetry-0078.mp3)
+[Listen](audio/poetry-0078-2.mp3)
 
 Why does Philosophy seem so foggy,<br>
 so unclear, and uncertain.
@@ -30,14 +30,14 @@ and then you just kept going?
 Can you imagine your first 18 miles at the Appalachian Trail,<br>
 and can you see your last 18 miles as you near Katahdin.
 
-You know how mathematics sound impenetrable,<br>
-until you become a mathemagicain?
+You know how mathematics sound impenetrable?<br>
+Until you become a mathematician?
 
 There are gaps, discomforts, vocabularies, perceptual frameworks,<br>
 that stand between you and the wisest you.
 
-You have to cross those things, to unfog your mind,<br>
-take the easy route, the route I just showed you.
+You have to cross those things,<br>
+to unfog your mind.
 
 <br><br>
 
@@ -89,7 +89,7 @@ How not a single person of out the Eight Billion,<br>
 could possibly take your place.
 
 How often it feels that all the people around you are sleepy,<br>
-how some seem to be hiding, because they could not do, what they do, if they were not wide awake.
+how some seem different, because they could not do, what they do, if they were not wide awake.
 
 To integrate with wisdom, you cannot read the same books others read,<br>
 your mind represents a perfectly unique constellation of stars.
@@ -268,7 +268,7 @@ and as much triumph gone unnoticed.
 The Warriors are everywhere, and they stand by your side,<br>
 you are in company of Great Heroes.
 
-Climb by subtle analogy the the triumphs already had,<br>
+Climb by subtle analogy to the triumphs already had,<br>
 rise to the highest of mountains.
 
 You are Meant to Become a Great Being,<br>
@@ -279,7 +279,7 @@ Humanity only grows, when people like you tear down those thin invisible walls.
 
 <br><br>
 
-Where ever you are right now, begin transcending your limits,<br>
+Wherever you are right now, begin transcending your limits,<br>
 no matter how small, each will help you learn more.
 
 With each new success more pathways will become visible to you,<br>

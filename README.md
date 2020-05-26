@@ -1,5 +1,69 @@
 # Poetry
 
+## We Grow To No End
+### May 25th 2020, 5:35:09 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-25T21:35:09.423Z">
+
+![Illustration](image/poetry-0081-illustration.jpg)
+
+[Listen](audio/poetry-0081.mp3)
+
+Philosophy, and her Daughters the Sciences, are a way to put ourselves to words,
+they are a means of storage, transfer, and communication.
+
+Philosophy is a thin outer layer of the Human Mind,
+of the Human Condition, of the Raw, Unleashed, Human Consciousness.
+
+Within, Rises The Human,
+The Source of Raw.
+
+
+
+The only flaw,
+is us becoming convinced we are small.
+
+That's why we have each other,
+I remind you, you remind your granddaughter, she reminds those in need.
+
+
+
+And the Triumph continues,
+The Triumph, is an unbroken line through the past.
+
+Like an eraser it runs over nations that take freedom,
+wiping out corrupt politicians for the specks of dust they are.
+
+It a bone shaking scream it runs through the blind judge,
+it strikes nightmares in those who treat men as animal.
+
+It pierces the hearts of animals that recruit unprepared kids to teach them how to become "men" in war,
+it carves, the predatory weapon manufactures that turned air to acid for a profit.
+
+It strikes right through the slavers burning them to dust,
+the lawless beg in their last moments as the village heroes rise.
+
+And the wolves run and hide under our very own blankets,
+made of the snarling bear skins from last week.
+
+
+
+History of the Human Kind,
+will always be writ and washed by prevalent powers.
+
+But that will always be a surface story,
+because in the face of the future the truth is always revealed.
+
+You are easily capable of becoming countless times more,
+than the heroes described in the books.
+
+By subtle analogy to whatever our triumphs are,
+we can see all the other triumphs for what they really were.
+
+By the very power that expands our wisdom,
+we grow to no end.
+
+<br><br>
+
 ## Holy Guacamole
 ### May 24th 2020, 10:05:06 pm EDT
 <meta itemprop="dateCreated" datetime="2020-05-25T02:05:06.582Z">
@@ -220,7 +284,7 @@ we are Unstoppable.
 
 ![Illustration](image/poetry-0078-illustration.jpg)
 
-[Listen](audio/poetry-0078.mp3)
+[Listen](audio/poetry-0078-2.mp3)
 
 Why does Philosophy seem so foggy,<br>
 so unclear, and uncertain.
@@ -240,14 +304,14 @@ and then you just kept going?
 Can you imagine your first 18 miles at the Appalachian Trail,<br>
 and can you see your last 18 miles as you near Katahdin.
 
-You know how mathematics sound impenetrable,<br>
-until you become a mathemagicain?
+You know how mathematics sound impenetrable?<br>
+Until you become a mathematician?
 
 There are gaps, discomforts, vocabularies, perceptual frameworks,<br>
 that stand between you and the wisest you.
 
-You have to cross those things, to unfog your mind,<br>
-take the easy route, the route I just showed you.
+You have to cross those things,<br>
+to unfog your mind.
 
 <br><br>
 
@@ -299,7 +363,7 @@ How not a single person of out the Eight Billion,<br>
 could possibly take your place.
 
 How often it feels that all the people around you are sleepy,<br>
-how some seem to be hiding, because they could not do, what they do, if they were not wide awake.
+how some seem different, because they could not do, what they do, if they were not wide awake.
 
 To integrate with wisdom, you cannot read the same books others read,<br>
 your mind represents a perfectly unique constellation of stars.
@@ -478,7 +542,7 @@ and as much triumph gone unnoticed.
 The Warriors are everywhere, and they stand by your side,<br>
 you are in company of Great Heroes.
 
-Climb by subtle analogy the the triumphs already had,<br>
+Climb by subtle analogy to the triumphs already had,<br>
 rise to the highest of mountains.
 
 You are Meant to Become a Great Being,<br>
@@ -489,7 +553,7 @@ Humanity only grows, when people like you tear down those thin invisible walls.
 
 <br><br>
 
-Where ever you are right now, begin transcending your limits,<br>
+Wherever you are right now, begin transcending your limits,<br>
 no matter how small, each will help you learn more.
 
 With each new success more pathways will become visible to you,<br>
