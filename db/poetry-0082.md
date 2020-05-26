@@ -24,7 +24,7 @@ it will derail you the same way that lies derail liars.
 It is like the lines that addicts cross,<br>
 until there is no way to come back.
 
-
+<br><br>
 
 Take a look into the mind of the person negative towards you,<br>
 do they even see you as a person?
@@ -38,7 +38,7 @@ it won't make you nobler, or enlightened, or worthy.
 Protect your mind, reject being pushed around,<br>
 stand up, rise, do not follow, no one has any control over you.
 
-
+<br><br>
 
 You become Stronger when you rise,<br>
 when you put your feet down on the ground, and push up - to the mountains.
@@ -52,7 +52,7 @@ when you learn from the lessons on your own path, and by subtle analogy to other
 You become Worthy, of Yourself, of Love, of Wisdom, of a house you can call Home,<br>
 when you grow protecting who you are, onward to becoming the best You.
 
-
+<br><br>
 
 Do not be scared, because if you stay scared, nothing will change,<br>
 do not let sadness keep you in bed, go to the library first.
@@ -66,7 +66,7 @@ you are not part of that world, you never were.
 Do not go slowly wandering down their own paths, that's how _they_ were created,<br>
 and you can still reject that agony and become free.
 
-
+<br><br>
 
 Look to the best within you, your Beautiful Treasures,<br>
 your Innocence, your Sweetness, your Love, your Cuteness, your Generosity, your Might, your Endurance.
@@ -80,7 +80,7 @@ do not let them take what is irreplaceable within you.
 You cannot aid them in any way, that can only feed their evil,<br>
 and take away from your Beautiful Treasures.
 
-
+<br><br>
 
 Let the world see you, read at the Library, visit Museums and Art Galleries,<br>
 go see someone singing with their beautiful voice.
