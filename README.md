@@ -1,5 +1,48 @@
 # Poetry
 
+## Uh Oh
+### May 27th 2020, 8:59:04 pm EDT
+<meta itemprop="dateCreated" datetime="2020-05-28T00:59:04.633Z">
+
+![Illustration](image/poetry-0083-illustration.jpg)
+
+[Listen](audio/poetry-0083.mp3)
+
+I've been sitting here for half an hour,<br>
+trying to conjure up my poetic power.
+
+But nothing seems to be coming out,<br>
+I think I am going through a poetic drought.
+
+I guess this happens every once in a while,<br>
+so it is not a reason not to smile.
+
+![Illustration](image/poetry-0083-guess.jpg)
+
+But I thought I was already better than that,<br>
+I felt like the world's most poetic cat.
+
+Now I struggle to come up with the next line,<br>
+though I promise not to whine.
+
+Maybe, there is way to break through by block,<br>
+perhaps I should stop staring at the clock.
+
+![Illustration](image/poetry-0083-amaze.jpg)
+
+Oh yes, this worked, I feel much better meow!<br>
+I remembered every word, wow!
+
+Wig, pig, pear, bear, sled, bed, boat, goat,<br>
+top, mop, wall, ball, duck, truck, mouse house, and blouse.
+
+And what a story that would rhyme,<br>
+had I not ran out of time.
+
+![Illustration](image/poetry-0083-noes.jpg)
+
+<br><br>
+
 ## Tolerance of Negativity
 ### May 26th 2020, 6:10:52 pm EDT
 <meta itemprop="dateCreated" datetime="2020-05-26T22:10:52.333Z">
