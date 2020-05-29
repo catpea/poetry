@@ -117,4 +117,4 @@ Until that moment comes,<br>
 we can't have a conversation with all.
 
 Whether we are ready to know it, or not,<br>
-the way the world grows... its either all of us, on none.
+the way the world grows... it's either all of us, on none.
