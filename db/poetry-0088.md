@@ -3,7 +3,7 @@ id: poetry-0088
 title: Do Not Follow, My Friends
 category: poetry
 tags: Listen Poem
-date: 2020-05-31T15:45:55.986Z
+date: 2020-06-01T02:31:13.652Z
 draft: false
 deleted: false
 ---

@@ -1,8 +1,8 @@
 # Poetry
 
 ## Do Not Follow, My Friends
-### May 31st 2020, 11:45:55 am EDT
-<meta itemprop="dateCreated" datetime="2020-05-31T15:45:55.986Z">
+### May 31st 2020, 10:31:13 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-01T02:31:13.652Z">
 
 ![Illustration](image/poetry-0088-illustration.jpg)
 
