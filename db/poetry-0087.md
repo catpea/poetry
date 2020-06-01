@@ -53,3 +53,5 @@ but my aim is one hour, to do the whole five miles.
 
 And you know what, just after two weeks,<br>
 I run a lot faster; and I have rosy cheeks!
+
+![Illustration](image/poetry-0087-face.jpg)
