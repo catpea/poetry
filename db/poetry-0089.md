@@ -54,4 +54,4 @@ on a road.
 <br><br>
 
 Do not seek to invent your superpowers,<br>
-instead, recognize the once you already have and expand them.
+instead, recognize the ones you already have - and expand them.
