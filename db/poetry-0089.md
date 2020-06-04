@@ -16,7 +16,7 @@ Your superpowers are not rooted in your wishes,<br>
 as only very few wishes come true.
 
 Universe has already established its rule and order,<br>
-we are latecomers to the symphony orchestra.
+we are latecomers to the Symphony Orchestra.
 
 Instead, seek your superpowers in what you already own,<br>
 in the things that have already sprung.

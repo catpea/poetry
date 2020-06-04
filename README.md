@@ -1,5 +1,85 @@
 # Poetry
 
+## Be Good To Your Elder Self
+### June 3rd 2020, 11:07:48 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-04T03:07:48.407Z">
+
+![Illustration](image/poetry-0091-illustration.jpg)
+
+[Listen](audio/poetry-0091.mp3)
+
+Your light must be a true reflection of Yourself,<br>
+so that You may be truly seen and understood.
+
+Do not hide, emulate, simulate, pretend, or serve;<br>
+that only disrupts Your light and path.
+
+You are already special enough,<br>
+You are a Child of The Universe.
+
+You are meant to become a Great Being through your own journey,<br>
+You are meant to bring enlightenment, unseen before.
+
+<br><br>
+
+Please, take good care of Yourself,<br>
+You are responsible for Your delicate mind and body.
+
+And take care of Your Elder Self,<br>
+so that You may have no regrets come Your Golden Age.
+
+<br><br>
+
+Your Existence, requires that You walk Your own path,<br>
+that You lead Your own way.
+
+But the path is not a straight line,<br>
+it is more of a flat spiral, you are never far from yourself.
+
+There is so much of You in Your Elder Self,<br>
+and there is so much of Your Elder self in You already.
+
+<br><br>
+
+Be good to Her, love Yourself,<br>
+be mighty, and authentic.
+
+Never let Yourself down, always rise,<br>
+and do not slow down.
+
+Step after step jog mightily forward,<br>
+decorate Your Beautiful Journey with Wisdom and Triumph.
+
+<br><br>
+
+May Your elder self, perch upon a porch,<br>
+and muse and wonder...
+
+"What a strange Star Child I was,<br>
+and how impossibly long my Beautiful Life"
+
+And may You bring Her memories,<br>
+of every year in each decade.
+
+Of things You noticed for the first time,<br>
+and things You never knew could happen.
+
+And things, that other people never expected of You,<br>
+like that year, that you wore a bushy tail - because it made you feel beautiful.
+
+<br><br>
+
+Love Your older self,<br>
+make Her smile and wonder.
+
+Make Her love the Younger You,<br>
+but fill in all the years completely.
+
+Make sure, that not only is there nothing new to add,<br>
+but also that there is nowhere anything could fit.
+
+<br><br>
+
 ## Youniverse Entropie
 ### June 2nd 2020, 7:00:01 pm EDT
 <meta itemprop="dateCreated" datetime="2020-06-02T23:00:01.894Z">
@@ -124,7 +204,7 @@ Your superpowers are not rooted in your wishes,<br>
 as only very few wishes come true.
 
 Universe has already established its rule and order,<br>
-we are latecomers to the symphony orchestra.
+we are latecomers to the Symphony Orchestra.
 
 Instead, seek your superpowers in what you already own,<br>
 in the things that have already sprung.
