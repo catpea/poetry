@@ -34,15 +34,15 @@ To Feel Meaning.
 
 <br><br>
 
-Growing up has always been a great challenge.<br>
+Growing Up has always been a Great Challenge.<br>
 it has never been easy.
 
-Growing up is the first, and foremost, and most important,<br>
+Growing Up is the first, and foremost, and most important,<br>
 and should life crumble, you will rebuild.
 
 <br><br>
 
-Don't worry, you are not wasting time growing up,<br>
+Don't worry, you are not wasting time Growing Up,<br>
 it matters not how you step forward, just that you do.
 
 The result is the same, Content of Character, Strength,<br>
@@ -52,10 +52,10 @@ to name a few.
 <br><br>
 
 Not only is this the only way to live,<br>
-but it is also the only way for the World to learn.
+but it is also the only way for the World to Learn.
 
 Humans cannot be led outside in,<br>
 they must be taught to lead, inside out.
 
-The recipe for your your own growing up,<br>
+The recipe for your own Growing Up,<br>
 is also the recipe for a Wise World.
