@@ -55,7 +55,7 @@ and yours, is that Power and Might.
 
 ![Illustration](image/poetry-0094-illustration.jpg)
 
-[Listen](audio/poetry-0094.mp3)
+[Listen](audio/poetry-0094-2.mp3)
 
 My Friends, liars happen, because it is easiest to live on the low,<br>
 and never rise, and just hide in the status quo.
