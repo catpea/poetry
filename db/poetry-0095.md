@@ -10,7 +10,7 @@ deleted: false
 
 ![Illustration](image/poetry-0095-illustration.jpg)
 
-[Listen](audio/poetry-0095.mp3)
+[Listen](audio/poetry-0095-2.mp3)
 
 It is a pretty dark trick,<br>
 and it makes life run out all too quick.
