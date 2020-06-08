@@ -1,5 +1,265 @@
 # Poetry
 
+## Suit of Armour
+### June 7th 2020, 9:11:54 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-08T01:11:54.737Z">
+
+![Illustration](image/poetry-0098-illustration.jpg)
+
+[Listen](audio/poetry-0098.mp3)
+
+Take all that you are,<br>
+and forge a suit of armor.
+
+Paint, or sculpt, or cosplay,<br>
+we are always all to human, but we are unique.
+
+All your armor decorations, and Your medals of honor,<br>
+will show you as you are.
+
+<br><br>
+
+Keep growing up, keep adding to your story,<br>
+may your armor reflect the sun.
+
+<br><br>
+
+And let go of the Poker Face,<br>
+that's not really You.
+
+If you must, show everyone how Mighty you are,<br>
+how Great and beautiful your Heart Is.
+
+Keep growing up, book by book,<br>
+poem by poem, art by art, and triumph, and failure.
+
+Build a mountain of worn out running shoes,<br>
+and torn up bodybuilding gloves.
+
+Fill Coffee Shops and Galleries with you Art,<br>
+with your Sculptures, or Music.
+
+Let who you are protect you from misfortune,<br>
+be authentic, always lead your own way, and never follow.
+
+Show The Word,<br>
+Who You Are.
+
+<br><br>
+
+## Questions
+### June 7th 2020, 8:46:23 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-08T00:46:23.735Z">
+
+![Illustration](image/poetry-0097-illustration.jpg)
+
+[Listen](audio/poetry-0097.mp3)
+
+Where do we come from, and why are we here,<br>
+are just silly questions.
+
+While even silly questions lead to good things,<br>
+they're not the primary questions we need to answer - like what makes us unique, and what do we love, and where are going to go, and what great mountains must we face.
+
+We are here because there was no one to count the failed attempts,<br>
+because the universe was running out of other paths.
+
+There was no plan,<br>
+there was just a progression forward.
+
+Universally speaking, there is probably plenty of life out there,<br>
+but what the Universe will never have, cannot build, is another You.
+
+If someone tried to take your place,
+it could never work, ever, at all.
+
+In All This Complexity,<br>
+You Are One And Only.
+
+There will never be another you,<br>
+ever.
+
+It is because at a certain point, the Universe stops, and your ideas take over,<br>
+you become the creator, you become a Youniverse within a Universe.
+
+<br><br>
+
+You are plenty special, but if you only move forward,<br>
+you will not gain the capacity to fully share who you are.
+
+The universe will know, that you are Majestic, and Adventurous,<br>
+and sometimes, Mischievous. But we need more of you!
+
+We need Your Sculptures!<br>
+We need Your Poetry!<br>
+We Need Your Works,
+
+So that we may learn,<br>
+and maybe continue your work.
+
+We Have Questions,
+
+And you are the only one with your answers,<br>
+so grow up already, build up, create and share your wisdom.
+
+The Wisdom you will gain from your Pursuits of Excellence,<br>
+will be unlike anything else the Universe has ever seen before.
+
+You will speak in your own pictures, with your personal touch,<br>
+and the words you love, and above all the Paths You Took.
+
+With Your Help and Works,
+
+Humanity will become Wiser,<br>
+and more beautiful.
+
+Help Us See.
+
+Public Domain image of [The Mist, (1899 Sculpture)](https://en.wikipedia.org/wiki/Anna_Golubkina#/media/File:Golubkina_Fog.JPG) by [Anna Golubkina (1864-1927)](https://en.wikipedia.org/wiki/Anna_Golubkina).
+
+<br><br>
+
+## Not Merely Forward, But Up
+### June 7th 2020, 8:12:34 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-08T00:12:34.915Z">
+
+![Illustration](image/poetry-0096-illustration.jpg)
+
+[Listen](audio/poetry-0096.mp3)
+
+Don't just move forward,<br>
+you have to move up!
+
+Life is too short,<br>
+You are too Noble,<br>
+Truth is too Dear.
+
+Many give away their Time,<br>
+some even give away Trust.
+
+Sometimes, because they are tired,<br>
+because they had enough,<br>
+or had waited long enough.
+
+Giving something of yourself away,<br>
+will not make that other person Nobler.
+
+And you are not supposed to wait,<br>
+in waiting all your life will pass you by.
+
+<br><br>
+
+You are supposed to learn,<br>
+you are supposed to move,<br>
+you are supposed to shine.
+
+<br><br>
+
+You will lose your mind if you do noting,<br>
+and You will lose your self, unless you grow up.
+
+You'll never lose the ability to turn around,<br>
+and try again, it maybe harder if you wait too long...
+
+... but in your waiting,<br>
+you'll become tougher too.
+
+No, there is no point of no return,<br>
+but all those who rise, would agree:
+
+"Do it sooner than later".
+
+<br><br>
+
+Begin, by taking back what you have given away,<br>
+and permanently and meaningfully so, and rise up.
+
+There is no art to this,<br>
+you just pick yourself up, and go.
+
+You're going to need running shoes,<br>
+and your first battle will be with Fatigue.
+
+Be good to yourself,<br>
+strive to be better,<br>
+let your body rest enough so it may grow stronger.
+
+And return to point Zero,<br>
+go all the way back.
+
+Of all the noble things within You,<br>
+not a single thing is to be shared unearned.
+
+And listen carefully, to the words spoken to you,<br>
+by inference re-construct that which drives others.
+
+And find the Kindred, and the Kin,<br>
+do not be alone for too long.
+
+Isolation is as bad as Fatigue,<br>
+it is a state of having fallen, and being lost.
+
+You are To Thrive,<br>
+You are To Grow.
+
+<br><br>
+
+Keep searching, keep training,<br>
+stay away from hate, and those who fell behind on growing up.
+
+Keep learning,<br>
+keep moving,<br>
+let yourself shine.
+
+<br><br>
+
+Nothing important in life is found at the foothills,<br>
+you have to get to the mountains, and carry on climbing.
+
+Do not stop,<br>
+and keep moving up.
+
+<br><br>
+
+As to what it is all for,<br>
+it is to better yourself.
+
+To rise above yourself to new thoughts,<br>
+and powers, and insights, and observations.
+
+If you stay at the foothills,<br>
+you will never really know who you truly are.
+
+Never know the extent of your Might,<br>
+your Unbrekability, your Blinding Light.
+
+If you stay down,<br>
+you will blend with all the new people coming and going.
+
+You'll never be known, never be recognized,<br>
+you may even become forgotten, your judgment clouded.
+
+It will be hard to recognize,<br>
+the Kindred from the Foe.
+
+<br><br>
+
+You must rise up, and find your self,<br>
+so that you may be seen for the Brilliant Being that really are.
+
+<br><br>
+
+Help us learn from you,<br>
+from what you have been through,<br>
+from your Great Battles and Works,
+
+If you hide,<br>
+the Universe will become darker for it.
+
+We need your light.
+
+<br><br>
+
 ## Never Knowing You Are To Rise
 ### June 6th 2020, 6:36:10 pm EDT
 <meta itemprop="dateCreated" datetime="2020-06-06T22:36:10.414Z">
