@@ -1,5 +1,55 @@
 # Poetry
 
+## The Sleeping Giant
+### June 10th 2020, 10:33:12 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-11T02:33:12.562Z">
+
+![Illustration](image/poetry-0102-illustration.jpg)
+
+[Listen](audio/poetry-0102.mp3)
+
+We are too good, at working too hard,<br>
+this is why we must stay on guard.
+
+Your mind is more than just a tool,<br>
+it is a rare and beautiful jewel.
+
+Many hope that you will never know,<br>
+that your generation is the new new hope, for the world to grow.
+
+But, if we just close our eyes and let mistakes repeat,<br>
+the world will fade away in silent defeat.
+
+Go, take to adventure, pack, and get into you car,<br>
+so that you will never forget who you really are.
+
+<br><br>
+
+## The Adventurer
+### June 10th 2020, 10:13:15 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-11T02:13:15.616Z">
+
+![Illustration](image/poetry-0101-illustration.jpg)
+
+[Listen](audio/poetry-0101.mp3)
+
+To slowly turn your life, into Art.<br>
+small, is the best way to start,
+
+Small means but tiny discomfort,<br>
+at first, make your adventures very short.
+
+You don't have to go out, all the way,<br>
+let the sky, mountains, and sea invite you out to play.
+
+And the call rarely ever comes from something big,<br>
+it will be more like a fragrant breeze, or muddy shoes, or the snap of a twig.
+
+Before you know it, you'll be packing up for Nordhouse Dunes,<br>
+hoping to be the first to greet all the Fancy Raccoons...
+
+<br><br>
+
 ## Bees At The Knees
 ### June 9th 2020, 9:50:18 pm EDT
 <meta itemprop="dateCreated" datetime="2020-06-10T01:50:18.198Z">
