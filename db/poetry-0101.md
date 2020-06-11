@@ -12,8 +12,8 @@ deleted: false
 
 [Listen](audio/poetry-0101.mp3)
 
-To slowly turn your life, into Art.<br>
-small, is the best way to start,
+To slowly turn your life, into Art,<br>
+small, is the best way to start.
 
 Small means but tiny discomfort,<br>
 at first, make your adventures very short.
@@ -25,4 +25,4 @@ And the call rarely ever comes from something big,<br>
 it will be more like a fragrant breeze, or muddy shoes, or the snap of a twig.
 
 Before you know it, you'll be packing up for Nordhouse Dunes,<br>
-hoping to be the first to greet all the Fancy Raccoons...
+hoping to be the first to greet all the Fancy Raccoons.
