@@ -3,7 +3,7 @@ id: poetry-0104
 title: Authenticity Helps Us Learn
 category: poetry
 tags: Listen Poem
-date: 2020-06-12T21:22:03.292Z
+date: 2020-06-13T04:05:02.742Z
 draft: false
 deleted: false
 ---

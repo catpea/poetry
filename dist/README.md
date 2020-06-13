@@ -1,8 +1,8 @@
 # Poetry
 
 ## Authenticity Helps Us Learn
-### June 12th 2020, 5:22:03 pm EDT
-<meta itemprop="dateCreated" datetime="2020-06-12T21:22:03.292Z">
+### June 13th 2020, 12:05:02 am EDT
+<meta itemprop="dateCreated" datetime="2020-06-13T04:05:02.742Z">
 
 ![Illustration](image/poetry-0104-illustration.jpg)
 
