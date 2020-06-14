@@ -1,8 +1,8 @@
 # Poetry
 
-## A Life, of Wisdom for In Wisdom We Grow
-### June 13th 2020, 10:56:34 pm EDT
-<meta itemprop="dateCreated" datetime="2020-06-14T02:56:34.067Z">
+## A Life of Wisdom for In Wisdom We Grow
+### June 13th 2020, 11:14:02 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-14T03:14:02.791Z">
 
 ![Illustration](image/poetry-0105-illustration.jpg)
 

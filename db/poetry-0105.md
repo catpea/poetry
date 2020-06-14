@@ -1,9 +1,9 @@
 ---
 id: poetry-0105
-title: A Life, of Wisdom for In Wisdom We Grow
+title: A Life of Wisdom for In Wisdom We Grow
 category: poetry
 tags: Listen Poem
-date: 2020-06-14T02:56:34.067Z
+date: 2020-06-14T03:14:02.791Z
 draft: false
 deleted: false
 ---
