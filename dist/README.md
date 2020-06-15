@@ -1,5 +1,17 @@
 # Poetry
 
+## Life Of Wisdom
+### June 14th 2020, 10:21:56 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-15T02:21:56.471Z">
+
+![Illustration](image/poetry-0106-illustration.jpg)
+
+[Listen](audio/poetry-0106.mp3)
+
+Song based on the [A Life Of Wisdom, For In Wisdom We Grow Poem](https://news.catpea.com/read/poetry-0105)
+
+<br><br>
+
 ## A Life Of Wisdom, For In Wisdom We Grow
 ### June 13th 2020, 11:14:02 pm EDT
 <meta itemprop="dateCreated" datetime="2020-06-14T03:14:02.791Z">
