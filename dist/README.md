@@ -1,8 +1,8 @@
 # Poetry
 
 ## You Are The Best But You Also Need Some Rest
-### June 14th 2020, 10:33:48 pm EDT
-<meta itemprop="dateCreated" datetime="2020-06-15T02:33:48.704Z">
+### June 14th 2020, 11:55:32 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-15T03:55:32.780Z">
 
 ![Illustration](image/poetry-0107-illustration.jpg)
 
