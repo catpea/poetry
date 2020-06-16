@@ -1,7 +1,7 @@
 ---
 id: poetry-0107
 title: You Are The Best But You Also Need Some Rest
-category: poetry
+category: music
 tags: Listen Poem
 date: 2020-06-15T03:55:32.780Z
 draft: false
@@ -39,6 +39,8 @@ make it clear that this is not, a test.
 
 Today is _your_ day of rest,<br>
 at best, you will be having a nice cup of tea, should you feel pressed.
+
+<br><br>
 
 Allow strength to return to you, so that you are at your best,<br>
 tomorrow, or in few days, you'll resume your quest.
