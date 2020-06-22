@@ -3,7 +3,7 @@ id: poetry-0114
 title: Learning From Books
 category: poetry
 tags: Listen Poem
-date: 2020-06-21T23:40:33.301Z
+date: 2020-06-22T00:56:59.739Z
 draft: false
 deleted: false
 ---

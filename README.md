@@ -1,8 +1,8 @@
 # Poetry
 
 ## Learning From Books
-### June 21st 2020, 7:40:33 pm EDT
-<meta itemprop="dateCreated" datetime="2020-06-21T23:40:33.301Z">
+### June 21st 2020, 8:56:59 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-22T00:56:59.739Z">
 
 ![Illustration](image/poetry-0114-illustration.jpg)
 
