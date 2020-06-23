@@ -15,7 +15,7 @@ deleted: false
 Nonfiction books are way to share wisdom,<br>
 some wisdom is in the form of advice, other you have to discover yourself.
 
-Life is too precious, and we are too intelligent not to inherit wisdom from books,<br>
+Life is too precious, and we are far too intelligent not to inherit wisdom from books,<br>
 there is only one direction for us all, and that is towards Wisdom.
 
 Growing up,<br>
