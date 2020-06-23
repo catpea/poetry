@@ -3,7 +3,7 @@ id: poetry-0115
 title: Gradually Increasing Endurance
 category: poetry
 tags: Listen Poem
-date: 2020-06-23T02:06:45.371Z
+date: 2020-06-23T02:45:02.767Z
 draft: false
 deleted: false
 ---
@@ -43,4 +43,4 @@ Gradually increasing endurance, and eating a healthy and balanced diet,<br>
 will slowly send a signal to your body, that it must adapt.
 
 Endurance is the secret,<br>
-and **"gradually"*** is the method of increasing it.
+and **gradually** is the method of increasing it.

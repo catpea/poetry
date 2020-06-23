@@ -1,8 +1,8 @@
 # Poetry
 
 ## Gradually Increasing Endurance
-### June 22nd 2020, 10:06:45 pm EDT
-<meta itemprop="dateCreated" datetime="2020-06-23T02:06:45.371Z">
+### June 22nd 2020, 10:45:02 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-23T02:45:02.767Z">
 
 ![Illustration](image/poetry-0115-illustration.jpg)
 
@@ -39,7 +39,7 @@ Gradually increasing endurance, and eating a healthy and balanced diet,<br>
 will slowly send a signal to your body, that it must adapt.
 
 Endurance is the secret,<br>
-and **"gradually"*** is the method of increasing it.
+and **gradually** is the method of increasing it.
 
 <br><br>
 
