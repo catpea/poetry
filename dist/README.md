@@ -1,8 +1,8 @@
 # Poetry
 
 ## Inventing Yourself
-### June 23rd 2020, 10:38:11 pm EDT
-<meta itemprop="dateCreated" datetime="2020-06-24T02:38:11.864Z">
+### June 23rd 2020, 11:39:32 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-24T03:39:32.289Z">
 
 ![Illustration](image/poetry-0116-illustration.jpg)
 
