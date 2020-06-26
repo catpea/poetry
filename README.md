@@ -1,5 +1,45 @@
 # Poetry
 
+## Amazing Nap
+### June 25th 2020, 10:54:26 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-26T02:54:26.311Z">
+
+![Illustration](image/poetry-0118-illustration.jpg)
+
+[Listen](audio/poetry-0118.mp3)
+
+Back when I was a Teenager,<br>
+one late Friday afternoon.
+
+I had a nap, so amazing,<br>
+I have never forgotten about it.
+
+I woke up light as a feather,<br>
+and I dressed beautifully.
+
+And went exploring,<br>
+little Coffee Shops in Plymouth.
+
+I went to see The Brew Ha Ha,<br>
+full of Mighty Minds with Extreme Dreams.
+
+I peeked into Coffee Studio,<br>
+and saw Angel-headed Hipsters reading Tolstoy.
+
+I poked into The Bean,<br>
+full of Dirty Hippies, reciting Beautiful Poetry.
+
+I made my way back home,<br>
+walking alone through streets of gold.
+
+I read Chaucer,<br>
+programmed Visual Basic.
+
+And went back to sleep,<br>
+full of new memories that I would keep.
+
+<br><br>
+
 ## The Way Of The Warrior
 ### June 24th 2020, 8:59:53 pm EDT
 <meta itemprop="dateCreated" datetime="2020-06-25T00:59:53.016Z">
