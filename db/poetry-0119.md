@@ -3,7 +3,7 @@ id: poetry-0119
 title: Finding The Northern Part Of The I-275 Bicycle Trail
 category: poetry
 tags: Listen Poem
-date: 2020-06-27T01:31:09.986Z
+date: 2020-06-27T02:44:01.119Z
 draft: false
 deleted: false
 ---
@@ -51,8 +51,8 @@ all the way up to 14 Mile Road.
 
 ![Forever](image/poetry-0119-forever.jpg)
 
-Over at 14 Mile it ends wonderfully unceremoniously,
+Over at 14 Mile it ends wonderfully unceremoniously,<br>
 it just pops out onto a sidewalk.
 
-Where motorists jump in their cars slightly,
+Where motorists jump in their cars slightly,<br>
 as you pop out slightly dehydrated, a little crazed, a bit wild.

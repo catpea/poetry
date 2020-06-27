@@ -1,8 +1,8 @@
 # Poetry
 
 ## Finding The Northern Part Of The I-275 Bicycle Trail
-### June 26th 2020, 9:31:09 pm EDT
-<meta itemprop="dateCreated" datetime="2020-06-27T01:31:09.986Z">
+### June 26th 2020, 10:44:01 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-27T02:44:01.119Z">
 
 ![Illustration](image/poetry-0119-illustration.jpg)
 
@@ -47,10 +47,10 @@ all the way up to 14 Mile Road.
 
 ![Forever](image/poetry-0119-forever.jpg)
 
-Over at 14 Mile it ends wonderfully unceremoniously,
+Over at 14 Mile it ends wonderfully unceremoniously,<br>
 it just pops out onto a sidewalk.
 
-Where motorists jump in their cars slightly,
+Where motorists jump in their cars slightly,<br>
 as you pop out slightly dehydrated, a little crazed, a bit wild.
 
 <br><br>
