@@ -55,4 +55,4 @@ Over at 14 Mile it ends wonderfully unceremoniously,<br>
 it just pops out onto a sidewalk.
 
 Where motorists jump in their cars slightly,<br>
-as you pop out slightly dehydrated, a little crazed, a bit wild.
+as you pop out somewhat dehydrated, a little crazed, and a bit wild.

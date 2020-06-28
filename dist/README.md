@@ -1,5 +1,45 @@
 # Poetry
 
+## Greatness Of Soul
+### June 27th 2020, 11:16:50 pm EDT
+<meta itemprop="dateCreated" datetime="2020-06-28T03:16:50.267Z">
+
+![Illustration](image/poetry-0120-illustration.jpg)
+
+[Listen](audio/poetry-0120.mp3)
+
+Anything that can go wrong may go wrong,<br>
+and there is only one guarantee in life.
+
+It is a guarantee, precisely because it is within our complete control,<br>
+the guarantee is The Greatness Of Our Soul, or Spirit, or Being,
+
+It means you will keep getting up no matter how many times you fall,<br>
+it means you will continue moving forward without stopping.
+
+<br>
+
+It means there is no pain, it means there is no weakens,<br>
+that it is a function and fact of life that we advance forward.
+
+And on the day of triumph,<br>
+it means that the prize is nothing less than Laughter and Joy of Life.
+
+The Greatness of Our Soul, our single guarantee in life,<br>
+may begin in discomfort but it concludes with something **far** more.
+
+<br>
+
+Marvels of the Human Spirit that we can't directly conjure up within ourselves,<br>
+marvels that can only come out of our Might and Authenticity.
+
+Humor and Foolishness, Cheerfulness and Bliss,<br>
+Sweetens and Giggles, Joy, Laughter, Wisdom and Delight.
+
+Greatness of Soul.
+
+<br><br>
+
 ## Finding The Northern Part Of The I-275 Bicycle Trail
 ### June 26th 2020, 10:44:01 pm EDT
 <meta itemprop="dateCreated" datetime="2020-06-27T02:44:01.119Z">
@@ -51,7 +91,7 @@ Over at 14 Mile it ends wonderfully unceremoniously,<br>
 it just pops out onto a sidewalk.
 
 Where motorists jump in their cars slightly,<br>
-as you pop out slightly dehydrated, a little crazed, a bit wild.
+as you pop out somewhat dehydrated, a little crazed, and a bit wild.
 
 <br><br>
 
