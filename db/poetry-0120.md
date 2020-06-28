@@ -16,21 +16,21 @@ Anything that can go wrong may go wrong,<br>
 and there is only one guarantee in life.
 
 It is a guarantee, precisely because it is within our complete control,<br>
-the guarantee is The Greatness Of Our Soul, or Spirit, or Being,
+the guarantee is The Greatness Of Our Soul, or Spirit, or Being.
 
 It means you will keep getting up no matter how many times you fall,<br>
 it means you will continue moving forward without stopping.
 
 <br>
 
-It means there is no pain, it means there is no weakens,<br>
+It means there is no pain, it means there is no weakness,<br>
 that it is a function and fact of life that we advance forward.
 
 And on the day of triumph,<br>
 it means that the prize is nothing less than Laughter and Joy of Life.
 
 The Greatness of Our Soul, our single guarantee in life,<br>
-may begin in discomfort but it concludes with something **far** more.
+may begin in discomfort, but it concludes with something **far** more.
 
 <br>
 
