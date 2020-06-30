@@ -38,7 +38,7 @@ Never has there been a night,<br>
 that was wasn't lit by light.
 
 Never has there been a fight,<br>
-that wasn't won by wisdom's might.
+that wasn't won by Wisdom's Might.
 
 Rise, rise in spite of the fright,<br>
 rise to no end in sight.
