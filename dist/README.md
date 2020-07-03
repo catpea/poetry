@@ -1,5 +1,35 @@
 # Poetry
 
+## Little Journals of Interesting Adventures
+### July 2nd 2020, 11:27:54 pm EDT
+<meta itemprop="dateCreated" datetime="2020-07-03T03:27:54.768Z">
+
+![Illustration](image/poetry-0125-illustration.jpg)
+
+[Listen](audio/poetry-0125.mp3)
+
+Great Adventures need not take you far,<br>
+and ultimately, wherever you go there you are.
+
+But still, there **is** something special about new places,<br>
+we see more deeply, and get in good graces.
+
+
+I think the kind of adventure, that **really** is the best,<br>
+will make you start keeping a little journal to document your quest.
+
+When there is time to think about all the things and little bits,<br>
+even the slightest curiosity will bring about new wits.
+
+
+So fill all the journal pages, and leave it for later,<br>
+because you never know when a little journal may become something greater.
+
+It could come as a surprise that this little adventure you took,<br>
+turned you into a Famous Writer and became your first Adventure Book!
+
+<br><br>
+
 ## My Little Dream Of Convergence
 ### July 1st 2020, 10:32:43 pm EDT
 <meta itemprop="dateCreated" datetime="2020-07-02T02:32:43.662Z">
@@ -19,7 +49,7 @@ Young people begun rejecting Jury Duty by recognizing Poverty as a mind eating v
 when the Judge asked if anybody couldn't serve, people would rise and say "Virus of Poverty".
 
 It meant that they were unable to take the oath, that they could not be an impartial Juror,<br>
-because they were convinced that Universal Basic Income would prevent the defendant from committing the crime in the first place.
+because they were convinced that Universal Basic Income would prevent The Defendant from committing the crime in the first place.
 
 The Judges had their hands tied, but they loved to hear it, and it always restored their faith in the world:<br>
 "I stand against, The Disproportionate Mass Incarceration of People Made Ill by The Virus Of Poverty"

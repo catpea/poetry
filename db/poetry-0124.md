@@ -23,7 +23,7 @@ Young people begun rejecting Jury Duty by recognizing Poverty as a mind eating v
 when the Judge asked if anybody couldn't serve, people would rise and say "Virus of Poverty".
 
 It meant that they were unable to take the oath, that they could not be an impartial Juror,<br>
-because they were convinced that Universal Basic Income would prevent the defendant from committing the crime in the first place.
+because they were convinced that Universal Basic Income would prevent The Defendant from committing the crime in the first place.
 
 The Judges had their hands tied, but they loved to hear it, and it always restored their faith in the world:<br>
 "I stand against, The Disproportionate Mass Incarceration of People Made Ill by The Virus Of Poverty"
