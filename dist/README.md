@@ -119,6 +119,8 @@ That they are to reject the status quo,<br>
 because what was well enough for the previous generation,<br>
 now needs improvement to do the current one justice.
 
+(Pictured [Eleanor Roosevelt](https://en.wikipedia.org/wiki/Eleanor_Roosevelt) with the English language version of the [Universal Declaration of Human Rights](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights).)
+
 <br><br>
 
 ## Little Journals of Interesting Adventures
