@@ -1,5 +1,50 @@
 # Poetry
 
+## That Little Trail
+### July 5th 2020, 10:24:23 pm EDT
+<meta itemprop="dateCreated" datetime="2020-07-06T02:24:23.293Z">
+
+![Illustration](image/poetry-0128-illustration.jpg)
+
+[Listen](audio/poetry-0128.mp3)
+
+One late afternoon I hopped on my bicycle to ride the trail,<br>
+and returned with an interesting tale.
+
+For right where 275 and Michigan meet,<br>
+I found a [little bicycle path that's really neat](https://goo.gl/maps/En5tWm4Z93mmwtZ28).
+
+<br>
+
+It is a huge park that branches out to two more little parks,<br>
+though they are behind peoples houses and pack a lot of dog barks.
+
+All combined together they make a sweet little quest,<br>
+but make sure to bring plenty of water and rest.
+
+<br>
+
+The main path has little river bridges and lots of really neat sights,<br>
+but be really careful about ticks and mosquitoes bites.
+
+And that northern stretch under the power line, is a sight to see,<br>
+it is just a barren bumpy grassland without a single tree.
+
+<br>
+
+If you keep going north on Haggerty you'll reach Ford,<br>
+and then you can bicycle back to 275 and get back on board.
+
+But I think the woodland trail is the best because there is a lot of shade,<br>
+I imagine that's why it was made.
+
+
+
+
+![Illustration](image/poetry-0128-end.jpg)
+
+<br><br>
+
 ## Have No Fear
 ### July 4th 2020, 11:42:09 pm EDT
 <meta itemprop="dateCreated" datetime="2020-07-05T03:42:09.311Z">
@@ -1644,7 +1689,7 @@ hoping to be the first to greet all the Fancy Raccoons.
 
 ![Illustration](image/poetry-0100-illustration.jpg)
 
-[Listen](audio/poetry-0100.mp3)
+[Listen](audio/poetry-0100-2.mp3)
 
 [Watch On YouTube](https://youtu.be/2ctbaoGvikk)
 
@@ -1655,7 +1700,7 @@ And then,<br>
 all of a sudden!
 
 I thought I was attacked by some angry bees,<br>
-it turned out to be a mosquito who got me twice, in both my knees.
+it turned out to be a mosquito who got me twice, in both knees.
 
 To be fair, I wore my new short pants to be trendy,<br>
 but the little sucker didn't need to get me where I am so bendy.

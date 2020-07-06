@@ -10,7 +10,7 @@ deleted: false
 
 ![Illustration](image/poetry-0100-illustration.jpg)
 
-[Listen](audio/poetry-0100.mp3)
+[Listen](audio/poetry-0100-2.mp3)
 
 [Watch On YouTube](https://youtu.be/2ctbaoGvikk)
 
@@ -21,7 +21,7 @@ And then,<br>
 all of a sudden!
 
 I thought I was attacked by some angry bees,<br>
-it turned out to be a mosquito who got me twice, in both my knees.
+it turned out to be a mosquito who got me twice, in both knees.
 
 To be fair, I wore my new short pants to be trendy,<br>
 but the little sucker didn't need to get me where I am so bendy.
