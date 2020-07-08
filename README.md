@@ -8,81 +8,81 @@
 
 [Listen](audio/poetry-0130.mp3)
 
-Without learning we cannot grow up,
+Without learning we cannot grow up,<br>
 and without teaching the world cannot progress.
 
 <br><br>
 
-It does not matter where you start your journey,
+It does not matter where you start your journey,<br>
 be it top of the world, or the very bottom, or somewhere in the middle.
 
-Wherever you start, you must immediately begin moving forward,
+Wherever you start, you must immediately begin moving forward,<br>
 step after step, find what moves you, use it to grow up.
 
-Grow to create a solid thought, or dream, or aim, or understanding,
+Grow to create a solid thought, or dream, or aim, or understanding,<br>
 and get on top of it, and start building the next thing.
 
-The road to catching up with everyone else is very short,
+The road to catching up with everyone else is very short,<br>
 once you are there, like everyone else, you take off in your own unique direction.
 
 <br><br>
 
-We must let go of beginnings and ends,
+We must let go of beginnings and ends,<br>
 and questions of lengths of road we must travel.
 
-We must let go of things that we can't finish in time to enjoy life,
+We must let go of things that we can't finish in time to enjoy life,<br>
 empires ought be build by generations of visionaries, not a single inspired being.
 
-We must put majority of our existence towards a happy meaningful life,
+We must put majority of our existence towards a happy meaningful life,<br>
 not struggle, or war, or fear, but simple meaningful beautiful happiness.
 
 <br><br>
 
-We must not forget about the importance of Meaningful and Enlightening Education,
+We must not forget about the importance of Meaningful and Enlightening Education,<br>
 the world is not able to give all a safe home but we can learn to build one.
 
-And once we learn, and find peace in life,
+And once we learn, and find peace in life,<br>
 we should consider becoming teachers.
 
 <br><br>
 
-By teaching people, by giving them the right tools, by helping them see how to accomplish great deeds,
+By teaching people, by giving them the right tools, by helping them see how to accomplish great deeds,<br>
 we also grant them the path, to get where they will bloom at their healthiest, and thus Find Hope.
 
-Inadequate education is one of the greatest barriers to a healthy existence,
+Inadequate education is one of the greatest barriers to a healthy existence,<br>
 but it is also the **weakest** barrier, as it is removed with simple audio-books.
 
-We should encourage people to search for best selling non fiction,
+We should encourage people to search for best selling non fiction,<br>
 and inherit both Lessons, and the Culture of Successful Great Beings.
 
 <br><br>
 
-All the problems we face are Human Problems, and thus the solution is in Our Hands,
+All the problems we face are Human Problems, and thus the solution is in Our Hands,<br>
 as humans we know that the source of our Powers is in our Minds.
 
-That is where must begin our Lives,
+That is where must begin our Lives,<br>
 by making our minds Strong, Noble, Authentic, Unbreakable; Dignified.
 
-Let the self correcting nature of inheritance of knowledge from all our Beloved Great Beings,
+Let the self correcting nature of inheritance of knowledge from all our Beloved Great Beings,<br>
 be the start of our battle against all the problems that plague our Civilization and Cultures.
 
 <br><br>
 
-Without wisdom all serious problems bear negative consequences,
+Without wisdom all serious problems bear negative consequences,<br>
 consequences that help to multiply problems until there seemingly seems to be no solution in sight.
 
-But that is an illusion,
+But that is an illusion,<br>
 instead of building more prisons to contain minds sickened by poverty, let us teach meaningful wisdom.
 
-We must learn to prevent minds from fracturing, and from getting lost, and from not growing up,
+We must learn to prevent minds from fracturing, and from getting lost, and from not growing up,<br>
 we must build a better world for all.
 
 <br><br>
 
-To build a better world we must fearlessly challenge ourselves to success,
+To build a better world we must fearlessly challenge ourselves to success,<br>
 to wisdom, to knowledge, to noble pursuits of excellence.
 
-And then boldly teach,
+And then boldly teach,<br>
 all the lessons that moved us.
 
 <br><br>
