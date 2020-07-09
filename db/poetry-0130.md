@@ -76,7 +76,7 @@ Without wisdom all serious problems bear negative consequences,<br>
 consequences that help to multiply problems until there seemingly seems to be no solution in sight.
 
 But that is an illusion,<br>
-instead of building more prisons to contain minds sickened by poverty, let us teach meaningful wisdom.
+instead of building more prisons to contain minds sickened by poverty, let us teach meaningful wisdom and knowledge.
 
 We must learn to prevent minds from fracturing, and from getting lost, and from not growing up,<br>
 we must build a better world for all.
