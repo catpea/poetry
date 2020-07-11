@@ -1,6 +1,6 @@
 ---
 id: poetry-0133
-title: Whew, it is only eight!
+title: Whew, It Is Only Eight!
 category: poetry
 tags: Listen Poem
 date: 2020-07-11T00:36:16.758Z
@@ -22,7 +22,7 @@ Today is Friday,<br>
 and on every Friday I must look,
 
 for new ideas,<br>
-to add to my fancy [Warrior Book](https://westland-valhalla.github.io/warrior/])
+to add to my fancy [Warrior Book](https://westland-valhalla.github.io/warrior/)
 
 It is a book,<br>
 made out of videos,

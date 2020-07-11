@@ -1,6 +1,6 @@
 # Poetry
 
-## Whew, it is only eight!
+## Whew, It Is Only Eight!
 ### July 10th 2020, 8:36:16 pm EDT
 <meta itemprop="dateCreated" datetime="2020-07-11T00:36:16.758Z">
 
@@ -18,7 +18,7 @@ Today is Friday,<br>
 and on every Friday I must look,
 
 for new ideas,<br>
-to add to my fancy [Warrior Book](https://westland-valhalla.github.io/warrior/])
+to add to my fancy [Warrior Book](https://westland-valhalla.github.io/warrior/)
 
 It is a book,<br>
 made out of videos,
