@@ -1,5 +1,116 @@
 # Poetry
 
+## Reality, Clarity and Future Generations
+### July 13th 2020, 11:41:51 pm EDT
+<meta itemprop="dateCreated" datetime="2020-07-14T03:41:51.155Z">
+
+![Illustration](image/poetry-0136-illustration.jpg)
+
+[Listen](audio/poetry-0136.mp3)
+
+Of course,
+let us ask what their regrets are...
+
+We are after all the future generation,
+to those that came before us.
+
+Therefore we have insight,
+and certainly have regrets.
+
+We regret;
+wars, poverty, hate and stupidity.
+
+<br><br>
+
+We want World Peace,
+because a single Human Life is more Sacred than all the gods put together,
+because borders are stupid and war is hell,
+because ongoing weapons manufacturing is evil.
+
+We want the End of Poverty,
+because money should only be used to help a person and not make them worse,
+because no one should be denied mental, dental or medical care,
+because not a single Human Being should ever go hungry or thirsty.
+
+We want the Age of Wisdom,
+because people must learn how to think before being told what to think,
+because the Modern Human being must first catch up with Knowledge in Beloved Books,
+because we must put an end to making mistakes that can otherwise be avoided.
+
+<br><br>
+
+The World will not grow if Human Beings are prevented from Meaningful Education.
+
+The World will not grow if People are too scared, or too hungry, or too tired to learn.
+
+The World will not grow, if You, and I, and Everybody Else fails to Honor the Future Generations.
+
+<br><br>
+
+As many evil forces as there are,
+they will give up the moment they see that their lies can't move crowds anymore.
+
+<br><br>
+
+Moving against reality,
+commits the followers to the forgotten side of history.
+
+Standing up for Truth and Authenticity,
+fills us with Light of Wisdom, and Love of Humanity.
+
+<br><br>
+
+You never know,
+the first day,
+when you become ready,
+
+to reinforce, or add a new article,
+to a document that will define Humanity for all Generations.
+
+We can't be sure if this document exist yet,
+perhaps you will begin writing it,
+
+perhaps your article will be the opening article,
+and yours, the first signature.
+
+<br><br>
+
+There are to many borders, My Friends,
+and too often money is being used for harm, where it was invented for good.
+
+Our World, with Our Love and Our Blessing,
+must take another Deep and Long Breath,
+and Exhale in Blooming Changes all around.
+
+<br><br>
+
+Practice, take out your journal, and scribble to no end,
+many high and mighty laws printed over and over on paper will not hold up forever.
+
+Humanity never moved toward some Economic Paradise,
+it has always moved towards Goodness and Love.
+
+It has moved slowly, slowed down by poverty of so many,
+slowed down by borders,
+and people not yet ready to learn how to think before they are told what to think.
+
+But it has moved with unlimited strength,
+sanding down to dust all that stood in the path of Good Ideas, and Goodness, and Love.
+
+Do not accept wrongs, on paper, or law, or the red faces of those moving against the grain of reality,
+do not assume that the wrongs that stand today, will not be erased tomorrow.
+
+<br><br>
+
+Proudly, nobly, respectfully, deep in thought,
+take time off, and reach out to world's best selling non fiction.
+
+My Friends,
+May you laugh, may you celebrate, may you admire,
+and learn from; and forgive mistakes leaving them to the past.
+
+<br><br>
+
 ## A Dream About A Growing Humanity
 ### July 12th 2020, 9:34:47 pm EDT
 <meta itemprop="dateCreated" datetime="2020-07-13T01:34:47.877Z">
@@ -8,143 +119,143 @@
 
 [Listen](audio/poetry-0135.mp3)
 
-I dreamt I was tumbling through time,
+I dreamt I was tumbling through time,<br>
 and I had no control over which fragments I see.
 
-There was a mother writing a letter to a famous movie star,
+There was a mother writing a letter to a famous movie star,<br>
 she was asking him to stop making movies, because her boy didn't comeback from war.
 
-And it worked,
+And it worked,<br>
 and she wrote many letters.
 
-There was a lot of shocked artists and actors,
+There was a lot of shocked artists and actors,<br>
 they had no idea how they shaped young impressionable minds.
 
-Boys wanted to go to real war,
+Boys wanted to go to real war,<br>
 to be like the imaginary heroes they saw on TV.
 
 <br><br>
 
-And then I struggled in my dream, because my bullies were clearly ill, they were not all there,
+And then I struggled in my dream, because my bullies were clearly ill, they were not all there,<br>
 but World's Systems of Justice do not differentiate between the ill and the healthy.
 
-And so a person made permanently ill in their mind by poverty,
+And so a person made permanently ill in their mind by poverty,<br>
 is seen equal to a man of knowledge, insight, intelligence.
 
-But the ill have little freedom of choice,
+But the ill have little freedom of choice,<br>
 they need therapy, and safety, and good homes, and hope, and dreams.
 
-To punish someone who couldn't grow up, didn't know to learn,
-for something that they weren't sure they were doing,
-and then to send them to a hopeless place without a hope of healing,
+To punish someone who couldn't grow up, didn't know to learn,<br>
+for something that they weren't sure they were doing,<br>
+and then to send them to a hopeless place without a hope of healing,<br>
 without any hope of rehabilitation... is wrong.
 
-If they can't walk among us, if they are permanently ill,
+If they can't walk among us, if they are permanently ill,<br>
 then build special schools for them, schools that bring hope.
 
-We mustn't punish them more than life already had,
+We mustn't punish them more than life already had,<br>
 [our humanity depends on everyone’s humanity](https://www.youtube.com/watch?v=c2tOp7OxyQ8).
 
 <br><br>
 
 
-And I saw Mr. [Pirsig](https://www.youtube.com/watch?v=k6IKu2wgm5I) on his motorcycle with his boy,
+And I saw Mr. [Pirsig](https://www.youtube.com/watch?v=k6IKu2wgm5I) on his motorcycle with his boy,<br>
 the wind in his face representing the cutting edge of reality.
 
-He was worried that his Metaphysics is not real philosophy,
+He was worried that his Metaphysics is not real philosophy,<br>
 it was not going to be taken seriously.
 
-The answers they discovered on road they traveled and experiences they shared,
+The answers they discovered on road they traveled and experiences they shared,<br>
 created the Body of Knowledge that provided them with the forward momentum they needed to move ahead.
 
-I dreamt that Pirsig was just talking bout Authenticity, Nobility and Dignity,
+I dreamt that Pirsig was just talking bout Authenticity, Nobility and Dignity,<br>
 and Knowledge and Wisdom, and Wise Intuition.
 
-He is unafraid to show us how vulnerable Philosophers are,
+He is unafraid to show us how vulnerable Philosophers are,<br>
 that all it takes is ideas worth sharing, once or twice.
 
-Anybody can be a philosopher,
+Anybody can be a philosopher,<br>
 we will each be heard.
 
 <br><br>
 
-All these strange fragments added together - to remind us that the World is Not Static,
+All these strange fragments added together - to remind us that the World is Not Static,<br>
 that it grows, moves, changes, and cares not to stop for things writ on paper.
 
-Advancements in Psychology... the trailer to the movie about Philip Zimbardo work - alone,
+Advancements in Psychology... the trailer to the movie about Philip Zimbardo work - alone,<br>
 should invalidate laws and behaviors previously thought acceptable.
 
-Humanity must grow, our cultures must drive us all forward,
+Humanity must grow, our cultures must drive us all forward,<br>
 we must never assume that the world we are born into is a masterpiece.
 
-And we must never let ourselves think,
+And we must never let ourselves think,<br>
 that others are in charge - it is our world, it belongs to us all.
 
 <br><br>
 
-To make informed decisions,
+To make informed decisions,<br>
 we require knowledge, wisdom, foresight, insight, a sense of belonging.
 
-Without knowledge, we will not be able to see right from wrong,
+Without knowledge, we will not be able to see right from wrong,<br>
 nor will any of our decisions do our elder selves justice.
 
-Access to well grounded knowledge is not difficult,
-internet lectures - alone - may even suffice, but best selling non fiction audio books solve it completely.
+Access to well grounded knowledge is not difficult,<br>
+internet lectures - alone - may even suffice, but best selling non fiction audio books solve it completely.<br>
 
 <br><br>
 
-Humanity must not fall behind on growing up,
+Humanity must not fall behind on growing up,<br>
 the longer the delay the greater the injustice.
 
-Read and Listen to you books, my Friends,
+Read and Listen to you books, my Friends,<br>
 inherit the lifetimes of knowledge within.
 
-We can't send people to prison without any hope of rehabilitation,
+We can't send people to prison without any hope of rehabilitation,<br>
 for uninformed decisions that came on a whim.
 
-And we can't allow mere Practice of Law without Functional Rehabilitation,
+And we can't allow mere Practice of Law without Functional Rehabilitation,<br>
 and above all Meaningful Education and Universal Basic Income that truly lifts people out of Poverty.
 
 <br><br>
 
 We Are The People,
-we outgrew borders long ago, we are One Family on a Lonely Blue Earth.
+we outgrew borders long ago, we are One Family on a Lonely Blue Earth.<br>
 
-We must learn to catch up with what is worthy of knowing,
+We must learn to catch up with what is worthy of knowing,<br>
 we can use Science, or Love, or both, or the Leading Edge of Instinct powered by our Humanity.
 
-But we must continue building this world,
+But we must continue building this world,<br>
 each generation must make improvements and never stop.
 
-Those who stand in power today,
+Those who stand in power today,<br>
 are to soon gracefully surrender to the better wisdom of the new generation.
 
-To preside is to wisely wait whilst the new generation becomes worthy of the position,
+To preside is to wisely wait whilst the new generation becomes worthy of the position,<br>
 and to quietly step down, and put whatever wisdom was discovered to the books of history.
 
-To preside, means not, to continue repeating mistakes because they are on the books,
+To preside, means not, to continue repeating mistakes because they are on the books,<br>
 and therefore one will not be punished.
 
-There are only two sides to history, and only fools think it is the winning and the losing one,
+There are only two sides to history, and only fools think it is the winning and the losing one,<br>
 the two sides as seen by future generations is the Wrong One, and The Noble One.
 
-Let us all rise to the challenges of wisdom,
+Let us all rise to the challenges of wisdom,<br>
 and making lasting and meaningful contributions to the Human Family.
 
-Let us not be lost to the wrong side,
-let us not be passed over by the books of history,
+Let us not be lost to the wrong side,<br>
+let us not be passed over by the books of history,<br>
 let us help wisdom propagate.
 
-Let us stand up to every corner and every challenge,
+Let us stand up to every corner and every challenge,<br>
 and let us speak out against the wrong, the mistakes, the incomplete, the unfinished.
 
-Let us not accept half measures, or good enough, or status quo,
+Let us not accept half measures, or good enough, or status quo,<br>
 or the lowest common denominator minimums that get commited to law books.
 
-Let us remember who we are,
+Let us remember who we are,<br>
 and how Noble The Human Being.
 
-Let us stand upright,
+Let us stand upright,<br>
 in Authenticity, Dignity, Wisdom and Compassion.
 
 <br><br>
