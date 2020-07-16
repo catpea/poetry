@@ -36,7 +36,7 @@ And it really, really works, they help you inherit power,<br>
 it gets into your soul, and grows like a flower.
 
 And they help us see better with our own eyes,<br>
-see World Poverty as the enemy, and World Peace as the The Prize.
+see World Poverty as the enemy, and World Peace as The Prize.
 
 <br><br>
 
