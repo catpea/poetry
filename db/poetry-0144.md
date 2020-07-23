@@ -3,7 +3,7 @@ id: poetry-0144
 title: Greatness of Soul, Heart, and Mind
 category: poetry
 tags: Listen Poem
-date: 2020-07-22T23:14:46.591Z
+date: 2020-07-23T03:02:16.809Z
 draft: false
 deleted: false
 ---

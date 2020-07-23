@@ -1,8 +1,8 @@
 # Poetry
 
 ## Greatness of Soul, Heart, and Mind
-### July 22nd 2020, 7:14:46 pm EDT
-<meta itemprop="dateCreated" datetime="2020-07-22T23:14:46.591Z">
+### July 22nd 2020, 11:02:16 pm EDT
+<meta itemprop="dateCreated" datetime="2020-07-23T03:02:16.809Z">
 
 ![Illustration](image/poetry-0144-illustration.jpg)
 
