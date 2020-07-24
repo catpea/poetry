@@ -3,7 +3,7 @@ id: poetry-0145
 title: Live Wisely And Beautifully
 category: poetry
 tags: Listen Poem
-date: 2020-07-24T01:48:12.095Z
+date: 2020-07-24T02:38:13.341Z
 draft: false
 deleted: false
 ---

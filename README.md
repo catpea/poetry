@@ -1,8 +1,8 @@
 # Poetry
 
 ## Live Wisely And Beautifully
-### July 23rd 2020, 9:48:12 pm EDT
-<meta itemprop="dateCreated" datetime="2020-07-24T01:48:12.095Z">
+### July 23rd 2020, 10:38:13 pm EDT
+<meta itemprop="dateCreated" datetime="2020-07-24T02:38:13.341Z">
 
 ![Illustration](image/poetry-0145-illustration.jpg)
 
