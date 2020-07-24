@@ -18,7 +18,7 @@ how long has it been now?
 You haven't aged a day,<br>
 and as promised I grew in Wisdom, and Strength, and I maybe a bit Taller.
 
-I bet they finally fixed that [old bench](https://www.google.com/maps/@40.7060248,-73.9967572,2a,75y,286.07h,64.46t/data=!3m6!1e1!3m4!1sGiVjQ4_lsY3jlLY0PM3KEA!2e0!7i13312!8i6656?hl=en) on the Manhattan side,<br>
+I bet they finally fixed that [achy bench](https://www.google.com/maps/@40.7060248,-73.9967572,2a,75y,286.07h,64.46t/data=!3m6!1e1!3m4!1sGiVjQ4_lsY3jlLY0PM3KEA!2e0!7i13312!8i6656?hl=en) on the Manhattan side,<br>
 I promise to come sit, some day.
 
 <br><br>
