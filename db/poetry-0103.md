@@ -8,7 +8,7 @@ draft: false
 deleted: false
 ---
 
-![Illustration](image/poetry-0103-illustration.jpg?)
+![Illustration](image/poetry-0103-illustration.jpg)
 
 [Listen](audio/poetry-0103.mp3)
 

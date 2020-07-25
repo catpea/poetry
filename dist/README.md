@@ -1,5 +1,94 @@
 # Poetry
 
+## On Learning Philosophical Concepts A Little Bit At A Time
+### July 24th 2020, 10:21:19 pm EDT
+<meta itemprop="dateCreated" datetime="2020-07-25T02:21:19.937Z">
+
+![Illustration](image/poetry-0146-illustration.jpg)
+
+[Listen](audio/poetry-0146.mp3)
+
+The Philosophers attempt to bring ideas to the future generations,<br>
+they are masters of learning how to think, conceptualize, and get extremely smart.
+
+There are a few things that we must set aside at first,<br>
+and above all remember that they were children once, teenagers, that they are all too human.
+
+When possible we should begin with survey courses and general overviews,<br>
+Video Lectures and Audio Books on the subject of Philosophy in general.
+
+<br><br>
+
+[The Story of Philosophy: The Lives and Opinions of the Greater Philosophers](https://en.wikipedia.org/wiki/The_Story_of_Philosophy)<br>
+is a great start, Ariel and Will Durant seem like an amazing couple.
+
+In 1977 they were presented with the Presidential Medal of Freedom by Gerald Ford,<br>
+and Ariel was named "Woman of the Year" by the city of Los Angeles.
+
+[The Giants of Philosophy Series](https://duckduckgo.com/?t=ffab&q=The+Giants+of+Philosophy+Series) is a set of 13 Audio Books surveying word's top Philosophers,<br>
+written by multiple authors and narrated by Charlton Heston.
+
+<br><br>
+
+We must not judge a Philosophy by the mistakes of the Philosopher,<br>
+if they did make mistakes, then they published hoping to be granted a hearing.
+
+We should avoid memorizing, ideally we want to approach Philosophers that we find familiar,<br>
+and perhaps already having re-invented some portion of what they worked on.
+
+<br><br>
+
+One concept that comes to mind is Amor Fati,<br>
+it means Love of Fate.
+
+But to me, it does not speak about the kind of fate where everything is pre-determined,<br>
+or the fate of a person who lets whim and life push them around, but rather events that just happen.
+
+[Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) wrote a great deal about [Amor Fati](https://en.wikipedia.org/wiki/Amor_fati),<br>
+but in my opinion he takes it too far as he speaks of Suffering, he runs into the extremes.
+
+My bullies are an example of Extremes and Suffering,<br>
+and Amor Fati does not mean I should love my bullies, and Friedrich states as much:
+
+"Only great pain is the ultimate liberator of the spirit. I doubt that such pain makes us ‘better’; but I know that it makes us more profound."<br>
+(Thanks Friedrich, My Dear Old Friend.)
+
+Albert Camus brings it down to reality,<br>
+speaking of accepting that life comes with Difficulty and Ease, and we should accept both.
+
+"A will to live without rejecting anything of life... is the virtue I honor most in this world."
+
+<br><br>
+
+It is not enough to learn **about** a philosophical concept like we just did,<br>
+we should hope to integrate it, or keep it as a reminder that we have more to learn before we understand it fully.
+
+The way I connect with Amor Fati,<br>
+is by understanding that not everything in my life will happen for a reason,<br>
+some thing will just happen out of complexity and randomness that we can't prevent; and that to me is fate.
+
+I like how Albert Camus telks about Ease and Difficulty and the way I understand him,<br>
+is that we should stand up for what we believe in, even if it means that people will yell at us.
+
+So it is not tolerance of difficult things that just happen for no reason,<br>
+but the difficulty of standing up for what we believe in when the chance presents it self, for no reason- you see.
+
+Our decision making which dictates our path in life,<br>
+has nothing to do with things that happen for no reason.
+
+Finally, Amor Fati simply means,<br>
+do not let things that you have no control over take away from your Love of Life.
+
+<br><br>
+
+While this may not be exactly what Friedrich Nietzsche and Albert Camus talk about,<br>
+my initial, more personal interpretation, gives me a platform from which I can learn both of their interpretations and mutual differences.
+
+And what I am showing here, is that we don't have to understand all the philosophical concepts right away,<br>
+that it is best to learn a little bit at a time, at our own pace, and in our own sequence.
+
+<br><br>
+
 ## Live Wisely And Beautifully
 ### July 23rd 2020, 10:38:13 pm EDT
 <meta itemprop="dateCreated" datetime="2020-07-24T02:38:13.341Z">
@@ -1282,27 +1371,27 @@ but today, Winter came to mind; for many reasons.
 For one, it is Summer, a Hot Summer, Heatwave in full swing,<br>
 and I can't believe what great relief; a little snowfall would bring.
 
-![Illustration](image/poetry-0131-walk.jpg)
+![Walk](image/poetry-0131-walk.jpg)
 
 And I found a winter photo of an expedition to a near by store,<br>
 I look thrice my size, I can't even imagine how many layers I wore.
 
-![Illustration](image/poetry-0131-icycle.jpg)
+![Icycle](image/poetry-0131-icycle.jpg)
 
 Then I remembered when back in 2014 the Polar Vortex was all the talk,<br>
 I was so excited to dress up and go on a long walk!
 
-![Illustration](image/poetry-0131-icycle-smile.jpg)
+![Smile](image/poetry-0131-icycle-smile.jpg)
 
 But, my favorite memory is riding my bicycle and hitting a patch of ice,<br>
 I fell sideways upside-down, and did a little looptie-loop, twice.
 
-![Illustration](image/poetry-0131-fall.jpg)
+![Fall](image/poetry-0131-fall.jpg)
 
 I landed perfectly flat with a winter splat kicking up the downy flake,<br>
 and I lay there a bit muttering, "What a story this will make".
 
-![Illustration](image/poetry-0131-the-end.jpg)
+![The End](image/poetry-0131-the-end.jpg)
 
 I love Blinding Summers, and Rainy Autumns, and Spring when all the flowers grow,<br>
 but I am a huge fan of Winter and all that bright white snow.
@@ -1483,9 +1572,7 @@ But I think the woodland trail is the best because there is a lot of shade,<br>
 I imagine that's why it was made.
 
 
-
-
-![Illustration](image/poetry-0128-end.jpg)
+![Adventurer](image/poetry-0128-end.jpg)
 
 <br><br>
 
@@ -2641,7 +2728,7 @@ they still didn't fix anything, bumps and shrubs were blocking the way.
 I took a photo to share with you,<br>
 just in case you were thinking about going or pushing through.
 
-![Illustration](image/poetry-0108-end.jpg)
+![Path](image/poetry-0108-end.jpg)
 
 The [actual ancient end of the trail](https://goo.gl/maps/oRaowTwL1cdz5G549) is not that far away,<br>
 about 2.6 miles south, but you are better off walking the rest of the way.
@@ -3028,7 +3115,7 @@ as in Authenticity, each day adds to the previous.
 ### June 11th 2020, 10:46:35 pm EDT
 <meta itemprop="dateCreated" datetime="2020-06-12T02:46:35.303Z">
 
-![Illustration](image/poetry-0103-illustration.jpg?)
+![Illustration](image/poetry-0103-illustration.jpg)
 
 [Listen](audio/poetry-0103.mp3)
 
@@ -3162,7 +3249,7 @@ I sat there a bit, wondering "Why me?"<br>
 To be honest, until I realized that's simply where my new pants ended,<br>
 I was feeling pretty gosh darn offended.
 
-![Illustration](image/poetry-0100-ending.jpg)
+![Riding The Trail](image/poetry-0100-ending.jpg)
 
 <br><br>
 
@@ -4150,7 +4237,7 @@ is to enlarge that part that holds the soul.
 At the end,<br>
 they had The Waltz (possibly a large replica as it had more detail, this was some 13 years ago), that dancing couple by [Camille Claudel](https://en.wikipedia.org/wiki/Camille_Claudel).
 
-![Illustration](image/poetry-0088-lavalse.jpg)
+![The Waltz](image/poetry-0088-lavalse.jpg)
 
 I started crying,<br>
 her hand, had so much feeling in that gentle arch, there was so much touch.
@@ -4329,7 +4416,7 @@ but my aim is one hour, to do the whole five miles.
 And you know what, just after two weeks,<br>
 I run a lot faster; and I have rosy cheeks!
 
-![Illustration](image/poetry-0087-face.jpg)
+![Face](image/poetry-0087-face.jpg)
 
 <br><br>
 
@@ -4541,7 +4628,7 @@ I think I am going through a poetic drought.
 I guess this happens every once in a while,<br>
 so it is not a reason not to smile.
 
-![Illustration](image/poetry-0083-guess.jpg)
+![Guess](image/poetry-0083-guess.jpg)
 
 But I thought I was already better than that,<br>
 I felt like the world's most poetic cat.
@@ -4552,7 +4639,7 @@ though I promise not to whine.
 Maybe, there is way to break through by block,<br>
 perhaps I should stop staring at the clock.
 
-![Illustration](image/poetry-0083-amaze.jpg)
+![Amaze](image/poetry-0083-amaze.jpg)
 
 Oh yes, this worked, I feel much better meow!<br>
 I remembered every word, wow!
@@ -4563,7 +4650,7 @@ top, mop, wall, ball, duck, truck, mouse house, and blouse.
 And what a story that would rhyme,<br>
 had I not ran out of time.
 
-![Illustration](image/poetry-0083-noes.jpg)
+![Noes](image/poetry-0083-noes.jpg)
 
 <br><br>
 
@@ -4895,7 +4982,7 @@ you can prevent the little ones from ending up in the same place.
 In that way, you take the pain of those Punished and use it for a thing that matters,<br>
 preventing children from following in their footsteps.
 
-![Illustration](image/poetry-0079-martorano.jpg)
+![Martorano](image/poetry-0079-martorano.jpg)
 
 And we get to feel others,<br>
 we get to feel when they have been Wronged.
@@ -5890,7 +5977,7 @@ I rested, but tomorrow I'll have to train double.
 I always tell people not to rest,<br>
 let Mother Mature decide, she knows best.
 
-![Illustration](image/poetry-0074-waiting.jpg)
+![Waiting](image/poetry-0074-waiting.jpg)
 
 <br><br>
 
@@ -6272,7 +6359,7 @@ but, if you go out there, be ready for his smart little hands,
 Bring a travel lock to secure the zippers on your tent,<br>
 and remember, Friday loves you as friend, he means no ill intent.
 
-![Illustration](image/poetry-0070-nurnberg.jpg)
+![Nurnberg](image/poetry-0070-nurnberg.jpg)
 
 My Dear Readers, we may each need a few weeks of Wilderness in our life,<br>
 so start slowly packing, buy a backpack, bug spray, and a knife,
@@ -6391,7 +6478,7 @@ but waiving their hands, it was a danger they were portraying.
 But, I was like, "Oh, whopped do, who knows..."<br>
 and in the next moment, I had to take off most of my clothes.
 
-![Illustration](image/poetry-0068-noclothes.jpg)
+![No Clothes](image/poetry-0068-noclothes.jpg)
 
 I have never been in such great rain,<br>
 it was like standing next to a burst water main.
@@ -6405,7 +6492,7 @@ and then I had to hang out all my clothes to dry.
 The 13 mile ride back home was full of mud,<br>
 I had to lift my legs, and will my bike across a flood.
 
-![Illustration](image/poetry-0068-mud.jpg)
+![Mud](image/poetry-0068-mud.jpg)
 
 I am so glad no one will ever know about this,<br>
 but still, these are the memorable moments
@@ -6731,7 +6818,7 @@ I believe in you, I really do.
 Oh it was cold that morning,<br>
 the sudden change came without warning.
 
-![cold](image/poetry-0063-cold.jpg)
+![Cold](image/poetry-0063-cold.jpg)
 
 While the sunsets are over the sea,<br>
 the sunrise, must rise from behind dunes.
@@ -6739,7 +6826,7 @@ the sunrise, must rise from behind dunes.
 There are no dunes taller than these,<br>
 they are ancient, born of frozen seas.
 
-![cold](image/poetry-0063-mist.jpg)
+![Mist](image/poetry-0063-mist.jpg)
 
 The deer were the first to rise,<br>
 to them belonged the sunrise.
@@ -6747,12 +6834,12 @@ to them belonged the sunrise.
 There is a place where the dunes part,<br>
 by some unknown art.
 
-![art](image/poetry-0063-art.jpg)
+![Art](image/poetry-0063-art.jpg)
 
 The deers come out,<br>
 it is their lake, no doubt.
 
-![deer](image/poetry-0063-deer.jpg)
+![Deer](image/poetry-0063-deer.jpg)
 
 When the sun finally made it,<br>
 the warm air rolled down the dune.
@@ -6766,12 +6853,12 @@ and their breakfast followed.
 Two eagles came by,<br>
 to keep an eye from the sky.
 
-![seagull](image/poetry-0063-seagull.jpg)
+![Seagull](image/poetry-0063-seagull.jpg)
 
 My beloved Seagull friend and I rejoiced,<br>
 another perfect morning.
 
-![perfect](image/poetry-0063-perfect.jpg)
+![Perfect](image/poetry-0063-perfect.jpg)
 
 (My seagull friend's name is Bob.<br>
 I called them all Bob.

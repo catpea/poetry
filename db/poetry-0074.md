@@ -43,4 +43,4 @@ I rested, but tomorrow I'll have to train double.
 I always tell people not to rest,<br>
 let Mother Mature decide, she knows best.
 
-![Illustration](image/poetry-0074-waiting.jpg)
+![Waiting](image/poetry-0074-waiting.jpg)

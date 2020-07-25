@@ -21,7 +21,7 @@ I think I am going through a poetic drought.
 I guess this happens every once in a while,<br>
 so it is not a reason not to smile.
 
-![Illustration](image/poetry-0083-guess.jpg)
+![Guess](image/poetry-0083-guess.jpg)
 
 But I thought I was already better than that,<br>
 I felt like the world's most poetic cat.
@@ -32,7 +32,7 @@ though I promise not to whine.
 Maybe, there is way to break through by block,<br>
 perhaps I should stop staring at the clock.
 
-![Illustration](image/poetry-0083-amaze.jpg)
+![Amaze](image/poetry-0083-amaze.jpg)
 
 Oh yes, this worked, I feel much better meow!<br>
 I remembered every word, wow!
@@ -43,4 +43,4 @@ top, mop, wall, ball, duck, truck, mouse house, and blouse.
 And what a story that would rhyme,<br>
 had I not ran out of time.
 
-![Illustration](image/poetry-0083-noes.jpg)
+![Noes](image/poetry-0083-noes.jpg)

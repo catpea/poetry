@@ -182,7 +182,7 @@ is to enlarge that part that holds the soul.
 At the end,<br>
 they had The Waltz (possibly a large replica as it had more detail, this was some 13 years ago), that dancing couple by [Camille Claudel](https://en.wikipedia.org/wiki/Camille_Claudel).
 
-![Illustration](image/poetry-0088-lavalse.jpg)
+![The Waltz](image/poetry-0088-lavalse.jpg)
 
 I started crying,<br>
 her hand, had so much feeling in that gentle arch, there was so much touch.

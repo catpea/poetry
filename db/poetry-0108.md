@@ -51,7 +51,7 @@ they still didn't fix anything, bumps and shrubs were blocking the way.
 I took a photo to share with you,<br>
 just in case you were thinking about going or pushing through.
 
-![Illustration](image/poetry-0108-end.jpg)
+![Path](image/poetry-0108-end.jpg)
 
 The [actual ancient end of the trail](https://goo.gl/maps/oRaowTwL1cdz5G549) is not that far away,<br>
 about 2.6 miles south, but you are better off walking the rest of the way.

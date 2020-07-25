@@ -141,7 +141,7 @@ you can prevent the little ones from ending up in the same place.
 In that way, you take the pain of those Punished and use it for a thing that matters,<br>
 preventing children from following in their footsteps.
 
-![Illustration](image/poetry-0079-martorano.jpg)
+![Martorano](image/poetry-0079-martorano.jpg)
 
 And we get to feel others,<br>
 we get to feel when they have been Wronged.

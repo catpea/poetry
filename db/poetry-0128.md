@@ -43,6 +43,4 @@ But I think the woodland trail is the best because there is a lot of shade,<br>
 I imagine that's why it was made.
 
 
-
-
-![Illustration](image/poetry-0128-end.jpg)
+![Adventurer](image/poetry-0128-end.jpg)

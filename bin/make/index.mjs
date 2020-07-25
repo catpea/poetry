@@ -61,6 +61,27 @@ fs.readdirSync(path.resolve(options.db.path), { withFileTypes: true })
 .filter(o=>o.name !== 'css') // MARKDOWN ZONE drop css folder, or just use images
 .map(o=>{fs.copySync(o.path, path.join(options.readme.path, o.name) ); return o;})
 
+
+
+function createImageMetadata(o){
+  const duplicateLabels = new Set();
+  const response = [];
+  const regex = /\!\[(?<label>.*)\]\(image\/(?<file>.*)\)/gm;
+  const str = o.content;
+  const matches = str.matchAll(regex);
+  for (const match of matches) {
+    if(match){
+      if(match.groups){
+        const {label, file} = match.groups;
+        if(!label) console.log(`WARN: Unlabeled image (${file}), all images should have unique lables. File: ${o.path}`);
+        if(duplicateLabels.has(label)) console.log(`WARN: Same label (${label}) used for multiple immages, all images should have unique lables. File: ${o.path}`); duplicateLabels.add(label);
+        response.push({label, file});
+      }
+    }
+  }
+  return response;
+}
+
 const data = fs.readdirSync(path.resolve(options.db.path), { withFileTypes: true })
 .filter(o => o.isFile())
 .map(o => o.name)
@@ -70,10 +91,16 @@ const data = fs.readdirSync(path.resolve(options.db.path), { withFileTypes: true
 .map(o => ({ ...o, raw: fs.readFileSync(o.path).toString() }))
 .map(o => ({ ...o, ...matter(o.raw) }))
 .map(o => ({ ...o, html: marked(o.content, {}) }))
+.map(o => ({ ...o, images: createImageMetadata(o) }))
 .reverse()
 
 
 
+
+
+
+
+// TODO: This needs a pager.
 const htmlVersion = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -104,6 +131,7 @@ const htmlVersion = `<!DOCTYPE html>
 </body>
 </html>
 `;
+
 fs.ensureDirSync(options.html.path);
 fs.writeFileSync(path.join(options.html.path,options.html.file), pretty(htmlVersion));
 
@@ -111,7 +139,11 @@ fs.ensureDirSync(options.docs.path);
 fs.writeFileSync(path.join(options.docs.path,options.docs.file), pretty(htmlVersion));
 
 
-const mdVersion = `# ${options.title}
+
+
+
+// NOTE: Used for github readme.
+let mdVersion = `# ${options.title}
 
 ${data.map(o => `## ${o.data.title}
 ### ${moment((new Date(o.data.date))).tz("America/Detroit").format("MMMM Do YYYY, h:mm:ss a z")}
@@ -121,6 +153,7 @@ ${o.content}
 `).join('\n')}
 
 `;
+
 fs.ensureDirSync(options.md.path);
 fs.writeFileSync(path.join(options.md.path, options.md.file), mdVersion);
 fs.writeFileSync(path.join(options.readme.path, options.readme.file), mdVersion);
@@ -137,6 +170,13 @@ module.exports = main;
 `;
 fs.ensureDirSync(options.js.path);
 fs.writeFileSync(path.join(options.js.path,options.js.file), jsVersion);
+
+
+
+
+
+
+
 
 
 
@@ -161,3 +201,10 @@ main();
 fs.ensureDirSync(options.sh.path);
 fs.writeFileSync(path.join(options.sh.path,options.sh.file), shVersion);
 fs.chmodSync(path.join(options.sh.path,options.sh.file), 0o755);
+
+
+// TODO: Add RSS/Atom/Json feeds
+// TODO: Add a pager'ed version, this is a JSON structure with 10 entries per page, and pager information.
+// TODO: Generate Audiobook
+// TODO: Generate YouTube Video
+// TODO: Generate entire website, based on pico with complex folder structure that honors tags. THis should be backwards compatible with older browsers

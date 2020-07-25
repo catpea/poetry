@@ -39,4 +39,4 @@ I sat there a bit, wondering "Why me?"<br>
 To be honest, until I realized that's simply where my new pants ended,<br>
 I was feeling pretty gosh darn offended.
 
-![Illustration](image/poetry-0100-ending.jpg)
+![Riding The Trail](image/poetry-0100-ending.jpg)

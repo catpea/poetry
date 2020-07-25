@@ -30,7 +30,7 @@ but waiving their hands, it was a danger they were portraying.
 But, I was like, "Oh, whopped do, who knows..."<br>
 and in the next moment, I had to take off most of my clothes.
 
-![Illustration](image/poetry-0068-noclothes.jpg)
+![No Clothes](image/poetry-0068-noclothes.jpg)
 
 I have never been in such great rain,<br>
 it was like standing next to a burst water main.
@@ -44,7 +44,7 @@ and then I had to hang out all my clothes to dry.
 The 13 mile ride back home was full of mud,<br>
 I had to lift my legs, and will my bike across a flood.
 
-![Illustration](image/poetry-0068-mud.jpg)
+![Mud](image/poetry-0068-mud.jpg)
 
 I am so glad no one will ever know about this,<br>
 but still, these are the memorable moments
