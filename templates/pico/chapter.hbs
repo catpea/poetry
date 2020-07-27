@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Warrior</title>
+  {{> stylesheet}}
+  {{> script}}
+  <script src="js/theme.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+  <header>
+    <hgroup>
+      <h1>{{title}}</h1>
+      <h2><a href="index.html" style="color: inherit;">Warrior</a></h2>
+    </hgroup>
+  </header>
+
+  <main>
+    {{> sections}}
+  </main>
+
+  <header>
+    <nav>
+      <ul>
+        {{#if next}}
+          <li><a href="{{next.name}}.html" style="font-size: 2rem;">Next: {{next.title}}&nbsp;&raquo;</a></li>
+        {{/if}}
+        {{#unless next}}
+          <li><a href="index.html" style="font-size: 2rem;">The End</a></li>
+        {{/unless}}
+      </ul>
+    </nav>
+    <nav>
+      <ul>
+        {{#if previous}}
+        <li><a href="{{previous.name}}.html">Previous: {{previous.title}}</a></li>
+        {{/if}}
+      </ul>
+    </nav>
+    <nav>
+      <ul>
+        <li><a href="index.html">Table of Contents</a></li>
+      </ul>
+    </nav>
+  </header>
+
+</body>
+</html>

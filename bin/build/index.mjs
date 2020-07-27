@@ -6,14 +6,20 @@ import fs from 'fs-extra';
 import path from 'path';
 import matter from 'gray-matter';
 import pretty from 'pretty';
+import prettier from 'prettier';
+
 import marked from 'marked';
 import moment from 'moment';
 import tz from 'moment-timezone';
 import kebabCase from 'lodash/kebabCase.js';
 import startCase from 'lodash/startCase.js';
 import padStart from 'lodash/padStart.js';
+import handlebars from 'handlebars';
+
+
 
 import beautifulPagination from 'beautiful-pagination';
+
 
 
 
@@ -23,46 +29,65 @@ const options = {
   source: 'https://github.com/catpea/poetry',
   website: 'http://catpea.com',
 
-  //
+  // Database Containing Posts
   sourceDatabase: {
     path: './db',
+    audio: './db/audio',
+    image: './db/image',
   },
 
-
-  dist: {
+  // Root Directory for all the generated code.
+  distributionDirectory: {
     path: './dist',
   },
 
-  docs: {
-    path: './docs',
-    file: 'index.html',
+  // Configuration for the poetry book generation
+  poetryBook: {
+
+    canonical: 'https://catpea.com/',
+    directory: 'poetry-book',
+    index: 'index.html',
+    changelog: 'changelog.html',
+    page:'page-{{id}}.html',
+
+    template: {
+      files: 'templates/poetry-book/files',
+      path: 'templates/poetry-book',
+      page: 'page.hbs',
+      index: 'index.hbs',
+      changelog: 'changelog.hbs',
+    }
+
   },
 
-
-  html: {
-    path: './dist',
-    file: 'index.html',
-  },
-  md: {
-    path: './dist',
-    file: 'README.md',
-  },
-  readme: {
-    path: './',
-    file: 'README.md',
-  },
-  js: {
-    path: './dist',
-    file: 'index.js',
-  },
-  mjs: {
-    path: './dist',
-    file: 'index.mjs',
-  },
-  sh: {
-    path: './dist',
-    file: 'advice.sh',
-  },
+  //
+  // docs: {
+  //   path: './docs',
+  //   file: 'index.html',
+  // },
+  //
+  //
+  //
+  // md: {
+  //   path: './dist',
+  //   file: 'README.md',
+  // },
+  // readme: {
+  //   path: './',
+  //   file: 'README.md',
+  // },
+  // js: {
+  //   path: './dist',
+  //   file: 'index.js',
+  // },
+  // mjs: {
+  //   path: './dist',
+  //   file: 'index.mjs',
+  // },
+  // sh: {
+  //   path: './dist',
+  //   file: 'advice.sh',
+  // },
 }
 
 // fs.ensureDirSync(options.docs.path);
@@ -81,7 +106,7 @@ function createImageMetadata(o){
   const duplicateLabels = new Set();
   const response = [];
   const regex = /\!\[(?<label>.*)\]\(image\/(?<file>.*)\)/gm;
-  const str = o.content;
+  const str = o.data.md;
   const matches = str.matchAll(regex);
   for (const match of matches) {
     if(match){
@@ -95,24 +120,128 @@ function createImageMetadata(o){
   }
   return response;
 }
+function createSoundMetadata(o){
+  const duplicateLabels = new Set();
+  const response = [];
+  const regex = /\[(?<label>.*)\]\(audio\/(?<file>.*)\)/gm;
+  const str = o.data.md;
+  const matches = str.matchAll(regex);
+  for (const match of matches) {
+    if(match){
+      if(match.groups){
+        const {label, file} = match.groups;
+        if(!label) console.log(`WARN: Unlabeled sound (${file}), all sounds should have unique lables. File: ${o.path}`);
+        if(duplicateLabels.has(label)) console.log(`WARN: Same label (${label}) used for multiple sounds, all sounds should have unique lables. File: ${o.path}`); duplicateLabels.add(label);
+        response.push({label, file});
+      }
+    }
+  }
+  return response;
+}
 
 const dataStream = fs.readdirSync(path.resolve(options.sourceDatabase.path), { withFileTypes: true })
 .filter(o => o.isFile())
 .map(o => o.name)
 .filter(s => s.endsWith('.md'))
 .sort() // sorted by id which is specially formatted: db/poetry-000n.md
-.map(name => ({ name, path: path.join(options.sourceDatabase.path, name) }))
-.map(o => ({ ...o, raw: fs.readFileSync(o.path).toString() }))
-.map(o => ({ ...o, ...matter(o.raw) }))
-.map(o => ({ ...o, html: marked(o.content, {}) }))
-.map(o => ({ ...o, images: createImageMetadata(o) }))
-.reverse() // now the top entry will be latest
+.map(name => ({
+  meta: {
+    name: path.basename(name, '.md'),
+    path: path.join(options.sourceDatabase.path, name)
+  },
+  data:{}
+}))
+.map(o => {
 
-const pageStream = beautifulPagination(dataStream,{perPage: 3});
+  const raw = fs.readFileSync(o.meta.path).toString();
+  const {data:properties, content} = matter(raw);
+  const html = marked(content, {})
 
-console.log(pageStream);
+  // Cleanup matter properties
+  delete properties.raw;
+  delete properties.excerpt;
+  delete properties.isEmpty;
 
-console.log(inspect(pageStream, { showHidden: true, depth: null }));
+  properties.tags = properties.tags.split(" ");
+
+  Object.assign(o.meta, properties);
+  o.data.md = content
+  o.data.html = html;
+
+  o.meta.images = createImageMetadata(o);
+  o.meta.sounds = createSoundMetadata(o);
+
+  return o;
+})
+.reverse() // now latest post will be the top entry
+
+const perPage = 3;
+while(dataStream.length%perPage){
+  dataStream.unshift(null);
+}
+
+const pageStream = beautifulPagination(dataStream, {perPage});
+// fs.emptyDirSync(path.resolve(options.distributionDirectory.path));
+//
+// console.log(pageStream);
+//
+// console.log(inspect(pageStream, { showHidden: true, depth: null }));
+
+
+
+fs.emptyDirSync(path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory)));
+fs.copySync(path.resolve(options.poetryBook.template.files), path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory)))
+
+fs.copySync(path.resolve(options.sourceDatabase.audio), path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, path.basename(path.resolve(options.sourceDatabase.audio)))))
+fs.copySync(path.resolve(options.sourceDatabase.image), path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, path.basename(path.resolve(options.sourceDatabase.image)))))
+
+ const pageTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.page))).toString());
+// console.log(template({}));
+
+//console.log(template({ name: "Nils" }));
+
+
+for (let pagePosts of pageStream.data){
+  //console.log(pagePosts);
+
+
+
+
+  const fileNameTemplate = handlebars.compile(options.poetryBook.page);
+  const fileNames = {
+    currentFileName: fileNameTemplate({id:pagePosts.meta.currentSection}),
+    olderFileName: fileNameTemplate({id:pagePosts.meta.olderSection}),
+    newerFileName: fileNameTemplate({id:pagePosts.meta.newerSection}),
+  };
+  //console.log(pagePosts.meta.isLast?'NO MORE     ':fileNames.olderFileName,fileNames.currentFileName,pagePosts.meta.isFirst?'NO MORE      ':fileNames.newerFileName, pagePosts.meta.isFirst?'START':'', pagePosts.meta.isLast?'END':'');
+
+  const variables = Object.assign({
+    canonical: options.poetryBook.canonical,
+    poem: pagePosts.data.filter(i=>i).map(o=>{
+      o.meta.timestamp = moment((new Date(o.meta.date))).tz("America/Detroit").format("MMMM Do YYYY, h:mm:ss a z");
+      return o;
+    }),
+  }, fileNames, pagePosts);
+
+  let pageHtml = pageTemplate(variables);
+  pageHtml = pretty(pageHtml, {ocd: true});
+  const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, fileNames.currentFileName));
+  //console.log(fileLocation);
+  fs.writeFileSync(fileLocation, pageHtml);
+  // console.log(pageHtml);
+
+  // NOTE: INDEX LOGIC
+  if(pagePosts.meta.isFirst){
+    // This is the index page
+    const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, options.poetryBook.index));
+    fs.writeFileSync(fileLocation, pageHtml);
+  }
+
+
+
+  //break;
+}
+
 
 //
 //

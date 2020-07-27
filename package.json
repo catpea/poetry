@@ -28,6 +28,7 @@
     "moment": "^2.25.3",
     "moment-timezone": "^0.5.28",
     "oneof": "^2.0.0",
+    "prettier": "^2.0.5",
     "pretty": "^2.0.0",
     "rhyme": "0.0.3",
     "username": "^5.1.0"

@@ -1,0 +1,22 @@
+img {
+  border-radius: .5rem;
+  box-shadow: var(--card-shadow);
+}
+
+/*
+img.desaturate {
+  filter: grayscale(80%);
+  transition: filter 1s ease-in-out;
+}
+
+img.desaturate:hover {
+  filter: grayscale(0);
+} */
+
+body {
+  padding: 1rem;
+}
+
+article {
+  margin-bottom: 5rem;
+}

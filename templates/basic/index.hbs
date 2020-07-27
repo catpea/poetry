@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Warrior</title>
+    {{> stylesheet}}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <main>
+      <h1>Warrior</h1>
+      <article>
+        <h3>For My Friends</h3>
+        <blockquote>
+          A Warrior is She that thrives and triumphs where’er She be.
+        </blockquote>
+      </article>
+      <article>
+        <h2>Table Of Contents</h2>
+        <ul>
+          {{#each links}}
+            <li><a href="{{href}}">{{title}}</a></li>
+          {{/each}}
+        </ul>
+      </article>
+    </main>
+    <aside>
+      <p>
+        <a href="changelog.html">Changelog</a>
+        &middot;
+        <a href="https://github.com/catpea/warrior/issues">Bugs &amp Issues</a>
+      </p>
+    </aside>
+  </body>
+</html>

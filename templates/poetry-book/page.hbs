@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <title>Cat Pea News Network</title>
+    <meta name="description" content="Cat Pea News Network">
+    <link rel="canonical" href="{{canonical}}">
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="css/pico.min.css">
+    <link rel="stylesheet" href="css/custom.css"/>
+    <script src="js/theme.js"></script>
+  </head>
+
+  <body>
+
+    {{#if meta.isFirst}}
+    <header>
+      <hgroup>
+        <h1>Cat Pea</h1>
+        <p>Poetry, evey day.</p>
+      </hgroup>
+    </header>
+    {{/if}}
+
+    <main>
+      {{#each poem}}
+        <article class="log-entry" itemscope itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="dateCreated" datetime="{{meta.date}}">
+          <header>
+            <hgroup>
+              <h2>{{meta.title}}</h2>
+              <h3>{{meta.timestamp}}</h3>
+            </hgroup>
+          </header>
+          {{{data.html}}}
+        </article>
+      {{/each}}
+    </main>
+
+    <article>
+      <nav>
+        {{#unless meta.isLast}}
+          <a href="{{olderFileName}}" role="button">&laquo;&nbsp; Older</a>
+        {{/unless}}
+        <!-- <a href="/" role="button" class="secondary">Newest</a> -->
+        {{#unless meta.isFirst}}
+          <a href="{{newerFileName}}" role="button" class="secondary">Newer &nbsp;&raquo;</a>
+        {{/unless}}
+      </nav>
+    </article>
+
+    <footer>
+      <p>
+        <small><a href="{{canonical}}" class="secondary">Cat Pea</a> · <a href="https://github.com/catpea/poetry" class="secondary">Source Code</a> &middot; <a href="https://catpea.github.io/poetry/" class="secondary">Mirror</a></small>
+      </p>
+    </footer>
+
+  </body>
+
+</html>
