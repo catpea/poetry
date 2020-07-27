@@ -49,8 +49,8 @@ that our life is one, in many profound ways.
 That authenticity is not some ideal,<br>
 but just another name for Health, for Sanity, for Strength.
 
-When we are older we realize that shortcuts are worthless and dishonest,<br>
-that they only lead to some sacrifice, some piece of us that we never get back.
+When we are older we realize that shortcuts are worthless,<br>
+that they only lead to some sacrifice.
 
 That throughout our entire lives,<br>
 **the longest way**, was the only way.
