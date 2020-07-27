@@ -1,8 +1,8 @@
 # Poetry
 
 ## Ensue
-### July 26th 2020, 6:31:15 pm EDT
-<meta itemprop="dateCreated" datetime="2020-07-26T22:31:15.289Z">
+### July 26th 2020, 11:47:43 pm EDT
+<meta itemprop="dateCreated" datetime="2020-07-27T03:47:43.249Z">
 
 ![Illustration](image/poetry-0148-illustration.jpg)
 

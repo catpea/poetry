@@ -3,7 +3,7 @@ id: poetry-0148
 title: Ensue
 category: poetry
 tags: Listen Poem
-date: 2020-07-26T22:31:15.289Z
+date: 2020-07-27T03:47:43.249Z
 draft: false
 deleted: false
 ---
