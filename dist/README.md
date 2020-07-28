@@ -1,8 +1,8 @@
 # Poetry
 
 ## A Good Night's Rest
-### July 27th 2020, 9:54:56 pm EDT
-<meta itemprop="dateCreated" datetime="2020-07-28T01:54:56.159Z">
+### July 27th 2020, 11:25:02 pm EDT
+<meta itemprop="dateCreated" datetime="2020-07-28T03:25:02.997Z">
 
 ![Illustration](image/poetry-0149-illustration.jpg)
 
