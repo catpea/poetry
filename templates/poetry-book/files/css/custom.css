@@ -20,3 +20,7 @@ body {
 article {
   margin-bottom: 5rem;
 }
+
+small {
+  color: gray;
+}

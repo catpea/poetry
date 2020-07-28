@@ -4,9 +4,12 @@ import {inspect} from 'util';
 
 import fs from 'fs-extra';
 import path from 'path';
+
 import matter from 'gray-matter';
+
 import pretty from 'pretty';
 import prettier from 'prettier';
+import cheerio from 'cheerio';
 
 import marked from 'marked';
 import moment from 'moment';
@@ -25,6 +28,7 @@ import beautifulPagination from 'beautiful-pagination';
 
 const options = {
   title: 'Poetry',
+  author: 'Dr. Meow',
 
   source: 'https://github.com/catpea/poetry',
   website: 'http://catpea.com',
@@ -46,15 +50,23 @@ const options = {
 
     canonical: 'https://catpea.com/',
     directory: 'poetry-book',
+
     index: 'index.html',
+
     changelog: 'changelog.html',
-    page:'page-{{id}}.html',
+
+    sectionFileName:'section-{{id}}.html',
+    sectionName:'section-{{id}}',
 
     template: {
       files: 'templates/poetry-book/files',
       path: 'templates/poetry-book',
+
       page: 'page.hbs',
       index: 'index.hbs',
+      poem: 'poem.hbs',
+      print: 'print.hbs',
+
       changelog: 'changelog.hbs',
     }
 
@@ -114,7 +126,7 @@ function createImageMetadata(o){
         const {label, file} = match.groups;
         if(!label) console.log(`WARN: Unlabeled image (${file}), all images should have unique lables. File: ${o.path}`);
         if(duplicateLabels.has(label)) console.log(`WARN: Same label (${label}) used for multiple immages, all images should have unique lables. File: ${o.path}`); duplicateLabels.add(label);
-        response.push({label, file});
+        response.push({path:'image', label, file});
       }
     }
   }
@@ -132,11 +144,32 @@ function createSoundMetadata(o){
         const {label, file} = match.groups;
         if(!label) console.log(`WARN: Unlabeled sound (${file}), all sounds should have unique lables. File: ${o.path}`);
         if(duplicateLabels.has(label)) console.log(`WARN: Same label (${label}) used for multiple sounds, all sounds should have unique lables. File: ${o.path}`); duplicateLabels.add(label);
-        response.push({label, file});
+        response.push({path:'audio',label, file});
       }
     }
   }
   return response;
+}
+
+function upgradeAudioLinks(str){
+  const $ = cheerio.load(str);
+  const node = $('a[href$=".mp3"]');
+  node.attr('role', 'button')
+  node.attr('rel', 'noopener noreferrer')
+  node.attr('target', '_blank')
+  node.addClass('no-print')
+  return $.html('body > *');
+}
+
+function upgradeDividersForPrinting(str){
+  const $ = cheerio.load(str);
+  // const node = $('p > br + br');
+  // node.parent().addClass('page-break-after')
+
+  const node = $('img[alt="Illustration"]');
+  node.addClass('page-break-after')
+
+  return $.html('body > *');
 }
 
 const dataStream = fs.readdirSync(path.resolve(options.sourceDatabase.path), { withFileTypes: true })
@@ -164,6 +197,10 @@ const dataStream = fs.readdirSync(path.resolve(options.sourceDatabase.path), { w
 
   properties.tags = properties.tags.split(" ");
 
+  properties.timestamp = moment((new Date(properties.date))).tz("America/Detroit").format("MMMM Do YYYY, h:mm:ss a z");
+  properties.author = options.author;
+  properties.canonical = options.poetryBook.canonical;
+
   Object.assign(o.meta, properties);
   o.data.md = content
   o.data.html = html;
@@ -171,76 +208,216 @@ const dataStream = fs.readdirSync(path.resolve(options.sourceDatabase.path), { w
   o.meta.images = createImageMetadata(o);
   o.meta.sounds = createSoundMetadata(o);
 
+  o.data.html = upgradeAudioLinks(o.data.html);
+  o.data.html = upgradeDividersForPrinting(o.data.html);
+
   return o;
 })
+.filter(o=>o.meta.tags.includes('Poem'))
 .reverse() // now latest post will be the top entry
 
-const perPage = 3;
-while(dataStream.length%perPage){
-  dataStream.unshift(null);
-}
-
-const pageStream = beautifulPagination(dataStream, {perPage});
-// fs.emptyDirSync(path.resolve(options.distributionDirectory.path));
-//
-// console.log(pageStream);
-//
-// console.log(inspect(pageStream, { showHidden: true, depth: null }));
+const pageStream = beautifulPagination(dataStream, {
+  perPage:7,
+  sectionFileName: options.poetryBook.sectionFileName,
+  sectionName: options.poetryBook.sectionName,
+});
 
 
+
+
+
+
+
+// TODO: USE THIS fs.emptyDirSync(path.resolve(options.distributionDirectory.path));
 
 fs.emptyDirSync(path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory)));
 fs.copySync(path.resolve(options.poetryBook.template.files), path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory)))
-
 fs.copySync(path.resolve(options.sourceDatabase.audio), path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, path.basename(path.resolve(options.sourceDatabase.audio)))))
 fs.copySync(path.resolve(options.sourceDatabase.image), path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, path.basename(path.resolve(options.sourceDatabase.image)))))
 
- const pageTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.page))).toString());
-// console.log(template({}));
-
-//console.log(template({ name: "Nils" }));
 
 
+const sectionStack = [];
 for (let pagePosts of pageStream.data){
-  //console.log(pagePosts);
+  sectionStack.push(pagePosts);
+}
 
 
 
 
-  const fileNameTemplate = handlebars.compile(options.poetryBook.page);
-  const fileNames = {
-    currentFileName: fileNameTemplate({id:pagePosts.meta.currentSection}),
-    olderFileName: fileNameTemplate({id:pagePosts.meta.olderSection}),
-    newerFileName: fileNameTemplate({id:pagePosts.meta.newerSection}),
-  };
-  //console.log(pagePosts.meta.isLast?'NO MORE     ':fileNames.olderFileName,fileNames.currentFileName,pagePosts.meta.isFirst?'NO MORE      ':fileNames.newerFileName, pagePosts.meta.isFirst?'START':'', pagePosts.meta.isLast?'END':'');
 
-  const variables = Object.assign({
-    canonical: options.poetryBook.canonical,
-    poem: pagePosts.data.filter(i=>i).map(o=>{
-      o.meta.timestamp = moment((new Date(o.meta.date))).tz("America/Detroit").format("MMMM Do YYYY, h:mm:ss a z");
-      return o;
-    }),
-  }, fileNames, pagePosts);
 
+
+
+
+
+
+
+// NOTE: Create all the pages.
+const pageTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.page))).toString());
+
+for (let variables of sectionStack){
+  // NOTE: Render pageTemplate and save the page
   let pageHtml = pageTemplate(variables);
   pageHtml = pretty(pageHtml, {ocd: true});
-  const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, fileNames.currentFileName));
-  //console.log(fileLocation);
+  const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, variables.meta.currentFileName));
   fs.writeFileSync(fileLocation, pageHtml);
-  // console.log(pageHtml);
-
-  // NOTE: INDEX LOGIC
-  if(pagePosts.meta.isFirst){
-    // This is the index page
-    const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, options.poetryBook.index));
-    fs.writeFileSync(fileLocation, pageHtml);
-  }
-
-
-
-  //break;
 }
+
+
+
+
+
+// NOTE: Create poem specific pages.
+const poemTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.poem))).toString());
+
+// for (let poem of dataStream){
+//   // NOTE: Render poemTemplate and save the page
+//   let poemHtml = poemTemplate(poem);
+//   poemHtml = pretty(poemHtml, {ocd: true});
+//   const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, poem.meta.id + '.html'));
+//   fs.writeFileSync(fileLocation, poemHtml);
+//   console.log('Written',fileLocation);
+// }
+
+for (let section of sectionStack){
+  for (let poem of section.data){
+
+    // NOTE: Render pageTemplate and save the page
+    let pageHtml = poemTemplate(Object.assign({sectionFileName: section.meta.currentFileName},poem));
+    pageHtml = pretty(pageHtml, {ocd: true});
+
+    const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, poem.meta.id + '.html'));
+    fs.writeFileSync(fileLocation, pageHtml);
+
+  }
+}
+
+
+
+// NOTE: Create poem specific pages.
+const printTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.print))).toString());
+for (let poem of dataStream){
+  // NOTE: Render poemTemplate and save the page
+  let poemHtml = printTemplate(poem);
+  poemHtml = pretty(poemHtml, {ocd: true});
+  const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, 'print-' + poem.meta.id + '.html'));
+  fs.writeFileSync(fileLocation, poemHtml);
+}
+
+
+
+
+// NOTE: Creation of an easy to browse table of contents, based on sections.
+
+const indexTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.index))).toString());
+const indexLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, options.poetryBook.index));
+
+// NOTE: Render Template
+let indexHtml = indexTemplate({section:sectionStack});
+indexHtml = pretty(indexHtml, {ocd: true});
+
+// NOTE: Save the page to index file
+fs.writeFileSync(indexLocation, indexHtml);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
+//
+//
+// // NOTE: Create all the pages.
+//
+// const pageTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.page))).toString());
+//
+// for (let pagePosts of pageStream.data){
+//   //console.log(pagePosts);
+//
+//   // NOTE: using filename template establish filenames
+//   const fileNameTemplate = handlebars.compile(options.poetryBook.page);
+//   const fileNames = {
+//     currentFileName: fileNameTemplate({id:pagePosts.meta.currentSection}),
+//     olderFileName: fileNameTemplate({id:pagePosts.meta.olderSection}),
+//     newerFileName: fileNameTemplate({id:pagePosts.meta.newerSection}),
+//   };
+//   //console.log(pagePosts.meta.isLast?'NO MORE     ':fileNames.olderFileName,fileNames.currentFileName,pagePosts.meta.isFirst?'NO MORE      ':fileNames.newerFileName, pagePosts.meta.isFirst?'START':'', pagePosts.meta.isLast?'END':'');
+//
+//   // NOTE: Prepare variables for the page template
+//   const variables = Object.assign({
+//     canonical: options.poetryBook.canonical,
+//     poem: pagePosts.data.filter(i=>i).map(o=>{
+//       o.meta.timestamp = moment((new Date(o.meta.date))).tz("America/Detroit").format("MMMM Do YYYY, h:mm:ss a z");
+//       return o;
+//     }),
+//   }, fileNames, pagePosts);
+//
+//   // NOTE: Render Template and save the page
+//   let pageHtml = pageTemplate(variables);
+//   pageHtml = pretty(pageHtml, {ocd: true});
+//   const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, fileNames.currentFileName));
+//   fs.writeFileSync(fileLocation, pageHtml);
+//
+//
+//   // // NOTE: INDEX LOGIC
+//   // if(pagePosts.meta.isFirst){
+//   //   // This is the index page
+//   //   const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, options.poetryBook.index));
+//   //   fs.writeFileSync(fileLocation, pageHtml);
+//   // }
+//
+//   //break;
+// }
+
+
+// NOTE: Creation of an easy to browse table of contents, based on sections.
+//
+// const tocTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.index))).toString());
+// for (let pagePosts of pageStream.data){
+//
+//   // NOTE: using filename template establish filenames
+//   const fileNameTemplate = handlebars.compile(options.poetryBook.page);
+//   const fileNames = {
+//     currentFileName: fileNameTemplate({id:pagePosts.meta.currentSection}),
+//     olderFileName: fileNameTemplate({id:pagePosts.meta.olderSection}),
+//     newerFileName: fileNameTemplate({id:pagePosts.meta.newerSection}),
+//   };
+//
+//   // NOTE: Prepare variables for the page template
+//   const variables = Object.assign({
+//     canonical: options.poetryBook.canonical,
+//     poem: pagePosts.data.filter(i=>i).map(o=>{
+//       o.meta.timestamp = moment((new Date(o.meta.date))).tz("America/Detroit").format("MMMM Do YYYY, h:mm:ss a z");
+//       return o;
+//     }),
+//   }, fileNames, pagePosts);
+//
+//   // NOTE: Render Template and save the page
+//   let indexHtml = pageTemplate(variables);
+//   indexHtml = pretty(indexHtml, {ocd: true});
+//
+//   const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, options.poetryBook.index));
+//   fs.writeFileSync(fileLocation, indexHtml);
+// }
+//
+
+
+
+// NOTE: Creation of a page dedicated to a specific poem linked from an index.
+
+
+
 
 
 //

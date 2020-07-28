@@ -8,7 +8,7 @@
     <meta name="description" content="Cat Pea News Network">
     <link rel="canonical" href="{{canonical}}">
     <meta name="robots" content="index, follow">
-    <link rel="stylesheet" href="css/pico.min.css">
+    <link rel="stylesheet" href="css/pico.classless.min.css">
     <link rel="stylesheet" href="css/custom.css"/>
     <script src="js/theme.js"></script>
   </head>
@@ -19,18 +19,38 @@
     <header>
       <hgroup>
         <h1>Cat Pea</h1>
-        <p>Poetry, evey day.</p>
+        <p>Medicinal Poetry, evey day.</p>
       </hgroup>
     </header>
     {{/if}}
 
+
     <main>
-      {{#each poem}}
+
+      <article>
+          <li>
+            <a href="/index.html#{{meta.sectionName}}">Chapter &sect;{{meta.sectionNumber}} Table of Contents</a>
+            <hr>
+
+            <ul>
+              {{#each data}}
+              <li>
+                <a href="{{../meta.currentFileName}}#{{meta.id}}">{{meta.title}}</a><br><small>Written {{meta.timestamp}}</small>
+              </li>
+              {{/each}}
+            </ul>
+          </li>
+      </article>
+
+
+
+      {{#each data}}
+        <a name="{{meta.id}}"></a>
         <article class="log-entry" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="dateCreated" datetime="{{meta.date}}">
           <header>
             <hgroup>
-              <h2>{{meta.title}}</h2>
+              <h2><a href="/{{meta.id}}.html">{{meta.title}}</a></h2>
               <h3>{{meta.timestamp}}</h3>
             </hgroup>
           </header>
@@ -41,19 +61,28 @@
 
     <article>
       <nav>
-        {{#unless meta.isLast}}
-          <a href="{{olderFileName}}" role="button">&laquo;&nbsp; Older</a>
+        {{#unless meta.isNewest}}
+          <a href="{{meta.olderFileName}}" role="button">&laquo;&nbsp; Older</a>
         {{/unless}}
-        <!-- <a href="/" role="button" class="secondary">Newest</a> -->
-        {{#unless meta.isFirst}}
-          <a href="{{newerFileName}}" role="button" class="secondary">Newer &nbsp;&raquo;</a>
+
+        <!-- NOTE: Always Show Index -->
+        <a href="/index.html#{{meta.sectionName}}" role="button" class="secondary">Index &nbsp;&equiv;</a>
+
+        {{#unless meta.isOldest}}
+          <a href="{{meta.newerFileName}}" role="button" class="secondary">Newer &nbsp;&raquo;</a>
         {{/unless}}
       </nav>
     </article>
 
+
     <footer>
       <p>
-        <small><a href="{{canonical}}" class="secondary">Cat Pea</a> · <a href="https://github.com/catpea/poetry" class="secondary">Source Code</a> &middot; <a href="https://catpea.github.io/poetry/" class="secondary">Mirror</a></small>
+        <small>
+          <a href="{{canonical}}" class="secondary">Cat Pea</a> &middot;
+          <a href="https://news.catpea.com/" class="secondary">News</a> &middot;
+          <a href="https://github.com/catpea/poetry" class="secondary">Source Code</a> &middot;
+          <a href="https://catpea.github.io/poetry/" class="secondary">Mirror</a>
+        </small>
       </p>
     </footer>
 
