@@ -50,6 +50,7 @@ const options = {
 
     canonical: 'https://catpea.com/',
     directory: 'poetry-book',
+    partials: 'partials',
 
     index: 'index.html',
 
@@ -71,6 +72,7 @@ const options = {
     }
 
   },
+
 
   //
   // docs: {
@@ -101,6 +103,17 @@ const options = {
   //   file: 'advice.sh',
   // },
 }
+
+
+
+// Load Partials
+fs.readdirSync(path.join(options.poetryBook.template.path, options.poetryBook.partials))
+.filter(name=>name.endsWith('.hbs'))
+.map(file=>({file, name: path.basename(file, '.hbs')}))
+.map(o=>({...o, path: path.join(options.poetryBook.template.path, options.poetryBook.partials, o.file)}))
+.map(o=>({...o, content: fs.readFileSync(o.path).toString()}))
+.forEach(o=>handlebars.registerPartial(o.name, o.content));
+
 
 // fs.ensureDirSync(options.docs.path);
 // fs.readdirSync(path.resolve(options.sourceDatabase.path), { withFileTypes: true })
@@ -244,7 +257,36 @@ for (let pagePosts of pageStream.data){
 
 
 
+function formatHtml(str){
+  return str;
+  const $ = cheerio.load(str);
 
+
+  var htmlTagsToModify = "h1, h2, h3, h4, h5, h6, p, li, a";
+
+
+
+    // $(htmlTagsToModify).css({ 'color': 'red' });
+    $(htmlTagsToModify).each(function(idx, elem) {
+
+      console.log( elem, elem.type , $(elem).html());
+      if( elem.type === 'text' ){
+      var content = $(elem).html();
+      console.log(content);
+      var lastSpace = "<span>&nbsp;</span>"; // just use this line for demonstration purposes
+      // var lastSpace = "&nbsp;"; // use this line in actual implementations
+
+      var modifiedContent = content.replace(/\s+(\S+\s*$)/gm, lastSpace + "$1");
+      console.log(modifiedContent);
+
+      $(elem).html(modifiedContent);
+      }
+    });
+
+
+
+  return $.html();
+}
 
 
 
@@ -260,6 +302,7 @@ for (let variables of sectionStack){
   // NOTE: Render pageTemplate and save the page
   let pageHtml = pageTemplate(variables);
   pageHtml = pretty(pageHtml, {ocd: true});
+  pageHtml = formatHtml(pageHtml);
   const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, variables.meta.currentFileName));
   fs.writeFileSync(fileLocation, pageHtml);
 }
@@ -286,6 +329,7 @@ for (let section of sectionStack){
     // NOTE: Render pageTemplate and save the page
     let pageHtml = poemTemplate(Object.assign({sectionFileName: section.meta.currentFileName},poem));
     pageHtml = pretty(pageHtml, {ocd: true});
+    pageHtml = formatHtml(pageHtml);
 
     const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, poem.meta.id + '.html'));
     fs.writeFileSync(fileLocation, pageHtml);
@@ -301,6 +345,8 @@ for (let poem of dataStream){
   // NOTE: Render poemTemplate and save the page
   let poemHtml = printTemplate(poem);
   poemHtml = pretty(poemHtml, {ocd: true});
+  poemHtml = formatHtml(poemHtml);
+
   const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, 'print-' + poem.meta.id + '.html'));
   fs.writeFileSync(fileLocation, poemHtml);
 }
@@ -316,6 +362,8 @@ const indexLocation = path.resolve(path.join(options.distributionDirectory.path,
 // NOTE: Render Template
 let indexHtml = indexTemplate({section:sectionStack});
 indexHtml = pretty(indexHtml, {ocd: true});
+indexHtml = formatHtml(indexHtml);
+
 
 // NOTE: Save the page to index file
 fs.writeFileSync(indexLocation, indexHtml);

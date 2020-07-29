@@ -1,18 +1,10 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
-    <title>{{meta.title}}</title>
-    <meta name="author" content="{{meta.author}}">
-    <meta name="description" content="{{meta.title}} by {{meta.author}}">
-    <link rel="canonical" href="{{meta.canonical}}">
-    <meta name="robots" content="index, follow">
-    <link rel="stylesheet" href="css/pico.classless.min.css">
-    <link rel="stylesheet" href="css/custom.css"/>
-    <script src="js/theme.js"></script>
+    {{>head}}
   </head>
   <body>
+    {{>header}}
     <main>
       <article class="log-entry" itemscope itemtype="http://schema.org/CreativeWork">
         <meta itemprop="dateCreated" datetime="{{meta.date}}">
@@ -24,11 +16,9 @@
           </header>
           {{{data.html}}}
       </article>
-
-      <nav>
-        <a href="/{{sectionFileName}}#{{meta.id}}" role="button">Return</a>
-      </nav>
-
     </main>
+    <nav>
+      <a href="/{{sectionFileName}}#{{meta.id}}" role="button">Return</a>
+    </nav>
   </body>
 </html>

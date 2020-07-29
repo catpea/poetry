@@ -8,7 +8,9 @@
     <meta name="description" content="{{meta.title}} by {{meta.author}}">
     <link rel="canonical" href="{{meta.canonical}}">
     <meta name="robots" content="index, follow">
-    <link rel="stylesheet" href="dist/gutenberg.css">
+    <link rel="stylesheet" href="css/pico.classless.min.css">
+    <link rel="stylesheet" href="css/custom.css"/>
+    <script src="js/theme.js"></script>
   </head>
   <body>
     <main>
@@ -17,14 +19,16 @@
           <header>
             <hgroup>
               <h1>{{meta.title}}</h1>
-              <p>
-                Written {{meta.timestamp}} by {{meta.author}}
-              </p>
+              <p>Written {{meta.timestamp}} by {{meta.author}}</p>
             </hgroup>
           </header>
-          <hr>
           {{{data.html}}}
       </article>
+
+      <nav>
+        <a href="/{{sectionFileName}}#{{meta.id}}" role="button">Return</a>
+      </nav>
+
     </main>
   </body>
 </html>
