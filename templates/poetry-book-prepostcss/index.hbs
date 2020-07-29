@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    {{>head}}
+  </head>
+  <body>
+    {{>header}}
+    <main>
+      <ul>
+        {{#each section}}
+        <li>
+          <h2><a name="{{meta.sectionName}}" href="{{meta.currentFileName}}">Chapter &sect;{{meta.sectionNumber}}</a></h2>
+          <ul>
+            {{#each data}}
+            <li>
+              <h3><a href="{{../meta.currentFileName}}#{{meta.id}}">{{meta.title}}</a></h3>
+              <small>Written {{meta.timestamp}}</small>
+            </li>
+            {{/each}}
+          </ul>
+        </li>
+        {{/each}}
+      </ul>
+    </main>
+    {{>footer}}
+  </body>
+</html>

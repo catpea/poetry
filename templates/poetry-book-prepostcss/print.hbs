@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <title>{{meta.title}}</title>
+    <meta name="author" content="{{meta.author}}">
+    <meta name="description" content="{{meta.title}} by {{meta.author}}">
+    <link rel="canonical" href="{{meta.canonical}}">
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="dist/gutenberg.css">
+  </head>
+  <body>
+    <main>
+      <article class="log-entry" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="dateCreated" datetime="{{meta.date}}">
+          <header>
+            <hgroup>
+              <h1>{{meta.title}}</h1>
+              <p>
+                Written {{meta.timestamp}} by {{meta.author}}
+              </p>
+            </hgroup>
+          </header>
+          <hr>
+          {{{data.html}}}
+      </article>
+    </main>
+  </body>
+</html>

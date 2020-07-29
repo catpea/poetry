@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    {{>head}}
+  </head>
+  <body>
+    {{>header}}
+    <!-- miniature table of contents listing all the poems on the page -->
+    <nav>
+      <li>
+        <h2><a href="/index.html#{{meta.sectionName}}">Chapter &sect;{{meta.sectionNumber}} Table of Contents</a></h2>
+        <hr>
+        <ul>
+          {{#each data}}
+          <li>
+            <h3><a href="{{../meta.currentFileName}}#{{meta.id}}">{{meta.title}}</a></h3>
+            <small>Written {{meta.timestamp}}</small>
+          </li>
+          {{/each}}
+        </ul>
+      </li>
+    </nav>
+    <main>
+      <!-- title and poem -->
+      {{#each data}}
+        <article class="log-entry" itemscope itemtype="http://schema.org/CreativeWork">
+          <a name="{{meta.id}}"></a>
+          <meta itemprop="dateCreated" datetime="{{meta.date}}">
+          <header>
+            <hgroup>
+              <h1><a href="/{{meta.id}}.html">{{meta.title}}</a></h1>
+              <small>{{meta.timestamp}}</small>
+            </hgroup>
+          </header>
+
+          {{{data.html}}}
+
+        </article>
+      {{/each}}
+    </main>
+    <!-- sub navigation -->
+    <nav>
+      {{#unless meta.isNewest}}
+        <a href="{{meta.olderFileName}}" role="button">&laquo;&nbsp; Older</a>
+      {{/unless}}
+      <a href="/index.html#{{meta.sectionName}}" role="button" class="secondary">Index &nbsp;&equiv;</a>
+      {{#unless meta.isOldest}}
+        <a href="{{meta.newerFileName}}" role="button" class="secondary">Newer &nbsp;&raquo;</a>
+      {{/unless}}
+    </nav>
+    {{> footer}}
+  </body>
+</html>

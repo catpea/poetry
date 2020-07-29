@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    {{>head}}
+    <style>
+
+    code {
+      display: block;
+      overflow-x: auto;
+      padding: 2rem;
+
+    }
+
+
+    </style>
+    <style>
+    /**
+     * Base 16 Solarized, by Ethan Schoonover (http://ethanschoonover.com/solarized)
+     * Midas template by Ben Briggs (http://beneb.info)
+     * Original scheme by Chris Kempson (https://github.com/chriskempson/base16)
+     */
+
+    .midas {
+        background: #002b36;
+        color: #93a1a1;
+    }
+
+    .midas__property {
+        font-style: italic;
+    }
+
+    .midas__comment {
+        color: #657b83;
+    }
+
+    .midas__string {
+        color: #859900;
+    }
+
+    .midas__function-name {
+        color: #2aa198;
+    }
+
+    .midas__important {
+        color: #859900;
+    }
+
+    .midas__hex-value {
+        color: #cb4b16;
+    }
+
+    .midas__hex-color {
+        color: #2aa198;
+    }
+
+    .midas__number,
+    .midas__word {
+        color:#cb4b16;
+    }
+
+    .midas__vendor-prefix {
+        color: #657b83;
+    }
+
+    /**
+     * Selectors
+     */
+
+    .midas__selector {
+        color: #6c71c4;
+    }
+
+    .midas__tag {
+        color: #dc322f;
+        text-decoration: underline;
+    }
+
+    .midas__id {
+        color: #268bd2;
+    }
+
+    .midas__attribute-name,
+    .midas__class,
+    .midas__pseudo {
+        color: #cb4b16;
+    }
+
+    .midas__attribute-value {
+        color: #859900;
+    }
+
+    /**
+     * At rules
+     */
+
+    .midas__at-rule-name {
+        color: #6c71c4;
+    }
+
+    .midas__at-rule-keyword {
+        color: #cb4b16;
+    }
+  </style>
+  </head>
+  <body>
+    {{>header}}
+
+      <code>
+      {{{data.html}}}
+      </code>
+ 
+    {{>footer}}
+  </body>
+</html>
