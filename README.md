@@ -8,7 +8,7 @@
 
 [Listen](audio/poetry-0152.mp3)
 
-Goooooooly, what a beautiful day today was,
+Goooooooly, what a beautiful day today was,<br>
 I rode around shirtless breaking all the laws.
 
 ![Cloudy Skies](image/poetry-0152-cloudy.jpg)
@@ -23,7 +23,7 @@ and it took two hours as I rode at the pace of a speedy snail.
 
 ![Location Map](image/poetry-0152-end-sign.jpg)
 
-Once I finally got to the end and glanced the map,
+Once I finally got to the end and glanced the map,<br>
 it said "You are here!" and I said "Yup!"
 
 <br><br>
