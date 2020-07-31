@@ -31,5 +31,5 @@ and a hawk probably waiting around for her babies to hatch.
 
 <br><br>
 
-Dear reader, how about you?<br>
+Dear Reader, how about you?<br>
 what do you love more, evening sunsets or the sunlit dew?
