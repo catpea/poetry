@@ -1,12 +1,12 @@
 const html = {
 
   breakpoints: [
-    { name:'xs',  value:0,    fontDelta: 1,  paddingDelta: .5},
-    { name:'sm',  value:576,  fontDelta:.9,  paddingDelta: 2.2},
-    { name:'md',  value:768,  fontDelta:.85, paddingDelta: 3.6},
-    { name:'lg',  value:992,  fontDelta:.8,  paddingDelta: 3.8},
-    { name:'xl',  value:1200, fontDelta:.75, paddingDelta: 3.7},
-    { name:'xxl', value:1400, fontDelta:.7,  paddingDelta: 4},
+    { name:'xs',  value:0,    maxWidth:'auto',    fontDelta: 1,  paddingDelta: .5},
+    { name:'sm',  value:576,  maxWidth:500,  fontDelta:.9,  paddingDelta: 2.2},
+    { name:'md',  value:768,  maxWidth:700,  fontDelta:.85, paddingDelta: 3.6},
+    { name:'lg',  value:992,  maxWidth:900,  fontDelta:.8,  paddingDelta: 3.8},
+    { name:'xl',  value:1200, maxWidth:1100, fontDelta:.75, paddingDelta: 3.7},
+    { name:'xxl', value:1400, maxWidth:1000, fontDelta:.7,  paddingDelta: 4},
   ],
 
   headings: [
@@ -77,23 +77,16 @@ const css = {
 
   },
 
+  //NOTE: The seconday font is applied in the html declaration
    html: {
      color: 'var(--text)',
      backgroundColor: 'var(--background)',
      fontFamily: "'Montserrat', sans-serif"
    },
 
-   main: {
-     // display: 'block',
-     // width: '100%',
-     // paddingRight: '15px',
-     // paddingLeft: '15px',
-     // marginRight: 'auto',
-     // marginLeft: 'auto',
-     // maxWidth: '1140px'
-   },
 
-   header: { marginBottom: '3rem' },
+
+   // header: { marginBottom: '3rem' },
 
    'article > p': { marginTop: '2rem', marginBottom: '2rem' },
 
@@ -107,13 +100,12 @@ const css = {
    },
    'img:hover': { filter: 'grayscale(0)' },
 
-   nav: {},
-
-   aside: {},
-   article: {},
-   section: {},
-   footer: {},
-   ul: { listStyle: 'none', padding: '.2rem' },
+   //NOTE:  ul has default padding and margin removed, these are automatically calculated in the responsive section
+   ul: {
+     listStyle: 'none',
+     margin: 0,
+     padding: 0,
+   },
 
    'a:active,\n  a:focus,\n  a:hover': { color: 'var(--primary-hover)' },
    'a:focus': { outline: 'none', backgroundColor: 'var(--primary-focus)' },
@@ -134,9 +126,12 @@ const css = {
      transition: 'background-color 0.2s ease-in-out, color 0.2s ease-in-out, box-shadow 0.2s ease-in-out',
      textDecoration: 'none'
    },
+
+   //NOTE:  The primary font is applied in the headings declaration
    'h1, h2, h3, h4, h5, h6': {
      fontFamily: "'Old Standard TT', serif",
      fontWeight: '700',
+     letterSpacing: '0.035em',
      marginTop: '2rem',
      marginLeft: '0rem',
      marginBottom: '0'
@@ -179,7 +174,27 @@ export default async function (options) {
       };
     }
 
-    stylesheet['nav, main, aside, article, section, footer, ul'] = {
+
+    stylesheet['body > header, body > nav, body > main, body > footer'] = {
+      border: '1px solid gold',
+      paddingTop: rem(.5*breakpoint.paddingDelta),
+      paddingBottom: rem(1*breakpoint.paddingDelta),
+
+      display: 'block',
+      width: '100%',
+      paddingRight: '15px',
+      paddingLeft: '15px',
+      marginRight: 'auto',
+      marginLeft: 'auto',
+      maxWidth: (typeof breakpoint.maxWidth === 'string')?breakpoint.maxWidth:breakpoint.maxWidth+'px',
+    };
+
+
+    stylesheet['nav, main, aside, article, section'] = {
+      //padding: rem(1*breakpoint.paddingDelta)
+    };
+
+    stylesheet['li > ul'] = {
       padding: rem(1*breakpoint.paddingDelta)
     };
 

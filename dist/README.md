@@ -1,5 +1,33 @@
 # Poetry
 
+## Cloudy With A Chance Of Beefcakes
+### July 30th 2020, 8:46:21 pm EDT
+<meta itemprop="dateCreated" datetime="2020-07-31T00:46:21.473Z">
+
+![Illustration](image/poetry-0152-illustration.jpg)
+
+[Listen](audio/poetry-0152.mp3)
+
+Goooooooly, what a beautiful day today was,
+I rode around shirtless breaking all the laws.
+
+![Illustration](image/poetry-0152-cloudy.jpg)
+
+I woke up this morning and noticed how cloudy,<br>
+I looked at my bicycle and said "Howdy!"
+
+![Illustration](image/poetry-0152-the-end.jpg)
+
+I've decided to ride all the way to the end of the trail,<br>
+and it took two hours as I rode at the pace of a speedy snail.
+
+![Illustration](image/poetry-0152-end-sign.jpg)
+
+Once I finally got to the end and glanced the map,
+it said "You are here!" and I said "Yup!"
+
+<br><br>
+
 ## Coming to America
 ### July 29th 2020, 7:32:35 pm EDT
 <meta itemprop="dateCreated" datetime="2020-07-29T23:32:35.614Z">
