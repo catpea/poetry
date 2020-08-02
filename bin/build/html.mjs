@@ -158,8 +158,8 @@ const dataStream = fs.readdirSync(path.resolve(options.sourceDatabase.path), { w
   return o;
 })
 .filter(o=>o.meta.tags.includes('Poem'))
-.reverse() // now latest post will be the top entry
-console.log(dataStream[0].meta);
+//.reverse() // now latest post will be the top entry
+//console.log(dataStream[0].meta);
 
 const pageStream = beautifulPagination(dataStream, {
   perPage:7,
@@ -270,44 +270,66 @@ for (let variables of sectionStack){
 
 
 
-// NOTE: Create poem specific pages.
+// NOTE: Create print specific pages.
 const printTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.print))).toString());
 for (let poem of dataStream){
   // NOTE: Render poemTemplate and save the page
   let poemHtml = printTemplate(poem);
   poemHtml = pretty(poemHtml, {ocd: true});
   poemHtml = formatHtml(poemHtml);
-
   const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, 'print-' + poem.meta.id + '.html'));
+  fs.writeFileSync(fileLocation, poemHtml);
+}
+
+// NOTE: Create poem specific pages.
+const poemTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.poem))).toString());
+for (let poem of dataStream){
+  // NOTE: Render poemTemplate and save the page
+  let poemHtml = poemTemplate(poem);
+  poemHtml = pretty(poemHtml, {ocd: true});
+  poemHtml = formatHtml(poemHtml);
+  const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, poem.meta.id + '.html'));
   fs.writeFileSync(fileLocation, poemHtml);
 }
 
 
 
-
+function render(id){
 // NOTE: Creation of an easy to browse table of contents, based on sections.
-
-const indexTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.index))).toString());
-const indexLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, options.poetryBook.index));
-
+const indexTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template[id]))).toString());
+const indexLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, options.poetryBook[id]));
 // NOTE: Render Template
 let indexHtml = indexTemplate({
   title: options.title,
   author: options.author,
   canonical: options.poetryBook.canonical,
-
   section:sectionStack
 });
 indexHtml = pretty(indexHtml, {ocd: true});
 indexHtml = formatHtml(indexHtml);
-
-
 // NOTE: Save the page to index file
 fs.writeFileSync(indexLocation, indexHtml);
+}
+
+// // NOTE: Creation of an easy to browse table of contents, based on sections.
+// const indexTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.index))).toString());
+// const indexLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, options.poetryBook.index));
+// // NOTE: Render Template
+// let indexHtml = indexTemplate({
+//   title: options.title,
+//   author: options.author,
+//   canonical: options.poetryBook.canonical,
+//   section:sectionStack
+// });
+// indexHtml = pretty(indexHtml, {ocd: true});
+// indexHtml = formatHtml(indexHtml);
+// // NOTE: Save the page to index file
+// fs.writeFileSync(indexLocation, indexHtml);
+//
 
 
-
-
+render('index');
+render('contents');
 
 
 

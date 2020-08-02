@@ -9,25 +9,20 @@
 
       <ul>
         {{#each section}}
-        <li>
-          <h2><a name="{{meta.sectionName}}">Chapter &sect;{{meta.sectionNumber}}</a></h2>
-          <ul>
             {{#each data}}
             <li>
               <hgroup>
-                <h3><a href="{{meta.id}}.html">{{meta.title}}</a></h3>
+                <h3><a href="{{../meta.currentFileName}}#{{meta.id}}">{{meta.title}}</a></h3>
                 <small>Written {{meta.timestamp}}</small>
                 <!-- {{#each meta.sounds}}
                   <div><a href="{{path}}/{{file}}" rel="noopener noreferrer" target="_blank" class="no-print">{{label}}</a></div>
                 {{/each}} -->
               </hgroup>
-
             </li>
             {{/each}}
-          </ul>
-        </li>
         {{/each}}
       </ul>
+
     </main>
     {{>footer}}
   </body>

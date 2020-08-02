@@ -28,6 +28,7 @@ const options = {
     styleguide: 'styleguide.html',
 
     index: 'index.html',
+    contents: 'contents.html',
 
     changelog: 'changelog.html',
 
@@ -40,6 +41,7 @@ const options = {
 
       page: 'page.hbs',
       index: 'index.hbs',
+      contents: 'contents.hbs',
       poem: 'poem.hbs',
       print: 'print.hbs',
 
