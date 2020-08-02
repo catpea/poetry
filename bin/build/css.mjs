@@ -35,8 +35,8 @@ const sortingOptions = {
         'custom-properties',
         'dollar-variables',
         'declarations',
+        'rules',
         'at-rules',
-        'rules'
       ],
 
       'properties-order': 'alphabetical',
@@ -83,8 +83,8 @@ async function main(){
 
 
 
-  const stylecodeLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, options.poetryBook.stylecode));
-  const stylecodeOptions = {
+  const styleguideLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, options.poetryBook.styleguide));
+  const styleguideOptions = {
     meta: {
       title: 'CSS Stylesheet',
       timestamp: moment((new Date())).tz("America/Detroit").format("MMMM Do YYYY, h:mm:ss a z"),
@@ -95,10 +95,10 @@ async function main(){
       html: postcss().process(stylesheet, {stringifier: midas.stringifier}).css
     }
   };
-  const stylecodeTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.stylecode))).toString());
-  const stylecode = stylecodeTemplate(stylecodeOptions);
+  const styleguideTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.styleguide))).toString());
+  const styleguide = styleguideTemplate(styleguideOptions);
 
-  fs.writeFileSync(stylecodeLocation, stylecode);
+  fs.writeFileSync(styleguideLocation, styleguide);
 
 
 

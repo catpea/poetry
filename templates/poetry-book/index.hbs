@@ -1,11 +1,12 @@
 <!doctype html>
-<html lang="en" data-theme="dark">
+<html lang="en">
   <head>
     {{>head}}
   </head>
   <body>
     {{>header}}
     <main>
+
       <ul>
         {{#each section}}
         <li>
@@ -13,8 +14,14 @@
           <ul>
             {{#each data}}
             <li>
-              <h3><a href="{{../meta.currentFileName}}#{{meta.id}}">{{meta.title}}</a></h3>
-              <small>Written {{meta.timestamp}}</small>
+              <hgroup>
+                <h3><a href="{{../meta.currentFileName}}#{{meta.id}}">{{meta.title}}</a></h3>
+                <small>Written {{meta.timestamp}}</small>
+                <!-- {{#each meta.sounds}}
+                  <div><a href="{{path}}/{{file}}" rel="noopener noreferrer" target="_blank" class="no-print">{{label}}</a></div>
+                {{/each}} -->
+              </hgroup>
+
             </li>
             {{/each}}
           </ul>

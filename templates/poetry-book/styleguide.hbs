@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" data-theme="dark">
+<html lang="en">
   <head>
     {{>head}}
     <style>
@@ -8,6 +8,7 @@
       display: block;
       overflow-x: auto;
       padding: 2rem;
+      border-radius: 2rem;
 
     }
 
@@ -104,11 +105,35 @@
   </head>
   <body>
     {{>header}}
+    <main>
 
-      <code>
-      {{{data.html}}}
-      </code>
- 
+      <article>
+        <h1>The greatest glory in living lies not in never falling, but in rising higher every time we fall.</h1>
+        <h2>The way to get started is to quit talking and begin searching for wisdom.</h2>
+        <h3>If life were predictable, we would not have free will and could see all our future.</h3>
+        <h4>Life is what happens when you begin your quest for wisdom.</h4>
+        <h5>The future belongs to the future generations.</h5>
+        <h6>In the end, it's not the years of your life that count, but how you chose to live them.</h6>
+      </article>
+
+      <article>
+
+        <hgroup>
+        <h2>The White Whale</h2>
+        <small>Melville presents Moby Dick and his whiteness as a symbol of many things, among them God, nature, fate, evil, the ocean, and the very universe itself.</small>
+        </hgroup>
+
+        <p>Ishmael describes the whale’s forehead as having wrinkles and scars on it that look like hieroglyphics.</p>
+        <p>If then, Sir William Jones, who read in thirty languages, could not read the simplest peasant’s face in its profounder and more subtle meanings, how may unlettered Ishmael hope to read the awful Chaldee of the Sperm Whale’s brow? I but put that brow before you. Read it if you can.</p>
+
+      </article>
+
+      <article>
+        <code>
+          {{{data.html}}}
+        </code>
+      </article>
+    <main>
     {{>footer}}
   </body>
 </html>

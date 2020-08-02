@@ -1,5 +1,48 @@
 # Poetry
 
+## Iron Mare
+### August 1st 2020, 8:23:00 pm EDT
+<meta itemprop="dateCreated" datetime="2020-08-02T00:23:00.122Z">
+
+![Illustration](image/poetry-0154-illustration.jpg)
+
+[Listen](audio/poetry-0154.mp3)
+
+I woke up early,<br>
+dressed barely.
+
+Just enough so that I am not bare,<br>
+and jumped on my iron mare.
+
+We set course away from the sun,<br>
+and just like that we ran.
+
+Some quarter way through,<br>
+we had to turn left towards the dew.
+
+But then the road went straight,<br>
+and all the way till the end the ride was great.
+
+The road was long,<br>
+and birds full of song.
+
+The wind blew fresh air,<br>
+as we flew without a care.
+
+On the way back home the sun was on the rise,<br>
+and it blinded my eyes.
+
+But I rode all the way back,<br>
+by just following my old track.
+
+And so the mare and I parted,<br>
+all before the day even started.
+
+She's packed and ready to go, waiting for sun to rise,<br>
+and so we'll ride again as soon as I open my eyes.
+
+<br><br>
+
 ## The Sunlit Dew
 ### July 31st 2020, 6:17:15 pm EDT
 <meta itemprop="dateCreated" datetime="2020-07-31T22:17:15.258Z">

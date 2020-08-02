@@ -1,4 +1,3 @@
-
 const options = {
   title: 'Poetry',
   author: 'Dr. Meow',
@@ -26,7 +25,7 @@ const options = {
     partials: 'partials',
 
     stylesheet: 'css/stylesheet.css',
-    stylecode: 'stylesheet.html',
+    styleguide: 'styleguide.html',
 
     index: 'index.html',
 
@@ -45,7 +44,7 @@ const options = {
       print: 'print.hbs',
 
       stylesheet: 'stylesheet.hbs',
-      stylecode: 'stylecode.hbs',
+      styleguide: 'styleguide.hbs',
       changelog: 'changelog.hbs',
     },
 

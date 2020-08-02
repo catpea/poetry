@@ -83,6 +83,7 @@ function createSoundMetadata(o){
       }
     }
   }
+
   return response;
 }
 
@@ -121,7 +122,10 @@ const dataStream = fs.readdirSync(path.resolve(options.sourceDatabase.path), { w
 }))
 .map(o => {
 
-  const raw = fs.readFileSync(o.meta.path).toString();
+  let raw = fs.readFileSync(o.meta.path).toString();
+  raw = raw.replace(/<br><br>/g,'<br>');
+  //raw = raw.replace(/<br>/g,'');
+
   const {data:properties, content} = matter(raw);
   const html = marked(content, {})
 
@@ -133,8 +137,11 @@ const dataStream = fs.readdirSync(path.resolve(options.sourceDatabase.path), { w
   properties.tags = properties.tags.split(" ");
 
   properties.timestamp = moment((new Date(properties.date))).tz("America/Detroit").format("MMMM Do YYYY, h:mm:ss a z");
-  properties.author = options.author;
+
+
+  if(!properties.author) properties.author = options.author;
   properties.canonical = options.poetryBook.canonical;
+
 
   Object.assign(o.meta, properties);
   o.data.md = content
@@ -146,17 +153,19 @@ const dataStream = fs.readdirSync(path.resolve(options.sourceDatabase.path), { w
   o.data.html = upgradeAudioLinks(o.data.html);
   o.data.html = upgradeDividersForPrinting(o.data.html);
 
+
+
   return o;
 })
 .filter(o=>o.meta.tags.includes('Poem'))
 .reverse() // now latest post will be the top entry
+console.log(dataStream[0].meta);
 
 const pageStream = beautifulPagination(dataStream, {
   perPage:7,
   sectionFileName: options.poetryBook.sectionFileName,
   sectionName: options.poetryBook.sectionName,
 });
-
 
 
 
@@ -232,32 +241,32 @@ for (let variables of sectionStack){
 
 
 
-
-// NOTE: Create poem specific pages.
-const poemTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.poem))).toString());
-
-// for (let poem of dataStream){
-//   // NOTE: Render poemTemplate and save the page
-//   let poemHtml = poemTemplate(poem);
-//   poemHtml = pretty(poemHtml, {ocd: true});
-//   const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, poem.meta.id + '.html'));
-//   fs.writeFileSync(fileLocation, poemHtml);
-//   console.log('Written',fileLocation);
+//
+// // NOTE: Create poem specific pages.
+// const poemTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.poem))).toString());
+//
+// // for (let poem of dataStream){
+// //   // NOTE: Render poemTemplate and save the page
+// //   let poemHtml = poemTemplate(poem);
+// //   poemHtml = pretty(poemHtml, {ocd: true});
+// //   const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, poem.meta.id + '.html'));
+// //   fs.writeFileSync(fileLocation, poemHtml);
+// //   console.log('Written',fileLocation);
+// // }
+//
+// for (let section of sectionStack){
+//   for (let poem of section.data){
+//
+//     // NOTE: Render pageTemplate and save the page
+//     let pageHtml = poemTemplate(Object.assign({sectionFileName: section.meta.currentFileName},poem));
+//     pageHtml = pretty(pageHtml, {ocd: true});
+//     pageHtml = formatHtml(pageHtml);
+//
+//     const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, poem.meta.id + '.html'));
+//     fs.writeFileSync(fileLocation, pageHtml);
+//
+//   }
 // }
-
-for (let section of sectionStack){
-  for (let poem of section.data){
-
-    // NOTE: Render pageTemplate and save the page
-    let pageHtml = poemTemplate(Object.assign({sectionFileName: section.meta.currentFileName},poem));
-    pageHtml = pretty(pageHtml, {ocd: true});
-    pageHtml = formatHtml(pageHtml);
-
-    const fileLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, poem.meta.id + '.html'));
-    fs.writeFileSync(fileLocation, pageHtml);
-
-  }
-}
 
 
 
@@ -282,7 +291,13 @@ const indexTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(
 const indexLocation = path.resolve(path.join(options.distributionDirectory.path, options.poetryBook.directory, options.poetryBook.index));
 
 // NOTE: Render Template
-let indexHtml = indexTemplate({section:sectionStack});
+let indexHtml = indexTemplate({
+  title: options.title,
+  author: options.author,
+  canonical: options.poetryBook.canonical,
+
+  section:sectionStack
+});
 indexHtml = pretty(indexHtml, {ocd: true});
 indexHtml = formatHtml(indexHtml);
 
