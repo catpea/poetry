@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  {{>head}}
+  <link rel="stylesheet" href="css/print/gutenberg.min.css">
+  <link rel="stylesheet" href="css/print/custom-print.css">
+</head>
+  <body>
+    <main>
+      <article class="log-entry" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="dateCreated" datetime="{{meta.date}}">
+          <header>
+            <hgroup>
+              <h1>{{meta.title}}</h1>
+              <p>
+                Written {{meta.timestamp}} by {{meta.author}}
+              </p>
+            </hgroup>
+          </header>
+          <hr>
+          {{{data.html}}}
+      </article>
+    </main>
+  </body>
+</html>

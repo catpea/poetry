@@ -1,5 +1,42 @@
 # Poetry
 
+## Rain, Web Design, and Thunder
+### August 2nd 2020, 8:12:11 pm EDT
+<meta itemprop="dateCreated" datetime="2020-08-03T00:12:11.213Z">
+
+![Illustration](image/poetry-0155-illustration.jpg)
+
+[Listen](audio/poetry-0155.mp3)
+
+I was tossing and turning late at night,<br>
+only to be awoken by thunder and a flash of light.
+
+The room shook and I felt it in my chest,<br>
+but I was wearing earplugs so I didn't hear the rest.
+
+
+I used to be scared of thunder quite a bit,<br>
+then I was told if you can hear it - you didn't get hit.
+
+I am not sure what kind of advice that is,<br>
+but it made thunderstorms a breeze.
+
+
+I figured it was going to be too wet and muddy,<br>
+to ride my iron horse buddy.
+
+So I resumed working on my web page,<br>
+and now I am in the finishing stage.
+
+
+When all else fails there is always web design,<br>
+at the end of the day everything will turn out fine.
+
+I had to rest a bit as I switched from 8PM to 5AM for my endurance running,<br>
+but now I feel can resume, and become even more stunning.
+
+<br><br>
+
 ## Iron Mare
 ### August 1st 2020, 8:23:00 pm EDT
 <meta itemprop="dateCreated" datetime="2020-08-02T00:23:00.122Z">
@@ -3615,7 +3652,7 @@ hoping to be the first to greet all the Fancy Raccoons.
 
 ![Illustration](image/poetry-0100-illustration.jpg)
 
-[Listen](audio/poetry-0100-2.mp3)
+[Listen](audio/poetry-0100.mp3)
 
 [Watch On YouTube](https://youtu.be/2ctbaoGvikk)
 
@@ -4052,7 +4089,7 @@ and yours, is that Power and Might.
 
 ![Illustration](image/poetry-0094-illustration.jpg)
 
-[Listen](audio/poetry-0094-2.mp3)
+[Listen](audio/poetry-0094.mp3)
 
 My Friends, liars happen, because it is easiest to live on the low,<br>
 and never rise, and just hide in the status quo.
@@ -5425,7 +5462,7 @@ we are Unstoppable.
 
 ![Illustration](image/poetry-0078-illustration.jpg)
 
-[Listen](audio/poetry-0078-2.mp3)
+[Listen](audio/poetry-0078.mp3)
 
 Why does Philosophy seem so foggy,<br>
 so unclear, and uncertain.
@@ -5500,7 +5537,7 @@ and yet it is trapped in a prison, of invisible walls.
 And consider, how different you are, from all the people you have met,<br>
 how you don't even smile at the things that make them laugh.
 
-How not a single person of out the Eight Billion,<br>
+How not a single person out of the Eight Billion,<br>
 could possibly take your place.
 
 How often it feels that all the people around you are sleepy,<br>
@@ -9540,11 +9577,19 @@ Dammit.
 
 <br><br>
 
-## Ragrets
+## The Squirrels Attack
 ### March 28th 2020, 6:31:17 pm EDT
 <meta itemprop="dateCreated" datetime="2020-03-28T22:31:17.209Z">
 
-Captain's Log, Day Twelve of Quarantine. I ordered some trailmix from the internet, mailman dropped it off by the door and all the local Squirrels I've been feeding came over, ripped the box open, and ate it. How rude, I probably shoudn't have been feeding them all this time.
+Captain's Log, Day Twelve of Quarantine.
+
+I ordered some trail-mix from the internet, mailman dropped it off by the door.
+
+And all the local Squirrels I've been feeding came over
+
+They ripped the box open, and ate it all without me.
+
+How rude, I probably shouldn't have been feeding them all this time.
 
 <br><br>
 

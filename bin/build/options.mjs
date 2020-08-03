@@ -17,6 +17,16 @@ const options = {
     path: './dist',
   },
 
+  dataBase: {
+    directory: 'database',
+  },
+
+  dataFeed: {
+    file: 'feed.json',
+    directory: 'feed',
+  },
+
+
   // Configuration for the poetry book generation
   poetryBook: {
 
@@ -28,7 +38,9 @@ const options = {
     styleguide: 'styleguide.html',
 
     index: 'index.html',
-    contents: 'contents.html',
+    news: 'news.html',
+    toc: 'toc.html',
+    poems: 'poems.html',
 
     changelog: 'changelog.html',
 
@@ -41,7 +53,9 @@ const options = {
 
       page: 'page.hbs',
       index: 'index.hbs',
-      contents: 'contents.hbs',
+      news: 'news.hbs',
+      toc: 'toc.hbs',
+      poems: 'poems.hbs',
       poem: 'poem.hbs',
       print: 'print.hbs',
 

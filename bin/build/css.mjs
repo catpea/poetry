@@ -49,7 +49,7 @@ async function main(){
 
   const objectCss = (await import( path.resolve(path.join(options.poetryBook.css.path, options.poetryBook.css.main)) )).default;
 
-  console.log(objectCss);
+
 
   const {css:precssCss} = await postcss().process(await objectCss(), { parser: postcssJs, from:undefined });
 
@@ -57,7 +57,7 @@ async function main(){
 
   const css = prettier.format(unformattedCss, { parser: "css" });
 
-
+  //console.log(css);
 
 
 
@@ -77,7 +77,9 @@ async function main(){
 
   const stylesheetTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.stylesheet))).toString());
   const stylesheet = stylesheetTemplate(stylesheetOptions);
-  console.log(stylesheet);
+  //console.log(stylesheet);
+
+  fs.ensureDirSync(path.dirname(stylesheetLocation));
   fs.writeFileSync(stylesheetLocation, stylesheet);
 
 
@@ -98,6 +100,8 @@ async function main(){
   const styleguideTemplate = handlebars.compile(fs.readFileSync(path.resolve(path.join(options.poetryBook.template.path, options.poetryBook.template.styleguide))).toString());
   const styleguide = styleguideTemplate(styleguideOptions);
 
+
+  fs.ensureDirSync(path.dirname(styleguideLocation));
   fs.writeFileSync(styleguideLocation, styleguide);
 
 

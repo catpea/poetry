@@ -5,19 +5,32 @@
 </head>
   <body>
     <main>
-      <article class="log-entry" itemscope itemtype="http://schema.org/CreativeWork">
-        <meta itemprop="dateCreated" datetime="{{meta.date}}">
+      <article>
+
+
           <header>
             <hgroup>
               <h1>{{meta.title}}</h1>
-              <p>
-                Written {{meta.timestamp}} by {{meta.author}}
-              </p>
+              <h6>
+                Written {{meta.timestamp}}
+              </h6>
             </hgroup>
           </header>
-          <hr>
+
           {{{data.html}}}
+
       </article>
     </main>
+
+    <footer class="no-print">
+        <nav>
+          <menu>
+            <li><a href="index.html">Home Page</a></li>
+            <li><a href="toc.html">Table of Contents</a></li>
+          </menu>
+        </nav>
+    </footer>
+
+
   </body>
 </html>

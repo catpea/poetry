@@ -10,7 +10,7 @@ deleted: false
 
 ![Illustration](image/poetry-0078-illustration.jpg)
 
-[Listen](audio/poetry-0078-2.mp3)
+[Listen](audio/poetry-0078.mp3)
 
 Why does Philosophy seem so foggy,<br>
 so unclear, and uncertain.
@@ -85,7 +85,7 @@ and yet it is trapped in a prison, of invisible walls.
 And consider, how different you are, from all the people you have met,<br>
 how you don't even smile at the things that make them laugh.
 
-How not a single person of out the Eight Billion,<br>
+How not a single person out of the Eight Billion,<br>
 could possibly take your place.
 
 How often it feels that all the people around you are sleepy,<br>

@@ -10,7 +10,7 @@ deleted: false
 
 ![Illustration](image/poetry-0100-illustration.jpg)
 
-[Listen](audio/poetry-0100-2.mp3)
+[Listen](audio/poetry-0100.mp3)
 
 [Watch On YouTube](https://youtu.be/2ctbaoGvikk)
 

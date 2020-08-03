@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {{>head}}
+  </head>
+  <body>
+    {{>header}}
+    <main>
+
+      <ul>
+        {{#each data.data}}
+            {{#each data}}
+            <li>
+              <hgroup>
+                <h3><a href="{{../meta.currentFileName}}#{{meta.id}}">{{meta.title}}</a></h3>
+                <small>Written {{meta.timestamp}}</small>
+              </hgroup>
+            </li>
+            {{/each}}
+        {{/each}}
+      </ul>
+
+    </main>
+    {{>footer}}
+  </body>
+</html>

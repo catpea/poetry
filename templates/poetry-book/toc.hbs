@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {{>head}}
+  </head>
+  <body>
+    {{>header}}
+
+    <main>
+      <ul>
+        {{#each data.data}}
+        <li>
+
+          <h2>Chapter {{meta.sectionNumber}}</h2>
+          <ul>
+            {{#each data}}
+            <li>
+              <hgroup>
+                <h3><a href="{{meta.id}}.html">{{meta.title}}</a></h3>
+                <h6>Written {{meta.timestamp}}</h6>
+                <!-- {{#each meta.sounds}}
+                  <div><a href="{{path}}/{{file}}" rel="noopener noreferrer" target="_blank" class="no-print">{{label}}</a></div>
+                {{/each}} -->
+              </hgroup>
+
+            </li>
+            {{/each}}
+          </ul>
+
+        </li>
+        {{/each}}
+      </ul>
+
+    </main>
+
+    {{>footer}}
+  </body>
+</html>

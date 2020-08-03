@@ -36,6 +36,11 @@ const questions = [
         value: './bin/tojpg/index.sh'
       },
       {
+        key: 'k',
+        name: 'New Build System',
+        value: './bin/build/all.sh'
+      },
+      {
         key: 'x',
         name: 'Exit Menu',
         value: 'exit-menu',
