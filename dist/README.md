@@ -1,5 +1,17 @@
 # Poetry
 
+## Untitled no. 156
+### August 3rd 2020, 6:46:32 pm EDT
+<meta itemprop="dateCreated" datetime="2020-08-03T22:46:32.717Z">
+
+![Illustration](image/poetry-0156-illustration.jpg)
+
+[Listen](audio/poetry-0156.mp3)
+
+“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.” – Matthew Austern
+
+<br><br>
+
 ## Rain, Web Design, and Thunder
 ### August 2nd 2020, 8:12:11 pm EDT
 <meta itemprop="dateCreated" datetime="2020-08-03T00:12:11.213Z">

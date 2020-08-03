@@ -15,31 +15,43 @@ const questions = [
         name: 'Add New Poem',
         value: './bin/new/index.mjs'
       },
+
+      {
+        key: 'j',
+        name: 'Convert PNG to JPG (1)',
+        value: './bin/tojpg/index.sh'
+      },
+
+      {
+        key: 'j',
+        name: 'Resize Images  (2)',
+        value: './bin/resize/index.sh'
+      },
+
+
       {
         key: 'u',
-        name: 'Update Everything',
+        name: 'Update Everything (3)',
         value: './bin/make/index.mjs'
       },
       {
+        key: 'y',
+        name: 'Update Data Feed (4)',
+        value: './bin/feed/feed.mjs;'
+      },
+
+      {
         key: 'p',
-        name: 'Publish To Github',
+        name: 'Publish To Github (5)',
         value: './bin/publish/index.sh'
       },
-      {
-        key: 'j',
-        name: 'Resize Images',
-        value: './bin/resize/index.sh'
-      },
-      {
-        key: 'j',
-        name: 'Convert PNG to JPG',
-        value: './bin/tojpg/index.sh'
-      },
-      {
-        key: 'k',
-        name: 'New Build System',
-        value: './bin/build/all.sh'
-      },
+
+
+      // {
+      //   key: 'k',
+      //   name: 'New Build System',
+      //   value: './bin/build/all.sh'
+      // },
       {
         key: 'x',
         name: 'Exit Menu',

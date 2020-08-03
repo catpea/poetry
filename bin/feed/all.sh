@@ -4,10 +4,10 @@ echo Converting Markdown Document to JSON Feed
 ./bin/build/feed.mjs;
 
 echo Creating a CSS Stylesheet
-./bin/build/css.mjs;
+# ./bin/build/css.mjs;
 
 echo Generating HTML Pages
-./bin/build/html.mjs;
+# ./bin/build/html.mjs;
 
 # AUDIO='db/audio';
 # TARGET=$AUDIO/all.mp3;

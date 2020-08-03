@@ -5,7 +5,7 @@
   "data": {
     "meta": {
       "perPage": 7,
-      "totalItems": 137,
+      "totalItems": 139,
       "totalPages": 20
     },
     "data": [
@@ -5305,6 +5305,80 @@
             "data": {
               "md": "\n![Illustration](image/poetry-0154-illustration.jpg)\n\n[Listen](audio/poetry-0154.mp3)\n\nI woke up early,<br>\ndressed barely.\n\nJust enough so that I am not bare,<br>\nand jumped on my iron mare.\n\nWe set course away from the sun,<br>\nand just like that we ran.\n\nSome quarter way through,<br>\nwe had to turn left towards the dew.\n\nBut then the road went straight,<br>\nand all the way till the end the ride was great.\n\nThe road was long,<br>\nand birds full of song.\n\nThe wind blew fresh air,<br>\nas we flew without a care.\n\nOn the way back home the sun was on the rise,<br>\nand it blinded my eyes.\n\nBut I rode all the way back,<br>\nby just following my old track.\n\nAnd so the mare and I parted,<br>\nall before the day even started.\n\nShe's packed and ready to go, waiting for sun to rise,<br>\nand so we'll ride again as soon as I open my eyes.\n",
               "html": "<p><img src=\"image/poetry-0154-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></p><p><a href=\"audio/poetry-0154.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>I woke up early,<br>\n  dressed barely.</p><p>Just enough so that I am not bare,<br>\n  and jumped on my iron mare.</p><p>We set course away from the sun,<br>\n  and just like that we ran.</p><p>Some quarter way through,<br>\n  we had to turn left towards the dew.</p><p>But then the road went straight,<br>\n  and all the way till the end the ride was great.</p><p>The road was long,<br>\n  and birds full of song.</p><p>The wind blew fresh air,<br>\n  as we flew without a care.</p><p>On the way back home the sun was on the rise,<br>\n  and it blinded my eyes.</p><p>But I rode all the way back,<br>\n  by just following my old track.</p><p>And so the mare and I parted,<br>\n  all before the day even started.</p><p>She&apos;s packed and ready to go, waiting for sun to rise,<br>\n  and so we&apos;ll ride again as soon as I open my eyes.</p>"
+            }
+          },
+          {
+            "meta": {
+              "name": "poetry-0155",
+              "path": "db/poetry-0155.md",
+              "id": "poetry-0155",
+              "title": "Rain, Web Design, and Thunder",
+              "category": "poetry",
+              "tags": [
+                "Listen",
+                "Poem"
+              ],
+              "date": "2020-08-03T00:12:11.213Z",
+              "draft": false,
+              "deleted": false,
+              "timestamp": "August 2nd 2020, 8:12:11 pm EDT",
+              "author": "Dr. Meow",
+              "canonical": "https://catpea.com/",
+              "images": [
+                {
+                  "path": "image",
+                  "label": "Illustration",
+                  "file": "poetry-0155-illustration.jpg"
+                }
+              ],
+              "sounds": [
+                {
+                  "path": "audio",
+                  "label": "Listen",
+                  "file": "poetry-0155.mp3"
+                }
+              ]
+            },
+            "data": {
+              "md": "\n![Illustration](image/poetry-0155-illustration.jpg)\n\n[Listen](audio/poetry-0155.mp3)\n\nI was tossing and turning late at night,<br>\nonly to be awoken by thunder and a flash of light.\n\nThe room shook and I felt it in my chest,<br>\nbut I was wearing earplugs so I didn't hear the rest.\n\n\nI used to be scared of thunder quite a bit,<br>\nthen I was told if you can hear it - you didn't get hit.\n\nI am not sure what kind of advice that is,<br>\nbut it made thunderstorms a breeze.\n\n\nI figured it was going to be too wet and muddy,<br>\nto ride my iron horse buddy.\n\nSo I resumed working on my web page,<br>\nand now I am in the finishing stage.\n\n\nWhen all else fails there is always web design,<br>\nat the end of the day everything will turn out fine.\n\nI had to rest a bit as I switched from 8PM to 5AM for my endurance running,<br>\nbut now I feel can resume, and become even more stunning.\n",
+              "html": "<p><img src=\"image/poetry-0155-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></p><p><a href=\"audio/poetry-0155.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>I was tossing and turning late at night,<br>\n  only to be awoken by thunder and a flash of light.</p><p>The room shook and I felt it in my chest,<br>\n  but I was wearing earplugs so I didn&apos;t hear the rest.</p><p>I used to be scared of thunder quite a bit,<br>\n  then I was told if you can hear it - you didn&apos;t get hit.</p><p>I am not sure what kind of advice that is,<br>\n  but it made thunderstorms a breeze.</p><p>I figured it was going to be too wet and muddy,<br>\n  to ride my iron horse buddy.</p><p>So I resumed working on my web page,<br>\n  and now I am in the finishing stage.</p><p>When all else fails there is always web design,<br>\n  at the end of the day everything will turn out fine.</p><p>I had to rest a bit as I switched from 8PM to 5AM for my endurance running,<br>\n  but now I feel can resume, and become even more stunning.</p>"
+            }
+          },
+          {
+            "meta": {
+              "name": "poetry-0156",
+              "path": "db/poetry-0156.md",
+              "id": "poetry-0156",
+              "title": "Untitled no. 156",
+              "category": "poetry",
+              "tags": [
+                "Listen",
+                "Poem"
+              ],
+              "date": "2020-08-03T22:46:32.717Z",
+              "draft": false,
+              "deleted": false,
+              "timestamp": "August 3rd 2020, 6:46:32 pm EDT",
+              "author": "Dr. Meow",
+              "canonical": "https://catpea.com/",
+              "images": [
+                {
+                  "path": "image",
+                  "label": "Illustration",
+                  "file": "poetry-0156-illustration.jpg"
+                }
+              ],
+              "sounds": [
+                {
+                  "path": "audio",
+                  "label": "Listen",
+                  "file": "poetry-0156.mp3"
+                }
+              ]
+            },
+            "data": {
+              "md": "\n![Illustration](image/poetry-0156-illustration.jpg)\n\n[Listen](audio/poetry-0156.mp3)\n\n“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.” – Matthew Austern\n",
+              "html": "<p><img src=\"image/poetry-0156-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></p><p><a href=\"audio/poetry-0156.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>&#x201C;The best way to get accurate information on Usenet is to post something wrong and wait for corrections.&#x201D; &#x2013; Matthew Austern</p>"
             }
           }
         ]
