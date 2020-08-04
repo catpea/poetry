@@ -24,7 +24,7 @@ import pretty from 'pretty';
 
 import options from './options.mjs';
 
-const metaDataStream = fs.readdirSync(path.resolve(options.sourceDatabase.path), { withFileTypes: true })
+const metaDataStream = fs.readdirSync(path.resolve(options.sourceDatabasePath), { withFileTypes: true })
 .filter(o => o.isFile())
 .map(o => o.name)
 .filter(s => s.endsWith('.md'))
@@ -32,7 +32,7 @@ const metaDataStream = fs.readdirSync(path.resolve(options.sourceDatabase.path),
 .map(name => ({
   meta: {
     name: path.basename(name, '.md'),
-    path: path.join(options.sourceDatabase.path, name)
+    path: path.join(options.sourceDatabasePath, name)
   },
   data:{
 
@@ -58,10 +58,6 @@ const dataStream = metaDataStream.map(o => {
   properties.tags = properties.tags.split(" ");
 
   properties.timestamp = moment((new Date(properties.date))).tz("America/Detroit").format("MMMM Do YYYY, h:mm:ss a z");
-
-
-  if(!properties.author) properties.author = options.author;
-  properties.canonical = options.poetryBook.canonical;
 
 
   Object.assign(o.meta, properties);
@@ -96,23 +92,18 @@ const dataStream = metaDataStream.map(o => {
 
 const pageStream = beautifulPagination(dataStream, {
   perPage:7,
-  sectionFileName: options.poetryBook.sectionFileName,
-  sectionName: options.poetryBook.sectionName,
+  sectionFileName: options.sectionFileName,
+  sectionName: options.sectionName,
 });
 
 
 
-// console.log(util.inspect( dataStream[100] ));
-
 
 const data = {
-      title: options.title,
-     author: options.author,
-  canonical: options.poetryBook.canonical,
-  // --- --- --- --- --- --- --- --- --- //
-    data: pageStream,
+    element: dataStream,
+    chapter: pageStream,
 };
-const dataLocation = path.resolve(path.join(options.distributionDirectory.path, options.dataFeed.directory, options.dataFeed.file));
+const dataLocation = path.resolve(path.join(options.distributionDirectoryPath, options.dataFeedDirectory, options.dataFeedFile));
 fs.emptyDirSync(path.dirname(dataLocation));
 fs.writeFileSync(dataLocation, JSON.stringify(data, null, '  '));
 
