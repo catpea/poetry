@@ -1,8 +1,8 @@
 # Poetry
 
 ## Blogging About Jogging
-### August 3rd 2020, 6:46:32 pm EDT
-<meta itemprop="dateCreated" datetime="2020-08-03T22:46:32.717Z">
+### August 3rd 2020, 9:01:08 pm EDT
+<meta itemprop="dateCreated" datetime="2020-08-04T01:01:08.459Z">
 
 ![Illustration](image/poetry-0156-illustration.jpg)
 
