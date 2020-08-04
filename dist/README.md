@@ -56,7 +56,7 @@ I love how I am making proggres jooging<br>
 and bodybuilding and blogging...
 
 ...and all at the same time,<br>
-that sure is a lot of pictures and rhyme.
+that sure is a lot of adventure and rhyme.
 
 <br><br>
 
