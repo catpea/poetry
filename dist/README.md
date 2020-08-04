@@ -1,6 +1,6 @@
 # Poetry
 
-## Untitled no. 156
+## Blogging About Jogging
 ### August 3rd 2020, 6:46:32 pm EDT
 <meta itemprop="dateCreated" datetime="2020-08-03T22:46:32.717Z">
 
@@ -8,7 +8,55 @@
 
 [Listen](audio/poetry-0156.mp3)
 
-“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.” – Matthew Austern
+I woke up at five,<br>
+and I felt alive.
+
+I left at five forty two,<br>
+I could still smell the dew.
+
+The sun was still down,<br>
+and the clouds looked brown.
+
+<br><br>
+
+But I ran,<br>
+like Superman.
+
+I had weights in each hand,<br>
+ready to conquer Westland.
+
+<br><br>
+
+Though by the time I got to Central City,<br>
+I felt just about as strong as a little kitty.
+
+But I kept going,<br>
+and the sky started glowing.
+
+It was really pretty,<br>
+...the sunrise finally came to the city.
+
+There was a cloud or two,<br>
+but that only added to the view.
+
+<br><br>
+
+I ran much faster, like I had superpowers,<br>
+and made the six miles under two hours.
+
+It is my best time thus far,<br>
+and I felt like a superstar.
+
+But, I have a lot more training to do,<br>
+...though I must say, I already grew.
+
+<br><br>
+
+I love how I am making proggres jooging<br>
+and bodybuilding and blogging...
+
+...and all at the same time,<br>
+that sure is a lot of pictures and rhyme.
 
 <br><br>
 
@@ -121,6 +169,8 @@ and a hawk probably waiting around for her babies to hatch.
 
 Dear Reader, how about you?<br>
 what do you love more, evening sunsets or the sunlit dew?
+
+![The Dew](image/poetry-0153-dew.jpg)
 
 <br><br>
 

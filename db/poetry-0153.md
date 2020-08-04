@@ -33,3 +33,5 @@ and a hawk probably waiting around for her babies to hatch.
 
 Dear Reader, how about you?<br>
 what do you love more, evening sunsets or the sunlit dew?
+
+![The Dew](image/poetry-0153-dew.jpg)
