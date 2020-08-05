@@ -36,5 +36,5 @@ as the unbroken heart.
 Growing is your right,<br>
 your most magnificent might.
 
-Do not waste not a single day,<br>
+Do not waste a single day,<br>
 and always walk your own way.
