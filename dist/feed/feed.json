@@ -4840,12 +4840,47 @@
         "md": "\n![Illustration](image/poetry-0156-illustration.jpg)\n\n[Listen](audio/poetry-0156.mp3)\n\nI woke up at five,<br>\nand I felt alive.\n\nI left at five forty two,<br>\nI could still smell the dew.\n\nThe sun was still down,<br>\nand the clouds looked brown.\n\n<br>\n\nBut I ran,<br>\nlike Superman.\n\nI had weights in each hand,<br>\nready to conquer Westland.\n\n<br>\n\nThough by the time I got to Central City,<br>\nI felt just about as strong as a little kitty.\n\nBut I kept going,<br>\nand the sky started glowing.\n\nIt was really pretty,<br>\n...the sunrise finally came to the city.\n\nThere was a cloud or two,<br>\nbut that only added to the view.\n\n<br>\n\nI ran much faster, like I had superpowers,<br>\nand made the six miles under two hours.\n\nIt is my best time thus far,<br>\nand I felt like a superstar.\n\nBut, I have a lot more training to do,<br>\n...though I must say, I already grew.\n\n<br>\n\nI love how I am making proggres jooging<br>\nand bodybuilding and blogging...\n\n...and all at the same time,<br>\nthat sure is a lot of adventure and rhyme.\n",
         "html": "<p><img src=\"image/poetry-0156-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></p><p><a href=\"audio/poetry-0156.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>I woke up at five,<br>\n  and I felt alive.</p><p>I left at five forty two,<br>\n  I could still smell the dew.</p><p>The sun was still down,<br>\n  and the clouds looked brown.</p><br><p>But I ran,<br>\n  like Superman.</p><p>I had weights in each hand,<br>\n  ready to conquer Westland.</p><br><p>Though by the time I got to Central City,<br>\n  I felt just about as strong as a little kitty.</p><p>But I kept going,<br>\n  and the sky started glowing.</p><p>It was really pretty,<br>\n  ...the sunrise finally came to the city.</p><p>There was a cloud or two,<br>\n  but that only added to the view.</p><br><p>I ran much faster, like I had superpowers,<br>\n  and made the six miles under two hours.</p><p>It is my best time thus far,<br>\n  and I felt like a superstar.</p><p>But, I have a lot more training to do,<br>\n  ...though I must say, I already grew.</p><br><p>I love how I am making proggres jooging<br>\n  and bodybuilding and blogging...</p><p>...and all at the same time,<br>\n  that sure is a lot of adventure and rhyme.</p>"
       }
+    },
+    {
+      "meta": {
+        "name": "poetry-0157",
+        "path": "db/poetry-0157.md",
+        "id": "poetry-0157",
+        "title": "As Bright As The Sun",
+        "category": "poetry",
+        "tags": [
+          "Listen",
+          "Poem"
+        ],
+        "date": "2020-08-05T00:21:29.260Z",
+        "draft": false,
+        "deleted": false,
+        "timestamp": "August 4th 2020, 8:21:29 pm EDT",
+        "images": [
+          {
+            "path": "image",
+            "label": "Illustration",
+            "file": "poetry-0157-illustration.jpg"
+          }
+        ],
+        "sounds": [
+          {
+            "path": "audio",
+            "label": "Listen",
+            "file": "poetry-0157.mp3"
+          }
+        ]
+      },
+      "data": {
+        "md": "\n![Illustration](image/poetry-0157-illustration.jpg)\n\n[Listen](audio/poetry-0157.mp3)\n\nMay all your days add,<br>\nmay you never feel sad.\n\nBecause it is hard to say,<br>\nwhat things may.\n\nWe certainly know not,<br>\nthe world; dot for dot.\n\nWhat we do know,<br>\nis not to resign or live low.\n\nBecause life is one,<br>\nso live as bright as the sun.\n\nAnd as wise,<br>\nas the true sunrise.\n\nAnd as smart,<br>\nas the unbroken heart.\n\nGrowing is your right,<br>\nyour most magnificent might.\n\nDo not waste not a single day,<br>\nand always walk your own way.\n",
+        "html": "<p><img src=\"image/poetry-0157-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></p><p><a href=\"audio/poetry-0157.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>May all your days add,<br>\n  may you never feel sad.</p><p>Because it is hard to say,<br>\n  what things may.</p><p>We certainly know not,<br>\n  the world; dot for dot.</p><p>What we do know,<br>\n  is not to resign or live low.</p><p>Because life is one,<br>\n  so live as bright as the sun.</p><p>And as wise,<br>\n  as the true sunrise.</p><p>And as smart,<br>\n  as the unbroken heart.</p><p>Growing is your right,<br>\n  your most magnificent might.</p><p>Do not waste not a single day,<br>\n  and always walk your own way.</p>"
+      }
     }
   ],
   "chapter": {
     "meta": {
       "perPage": 7,
-      "totalItems": 139,
+      "totalItems": 140,
       "totalPages": 20
     },
     "data": [
@@ -9946,6 +9981,41 @@
             "data": {
               "md": "\n![Illustration](image/poetry-0156-illustration.jpg)\n\n[Listen](audio/poetry-0156.mp3)\n\nI woke up at five,<br>\nand I felt alive.\n\nI left at five forty two,<br>\nI could still smell the dew.\n\nThe sun was still down,<br>\nand the clouds looked brown.\n\n<br>\n\nBut I ran,<br>\nlike Superman.\n\nI had weights in each hand,<br>\nready to conquer Westland.\n\n<br>\n\nThough by the time I got to Central City,<br>\nI felt just about as strong as a little kitty.\n\nBut I kept going,<br>\nand the sky started glowing.\n\nIt was really pretty,<br>\n...the sunrise finally came to the city.\n\nThere was a cloud or two,<br>\nbut that only added to the view.\n\n<br>\n\nI ran much faster, like I had superpowers,<br>\nand made the six miles under two hours.\n\nIt is my best time thus far,<br>\nand I felt like a superstar.\n\nBut, I have a lot more training to do,<br>\n...though I must say, I already grew.\n\n<br>\n\nI love how I am making proggres jooging<br>\nand bodybuilding and blogging...\n\n...and all at the same time,<br>\nthat sure is a lot of adventure and rhyme.\n",
               "html": "<p><img src=\"image/poetry-0156-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></p><p><a href=\"audio/poetry-0156.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>I woke up at five,<br>\n  and I felt alive.</p><p>I left at five forty two,<br>\n  I could still smell the dew.</p><p>The sun was still down,<br>\n  and the clouds looked brown.</p><br><p>But I ran,<br>\n  like Superman.</p><p>I had weights in each hand,<br>\n  ready to conquer Westland.</p><br><p>Though by the time I got to Central City,<br>\n  I felt just about as strong as a little kitty.</p><p>But I kept going,<br>\n  and the sky started glowing.</p><p>It was really pretty,<br>\n  ...the sunrise finally came to the city.</p><p>There was a cloud or two,<br>\n  but that only added to the view.</p><br><p>I ran much faster, like I had superpowers,<br>\n  and made the six miles under two hours.</p><p>It is my best time thus far,<br>\n  and I felt like a superstar.</p><p>But, I have a lot more training to do,<br>\n  ...though I must say, I already grew.</p><br><p>I love how I am making proggres jooging<br>\n  and bodybuilding and blogging...</p><p>...and all at the same time,<br>\n  that sure is a lot of adventure and rhyme.</p>"
+            }
+          },
+          {
+            "meta": {
+              "name": "poetry-0157",
+              "path": "db/poetry-0157.md",
+              "id": "poetry-0157",
+              "title": "As Bright As The Sun",
+              "category": "poetry",
+              "tags": [
+                "Listen",
+                "Poem"
+              ],
+              "date": "2020-08-05T00:21:29.260Z",
+              "draft": false,
+              "deleted": false,
+              "timestamp": "August 4th 2020, 8:21:29 pm EDT",
+              "images": [
+                {
+                  "path": "image",
+                  "label": "Illustration",
+                  "file": "poetry-0157-illustration.jpg"
+                }
+              ],
+              "sounds": [
+                {
+                  "path": "audio",
+                  "label": "Listen",
+                  "file": "poetry-0157.mp3"
+                }
+              ]
+            },
+            "data": {
+              "md": "\n![Illustration](image/poetry-0157-illustration.jpg)\n\n[Listen](audio/poetry-0157.mp3)\n\nMay all your days add,<br>\nmay you never feel sad.\n\nBecause it is hard to say,<br>\nwhat things may.\n\nWe certainly know not,<br>\nthe world; dot for dot.\n\nWhat we do know,<br>\nis not to resign or live low.\n\nBecause life is one,<br>\nso live as bright as the sun.\n\nAnd as wise,<br>\nas the true sunrise.\n\nAnd as smart,<br>\nas the unbroken heart.\n\nGrowing is your right,<br>\nyour most magnificent might.\n\nDo not waste not a single day,<br>\nand always walk your own way.\n",
+              "html": "<p><img src=\"image/poetry-0157-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></p><p><a href=\"audio/poetry-0157.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>May all your days add,<br>\n  may you never feel sad.</p><p>Because it is hard to say,<br>\n  what things may.</p><p>We certainly know not,<br>\n  the world; dot for dot.</p><p>What we do know,<br>\n  is not to resign or live low.</p><p>Because life is one,<br>\n  so live as bright as the sun.</p><p>And as wise,<br>\n  as the true sunrise.</p><p>And as smart,<br>\n  as the unbroken heart.</p><p>Growing is your right,<br>\n  your most magnificent might.</p><p>Do not waste not a single day,<br>\n  and always walk your own way.</p>"
             }
           }
         ]
