@@ -4875,13 +4875,48 @@
         "md": "\n![Illustration](image/poetry-0157-illustration.jpg)\n\n[Listen](audio/poetry-0157.mp3)\n\nMay all your days add,<br>\nmay you never feel sad.\n\nBecause it is hard to say,<br>\nwhat things may.\n\nWe certainly know not,<br>\nthe world; dot for dot.\n\nWhat we do know,<br>\nis not to resign or live low.\n\nBecause life is one,<br>\nso live as bright as the sun.\n\nAnd as wise,<br>\nas the true sunrise.\n\nAnd as smart,<br>\nas the unbroken heart.\n\nGrowing is your right,<br>\nyour most magnificent might.\n\nDo not waste a single day,<br>\nand always walk your own way.\n",
         "html": "<p><img src=\"image/poetry-0157-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></p><p><a href=\"audio/poetry-0157.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>May all your days add,<br>\n  may you never feel sad.</p><p>Because it is hard to say,<br>\n  what things may.</p><p>We certainly know not,<br>\n  the world; dot for dot.</p><p>What we do know,<br>\n  is not to resign or live low.</p><p>Because life is one,<br>\n  so live as bright as the sun.</p><p>And as wise,<br>\n  as the true sunrise.</p><p>And as smart,<br>\n  as the unbroken heart.</p><p>Growing is your right,<br>\n  your most magnificent might.</p><p>Do not waste a single day,<br>\n  and always walk your own way.</p>"
       }
+    },
+    {
+      "meta": {
+        "name": "poetry-0158",
+        "path": "db/poetry-0158.md",
+        "id": "poetry-0158",
+        "title": "On Finding Our Stars",
+        "category": "poetry",
+        "tags": [
+          "Listen",
+          "Poem"
+        ],
+        "date": "2020-08-05T22:57:05.852Z",
+        "draft": false,
+        "deleted": false,
+        "timestamp": "August 5th 2020, 6:57:05 pm EDT",
+        "images": [
+          {
+            "path": "image",
+            "label": "Illustration",
+            "file": "poetry-0158-illustration.jpg"
+          }
+        ],
+        "sounds": [
+          {
+            "path": "audio",
+            "label": "Listen",
+            "file": "poetry-0158.mp3"
+          }
+        ]
+      },
+      "data": {
+        "md": "\n![Illustration](image/poetry-0158-illustration.jpg)\n\n[Listen](audio/poetry-0158.mp3)\n\nBefore we learn what we should know,<br>\nwe must first learn how to grow.\n\n<br>\n\nTo break out of all the rooms and halls,<br>\nwe must destroy all the invisible walls.\n\nAs we cannot reason-about what we can’t see,<br>\nand so we must surpass our limits before we can think free.\n\n<br>\n\nIt is not so much moving forward,<br>\nas it is always growing upward.\n\nWe say forward when we seem to stop,<br>\nbut we mean up - up to the top.\n\nAnd then rise above where our limits once stood,<br>\nfrom could to would, to finally should.\n\n<br>\n\nWhat once we saw as highest complexity,<br>\nwe will know to navigate like a small city.\n\nThen, we can help people finish their thoughts,<br>\nhelp them to their stars, connect their dots.\n\n<br>\n\nWe must learn, it is just how Human Beings are,<br>\nwe have to see the whole before we can find the star.\n",
+        "html": "<p><img src=\"image/poetry-0158-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></p><p><a href=\"audio/poetry-0158.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>Before we learn what we should know,<br>\n  we must first learn how to grow.</p><br><p>To break out of all the rooms and halls,<br>\n  we must destroy all the invisible walls.</p><p>As we cannot reason-about what we can&#x2019;t see,<br>\n  and so we must surpass our limits before we can think free.</p><br><p>It is not so much moving forward,<br>\n  as it is always growing upward.</p><p>We say forward when we seem to stop,<br>\n  but we mean up - up to the top.</p><p>And then rise above where our limits once stood,<br>\n  from could to would, to finally should.</p><br><p>What once we saw as highest complexity,<br>\n  we will know to navigate like a small city.</p><p>Then, we can help people finish their thoughts,<br>\n  help them to their stars, connect their dots.</p><br><p>We must learn, it is just how Human Beings are,<br>\n  we have to see the whole before we can find the star.</p>"
+      }
     }
   ],
   "chapter": {
     "meta": {
       "perPage": 7,
-      "totalItems": 140,
-      "totalPages": 20
+      "totalItems": 141,
+      "totalPages": 21
     },
     "data": [
       {
@@ -4890,7 +4925,7 @@
           "isNewest": false,
           "isOldest": true,
           "currentFileName": "section-001",
-          "olderFileName": "section-020",
+          "olderFileName": "section-021",
           "newerFileName": "section-002",
           "sectionName": "section-001"
         },
@@ -9745,11 +9780,11 @@
       {
         "meta": {
           "sectionNumber": 20,
-          "isNewest": true,
+          "isNewest": false,
           "isOldest": false,
           "currentFileName": "section-020",
           "olderFileName": "section-019",
-          "newerFileName": "section-001",
+          "newerFileName": "section-021",
           "sectionName": "section-020"
         },
         "data": [
@@ -10016,6 +10051,54 @@
             "data": {
               "md": "\n![Illustration](image/poetry-0157-illustration.jpg)\n\n[Listen](audio/poetry-0157.mp3)\n\nMay all your days add,<br>\nmay you never feel sad.\n\nBecause it is hard to say,<br>\nwhat things may.\n\nWe certainly know not,<br>\nthe world; dot for dot.\n\nWhat we do know,<br>\nis not to resign or live low.\n\nBecause life is one,<br>\nso live as bright as the sun.\n\nAnd as wise,<br>\nas the true sunrise.\n\nAnd as smart,<br>\nas the unbroken heart.\n\nGrowing is your right,<br>\nyour most magnificent might.\n\nDo not waste a single day,<br>\nand always walk your own way.\n",
               "html": "<p><img src=\"image/poetry-0157-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></p><p><a href=\"audio/poetry-0157.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>May all your days add,<br>\n  may you never feel sad.</p><p>Because it is hard to say,<br>\n  what things may.</p><p>We certainly know not,<br>\n  the world; dot for dot.</p><p>What we do know,<br>\n  is not to resign or live low.</p><p>Because life is one,<br>\n  so live as bright as the sun.</p><p>And as wise,<br>\n  as the true sunrise.</p><p>And as smart,<br>\n  as the unbroken heart.</p><p>Growing is your right,<br>\n  your most magnificent might.</p><p>Do not waste a single day,<br>\n  and always walk your own way.</p>"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "sectionNumber": 21,
+          "isNewest": true,
+          "isOldest": false,
+          "currentFileName": "section-021",
+          "olderFileName": "section-020",
+          "newerFileName": "section-001",
+          "sectionName": "section-021"
+        },
+        "data": [
+          {
+            "meta": {
+              "name": "poetry-0158",
+              "path": "db/poetry-0158.md",
+              "id": "poetry-0158",
+              "title": "On Finding Our Stars",
+              "category": "poetry",
+              "tags": [
+                "Listen",
+                "Poem"
+              ],
+              "date": "2020-08-05T22:57:05.852Z",
+              "draft": false,
+              "deleted": false,
+              "timestamp": "August 5th 2020, 6:57:05 pm EDT",
+              "images": [
+                {
+                  "path": "image",
+                  "label": "Illustration",
+                  "file": "poetry-0158-illustration.jpg"
+                }
+              ],
+              "sounds": [
+                {
+                  "path": "audio",
+                  "label": "Listen",
+                  "file": "poetry-0158.mp3"
+                }
+              ]
+            },
+            "data": {
+              "md": "\n![Illustration](image/poetry-0158-illustration.jpg)\n\n[Listen](audio/poetry-0158.mp3)\n\nBefore we learn what we should know,<br>\nwe must first learn how to grow.\n\n<br>\n\nTo break out of all the rooms and halls,<br>\nwe must destroy all the invisible walls.\n\nAs we cannot reason-about what we can’t see,<br>\nand so we must surpass our limits before we can think free.\n\n<br>\n\nIt is not so much moving forward,<br>\nas it is always growing upward.\n\nWe say forward when we seem to stop,<br>\nbut we mean up - up to the top.\n\nAnd then rise above where our limits once stood,<br>\nfrom could to would, to finally should.\n\n<br>\n\nWhat once we saw as highest complexity,<br>\nwe will know to navigate like a small city.\n\nThen, we can help people finish their thoughts,<br>\nhelp them to their stars, connect their dots.\n\n<br>\n\nWe must learn, it is just how Human Beings are,<br>\nwe have to see the whole before we can find the star.\n",
+              "html": "<p><img src=\"image/poetry-0158-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></p><p><a href=\"audio/poetry-0158.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>Before we learn what we should know,<br>\n  we must first learn how to grow.</p><br><p>To break out of all the rooms and halls,<br>\n  we must destroy all the invisible walls.</p><p>As we cannot reason-about what we can&#x2019;t see,<br>\n  and so we must surpass our limits before we can think free.</p><br><p>It is not so much moving forward,<br>\n  as it is always growing upward.</p><p>We say forward when we seem to stop,<br>\n  but we mean up - up to the top.</p><p>And then rise above where our limits once stood,<br>\n  from could to would, to finally should.</p><br><p>What once we saw as highest complexity,<br>\n  we will know to navigate like a small city.</p><p>Then, we can help people finish their thoughts,<br>\n  help them to their stars, connect their dots.</p><br><p>We must learn, it is just how Human Beings are,<br>\n  we have to see the whole before we can find the star.</p>"
             }
           }
         ]
