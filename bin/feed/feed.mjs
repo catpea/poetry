@@ -39,7 +39,9 @@ const metaDataStream = fs.readdirSync(path.resolve(options.sourceDatabasePath), 
   }
 }))
 
-const dataStream = metaDataStream.map(o => {
+
+
+let dataStream = metaDataStream.map(o => {
 
   let raw = fs.readFileSync(o.meta.path).toString();
   raw = raw.replace(/<br><br>/g,'<br>');
@@ -74,13 +76,33 @@ const dataStream = metaDataStream.map(o => {
   return o;
 })
 
-.filter(o=>o.meta.tags.includes('Poem'))
+.filter(o=>o.meta.tags.includes('Poem'));
 
 
-// Create a newly formatted database.
-{
 
-}
+dataStream = dataStream.map((entry,index)=>{
+
+  let newestElementNumber = dataStream.length;
+  let oldestElementNumber = 1; // oldest Element is page one
+
+  let currentElementNumber = index+1;
+
+  let olderElementNumber = currentElementNumber - 1;
+  let newerElementNumber = currentElementNumber + 1;
+
+  if (olderElementNumber == 0) olderElementNumber = newestElementNumber; // wrap around
+  if (newerElementNumber > newestElementNumber) newerElementNumber = oldestElementNumber; // wrap around
+
+  entry.meta.isNewest =  currentElementNumber==dataStream.length?true:false;
+  entry.meta.isOldest = currentElementNumber==1?true:false;
+  entry.meta.olderId = dataStream[olderElementNumber-1].meta.id;
+  entry.meta.newerId = dataStream[newerElementNumber-1].meta.id;
+  entry.meta.newestId = dataStream[newestElementNumber-1].meta.id;
+  entry.meta.oldestId = dataStream[oldestElementNumber-1].meta.id;
+
+
+  return entry;
+})
 
 
 
