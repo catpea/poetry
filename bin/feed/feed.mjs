@@ -197,5 +197,7 @@ function upgradeDividersForPrinting(str){
   const node = $('img[alt="Illustration"]');
   node.addClass('page-break-after')
 
+  node.parent().attr('style','text-align: center;')
+
   return $.html('body > *');
 }
