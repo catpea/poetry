@@ -1,6 +1,6 @@
 #!/usr/bin/env -S node --experimental-modules
 
-import { exec } from 'child_process' ;
+import { exec, spawn } from 'child_process' ;
 import inquirer from 'inquirer';
 const prompt = inquirer.prompt;
 let operate = 1;
@@ -18,31 +18,36 @@ const questions = [
 
       {
         key: 'j',
-        name: 'Convert PNG to JPG (1)',
+        name: '1) Convert PNG to JPG',
         value: './bin/tojpg/index.sh'
       },
 
       {
         key: 'j',
-        name: 'Resize Images  (2)',
+        name: '2) Resize Images',
         value: './bin/resize/index.sh'
       },
 
 
       {
         key: 'u',
-        name: 'Update Everything (3)',
+        name: '3) Update Everything',
         value: './bin/make/index.mjs'
       },
       {
         key: 'y',
-        name: 'Update Data Feed (4)',
-        value: './bin/feed/feed.mjs;'
+        name: '4) Update Data Feed',
+        value: './bin/feed/feed.mjs'
+      },
+      {
+        key: 'y',
+        name: '5) Update Spectrograms',
+        value: './bin/spectrogram/index.sh'
       },
 
       {
         key: 'p',
-        name: 'Publish To Github (5)',
+        name: '6) Publish To Github',
         value: './bin/publish/index.sh'
       },
 
@@ -69,20 +74,50 @@ function execute(answers){
       return OK();
     }
     console.log(`Executing ${answers.action}`);
-    exec(answers.action, (err, stdout, stderr) => {
-      if (err) {
-        if(stderr) console.log(`${stderr}`);
-        NO(err);
-      } else {
-       if(stdout) console.log(`${stdout}`);
-       if(stderr) console.log(`${stderr}`);
-      }
-    })
-    .on('exit', (code) => {
+
+
+    // exec(answers.action, (err, stdout, stderr) => {
+    //   if (err) {
+    //     if(stderr) console.log(`${stderr}`);
+    //     NO(err);
+    //   } else {
+    //    if(stdout) console.log(`${stdout}`);
+    //    if(stderr) console.log(`${stderr}`);
+    //   }
+    // })
+    // .on('exit', (code) => {
+    //   console.log('');
+    //   operate++;
+    //   OK();
+    // });
+
+
+
+    const child = spawn(answers.action);
+
+    child.stdout.on('data', (data) => {
+      console.log(`stdout:\n${data}`);
+    });
+
+    child.stderr.on('data', (data) => {
+      console.error(`stderr: ${data}`);
+    });
+
+    child.on('error', (error) => {
+      console.error(`error: ${error.message}`);
+      NO(error.message);
+    });
+
+    child.on('close', (code) => {
+      console.log(`child process exited with code ${code}`);
       console.log('');
       operate++;
       OK();
     });
+
+
+
+
   });
 }
 

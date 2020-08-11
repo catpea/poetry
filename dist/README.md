@@ -1,5 +1,17 @@
 # Poetry
 
+## Untitled no. 164
+### August 11th 2020, 7:15:56 pm EDT
+<meta itemprop="dateCreated" datetime="2020-08-11T23:15:56.484Z">
+
+![Illustration](image/poetry-0164-illustration.jpg)
+
+[Listen](audio/poetry-0164.mp3)
+
+Security is a state of mind.   — NSA Security Manua
+
+<br><br>
+
 ## On Listening to Audio Books
 ### August 10th 2020, 7:16:09 pm EDT
 <meta itemprop="dateCreated" datetime="2020-08-10T23:16:09.853Z">
