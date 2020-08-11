@@ -183,9 +183,7 @@ function upgradeAudioLinks(str){
   node.attr('rel', 'noopener noreferrer')
   node.attr('target', '_blank')
   node.addClass('no-print')
-
   if(node.text() == 'Listen') node.text('Audio Version');
-
   return $.html('body > *');
 }
 
@@ -193,11 +191,10 @@ function upgradeDividersForPrinting(str){
   const $ = cheerio.load(str);
   // const node = $('p > br + br');
   // node.parent().addClass('page-break-after')
-
   const node = $('img[alt="Illustration"]');
   node.addClass('page-break-after')
-
   node.parent().attr('style','text-align: center;')
-
+  const link = $(`<a href="${node.attr('src')}"></a>`)
+  node.wrap(link)
   return $.html('body > *');
 }

@@ -8,6 +8,7 @@ old_filename="${old_basename%.*}"
 
 source=$old_fullfile;
 #dest=${1%.jpg}-sm.jpg
+xs_dest="${old_pathname}/xs-${old_basename}";
 sm_dest="${old_pathname}/sm-${old_basename}";
 md_dest="${old_pathname}/md-${old_basename}";
 lg_dest="${old_pathname}/lg-${old_basename}";
@@ -23,6 +24,11 @@ lg_dest="${old_pathname}/lg-${old_basename}";
 # echo $source;
 # echo $dest;
 
+
+if [ ! -f "$xs_dest" ] || [ "$source" -nt "$xs_dest" ]; then
+  echo Creating "$xs_dest"...
+  convert -define jpeg:size=128x128 $source -thumbnail 100x100^ -gravity center -extent 100x100 -quality 90 $xs_dest;
+fi;
 
 if [ ! -f "$sm_dest" ] || [ "$source" -nt "$sm_dest" ]; then
   echo Creating "$sm_dest"...
