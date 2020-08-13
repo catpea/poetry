@@ -1,6 +1,6 @@
 ---
 id: poetry-0164
-title: On A Wintery Starlit Night 17,000 Years Ago
+title: On A Wintry Starlit Night 17,000 Years Ago
 category: poetry
 tags: Listen Poem
 date: 2020-08-11T23:15:56.484Z
@@ -22,7 +22,7 @@ It was not a hunt,<br>
 but a Magical Sight,
 
 It was a Noble Megaloceros,<br>
-on a wintery starlit night.
+on a wintry starlit night.
 
 A Family, and a Traveler,<br>
 Had to go out and see,

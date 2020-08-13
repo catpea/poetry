@@ -10,14 +10,11 @@ deleted: false
 
 Captain's Log: Day Thirteen of Quarantine;
 
-still staring at my screen,
+Still staring at my screen,<br>
+hanging on for dear life to my spleen.
 
-hanging on for dear life to my spleen
+As I drink another coffee bean,<br>
+trying, trying not to create a scene.
 
-as I drink another coffee bean,
-
-trying, trying not to create a scene,
-
-dancing dressed red outside my window;
-
+Dancing dressed red outside my window,<br>
 during quarantine.
