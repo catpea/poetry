@@ -1,6 +1,6 @@
 # Poetry
 
-## On His One 100th Birthday, May 28, 2030.
+## On His One Hundredth Birthday, May 28, 2030.
 ### August 12th 2020, 1:27:09 pm EDT
 <meta itemprop="dateCreated" datetime="2020-08-12T17:27:09.229Z">
 

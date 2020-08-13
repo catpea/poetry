@@ -1,6 +1,6 @@
 ---
 id: poetry-0165
-title: On His One 100th Birthday, May 28, 2030.
+title: On His One Hundredth Birthday, May 28, 2030.
 date: 2020-08-12T17:27:09.229Z
 category: poetry
 tags: Listen Poem
