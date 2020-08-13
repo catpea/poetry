@@ -1,8 +1,8 @@
 # Poetry
 
 ## On His One Hundredth Birthday, May 28, 2030.
-### August 12th 2020, 1:27:09 pm EDT
-<meta itemprop="dateCreated" datetime="2020-08-12T17:27:09.229Z">
+### August 12th 2020, 9:35:16 pm EDT
+<meta itemprop="dateCreated" datetime="2020-08-13T01:35:16.889Z">
 
 ![Illustration](image/poetry-0165-illustration.jpg)
 
@@ -22,7 +22,7 @@ they are spaced out 100 light years apart.
 
 <br><br>
 
-Frank Drake was looking at the bitmaps,<br>
+[Frank Drake](https://en.wikipedia.org/wiki/Frank_Drake) was looking at the bitmaps,<br>
 with the candles on his birthday cake still lit.
 
 He saw a machine, like in the movie,<br>
@@ -30,13 +30,13 @@ He saw a machine, like in the movie,<br>
 
 <br><br>
 
-Ms. Tarter said,<br>
+[Ms. Tarter](https://en.wikipedia.org/wiki/Jill_Tarter) said,<br>
 "This is not a prank".
 
 She pointed to the pictorial with familiar animals,<br>
 and then the undeniable images of poverty came.
 
-Seth had it all figured out for years, he growled "These are diagrams for a Planet Wide Governing Body"<br>
+[Seth](https://en.wikipedia.org/wiki/Seth_Shostak) had it all figured out for years, he growled "These are diagrams for a Planet Wide Governing Body"<br>
 "for a Peaceful, Wise, Planet Wide Government", he said with tears with his eyes.
 
 <br><br>
