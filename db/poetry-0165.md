@@ -45,28 +45,37 @@ and then the undeniable images of poverty came.
 
 <br><br>
 
+One People
+
 No Poverty
+Currency must not be used against the people, or to hold people hostage.
 
 No War
 
-No Weapons Manufacturing
+No Unsustainable Beliefs That Drive Us Apart
 
-No Weapon Stockpiles
+Interactive and Captivating Education Perfectly Tailored to Each Student.
+Schools must demonstrate they help people grow, beyond what individuals can achieve on their own.
 
-No Prisons, No Punishement (Only Hospitals and Therapy)
+No Borders
 
-No Hurting or Eating Other Species
+No Weapons Manufacturing or Stockpiles
+
+No Prisons, No Punishment (Only special need Hospitals and Schools with Therapy)
+
+No Breeding Animals For Food
 
 A Planet United Under A Single Government
 
 No Representatives, No Presidents, No Political Personalities
 
 Humanity Comes Together To Vote On Good Ideas, One Idea At A Time.
-
-(The plans revealed how the ideas are protected, only questionnaires are answered.)
+The plans revealed how the ideas are protected, only questionnaires are answered.
 
 The ultimate goal of the Planetary Government is to Converge on Wisdom.
 It is to protect the planet from self destruction, and encourage growth of Wisdom and Technology.
+
+
 
 <br><br>
 

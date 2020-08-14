@@ -1,5 +1,56 @@
 # Poetry
 
+## Athletic Endurance
+### August 13th 2020, 8:34:57 pm EDT
+<meta itemprop="dateCreated" datetime="2020-08-14T00:34:57.695Z">
+
+![Illustration](image/poetry-0166-illustration.jpg)
+
+[Listen](audio/poetry-0166.mp3)
+
+Endurance, like speaking, or memorizing poems, and languages languages,<br>
+or recalling details on the walls of our childhood home, streets of our city,<br>
+is a talent we are all born with.
+
+Like memorizing a poem, or learning a language it is a slow process,<br>
+we adapt gradually, and gradually we must increase the difficulty of our workout.
+
+Dancing, or Jogging with dumbbells is a nice example,<br>
+we can extent duration of our workout or the distance of our run,<br>
+increase the beat of the music or our pace,<br>
+and of course slowly increase the weight of the dumbbell.
+
+<br><br>
+
+This requires a long time, a daily routine,<br>
+but the gentler it is, the more frequently it can be done.
+
+Running a 10K every morning is probably too tiring,<br>
+the body will grow weaker rather than adapt to handle more,
+certainly at first.
+
+Running a Dumbbell-10K every other day,<br>
+seems to work out well, and the door to increasing distance is open.
+
+This is a good example of increasing frequency, being a bad idea,<br>
+but being able to run longer with heavier dumbbells, being well within reach.
+
+<br><br>
+
+Without gradually sneaking in more difficulty,<br>
+the workout won't progress as well as it could, but it will still progress.
+
+Open-world workouts like dancing or jogging with dumbbells,<br>
+help with burning fat, and build up useful muscles that protect us from injury.
+
+Waking up to crispy and fresh air, putting on your gear,<br>
+and getting out there with dumbbells in hand is a wonderful way to enjoy a morning sunrise.
+
+If you have to stay home, then know that there is a wonderful alternative to jogging,<br>
+and that is dancing grab your dumbbells and begin by mastering the [Melbourne Shuffle](https://en.wikipedia.org/wiki/Melbourne_shuffle)
+
+<br><br>
+
 ## On His One Hundredth Birthday, May 28, 2030.
 ### August 12th 2020, 9:35:16 pm EDT
 <meta itemprop="dateCreated" datetime="2020-08-13T01:35:16.889Z">
@@ -41,28 +92,37 @@ and then the undeniable images of poverty came.
 
 <br><br>
 
+One People
+
 No Poverty
+Currency must not be used against the people, or to hold people hostage.
 
 No War
 
-No Weapons Manufacturing
+No Unsustainable Beliefs That Drive Us Apart
 
-No Weapon Stockpiles
+Interactive and Captivating Education Perfectly Tailored to Each Student.
+Schools must demonstrate they help people grow, beyond what individuals can achieve on their own.
 
-No Prisons, No Punishement (Only Hospitals and Therapy)
+No Borders
 
-No Hurting or Eating Other Species
+No Weapons Manufacturing or Stockpiles
+
+No Prisons, No Punishment (Only special need Hospitals and Schools with Therapy)
+
+No Breeding Animals For Food
 
 A Planet United Under A Single Government
 
 No Representatives, No Presidents, No Political Personalities
 
 Humanity Comes Together To Vote On Good Ideas, One Idea At A Time.
-
-(The plans revealed how the ideas are protected, only questionnaires are answered.)
+The plans revealed how the ideas are protected, only questionnaires are answered.
 
 The ultimate goal of the Planetary Government is to Converge on Wisdom.
 It is to protect the planet from self destruction, and encourage growth of Wisdom and Technology.
+
+
 
 <br><br>
 

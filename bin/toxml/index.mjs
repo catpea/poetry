@@ -141,7 +141,7 @@ const $ = cheerio.load(html, {
 // $('h2').addClass('welcome')
 
 $('head').append(`<title>${entry.data.title}</title>`)
-$('head').append(`<meta name="id" content="${entry.data.id}" />`)
+// $('head').append(`<meta name="id" content="${entry.data.id}" />`) FILENAMES ARE USED TO MAKE THIS FIELD
 $('head').append(`<meta name="date" content="${entry.data.date.toISOString()}" />`)
 if(entry.data.image){
   $('head').append(`<meta name="image" content="${entry.data.image}" />`)
@@ -187,7 +187,7 @@ html = $.html()
   //break;
 
 
-  fs.writeFileSync(`dist/poetry/src/text/${entry.data.id}.html`, pretty(html));
+  fs.writeFileSync(`../../Upgrade/poetry/src/text/${entry.data.id}.html`, pretty(html));
 
 
 }
