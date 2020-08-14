@@ -52,7 +52,8 @@ Currency must not be used against the people, or to hold people hostage.
 
 No War
 
-No Unsustainable Beliefs That Drive Us Apart
+No Unsustainable Beliefs That Drive Us Apart,
+the well being of all people must always come first, this requires education, clarity, peace and wisdom.
 
 Interactive and Captivating Education Perfectly Tailored to Each Student.
 Schools must demonstrate they help people grow, beyond what individuals can achieve on their own.
