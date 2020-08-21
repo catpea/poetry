@@ -19,9 +19,9 @@
         "sounds": [],
         "isNewest": false,
         "isOldest": true,
-        "olderId": "poetry-0172",
+        "olderId": "poetry-0173",
         "newerId": "poetry-0018",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -50,7 +50,7 @@
         "isOldest": false,
         "olderId": "poetry-0016",
         "newerId": "poetry-0019",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -79,7 +79,7 @@
         "isOldest": false,
         "olderId": "poetry-0018",
         "newerId": "poetry-0020",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -109,7 +109,7 @@
         "isOldest": false,
         "olderId": "poetry-0019",
         "newerId": "poetry-0021",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -138,7 +138,7 @@
         "isOldest": false,
         "olderId": "poetry-0020",
         "newerId": "poetry-0022",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -167,7 +167,7 @@
         "isOldest": false,
         "olderId": "poetry-0021",
         "newerId": "poetry-0023",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -196,7 +196,7 @@
         "isOldest": false,
         "olderId": "poetry-0022",
         "newerId": "poetry-0024",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -225,7 +225,7 @@
         "isOldest": false,
         "olderId": "poetry-0023",
         "newerId": "poetry-0025",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -316,7 +316,7 @@
         "isOldest": false,
         "olderId": "poetry-0024",
         "newerId": "poetry-0026",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -345,7 +345,7 @@
         "isOldest": false,
         "olderId": "poetry-0025",
         "newerId": "poetry-0027",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -374,7 +374,7 @@
         "isOldest": false,
         "olderId": "poetry-0026",
         "newerId": "poetry-0028",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -410,7 +410,7 @@
         "isOldest": false,
         "olderId": "poetry-0027",
         "newerId": "poetry-0029",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -446,7 +446,7 @@
         "isOldest": false,
         "olderId": "poetry-0028",
         "newerId": "poetry-0030",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -482,7 +482,7 @@
         "isOldest": false,
         "olderId": "poetry-0029",
         "newerId": "poetry-0031",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -518,7 +518,7 @@
         "isOldest": false,
         "olderId": "poetry-0030",
         "newerId": "poetry-0032",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -554,7 +554,7 @@
         "isOldest": false,
         "olderId": "poetry-0031",
         "newerId": "poetry-0033",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -590,7 +590,7 @@
         "isOldest": false,
         "olderId": "poetry-0032",
         "newerId": "poetry-0034",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -626,7 +626,7 @@
         "isOldest": false,
         "olderId": "poetry-0033",
         "newerId": "poetry-0035",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -662,7 +662,7 @@
         "isOldest": false,
         "olderId": "poetry-0034",
         "newerId": "poetry-0036",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -698,7 +698,7 @@
         "isOldest": false,
         "olderId": "poetry-0035",
         "newerId": "poetry-0037",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -734,7 +734,7 @@
         "isOldest": false,
         "olderId": "poetry-0036",
         "newerId": "poetry-0038",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -770,7 +770,7 @@
         "isOldest": false,
         "olderId": "poetry-0037",
         "newerId": "poetry-0039",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -806,7 +806,7 @@
         "isOldest": false,
         "olderId": "poetry-0038",
         "newerId": "poetry-0040",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -842,7 +842,7 @@
         "isOldest": false,
         "olderId": "poetry-0039",
         "newerId": "poetry-0041",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -878,7 +878,7 @@
         "isOldest": false,
         "olderId": "poetry-0040",
         "newerId": "poetry-0042",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -914,7 +914,7 @@
         "isOldest": false,
         "olderId": "poetry-0041",
         "newerId": "poetry-0043",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -950,7 +950,7 @@
         "isOldest": false,
         "olderId": "poetry-0042",
         "newerId": "poetry-0044",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -986,7 +986,7 @@
         "isOldest": false,
         "olderId": "poetry-0043",
         "newerId": "poetry-0045",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1022,7 +1022,7 @@
         "isOldest": false,
         "olderId": "poetry-0044",
         "newerId": "poetry-0046",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1058,7 +1058,7 @@
         "isOldest": false,
         "olderId": "poetry-0045",
         "newerId": "poetry-0047",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1094,7 +1094,7 @@
         "isOldest": false,
         "olderId": "poetry-0046",
         "newerId": "poetry-0048",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1130,7 +1130,7 @@
         "isOldest": false,
         "olderId": "poetry-0047",
         "newerId": "poetry-0049",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1166,7 +1166,7 @@
         "isOldest": false,
         "olderId": "poetry-0048",
         "newerId": "poetry-0050",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1202,7 +1202,7 @@
         "isOldest": false,
         "olderId": "poetry-0049",
         "newerId": "poetry-0051",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1244,7 +1244,7 @@
         "isOldest": false,
         "olderId": "poetry-0050",
         "newerId": "poetry-0052",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1285,7 +1285,7 @@
         "isOldest": false,
         "olderId": "poetry-0051",
         "newerId": "poetry-0053",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1320,7 +1320,7 @@
         "isOldest": false,
         "olderId": "poetry-0052",
         "newerId": "poetry-0054",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1361,7 +1361,7 @@
         "isOldest": false,
         "olderId": "poetry-0053",
         "newerId": "poetry-0055",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1402,7 +1402,7 @@
         "isOldest": false,
         "olderId": "poetry-0054",
         "newerId": "poetry-0056",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1443,7 +1443,7 @@
         "isOldest": false,
         "olderId": "poetry-0055",
         "newerId": "poetry-0057",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1484,7 +1484,7 @@
         "isOldest": false,
         "olderId": "poetry-0056",
         "newerId": "poetry-0058",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1519,7 +1519,7 @@
         "isOldest": false,
         "olderId": "poetry-0057",
         "newerId": "poetry-0059",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1554,7 +1554,7 @@
         "isOldest": false,
         "olderId": "poetry-0058",
         "newerId": "poetry-0060",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1600,7 +1600,7 @@
         "isOldest": false,
         "olderId": "poetry-0059",
         "newerId": "poetry-0061",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1635,7 +1635,7 @@
         "isOldest": false,
         "olderId": "poetry-0060",
         "newerId": "poetry-0062",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1670,7 +1670,7 @@
         "isOldest": false,
         "olderId": "poetry-0061",
         "newerId": "poetry-0063",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1741,7 +1741,7 @@
         "isOldest": false,
         "olderId": "poetry-0062",
         "newerId": "poetry-0064",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1782,7 +1782,7 @@
         "isOldest": false,
         "olderId": "poetry-0063",
         "newerId": "poetry-0065",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1817,7 +1817,7 @@
         "isOldest": false,
         "olderId": "poetry-0064",
         "newerId": "poetry-0066",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1858,7 +1858,7 @@
         "isOldest": false,
         "olderId": "poetry-0065",
         "newerId": "poetry-0067",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1899,7 +1899,7 @@
         "isOldest": false,
         "olderId": "poetry-0066",
         "newerId": "poetry-0068",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1950,7 +1950,7 @@
         "isOldest": false,
         "olderId": "poetry-0067",
         "newerId": "poetry-0069",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -1991,7 +1991,7 @@
         "isOldest": false,
         "olderId": "poetry-0068",
         "newerId": "poetry-0070",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2037,7 +2037,7 @@
         "isOldest": false,
         "olderId": "poetry-0069",
         "newerId": "poetry-0071",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2078,7 +2078,7 @@
         "isOldest": false,
         "olderId": "poetry-0070",
         "newerId": "poetry-0072",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2119,7 +2119,7 @@
         "isOldest": false,
         "olderId": "poetry-0071",
         "newerId": "poetry-0073",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2160,7 +2160,7 @@
         "isOldest": false,
         "olderId": "poetry-0072",
         "newerId": "poetry-0074",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2206,7 +2206,7 @@
         "isOldest": false,
         "olderId": "poetry-0073",
         "newerId": "poetry-0075",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2247,7 +2247,7 @@
         "isOldest": false,
         "olderId": "poetry-0074",
         "newerId": "poetry-0076",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2288,7 +2288,7 @@
         "isOldest": false,
         "olderId": "poetry-0075",
         "newerId": "poetry-0077",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2329,7 +2329,7 @@
         "isOldest": false,
         "olderId": "poetry-0076",
         "newerId": "poetry-0078",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2370,7 +2370,7 @@
         "isOldest": false,
         "olderId": "poetry-0077",
         "newerId": "poetry-0079",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2431,7 +2431,7 @@
         "isOldest": false,
         "olderId": "poetry-0078",
         "newerId": "poetry-0080",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2472,7 +2472,7 @@
         "isOldest": false,
         "olderId": "poetry-0079",
         "newerId": "poetry-0081",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2513,7 +2513,7 @@
         "isOldest": false,
         "olderId": "poetry-0080",
         "newerId": "poetry-0082",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2554,7 +2554,7 @@
         "isOldest": false,
         "olderId": "poetry-0081",
         "newerId": "poetry-0083",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2610,7 +2610,7 @@
         "isOldest": false,
         "olderId": "poetry-0082",
         "newerId": "poetry-0084",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2651,7 +2651,7 @@
         "isOldest": false,
         "olderId": "poetry-0083",
         "newerId": "poetry-0085",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2692,7 +2692,7 @@
         "isOldest": false,
         "olderId": "poetry-0084",
         "newerId": "poetry-0086",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2733,7 +2733,7 @@
         "isOldest": false,
         "olderId": "poetry-0085",
         "newerId": "poetry-0087",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2779,7 +2779,7 @@
         "isOldest": false,
         "olderId": "poetry-0086",
         "newerId": "poetry-0088",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2825,7 +2825,7 @@
         "isOldest": false,
         "olderId": "poetry-0087",
         "newerId": "poetry-0089",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2866,7 +2866,7 @@
         "isOldest": false,
         "olderId": "poetry-0088",
         "newerId": "poetry-0090",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2907,7 +2907,7 @@
         "isOldest": false,
         "olderId": "poetry-0089",
         "newerId": "poetry-0091",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2948,7 +2948,7 @@
         "isOldest": false,
         "olderId": "poetry-0090",
         "newerId": "poetry-0092",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -2989,7 +2989,7 @@
         "isOldest": false,
         "olderId": "poetry-0091",
         "newerId": "poetry-0093",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3030,7 +3030,7 @@
         "isOldest": false,
         "olderId": "poetry-0092",
         "newerId": "poetry-0094",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3071,7 +3071,7 @@
         "isOldest": false,
         "olderId": "poetry-0093",
         "newerId": "poetry-0095",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3112,7 +3112,7 @@
         "isOldest": false,
         "olderId": "poetry-0094",
         "newerId": "poetry-0096",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3153,7 +3153,7 @@
         "isOldest": false,
         "olderId": "poetry-0095",
         "newerId": "poetry-0097",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3194,7 +3194,7 @@
         "isOldest": false,
         "olderId": "poetry-0096",
         "newerId": "poetry-0098",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3235,7 +3235,7 @@
         "isOldest": false,
         "olderId": "poetry-0097",
         "newerId": "poetry-0099",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3276,7 +3276,7 @@
         "isOldest": false,
         "olderId": "poetry-0098",
         "newerId": "poetry-0100",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3322,7 +3322,7 @@
         "isOldest": false,
         "olderId": "poetry-0099",
         "newerId": "poetry-0101",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3363,7 +3363,7 @@
         "isOldest": false,
         "olderId": "poetry-0100",
         "newerId": "poetry-0102",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3404,7 +3404,7 @@
         "isOldest": false,
         "olderId": "poetry-0101",
         "newerId": "poetry-0103",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3445,7 +3445,7 @@
         "isOldest": false,
         "olderId": "poetry-0102",
         "newerId": "poetry-0104",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3486,7 +3486,7 @@
         "isOldest": false,
         "olderId": "poetry-0103",
         "newerId": "poetry-0105",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3527,7 +3527,7 @@
         "isOldest": false,
         "olderId": "poetry-0104",
         "newerId": "poetry-0107",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3568,7 +3568,7 @@
         "isOldest": false,
         "olderId": "poetry-0105",
         "newerId": "poetry-0108",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3614,7 +3614,7 @@
         "isOldest": false,
         "olderId": "poetry-0107",
         "newerId": "poetry-0109",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3655,7 +3655,7 @@
         "isOldest": false,
         "olderId": "poetry-0108",
         "newerId": "poetry-0110",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3696,7 +3696,7 @@
         "isOldest": false,
         "olderId": "poetry-0109",
         "newerId": "poetry-0111",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3737,7 +3737,7 @@
         "isOldest": false,
         "olderId": "poetry-0110",
         "newerId": "poetry-0112",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3778,7 +3778,7 @@
         "isOldest": false,
         "olderId": "poetry-0111",
         "newerId": "poetry-0113",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3819,7 +3819,7 @@
         "isOldest": false,
         "olderId": "poetry-0112",
         "newerId": "poetry-0114",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3860,7 +3860,7 @@
         "isOldest": false,
         "olderId": "poetry-0113",
         "newerId": "poetry-0115",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3901,7 +3901,7 @@
         "isOldest": false,
         "olderId": "poetry-0114",
         "newerId": "poetry-0116",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3942,7 +3942,7 @@
         "isOldest": false,
         "olderId": "poetry-0115",
         "newerId": "poetry-0117",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -3983,7 +3983,7 @@
         "isOldest": false,
         "olderId": "poetry-0116",
         "newerId": "poetry-0118",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4024,7 +4024,7 @@
         "isOldest": false,
         "olderId": "poetry-0117",
         "newerId": "poetry-0119",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4095,7 +4095,7 @@
         "isOldest": false,
         "olderId": "poetry-0118",
         "newerId": "poetry-0120",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4136,7 +4136,7 @@
         "isOldest": false,
         "olderId": "poetry-0119",
         "newerId": "poetry-0121",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4177,7 +4177,7 @@
         "isOldest": false,
         "olderId": "poetry-0120",
         "newerId": "poetry-0122",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4218,7 +4218,7 @@
         "isOldest": false,
         "olderId": "poetry-0121",
         "newerId": "poetry-0123",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4259,7 +4259,7 @@
         "isOldest": false,
         "olderId": "poetry-0122",
         "newerId": "poetry-0124",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4300,7 +4300,7 @@
         "isOldest": false,
         "olderId": "poetry-0123",
         "newerId": "poetry-0125",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4341,7 +4341,7 @@
         "isOldest": false,
         "olderId": "poetry-0124",
         "newerId": "poetry-0126",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4382,7 +4382,7 @@
         "isOldest": false,
         "olderId": "poetry-0125",
         "newerId": "poetry-0127",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4423,7 +4423,7 @@
         "isOldest": false,
         "olderId": "poetry-0126",
         "newerId": "poetry-0128",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4469,7 +4469,7 @@
         "isOldest": false,
         "olderId": "poetry-0127",
         "newerId": "poetry-0129",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4510,7 +4510,7 @@
         "isOldest": false,
         "olderId": "poetry-0128",
         "newerId": "poetry-0130",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4551,7 +4551,7 @@
         "isOldest": false,
         "olderId": "poetry-0129",
         "newerId": "poetry-0131",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4617,7 +4617,7 @@
         "isOldest": false,
         "olderId": "poetry-0130",
         "newerId": "poetry-0132",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4658,7 +4658,7 @@
         "isOldest": false,
         "olderId": "poetry-0131",
         "newerId": "poetry-0133",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4699,7 +4699,7 @@
         "isOldest": false,
         "olderId": "poetry-0132",
         "newerId": "poetry-0134",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4740,7 +4740,7 @@
         "isOldest": false,
         "olderId": "poetry-0133",
         "newerId": "poetry-0135",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4781,7 +4781,7 @@
         "isOldest": false,
         "olderId": "poetry-0134",
         "newerId": "poetry-0136",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4822,7 +4822,7 @@
         "isOldest": false,
         "olderId": "poetry-0135",
         "newerId": "poetry-0137",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4863,7 +4863,7 @@
         "isOldest": false,
         "olderId": "poetry-0136",
         "newerId": "poetry-0138",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4904,7 +4904,7 @@
         "isOldest": false,
         "olderId": "poetry-0137",
         "newerId": "poetry-0139",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4945,7 +4945,7 @@
         "isOldest": false,
         "olderId": "poetry-0138",
         "newerId": "poetry-0140",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -4986,7 +4986,7 @@
         "isOldest": false,
         "olderId": "poetry-0139",
         "newerId": "poetry-0141",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5027,7 +5027,7 @@
         "isOldest": false,
         "olderId": "poetry-0140",
         "newerId": "poetry-0142",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5068,7 +5068,7 @@
         "isOldest": false,
         "olderId": "poetry-0141",
         "newerId": "poetry-0143",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5109,7 +5109,7 @@
         "isOldest": false,
         "olderId": "poetry-0142",
         "newerId": "poetry-0144",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5150,7 +5150,7 @@
         "isOldest": false,
         "olderId": "poetry-0143",
         "newerId": "poetry-0145",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5191,7 +5191,7 @@
         "isOldest": false,
         "olderId": "poetry-0144",
         "newerId": "poetry-0146",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5232,7 +5232,7 @@
         "isOldest": false,
         "olderId": "poetry-0145",
         "newerId": "poetry-0147",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5273,7 +5273,7 @@
         "isOldest": false,
         "olderId": "poetry-0146",
         "newerId": "poetry-0148",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5314,7 +5314,7 @@
         "isOldest": false,
         "olderId": "poetry-0147",
         "newerId": "poetry-0149",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5355,7 +5355,7 @@
         "isOldest": false,
         "olderId": "poetry-0148",
         "newerId": "poetry-0150",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5401,7 +5401,7 @@
         "isOldest": false,
         "olderId": "poetry-0149",
         "newerId": "poetry-0151",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5442,7 +5442,7 @@
         "isOldest": false,
         "olderId": "poetry-0150",
         "newerId": "poetry-0152",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5498,7 +5498,7 @@
         "isOldest": false,
         "olderId": "poetry-0151",
         "newerId": "poetry-0153",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5544,7 +5544,7 @@
         "isOldest": false,
         "olderId": "poetry-0152",
         "newerId": "poetry-0154",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5585,7 +5585,7 @@
         "isOldest": false,
         "olderId": "poetry-0153",
         "newerId": "poetry-0155",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5626,7 +5626,7 @@
         "isOldest": false,
         "olderId": "poetry-0154",
         "newerId": "poetry-0156",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5667,7 +5667,7 @@
         "isOldest": false,
         "olderId": "poetry-0155",
         "newerId": "poetry-0157",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5708,7 +5708,7 @@
         "isOldest": false,
         "olderId": "poetry-0156",
         "newerId": "poetry-0158",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5749,7 +5749,7 @@
         "isOldest": false,
         "olderId": "poetry-0157",
         "newerId": "poetry-0159",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5790,7 +5790,7 @@
         "isOldest": false,
         "olderId": "poetry-0158",
         "newerId": "poetry-0160",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5831,7 +5831,7 @@
         "isOldest": false,
         "olderId": "poetry-0159",
         "newerId": "poetry-0161",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5872,7 +5872,7 @@
         "isOldest": false,
         "olderId": "poetry-0160",
         "newerId": "poetry-0162",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5913,7 +5913,7 @@
         "isOldest": false,
         "olderId": "poetry-0161",
         "newerId": "poetry-0163",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5954,7 +5954,7 @@
         "isOldest": false,
         "olderId": "poetry-0162",
         "newerId": "poetry-0164",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -5995,7 +5995,7 @@
         "isOldest": false,
         "olderId": "poetry-0163",
         "newerId": "poetry-0165",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -6036,7 +6036,7 @@
         "isOldest": false,
         "olderId": "poetry-0164",
         "newerId": "poetry-0166",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -6077,7 +6077,7 @@
         "isOldest": false,
         "olderId": "poetry-0165",
         "newerId": "poetry-0167",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -6118,7 +6118,7 @@
         "isOldest": false,
         "olderId": "poetry-0166",
         "newerId": "poetry-0168",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -6159,7 +6159,7 @@
         "isOldest": false,
         "olderId": "poetry-0167",
         "newerId": "poetry-0169",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -6200,7 +6200,7 @@
         "isOldest": false,
         "olderId": "poetry-0168",
         "newerId": "poetry-0170",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -6241,7 +6241,7 @@
         "isOldest": false,
         "olderId": "poetry-0169",
         "newerId": "poetry-0171",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -6282,7 +6282,7 @@
         "isOldest": false,
         "olderId": "poetry-0170",
         "newerId": "poetry-0172",
-        "newestId": "poetry-0172",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
@@ -6319,23 +6319,64 @@
             "file": "poetry-0172.mp3"
           }
         ],
-        "isNewest": true,
+        "isNewest": false,
         "isOldest": false,
         "olderId": "poetry-0171",
-        "newerId": "poetry-0016",
-        "newestId": "poetry-0172",
+        "newerId": "poetry-0173",
+        "newestId": "poetry-0173",
         "oldestId": "poetry-0016"
       },
       "data": {
         "md": "\n![Illustration](image/poetry-0172-illustration.jpg)\n\n[Listen](audio/poetry-0172.mp3)\n\n\nYou are not alone,<br>\nand all you do matters.\n\nAs you rise,<br>\nyou create a way for others to follow.\n\nStruggle, like suffering,<br>\nis a gas that fills all the available space.\n\nIt is never easy for anybody,<br>\nthe difference is in the choices we make and the aims we set.\n\nThe first Great Choice is to set off towards wisdom,<br>\nto continuously transcend our limits thorough out our entire existence.\n\nOne of the finest choices we can make,<br>\nis to Live Above Common Levels of Life.\n\nThere are no guarantees,<br>\nyour choice to proceed forward is all the guarantee there is.\n\nOur biological life is not finely crafted,<br>\nit is a result of fundamental principles of Physics and Chemistry.\n\nBut our mind, is up to us to shape,<br>\nhence Audio Books and Lectures and our inheritance from of Other Lives, Times, and Works.\n\nYou need not hurry,<br>\nbut you do need to slow down so that you may read and write.\n\n<br>\n\nWe each have a story to tell,<br>\nand many will follow a similar path to ours across the vastness of future.\n\nThey could use some advice,<br>\na few fine words about rising, about what it is like to see the sun for the first time.\n\nDo not let your readers suffer the same loneliness you did,<br>\nlet them learn from you.\n\n<br>\n\nAnd the way you write,<br>\nis one thought at a time.\n\nSo as long as your write about your unlimited travels,<br>\nyou never run out of the story to tell.\n\nAnd every once in a while,<br>\na poem will leap ahead of you.\n\nThe thought will arrive,<br>\nfrom the future before you get there.\n\nYou are connected to your future self,<br>\nno one can hold a stronger bond.\n\nYou are a being, with a mind and body, you are in the present,<br>\nbut you exist across time.\n\nYour Life Line, your Life Time,<br>\nThe past you and the future you, are connected.\n\nAnd just the same those who came before you,<br>\nand those who are yet to follow, are connected to you.\n\nBut you have to write your thoughts,<br>\n...when you are rising in your childhood,<br>\nthe children can understand it best.\n\nIn your early age, as you make your way,<br>\nas you learn to rise, and find your rhythm,<br>\nyour readers will be in their twenties.\n\nAnd then, forties, and then sixties, and eighties, and hundreds,<br>\nat no point in your life should you be ashamed to write,<br>\nor be shamed for writing.\n\n<br>\n\nBecause if you can manage to hold your pen,<br>\nit is more than most others can.\n\nOne thought at a time,<br>\nhelp others understand how to climb.\n\nMake all your struggles count for more,<br>\nshow them how you fought for wisdom in your war.\n\nTell the world what you know,<br>\nso that others may safely follow.\n\nKnow that the first struggles sometimes mean more,<br>\nsometimes the hardest challenge is to get off the floor.\n\nThe first steps after all,<br>\nmatter the most to those whose worlds may be seem small.\n\nAll steps matter and in many ways,<br>\nall lead to enlightenment, and the Sun's rays.\n",
         "html": "<p style=\"text-align: center;\"><a href=\"image/poetry-0172-illustration.jpg\"><img src=\"image/poetry-0172-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></a></p><p><a href=\"audio/poetry-0172.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>You are not alone,<br>\n  and all you do matters.</p><p>As you rise,<br>\n  you create a way for others to follow.</p><p>Struggle, like suffering,<br>\n  is a gas that fills all the available space.</p><p>It is never easy for anybody,<br>\n  the difference is in the choices we make and the aims we set.</p><p>The first Great Choice is to set off towards wisdom,<br>\n  to continuously transcend our limits thorough out our entire existence.</p><p>One of the finest choices we can make,<br>\n  is to Live Above Common Levels of Life.</p><p>There are no guarantees,<br>\n  your choice to proceed forward is all the guarantee there is.</p><p>Our biological life is not finely crafted,<br>\n  it is a result of fundamental principles of Physics and Chemistry.</p><p>But our mind, is up to us to shape,<br>\n  hence Audio Books and Lectures and our inheritance from of Other Lives, Times, and Works.</p><p>You need not hurry,<br>\n  but you do need to slow down so that you may read and write.</p><br><p>We each have a story to tell,<br>\n  and many will follow a similar path to ours across the vastness of future.</p><p>They could use some advice,<br>\n  a few fine words about rising, about what it is like to see the sun for the first time.</p><p>Do not let your readers suffer the same loneliness you did,<br>\n  let them learn from you.</p><br><p>And the way you write,<br>\n  is one thought at a time.</p><p>So as long as your write about your unlimited travels,<br>\n  you never run out of the story to tell.</p><p>And every once in a while,<br>\n  a poem will leap ahead of you.</p><p>The thought will arrive,<br>\n  from the future before you get there.</p><p>You are connected to your future self,<br>\n  no one can hold a stronger bond.</p><p>You are a being, with a mind and body, you are in the present,<br>\n  but you exist across time.</p><p>Your Life Line, your Life Time,<br>\n  The past you and the future you, are connected.</p><p>And just the same those who came before you,<br>\n  and those who are yet to follow, are connected to you.</p><p>But you have to write your thoughts,<br>\n  ...when you are rising in your childhood,<br>\n  the children can understand it best.</p><p>In your early age, as you make your way,<br>\n  as you learn to rise, and find your rhythm,<br>\n  your readers will be in their twenties.</p><p>And then, forties, and then sixties, and eighties, and hundreds,<br>\n  at no point in your life should you be ashamed to write,<br>\n  or be shamed for writing.</p><br><p>Because if you can manage to hold your pen,<br>\n  it is more than most others can.</p><p>One thought at a time,<br>\n  help others understand how to climb.</p><p>Make all your struggles count for more,<br>\n  show them how you fought for wisdom in your war.</p><p>Tell the world what you know,<br>\n  so that others may safely follow.</p><p>Know that the first struggles sometimes mean more,<br>\n  sometimes the hardest challenge is to get off the floor.</p><p>The first steps after all,<br>\n  matter the most to those whose worlds may be seem small.</p><p>All steps matter and in many ways,<br>\n  all lead to enlightenment, and the Sun&apos;s rays.</p>"
       }
+    },
+    {
+      "meta": {
+        "name": "poetry-0173",
+        "path": "db/poetry-0173.md",
+        "id": "poetry-0173",
+        "title": "The World United in Peace Under The Symbol Of The White Dove",
+        "category": "poetry",
+        "tags": [
+          "Listen",
+          "Poem"
+        ],
+        "date": "2020-08-21T00:17:05.415Z",
+        "draft": false,
+        "deleted": false,
+        "timestamp": "August 20th 2020, 8:17:05 pm EDT",
+        "images": [
+          {
+            "path": "image",
+            "label": "Illustration",
+            "file": "poetry-0173-illustration.jpg"
+          }
+        ],
+        "sounds": [
+          {
+            "path": "audio",
+            "label": "Listen",
+            "file": "poetry-0173.mp3"
+          }
+        ],
+        "isNewest": true,
+        "isOldest": false,
+        "olderId": "poetry-0172",
+        "newerId": "poetry-0016",
+        "newestId": "poetry-0173",
+        "oldestId": "poetry-0016"
+      },
+      "data": {
+        "md": "\n![Illustration](image/poetry-0173-illustration.jpg)\n\n[Listen](audio/poetry-0173.mp3)\n\nAll nations try very hard to divide,<br>\noutline their treasure and their national pride.\n\nBut reality is such,<br>\nthat this does not matter much.\n\nOne can complain about this nation or that nation,<br>\nbut that does not change the situation...\n\n<br>\n\nWe are one,<br>\none family under the sun.\n\nEventually Education, Foresight, Wisdom, and World Peace,<br>\nwill bring us all together and the complaints will cease.\n\nUntil then, we must each remember that borders are useless,<br>\nthey only divide and create a huge mess.\n\n<br>\n\nA border does not mark its people to be of any particular kind,<br>\nit only keeps different kinds of colorful groups apart.\n\nIt is not correct to be unhappy about a nation,<br>\nlet us be unhappy about lack of safety, books and education.\n\nLet us come together and stand against lack of Good Schools and Wisdom,<br>\nlet us but complain about divisions and lack of peace and calm.\n\n<br>\n\nIf there were no borders, there would be more friendship and love,<br>\nall nations United in Peace under the symbol of the white dove.\n\nWe are not different from one another,<br>\na sister or brother from a different mother.\n\nIn the World of the Future we won't be divided at all,<br>\npeople will forget why we needed a wall.\n",
+        "html": "<p style=\"text-align: center;\"><a href=\"image/poetry-0173-illustration.jpg\"><img src=\"image/poetry-0173-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></a></p><p><a href=\"audio/poetry-0173.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>All nations try very hard to divide,<br>\n  outline their treasure and their national pride.</p><p>But reality is such,<br>\n  that this does not matter much.</p><p>One can complain about this nation or that nation,<br>\n  but that does not change the situation...</p><br><p>We are one,<br>\n  one family under the sun.</p><p>Eventually Education, Foresight, Wisdom, and World Peace,<br>\n  will bring us all together and the complaints will cease.</p><p>Until then, we must each remember that borders are useless,<br>\n  they only divide and create a huge mess.</p><br><p>A border does not mark its people to be of any particular kind,<br>\n  it only keeps different kinds of colorful groups apart.</p><p>It is not correct to be unhappy about a nation,<br>\n  let us be unhappy about lack of safety, books and education.</p><p>Let us come together and stand against lack of Good Schools and Wisdom,<br>\n  let us but complain about divisions and lack of peace and calm.</p><br><p>If there were no borders, there would be more friendship and love,<br>\n  all nations United in Peace under the symbol of the white dove.</p><p>We are not different from one another,<br>\n  a sister or brother from a different mother.</p><p>In the World of the Future we won&apos;t be divided at all,<br>\n  people will forget why we needed a wall.</p>"
+      }
     }
   ],
   "chapter": {
     "meta": {
       "perPage": 7,
-      "totalItems": 155,
+      "totalItems": 156,
       "totalPages": 23
     },
     "data": [
@@ -6369,9 +6410,9 @@
               "sounds": [],
               "isNewest": false,
               "isOldest": true,
-              "olderId": "poetry-0172",
+              "olderId": "poetry-0173",
               "newerId": "poetry-0018",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6400,7 +6441,7 @@
               "isOldest": false,
               "olderId": "poetry-0016",
               "newerId": "poetry-0019",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6429,7 +6470,7 @@
               "isOldest": false,
               "olderId": "poetry-0018",
               "newerId": "poetry-0020",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6459,7 +6500,7 @@
               "isOldest": false,
               "olderId": "poetry-0019",
               "newerId": "poetry-0021",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6488,7 +6529,7 @@
               "isOldest": false,
               "olderId": "poetry-0020",
               "newerId": "poetry-0022",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6517,7 +6558,7 @@
               "isOldest": false,
               "olderId": "poetry-0021",
               "newerId": "poetry-0023",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6546,7 +6587,7 @@
               "isOldest": false,
               "olderId": "poetry-0022",
               "newerId": "poetry-0024",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6588,7 +6629,7 @@
               "isOldest": false,
               "olderId": "poetry-0023",
               "newerId": "poetry-0025",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6679,7 +6720,7 @@
               "isOldest": false,
               "olderId": "poetry-0024",
               "newerId": "poetry-0026",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6708,7 +6749,7 @@
               "isOldest": false,
               "olderId": "poetry-0025",
               "newerId": "poetry-0027",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6737,7 +6778,7 @@
               "isOldest": false,
               "olderId": "poetry-0026",
               "newerId": "poetry-0028",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6773,7 +6814,7 @@
               "isOldest": false,
               "olderId": "poetry-0027",
               "newerId": "poetry-0029",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6809,7 +6850,7 @@
               "isOldest": false,
               "olderId": "poetry-0028",
               "newerId": "poetry-0030",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6845,7 +6886,7 @@
               "isOldest": false,
               "olderId": "poetry-0029",
               "newerId": "poetry-0031",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6894,7 +6935,7 @@
               "isOldest": false,
               "olderId": "poetry-0030",
               "newerId": "poetry-0032",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6930,7 +6971,7 @@
               "isOldest": false,
               "olderId": "poetry-0031",
               "newerId": "poetry-0033",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -6966,7 +7007,7 @@
               "isOldest": false,
               "olderId": "poetry-0032",
               "newerId": "poetry-0034",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7002,7 +7043,7 @@
               "isOldest": false,
               "olderId": "poetry-0033",
               "newerId": "poetry-0035",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7038,7 +7079,7 @@
               "isOldest": false,
               "olderId": "poetry-0034",
               "newerId": "poetry-0036",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7074,7 +7115,7 @@
               "isOldest": false,
               "olderId": "poetry-0035",
               "newerId": "poetry-0037",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7110,7 +7151,7 @@
               "isOldest": false,
               "olderId": "poetry-0036",
               "newerId": "poetry-0038",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7159,7 +7200,7 @@
               "isOldest": false,
               "olderId": "poetry-0037",
               "newerId": "poetry-0039",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7195,7 +7236,7 @@
               "isOldest": false,
               "olderId": "poetry-0038",
               "newerId": "poetry-0040",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7231,7 +7272,7 @@
               "isOldest": false,
               "olderId": "poetry-0039",
               "newerId": "poetry-0041",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7267,7 +7308,7 @@
               "isOldest": false,
               "olderId": "poetry-0040",
               "newerId": "poetry-0042",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7303,7 +7344,7 @@
               "isOldest": false,
               "olderId": "poetry-0041",
               "newerId": "poetry-0043",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7339,7 +7380,7 @@
               "isOldest": false,
               "olderId": "poetry-0042",
               "newerId": "poetry-0044",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7375,7 +7416,7 @@
               "isOldest": false,
               "olderId": "poetry-0043",
               "newerId": "poetry-0045",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7424,7 +7465,7 @@
               "isOldest": false,
               "olderId": "poetry-0044",
               "newerId": "poetry-0046",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7460,7 +7501,7 @@
               "isOldest": false,
               "olderId": "poetry-0045",
               "newerId": "poetry-0047",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7496,7 +7537,7 @@
               "isOldest": false,
               "olderId": "poetry-0046",
               "newerId": "poetry-0048",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7532,7 +7573,7 @@
               "isOldest": false,
               "olderId": "poetry-0047",
               "newerId": "poetry-0049",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7568,7 +7609,7 @@
               "isOldest": false,
               "olderId": "poetry-0048",
               "newerId": "poetry-0050",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7604,7 +7645,7 @@
               "isOldest": false,
               "olderId": "poetry-0049",
               "newerId": "poetry-0051",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7646,7 +7687,7 @@
               "isOldest": false,
               "olderId": "poetry-0050",
               "newerId": "poetry-0052",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7700,7 +7741,7 @@
               "isOldest": false,
               "olderId": "poetry-0051",
               "newerId": "poetry-0053",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7735,7 +7776,7 @@
               "isOldest": false,
               "olderId": "poetry-0052",
               "newerId": "poetry-0054",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7776,7 +7817,7 @@
               "isOldest": false,
               "olderId": "poetry-0053",
               "newerId": "poetry-0055",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7817,7 +7858,7 @@
               "isOldest": false,
               "olderId": "poetry-0054",
               "newerId": "poetry-0056",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7858,7 +7899,7 @@
               "isOldest": false,
               "olderId": "poetry-0055",
               "newerId": "poetry-0057",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7899,7 +7940,7 @@
               "isOldest": false,
               "olderId": "poetry-0056",
               "newerId": "poetry-0058",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7934,7 +7975,7 @@
               "isOldest": false,
               "olderId": "poetry-0057",
               "newerId": "poetry-0059",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -7982,7 +8023,7 @@
               "isOldest": false,
               "olderId": "poetry-0058",
               "newerId": "poetry-0060",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8028,7 +8069,7 @@
               "isOldest": false,
               "olderId": "poetry-0059",
               "newerId": "poetry-0061",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8063,7 +8104,7 @@
               "isOldest": false,
               "olderId": "poetry-0060",
               "newerId": "poetry-0062",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8098,7 +8139,7 @@
               "isOldest": false,
               "olderId": "poetry-0061",
               "newerId": "poetry-0063",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8169,7 +8210,7 @@
               "isOldest": false,
               "olderId": "poetry-0062",
               "newerId": "poetry-0064",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8210,7 +8251,7 @@
               "isOldest": false,
               "olderId": "poetry-0063",
               "newerId": "poetry-0065",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8245,7 +8286,7 @@
               "isOldest": false,
               "olderId": "poetry-0064",
               "newerId": "poetry-0066",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8299,7 +8340,7 @@
               "isOldest": false,
               "olderId": "poetry-0065",
               "newerId": "poetry-0067",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8340,7 +8381,7 @@
               "isOldest": false,
               "olderId": "poetry-0066",
               "newerId": "poetry-0068",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8391,7 +8432,7 @@
               "isOldest": false,
               "olderId": "poetry-0067",
               "newerId": "poetry-0069",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8432,7 +8473,7 @@
               "isOldest": false,
               "olderId": "poetry-0068",
               "newerId": "poetry-0070",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8478,7 +8519,7 @@
               "isOldest": false,
               "olderId": "poetry-0069",
               "newerId": "poetry-0071",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8519,7 +8560,7 @@
               "isOldest": false,
               "olderId": "poetry-0070",
               "newerId": "poetry-0072",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8560,7 +8601,7 @@
               "isOldest": false,
               "olderId": "poetry-0071",
               "newerId": "poetry-0073",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8614,7 +8655,7 @@
               "isOldest": false,
               "olderId": "poetry-0072",
               "newerId": "poetry-0074",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8660,7 +8701,7 @@
               "isOldest": false,
               "olderId": "poetry-0073",
               "newerId": "poetry-0075",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8701,7 +8742,7 @@
               "isOldest": false,
               "olderId": "poetry-0074",
               "newerId": "poetry-0076",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8742,7 +8783,7 @@
               "isOldest": false,
               "olderId": "poetry-0075",
               "newerId": "poetry-0077",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8783,7 +8824,7 @@
               "isOldest": false,
               "olderId": "poetry-0076",
               "newerId": "poetry-0078",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8824,7 +8865,7 @@
               "isOldest": false,
               "olderId": "poetry-0077",
               "newerId": "poetry-0079",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8885,7 +8926,7 @@
               "isOldest": false,
               "olderId": "poetry-0078",
               "newerId": "poetry-0080",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8939,7 +8980,7 @@
               "isOldest": false,
               "olderId": "poetry-0079",
               "newerId": "poetry-0081",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -8980,7 +9021,7 @@
               "isOldest": false,
               "olderId": "poetry-0080",
               "newerId": "poetry-0082",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9021,7 +9062,7 @@
               "isOldest": false,
               "olderId": "poetry-0081",
               "newerId": "poetry-0083",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9077,7 +9118,7 @@
               "isOldest": false,
               "olderId": "poetry-0082",
               "newerId": "poetry-0084",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9118,7 +9159,7 @@
               "isOldest": false,
               "olderId": "poetry-0083",
               "newerId": "poetry-0085",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9159,7 +9200,7 @@
               "isOldest": false,
               "olderId": "poetry-0084",
               "newerId": "poetry-0086",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9200,7 +9241,7 @@
               "isOldest": false,
               "olderId": "poetry-0085",
               "newerId": "poetry-0087",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9259,7 +9300,7 @@
               "isOldest": false,
               "olderId": "poetry-0086",
               "newerId": "poetry-0088",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9305,7 +9346,7 @@
               "isOldest": false,
               "olderId": "poetry-0087",
               "newerId": "poetry-0089",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9346,7 +9387,7 @@
               "isOldest": false,
               "olderId": "poetry-0088",
               "newerId": "poetry-0090",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9387,7 +9428,7 @@
               "isOldest": false,
               "olderId": "poetry-0089",
               "newerId": "poetry-0091",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9428,7 +9469,7 @@
               "isOldest": false,
               "olderId": "poetry-0090",
               "newerId": "poetry-0092",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9469,7 +9510,7 @@
               "isOldest": false,
               "olderId": "poetry-0091",
               "newerId": "poetry-0093",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9510,7 +9551,7 @@
               "isOldest": false,
               "olderId": "poetry-0092",
               "newerId": "poetry-0094",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9564,7 +9605,7 @@
               "isOldest": false,
               "olderId": "poetry-0093",
               "newerId": "poetry-0095",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9605,7 +9646,7 @@
               "isOldest": false,
               "olderId": "poetry-0094",
               "newerId": "poetry-0096",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9646,7 +9687,7 @@
               "isOldest": false,
               "olderId": "poetry-0095",
               "newerId": "poetry-0097",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9687,7 +9728,7 @@
               "isOldest": false,
               "olderId": "poetry-0096",
               "newerId": "poetry-0098",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9728,7 +9769,7 @@
               "isOldest": false,
               "olderId": "poetry-0097",
               "newerId": "poetry-0099",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9769,7 +9810,7 @@
               "isOldest": false,
               "olderId": "poetry-0098",
               "newerId": "poetry-0100",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9815,7 +9856,7 @@
               "isOldest": false,
               "olderId": "poetry-0099",
               "newerId": "poetry-0101",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9869,7 +9910,7 @@
               "isOldest": false,
               "olderId": "poetry-0100",
               "newerId": "poetry-0102",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9910,7 +9951,7 @@
               "isOldest": false,
               "olderId": "poetry-0101",
               "newerId": "poetry-0103",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9951,7 +9992,7 @@
               "isOldest": false,
               "olderId": "poetry-0102",
               "newerId": "poetry-0104",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -9992,7 +10033,7 @@
               "isOldest": false,
               "olderId": "poetry-0103",
               "newerId": "poetry-0105",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10033,7 +10074,7 @@
               "isOldest": false,
               "olderId": "poetry-0104",
               "newerId": "poetry-0107",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10074,7 +10115,7 @@
               "isOldest": false,
               "olderId": "poetry-0105",
               "newerId": "poetry-0108",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10120,7 +10161,7 @@
               "isOldest": false,
               "olderId": "poetry-0107",
               "newerId": "poetry-0109",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10174,7 +10215,7 @@
               "isOldest": false,
               "olderId": "poetry-0108",
               "newerId": "poetry-0110",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10215,7 +10256,7 @@
               "isOldest": false,
               "olderId": "poetry-0109",
               "newerId": "poetry-0111",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10256,7 +10297,7 @@
               "isOldest": false,
               "olderId": "poetry-0110",
               "newerId": "poetry-0112",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10297,7 +10338,7 @@
               "isOldest": false,
               "olderId": "poetry-0111",
               "newerId": "poetry-0113",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10338,7 +10379,7 @@
               "isOldest": false,
               "olderId": "poetry-0112",
               "newerId": "poetry-0114",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10379,7 +10420,7 @@
               "isOldest": false,
               "olderId": "poetry-0113",
               "newerId": "poetry-0115",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10420,7 +10461,7 @@
               "isOldest": false,
               "olderId": "poetry-0114",
               "newerId": "poetry-0116",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10474,7 +10515,7 @@
               "isOldest": false,
               "olderId": "poetry-0115",
               "newerId": "poetry-0117",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10515,7 +10556,7 @@
               "isOldest": false,
               "olderId": "poetry-0116",
               "newerId": "poetry-0118",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10556,7 +10597,7 @@
               "isOldest": false,
               "olderId": "poetry-0117",
               "newerId": "poetry-0119",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10627,7 +10668,7 @@
               "isOldest": false,
               "olderId": "poetry-0118",
               "newerId": "poetry-0120",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10668,7 +10709,7 @@
               "isOldest": false,
               "olderId": "poetry-0119",
               "newerId": "poetry-0121",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10709,7 +10750,7 @@
               "isOldest": false,
               "olderId": "poetry-0120",
               "newerId": "poetry-0122",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10750,7 +10791,7 @@
               "isOldest": false,
               "olderId": "poetry-0121",
               "newerId": "poetry-0123",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10804,7 +10845,7 @@
               "isOldest": false,
               "olderId": "poetry-0122",
               "newerId": "poetry-0124",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10845,7 +10886,7 @@
               "isOldest": false,
               "olderId": "poetry-0123",
               "newerId": "poetry-0125",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10886,7 +10927,7 @@
               "isOldest": false,
               "olderId": "poetry-0124",
               "newerId": "poetry-0126",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10927,7 +10968,7 @@
               "isOldest": false,
               "olderId": "poetry-0125",
               "newerId": "poetry-0127",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -10968,7 +11009,7 @@
               "isOldest": false,
               "olderId": "poetry-0126",
               "newerId": "poetry-0128",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11014,7 +11055,7 @@
               "isOldest": false,
               "olderId": "poetry-0127",
               "newerId": "poetry-0129",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11055,7 +11096,7 @@
               "isOldest": false,
               "olderId": "poetry-0128",
               "newerId": "poetry-0130",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11109,7 +11150,7 @@
               "isOldest": false,
               "olderId": "poetry-0129",
               "newerId": "poetry-0131",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11175,7 +11216,7 @@
               "isOldest": false,
               "olderId": "poetry-0130",
               "newerId": "poetry-0132",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11216,7 +11257,7 @@
               "isOldest": false,
               "olderId": "poetry-0131",
               "newerId": "poetry-0133",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11257,7 +11298,7 @@
               "isOldest": false,
               "olderId": "poetry-0132",
               "newerId": "poetry-0134",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11298,7 +11339,7 @@
               "isOldest": false,
               "olderId": "poetry-0133",
               "newerId": "poetry-0135",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11339,7 +11380,7 @@
               "isOldest": false,
               "olderId": "poetry-0134",
               "newerId": "poetry-0136",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11380,7 +11421,7 @@
               "isOldest": false,
               "olderId": "poetry-0135",
               "newerId": "poetry-0137",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11434,7 +11475,7 @@
               "isOldest": false,
               "olderId": "poetry-0136",
               "newerId": "poetry-0138",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11475,7 +11516,7 @@
               "isOldest": false,
               "olderId": "poetry-0137",
               "newerId": "poetry-0139",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11516,7 +11557,7 @@
               "isOldest": false,
               "olderId": "poetry-0138",
               "newerId": "poetry-0140",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11557,7 +11598,7 @@
               "isOldest": false,
               "olderId": "poetry-0139",
               "newerId": "poetry-0141",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11598,7 +11639,7 @@
               "isOldest": false,
               "olderId": "poetry-0140",
               "newerId": "poetry-0142",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11639,7 +11680,7 @@
               "isOldest": false,
               "olderId": "poetry-0141",
               "newerId": "poetry-0143",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11680,7 +11721,7 @@
               "isOldest": false,
               "olderId": "poetry-0142",
               "newerId": "poetry-0144",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11734,7 +11775,7 @@
               "isOldest": false,
               "olderId": "poetry-0143",
               "newerId": "poetry-0145",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11775,7 +11816,7 @@
               "isOldest": false,
               "olderId": "poetry-0144",
               "newerId": "poetry-0146",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11816,7 +11857,7 @@
               "isOldest": false,
               "olderId": "poetry-0145",
               "newerId": "poetry-0147",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11857,7 +11898,7 @@
               "isOldest": false,
               "olderId": "poetry-0146",
               "newerId": "poetry-0148",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11898,7 +11939,7 @@
               "isOldest": false,
               "olderId": "poetry-0147",
               "newerId": "poetry-0149",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11939,7 +11980,7 @@
               "isOldest": false,
               "olderId": "poetry-0148",
               "newerId": "poetry-0150",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -11985,7 +12026,7 @@
               "isOldest": false,
               "olderId": "poetry-0149",
               "newerId": "poetry-0151",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12039,7 +12080,7 @@
               "isOldest": false,
               "olderId": "poetry-0150",
               "newerId": "poetry-0152",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12095,7 +12136,7 @@
               "isOldest": false,
               "olderId": "poetry-0151",
               "newerId": "poetry-0153",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12141,7 +12182,7 @@
               "isOldest": false,
               "olderId": "poetry-0152",
               "newerId": "poetry-0154",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12182,7 +12223,7 @@
               "isOldest": false,
               "olderId": "poetry-0153",
               "newerId": "poetry-0155",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12223,7 +12264,7 @@
               "isOldest": false,
               "olderId": "poetry-0154",
               "newerId": "poetry-0156",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12264,7 +12305,7 @@
               "isOldest": false,
               "olderId": "poetry-0155",
               "newerId": "poetry-0157",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12305,7 +12346,7 @@
               "isOldest": false,
               "olderId": "poetry-0156",
               "newerId": "poetry-0158",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12359,7 +12400,7 @@
               "isOldest": false,
               "olderId": "poetry-0157",
               "newerId": "poetry-0159",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12400,7 +12441,7 @@
               "isOldest": false,
               "olderId": "poetry-0158",
               "newerId": "poetry-0160",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12441,7 +12482,7 @@
               "isOldest": false,
               "olderId": "poetry-0159",
               "newerId": "poetry-0161",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12482,7 +12523,7 @@
               "isOldest": false,
               "olderId": "poetry-0160",
               "newerId": "poetry-0162",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12523,7 +12564,7 @@
               "isOldest": false,
               "olderId": "poetry-0161",
               "newerId": "poetry-0163",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12564,7 +12605,7 @@
               "isOldest": false,
               "olderId": "poetry-0162",
               "newerId": "poetry-0164",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12605,7 +12646,7 @@
               "isOldest": false,
               "olderId": "poetry-0163",
               "newerId": "poetry-0165",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12659,7 +12700,7 @@
               "isOldest": false,
               "olderId": "poetry-0164",
               "newerId": "poetry-0166",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12700,7 +12741,7 @@
               "isOldest": false,
               "olderId": "poetry-0165",
               "newerId": "poetry-0167",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12741,7 +12782,7 @@
               "isOldest": false,
               "olderId": "poetry-0166",
               "newerId": "poetry-0168",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12782,7 +12823,7 @@
               "isOldest": false,
               "olderId": "poetry-0167",
               "newerId": "poetry-0169",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12823,7 +12864,7 @@
               "isOldest": false,
               "olderId": "poetry-0168",
               "newerId": "poetry-0170",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12864,7 +12905,7 @@
               "isOldest": false,
               "olderId": "poetry-0169",
               "newerId": "poetry-0171",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12905,7 +12946,7 @@
               "isOldest": false,
               "olderId": "poetry-0170",
               "newerId": "poetry-0172",
-              "newestId": "poetry-0172",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
@@ -12955,16 +12996,57 @@
                   "file": "poetry-0172.mp3"
                 }
               ],
-              "isNewest": true,
+              "isNewest": false,
               "isOldest": false,
               "olderId": "poetry-0171",
-              "newerId": "poetry-0016",
-              "newestId": "poetry-0172",
+              "newerId": "poetry-0173",
+              "newestId": "poetry-0173",
               "oldestId": "poetry-0016"
             },
             "data": {
               "md": "\n![Illustration](image/poetry-0172-illustration.jpg)\n\n[Listen](audio/poetry-0172.mp3)\n\n\nYou are not alone,<br>\nand all you do matters.\n\nAs you rise,<br>\nyou create a way for others to follow.\n\nStruggle, like suffering,<br>\nis a gas that fills all the available space.\n\nIt is never easy for anybody,<br>\nthe difference is in the choices we make and the aims we set.\n\nThe first Great Choice is to set off towards wisdom,<br>\nto continuously transcend our limits thorough out our entire existence.\n\nOne of the finest choices we can make,<br>\nis to Live Above Common Levels of Life.\n\nThere are no guarantees,<br>\nyour choice to proceed forward is all the guarantee there is.\n\nOur biological life is not finely crafted,<br>\nit is a result of fundamental principles of Physics and Chemistry.\n\nBut our mind, is up to us to shape,<br>\nhence Audio Books and Lectures and our inheritance from of Other Lives, Times, and Works.\n\nYou need not hurry,<br>\nbut you do need to slow down so that you may read and write.\n\n<br>\n\nWe each have a story to tell,<br>\nand many will follow a similar path to ours across the vastness of future.\n\nThey could use some advice,<br>\na few fine words about rising, about what it is like to see the sun for the first time.\n\nDo not let your readers suffer the same loneliness you did,<br>\nlet them learn from you.\n\n<br>\n\nAnd the way you write,<br>\nis one thought at a time.\n\nSo as long as your write about your unlimited travels,<br>\nyou never run out of the story to tell.\n\nAnd every once in a while,<br>\na poem will leap ahead of you.\n\nThe thought will arrive,<br>\nfrom the future before you get there.\n\nYou are connected to your future self,<br>\nno one can hold a stronger bond.\n\nYou are a being, with a mind and body, you are in the present,<br>\nbut you exist across time.\n\nYour Life Line, your Life Time,<br>\nThe past you and the future you, are connected.\n\nAnd just the same those who came before you,<br>\nand those who are yet to follow, are connected to you.\n\nBut you have to write your thoughts,<br>\n...when you are rising in your childhood,<br>\nthe children can understand it best.\n\nIn your early age, as you make your way,<br>\nas you learn to rise, and find your rhythm,<br>\nyour readers will be in their twenties.\n\nAnd then, forties, and then sixties, and eighties, and hundreds,<br>\nat no point in your life should you be ashamed to write,<br>\nor be shamed for writing.\n\n<br>\n\nBecause if you can manage to hold your pen,<br>\nit is more than most others can.\n\nOne thought at a time,<br>\nhelp others understand how to climb.\n\nMake all your struggles count for more,<br>\nshow them how you fought for wisdom in your war.\n\nTell the world what you know,<br>\nso that others may safely follow.\n\nKnow that the first struggles sometimes mean more,<br>\nsometimes the hardest challenge is to get off the floor.\n\nThe first steps after all,<br>\nmatter the most to those whose worlds may be seem small.\n\nAll steps matter and in many ways,<br>\nall lead to enlightenment, and the Sun's rays.\n",
               "html": "<p style=\"text-align: center;\"><a href=\"image/poetry-0172-illustration.jpg\"><img src=\"image/poetry-0172-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></a></p><p><a href=\"audio/poetry-0172.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>You are not alone,<br>\n  and all you do matters.</p><p>As you rise,<br>\n  you create a way for others to follow.</p><p>Struggle, like suffering,<br>\n  is a gas that fills all the available space.</p><p>It is never easy for anybody,<br>\n  the difference is in the choices we make and the aims we set.</p><p>The first Great Choice is to set off towards wisdom,<br>\n  to continuously transcend our limits thorough out our entire existence.</p><p>One of the finest choices we can make,<br>\n  is to Live Above Common Levels of Life.</p><p>There are no guarantees,<br>\n  your choice to proceed forward is all the guarantee there is.</p><p>Our biological life is not finely crafted,<br>\n  it is a result of fundamental principles of Physics and Chemistry.</p><p>But our mind, is up to us to shape,<br>\n  hence Audio Books and Lectures and our inheritance from of Other Lives, Times, and Works.</p><p>You need not hurry,<br>\n  but you do need to slow down so that you may read and write.</p><br><p>We each have a story to tell,<br>\n  and many will follow a similar path to ours across the vastness of future.</p><p>They could use some advice,<br>\n  a few fine words about rising, about what it is like to see the sun for the first time.</p><p>Do not let your readers suffer the same loneliness you did,<br>\n  let them learn from you.</p><br><p>And the way you write,<br>\n  is one thought at a time.</p><p>So as long as your write about your unlimited travels,<br>\n  you never run out of the story to tell.</p><p>And every once in a while,<br>\n  a poem will leap ahead of you.</p><p>The thought will arrive,<br>\n  from the future before you get there.</p><p>You are connected to your future self,<br>\n  no one can hold a stronger bond.</p><p>You are a being, with a mind and body, you are in the present,<br>\n  but you exist across time.</p><p>Your Life Line, your Life Time,<br>\n  The past you and the future you, are connected.</p><p>And just the same those who came before you,<br>\n  and those who are yet to follow, are connected to you.</p><p>But you have to write your thoughts,<br>\n  ...when you are rising in your childhood,<br>\n  the children can understand it best.</p><p>In your early age, as you make your way,<br>\n  as you learn to rise, and find your rhythm,<br>\n  your readers will be in their twenties.</p><p>And then, forties, and then sixties, and eighties, and hundreds,<br>\n  at no point in your life should you be ashamed to write,<br>\n  or be shamed for writing.</p><br><p>Because if you can manage to hold your pen,<br>\n  it is more than most others can.</p><p>One thought at a time,<br>\n  help others understand how to climb.</p><p>Make all your struggles count for more,<br>\n  show them how you fought for wisdom in your war.</p><p>Tell the world what you know,<br>\n  so that others may safely follow.</p><p>Know that the first struggles sometimes mean more,<br>\n  sometimes the hardest challenge is to get off the floor.</p><p>The first steps after all,<br>\n  matter the most to those whose worlds may be seem small.</p><p>All steps matter and in many ways,<br>\n  all lead to enlightenment, and the Sun&apos;s rays.</p>"
+            }
+          },
+          {
+            "meta": {
+              "name": "poetry-0173",
+              "path": "db/poetry-0173.md",
+              "id": "poetry-0173",
+              "title": "The World United in Peace Under The Symbol Of The White Dove",
+              "category": "poetry",
+              "tags": [
+                "Listen",
+                "Poem"
+              ],
+              "date": "2020-08-21T00:17:05.415Z",
+              "draft": false,
+              "deleted": false,
+              "timestamp": "August 20th 2020, 8:17:05 pm EDT",
+              "images": [
+                {
+                  "path": "image",
+                  "label": "Illustration",
+                  "file": "poetry-0173-illustration.jpg"
+                }
+              ],
+              "sounds": [
+                {
+                  "path": "audio",
+                  "label": "Listen",
+                  "file": "poetry-0173.mp3"
+                }
+              ],
+              "isNewest": true,
+              "isOldest": false,
+              "olderId": "poetry-0172",
+              "newerId": "poetry-0016",
+              "newestId": "poetry-0173",
+              "oldestId": "poetry-0016"
+            },
+            "data": {
+              "md": "\n![Illustration](image/poetry-0173-illustration.jpg)\n\n[Listen](audio/poetry-0173.mp3)\n\nAll nations try very hard to divide,<br>\noutline their treasure and their national pride.\n\nBut reality is such,<br>\nthat this does not matter much.\n\nOne can complain about this nation or that nation,<br>\nbut that does not change the situation...\n\n<br>\n\nWe are one,<br>\none family under the sun.\n\nEventually Education, Foresight, Wisdom, and World Peace,<br>\nwill bring us all together and the complaints will cease.\n\nUntil then, we must each remember that borders are useless,<br>\nthey only divide and create a huge mess.\n\n<br>\n\nA border does not mark its people to be of any particular kind,<br>\nit only keeps different kinds of colorful groups apart.\n\nIt is not correct to be unhappy about a nation,<br>\nlet us be unhappy about lack of safety, books and education.\n\nLet us come together and stand against lack of Good Schools and Wisdom,<br>\nlet us but complain about divisions and lack of peace and calm.\n\n<br>\n\nIf there were no borders, there would be more friendship and love,<br>\nall nations United in Peace under the symbol of the white dove.\n\nWe are not different from one another,<br>\na sister or brother from a different mother.\n\nIn the World of the Future we won't be divided at all,<br>\npeople will forget why we needed a wall.\n",
+              "html": "<p style=\"text-align: center;\"><a href=\"image/poetry-0173-illustration.jpg\"><img src=\"image/poetry-0173-illustration.jpg\" alt=\"Illustration\" class=\"page-break-after\"></a></p><p><a href=\"audio/poetry-0173.mp3\" role=\"button\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"no-print\">Audio Version</a></p><p>All nations try very hard to divide,<br>\n  outline their treasure and their national pride.</p><p>But reality is such,<br>\n  that this does not matter much.</p><p>One can complain about this nation or that nation,<br>\n  but that does not change the situation...</p><br><p>We are one,<br>\n  one family under the sun.</p><p>Eventually Education, Foresight, Wisdom, and World Peace,<br>\n  will bring us all together and the complaints will cease.</p><p>Until then, we must each remember that borders are useless,<br>\n  they only divide and create a huge mess.</p><br><p>A border does not mark its people to be of any particular kind,<br>\n  it only keeps different kinds of colorful groups apart.</p><p>It is not correct to be unhappy about a nation,<br>\n  let us be unhappy about lack of safety, books and education.</p><p>Let us come together and stand against lack of Good Schools and Wisdom,<br>\n  let us but complain about divisions and lack of peace and calm.</p><br><p>If there were no borders, there would be more friendship and love,<br>\n  all nations United in Peace under the symbol of the white dove.</p><p>We are not different from one another,<br>\n  a sister or brother from a different mother.</p><p>In the World of the Future we won&apos;t be divided at all,<br>\n  people will forget why we needed a wall.</p>"
             }
           }
         ]
