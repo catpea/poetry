@@ -1,67 +1,67 @@
 #!/usr/bin/env -S node --experimental-modules
 
-import { exec, spawn } from 'child_process' ;
+import { exec, spawn } from 'child_process';
 import inquirer from 'inquirer';
 const prompt = inquirer.prompt;
+
 let operate = 1;
+
 const questions = [
   {
     type: 'list',
     name: 'action',
     message: 'What would you like to do?',
     choices: [
-      {
-        key: 'a',
-        name: 'Add New Poem',
-        value: './bin/new/index.mjs'
-      },
 
-      {
-        key: 'j',
-        name: '1) Convert PNG to JPG',
-        value: './bin/tojpg/index.sh'
-      },
+    {
+      name: "Add New Poem",
+      value: "bin/new/index.mjs",
+    },
 
-      {
-        key: 'j',
-        name: '2) Resize Images',
-        value: './bin/resize/index.sh'
-      },
+    {
+      name: "1) Update Data Feed",
+      value: "bin/feed/index.mjs",
+    },
 
+    {
+      name: "2) Run Feed Tests",
+      value: "bin/test/index.mjs",
+    },
 
-      {
-        key: 'u',
-        name: '3) Update Everything',
-        value: './bin/make/index.mjs'
-      },
-      {
-        key: 'y',
-        name: '4) Update Data Feed',
-        value: './bin/feed/feed.mjs'
-      },
-      {
-        key: 'y',
-        name: '5) Update Spectrograms',
-        value: './bin/spectrogram/index.sh'
-      },
+    {
+      name: "3) Convert PNG to JPG and Resize Images",
+      value: "bin/image/index.sh",
+    },
 
-      {
-        key: 'p',
-        name: '6) Publish To Github',
-        value: './bin/publish/index.sh'
-      },
+    {
+      name: "4) Generate Spectrograms",
+      value: "bin/spectrogram/index.sh",
+    },
 
+    {
+      name: "5) Build A Local Mirror",
+      value: "bin/mirror/index.mjs",
+    },
 
-      // {
-      //   key: 'k',
-      //   name: 'New Build System',
-      //   value: './bin/build/all.sh'
-      // },
-      {
-        key: 'x',
-        name: 'Exit Menu',
-        value: 'exit-menu',
-      },
+    {
+      name: "6) Publish To Github",
+      value: "bin/publish/index.sh",
+    },
+
+    {
+      name: "Convert Audio To Video",
+      value: "bin/video/index.sh",
+    },
+
+    {
+      name: "Build a Audio and Visual Book",
+      value: "bin/audiobook/index.sh",
+    },
+
+    {
+      name: 'Exit Menu',
+      value: 'exit-menu',
+    },
 
     ],
   },
@@ -74,24 +74,6 @@ function execute(answers){
       return OK();
     }
     console.log(`Executing ${answers.action}`);
-
-
-    // exec(answers.action, (err, stdout, stderr) => {
-    //   if (err) {
-    //     if(stderr) console.log(`${stderr}`);
-    //     NO(err);
-    //   } else {
-    //    if(stdout) console.log(`${stdout}`);
-    //    if(stderr) console.log(`${stderr}`);
-    //   }
-    // })
-    // .on('exit', (code) => {
-    //   console.log('');
-    //   operate++;
-    //   OK();
-    // });
-
-
 
     const child = spawn(answers.action);
 
@@ -114,9 +96,6 @@ function execute(answers){
       operate++;
       OK();
     });
-
-
-
 
   });
 }

@@ -1,9 +1,12 @@
 #!/usr/bin/env bash
 
-AUDIO='db/audio';
+AUDIO='src/audio';
 DIST='dist';
 DIST_VIDEO="${DIST}/video";
 mkdir -p $DIST_VIDEO;
+
+# resume at 158
+
 for file in $AUDIO/poetry-*.mp3; do
   name=$(basename -s .mp3 $file)
   video="${DIST_VIDEO}/${name}.mp4";

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="generator" content="">
+    <title>Table of Contents</title>
+    <link rel="canonical" href="https://catpea.github.io/poetry/">
+    <style>
+    </style>
+  </head>
+  <body>
+    <main>
+
+      <article>
+
+        <head>
+          <hgroup>
+            <h1>
+              Furkies Purrkies
+            </h1>
+            <h2>
+              Anthology of Inspirational Rhyme
+            </h2>
+          </hgroup>
+        </head>
+
+        <section>
+          <ol>
+          {{#each data as | poem |}}
+            <li><a href="{{poem.id}}.html">{{poem.title}}</a></li>
+          {{/each}}
+          </ol>
+        </section>
+
+      </article>
+
+    </main>
+  </body>
+</html>

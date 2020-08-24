@@ -1,23 +1,22 @@
 #!/usr/bin/env bash
 
-AUDIO='db/audio';
+AUDIO='src/audio';
 DIST='dist';
 
-DIST_AUDIO="${DIST}/multimedia";
-DIST_VIDEO="${DIST}/multimedia";
+DIST_AUDIO="${DIST}/audiobook";
+DIST_VIDEO="${DIST}/audiobook";
 
 mkdir -p $DIST_AUDIO;
 mkdir -p $DIST_VIDEO;
 
 DIST_AUDIO_INDEX="${DIST_AUDIO}/index.txt";
-DIST_AUDIO_FILE="${DIST_AUDIO}/audio.mp3";
-DIST_VIDEO_FILE="${DIST_VIDEO}/video.mp4";
+DIST_AUDIO_FILE="${DIST_AUDIO}/audio-part-2.mp3";
+DIST_VIDEO_FILE="${DIST_VIDEO}/video-part-2.mp4";
 
 echo $DIST_AUDIO_INDEX
 echo $DIST_AUDIO_FILE;
 echo $DIST_VIDEO_FILE;
-
-ls -1 $PWD/$AUDIO/poetry-*.mp3 | sort -nr | awk '{ print "file " "\x27"$1"\x27" }' > $DIST_AUDIO_INDEX;
+ls -1 $PWD/$AUDIO/poetry-*.mp3 | grep -A1000000 poetry-0159 | sort -nr | awk '{ print "file " "\x27"$1"\x27" }' > $DIST_AUDIO_INDEX;
 
 if [ -f $DIST_AUDIO_FILE ]; then
   rm $DIST_AUDIO_FILE; # remove old file before making a new one;
