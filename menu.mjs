@@ -29,22 +29,27 @@ const questions = [
     },
 
     {
-      name: "3) Convert PNG to JPG and Resize Images",
+      name: "3) Copy audio to ./dist",
+      value: "bin/audio/index.sh",
+    },
+
+    {
+      name: "4) Convert PNG to JPG and Resize Images",
       value: "bin/image/index.sh",
     },
 
     {
-      name: "4) Generate Spectrograms",
+      name: "5) Generate Spectrograms",
       value: "bin/spectrogram/index.sh",
     },
 
     {
-      name: "5) Build A Local Mirror",
+      name: "6) Build A Local Mirror",
       value: "bin/mirror/index.sh",
     },
 
     {
-      name: "6) Publish To Github",
+      name: "7) Publish To Github",
       value: "bin/publish/index.sh",
     },
 
