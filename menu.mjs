@@ -40,7 +40,7 @@ const questions = [
 
     {
       name: "5) Build A Local Mirror",
-      value: "bin/mirror/index.mjs",
+      value: "bin/mirror/index.sh",
     },
 
     {
