@@ -19,7 +19,7 @@ const questions = [
     },
 
     {
-      name: "1) Update Data Feed",
+      name: "1) Build The Main Data Feed",
       value: "bin/feed/index.mjs",
     },
 
@@ -54,7 +54,7 @@ const questions = [
     },
 
     {
-      name: "Convert Audio To Video",
+      name: "Convert (copy) Each Audio To Separate Video File",
       value: "bin/video/index.sh",
     },
 
@@ -83,7 +83,7 @@ function execute(answers){
     const child = spawn(answers.action);
 
     child.stdout.on('data', (data) => {
-      console.log(`stdout:\n${data}`);
+      console.log(`${data}`);
     });
 
     child.stderr.on('data', (data) => {
