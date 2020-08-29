@@ -7,7 +7,7 @@ mkdir -p $DIST_VIDEO;
 
 # resume at 158
 
-for source in $AUDIO/poetry-*.mp3; do
+for source in $(ls -1 $AUDIO/poetry-*.mp3 | sort -r); do
   name=$(basename -s .mp3 $source)
   destination="${DIST_VIDEO}/${name}.mp4";
 
