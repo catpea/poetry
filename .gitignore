@@ -3,3 +3,5 @@ dist/audiobook
 node_modules
 dist/video
 dist/poetry
+dist/new/src
+dist/next
