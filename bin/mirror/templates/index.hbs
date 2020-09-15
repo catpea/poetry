@@ -28,11 +28,11 @@
         </head>
 
         <section>
-          <ol>
-          {{#each data as | poem |}}
-            <li><a href="{{poem.id}}.html">{{poem.title}}</a> <small>{{poem.date}}</small></li>
-          {{/each}}
-          </ol>
+          <ul>
+            {{#each data as | poem |}}
+              <li><a href="{{poem.id}}.html">#{{poem.counter}}: {{poem.title}}</a> <small>{{poem.date}}</small></li>
+            {{/each}}
+          </ul>
         </section>
 
       </article>

@@ -14,6 +14,8 @@ const options = {
 const file = path.resolve(options.feed);
 const feed = fs.readJsonSync(file);
 
+feed.reverse()
+
 index();
 poems();
 
