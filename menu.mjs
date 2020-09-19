@@ -11,6 +11,8 @@ const questions = [
     type: 'list',
     name: 'action',
     message: 'What would you like to do?',
+    pageSize: 15,
+    loop: false,
     choices: [
 
     {
@@ -19,8 +21,15 @@ const questions = [
     },
 
     {
+      name: "Upgraded Markup To Buffer",
+      value: "bin/trop/index.sh",
+    },
+
+     new inquirer.Separator(),
+
+    {
       name: "1) Build The Main Data Feed",
-      value: "bin/feed/index.mjs",
+      value:"bin/feed/index.mjs",
     },
 
     {
@@ -53,6 +62,8 @@ const questions = [
       value: "bin/publish/index.sh",
     },
 
+     new inquirer.Separator(),
+
     {
       name: "Convert (copy) Each Audio To Separate Video File",
       value: "bin/video/index.sh",
@@ -62,6 +73,8 @@ const questions = [
       name: "Build a Audio and Visual Book",
       value: "bin/audiobook/index.sh",
     },
+
+    new inquirer.Separator(),
 
     {
       name: 'Exit Menu',
@@ -73,44 +86,38 @@ const questions = [
 ];
 
 function execute(answers){
+
   return new Promise(function(OK, NO){
-    if(answers.action === 'exit-menu'){
+
+     if(answers.action === 'exit-menu'){
       operate = false;
       return OK();
     }
+
     console.log(`Executing ${answers.action}`);
 
     const child = spawn(answers.action);
 
-    child.stdout.on('data', (data) => {
-      console.log(`${data}`);
-    });
+    child.stdout.on('data', (data) => { console.log(`${data}`); });
+    child.stderr.on('data', (data) => { console.error(`stderr: ${data}`); });
 
-    child.stderr.on('data', (data) => {
-      console.error(`stderr: ${data}`);
-    });
-
-    child.on('error', (error) => {
-      console.error(`error: ${error.message}`);
-      NO(error.message);
-    });
-
-    child.on('close', (code) => {
-      console.log(`child process exited with code ${code}`);
-      console.log('');
-      operate++;
-      OK();
-    });
+    child.on('error', (error) => { console.error(`error: ${error.message}`); NO(error.message); });
+    child.on('close', (code) => { console.log(`child process exited with code ${code}`); console.log(''); operate++; OK(); });
+    child.on('exit', (code) => { console.log(`child process exited with code ${code}`); console.log(''); operate++; OK(); });
 
   });
+
 }
 
 async function main(){
+
   await execute({action: './bin/banner/index.mjs'})
+
   while(operate){
     const anwsers = await prompt(questions);
     await execute(anwsers);
   }
+
 }
 
 main();
