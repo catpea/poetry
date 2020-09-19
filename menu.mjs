@@ -70,7 +70,7 @@ const questions = [
     },
 
     {
-      name: "Build a Audio and Visual Book",
+      name: "Build a Audio and Visual Book (Single File Book with Spectrograms)",
       value: "bin/audiobook/index.sh",
     },
 
