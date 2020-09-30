@@ -12,9 +12,9 @@
     "counter": 1,
     "isNewest": false,
     "isOldest": true,
-    "olderId": "poetry-0212",
+    "olderId": "poetry-0213",
     "newerId": "poetry-0017",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -32,7 +32,7 @@
     "isOldest": false,
     "olderId": "poetry-0016",
     "newerId": "poetry-0018",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -50,7 +50,7 @@
     "isOldest": false,
     "olderId": "poetry-0017",
     "newerId": "poetry-0019",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -68,7 +68,7 @@
     "isOldest": false,
     "olderId": "poetry-0018",
     "newerId": "poetry-0020",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -86,7 +86,7 @@
     "isOldest": false,
     "olderId": "poetry-0019",
     "newerId": "poetry-0021",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -104,7 +104,7 @@
     "isOldest": false,
     "olderId": "poetry-0020",
     "newerId": "poetry-0022",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -122,7 +122,7 @@
     "isOldest": false,
     "olderId": "poetry-0021",
     "newerId": "poetry-0023",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -140,7 +140,7 @@
     "isOldest": false,
     "olderId": "poetry-0022",
     "newerId": "poetry-0024",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -158,7 +158,7 @@
     "isOldest": false,
     "olderId": "poetry-0023",
     "newerId": "poetry-0025",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -176,7 +176,7 @@
     "isOldest": false,
     "olderId": "poetry-0024",
     "newerId": "poetry-0026",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -194,7 +194,7 @@
     "isOldest": false,
     "olderId": "poetry-0025",
     "newerId": "poetry-0027",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -212,7 +212,7 @@
     "isOldest": false,
     "olderId": "poetry-0026",
     "newerId": "poetry-0028",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -231,7 +231,7 @@
     "isOldest": false,
     "olderId": "poetry-0027",
     "newerId": "poetry-0029",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -250,7 +250,7 @@
     "isOldest": false,
     "olderId": "poetry-0028",
     "newerId": "poetry-0030",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -269,7 +269,7 @@
     "isOldest": false,
     "olderId": "poetry-0029",
     "newerId": "poetry-0031",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -288,7 +288,7 @@
     "isOldest": false,
     "olderId": "poetry-0030",
     "newerId": "poetry-0032",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -307,7 +307,7 @@
     "isOldest": false,
     "olderId": "poetry-0031",
     "newerId": "poetry-0033",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -326,7 +326,7 @@
     "isOldest": false,
     "olderId": "poetry-0032",
     "newerId": "poetry-0034",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -345,7 +345,7 @@
     "isOldest": false,
     "olderId": "poetry-0033",
     "newerId": "poetry-0035",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -364,7 +364,7 @@
     "isOldest": false,
     "olderId": "poetry-0034",
     "newerId": "poetry-0036",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -383,7 +383,7 @@
     "isOldest": false,
     "olderId": "poetry-0035",
     "newerId": "poetry-0037",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -402,7 +402,7 @@
     "isOldest": false,
     "olderId": "poetry-0036",
     "newerId": "poetry-0038",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -421,7 +421,7 @@
     "isOldest": false,
     "olderId": "poetry-0037",
     "newerId": "poetry-0039",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -440,7 +440,7 @@
     "isOldest": false,
     "olderId": "poetry-0038",
     "newerId": "poetry-0040",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -459,7 +459,7 @@
     "isOldest": false,
     "olderId": "poetry-0039",
     "newerId": "poetry-0041",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -478,7 +478,7 @@
     "isOldest": false,
     "olderId": "poetry-0040",
     "newerId": "poetry-0042",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -497,7 +497,7 @@
     "isOldest": false,
     "olderId": "poetry-0041",
     "newerId": "poetry-0043",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -516,7 +516,7 @@
     "isOldest": false,
     "olderId": "poetry-0042",
     "newerId": "poetry-0044",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -535,7 +535,7 @@
     "isOldest": false,
     "olderId": "poetry-0043",
     "newerId": "poetry-0045",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -554,7 +554,7 @@
     "isOldest": false,
     "olderId": "poetry-0044",
     "newerId": "poetry-0046",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -573,7 +573,7 @@
     "isOldest": false,
     "olderId": "poetry-0045",
     "newerId": "poetry-0047",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -592,7 +592,7 @@
     "isOldest": false,
     "olderId": "poetry-0046",
     "newerId": "poetry-0048",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -611,7 +611,7 @@
     "isOldest": false,
     "olderId": "poetry-0047",
     "newerId": "poetry-0049",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -630,7 +630,7 @@
     "isOldest": false,
     "olderId": "poetry-0048",
     "newerId": "poetry-0050",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -649,7 +649,7 @@
     "isOldest": false,
     "olderId": "poetry-0049",
     "newerId": "poetry-0051",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -669,7 +669,7 @@
     "isOldest": false,
     "olderId": "poetry-0050",
     "newerId": "poetry-0052",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -689,7 +689,7 @@
     "isOldest": false,
     "olderId": "poetry-0051",
     "newerId": "poetry-0053",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -708,7 +708,7 @@
     "isOldest": false,
     "olderId": "poetry-0052",
     "newerId": "poetry-0054",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -728,7 +728,7 @@
     "isOldest": false,
     "olderId": "poetry-0053",
     "newerId": "poetry-0055",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -748,7 +748,7 @@
     "isOldest": false,
     "olderId": "poetry-0054",
     "newerId": "poetry-0056",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -768,7 +768,7 @@
     "isOldest": false,
     "olderId": "poetry-0055",
     "newerId": "poetry-0057",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -788,7 +788,7 @@
     "isOldest": false,
     "olderId": "poetry-0056",
     "newerId": "poetry-0058",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -807,7 +807,7 @@
     "isOldest": false,
     "olderId": "poetry-0057",
     "newerId": "poetry-0059",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -826,7 +826,7 @@
     "isOldest": false,
     "olderId": "poetry-0058",
     "newerId": "poetry-0060",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -846,7 +846,7 @@
     "isOldest": false,
     "olderId": "poetry-0059",
     "newerId": "poetry-0061",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -865,7 +865,7 @@
     "isOldest": false,
     "olderId": "poetry-0060",
     "newerId": "poetry-0062",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -884,7 +884,7 @@
     "isOldest": false,
     "olderId": "poetry-0061",
     "newerId": "poetry-0063",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -904,7 +904,7 @@
     "isOldest": false,
     "olderId": "poetry-0062",
     "newerId": "poetry-0064",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -924,7 +924,7 @@
     "isOldest": false,
     "olderId": "poetry-0063",
     "newerId": "poetry-0065",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -943,7 +943,7 @@
     "isOldest": false,
     "olderId": "poetry-0064",
     "newerId": "poetry-0066",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -963,7 +963,7 @@
     "isOldest": false,
     "olderId": "poetry-0065",
     "newerId": "poetry-0067",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -983,7 +983,7 @@
     "isOldest": false,
     "olderId": "poetry-0066",
     "newerId": "poetry-0068",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1003,7 +1003,7 @@
     "isOldest": false,
     "olderId": "poetry-0067",
     "newerId": "poetry-0069",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1023,7 +1023,7 @@
     "isOldest": false,
     "olderId": "poetry-0068",
     "newerId": "poetry-0070",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1043,7 +1043,7 @@
     "isOldest": false,
     "olderId": "poetry-0069",
     "newerId": "poetry-0071",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1063,7 +1063,7 @@
     "isOldest": false,
     "olderId": "poetry-0070",
     "newerId": "poetry-0072",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1083,7 +1083,7 @@
     "isOldest": false,
     "olderId": "poetry-0071",
     "newerId": "poetry-0073",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1103,7 +1103,7 @@
     "isOldest": false,
     "olderId": "poetry-0072",
     "newerId": "poetry-0074",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1123,7 +1123,7 @@
     "isOldest": false,
     "olderId": "poetry-0073",
     "newerId": "poetry-0075",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1143,7 +1143,7 @@
     "isOldest": false,
     "olderId": "poetry-0074",
     "newerId": "poetry-0076",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1163,7 +1163,7 @@
     "isOldest": false,
     "olderId": "poetry-0075",
     "newerId": "poetry-0077",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1183,7 +1183,7 @@
     "isOldest": false,
     "olderId": "poetry-0076",
     "newerId": "poetry-0078",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1203,7 +1203,7 @@
     "isOldest": false,
     "olderId": "poetry-0077",
     "newerId": "poetry-0079",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1223,7 +1223,7 @@
     "isOldest": false,
     "olderId": "poetry-0078",
     "newerId": "poetry-0080",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1243,7 +1243,7 @@
     "isOldest": false,
     "olderId": "poetry-0079",
     "newerId": "poetry-0081",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1263,7 +1263,7 @@
     "isOldest": false,
     "olderId": "poetry-0080",
     "newerId": "poetry-0082",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1283,7 +1283,7 @@
     "isOldest": false,
     "olderId": "poetry-0081",
     "newerId": "poetry-0083",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1303,7 +1303,7 @@
     "isOldest": false,
     "olderId": "poetry-0082",
     "newerId": "poetry-0084",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1323,7 +1323,7 @@
     "isOldest": false,
     "olderId": "poetry-0083",
     "newerId": "poetry-0085",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1343,7 +1343,7 @@
     "isOldest": false,
     "olderId": "poetry-0084",
     "newerId": "poetry-0086",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1363,7 +1363,7 @@
     "isOldest": false,
     "olderId": "poetry-0085",
     "newerId": "poetry-0087",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1383,7 +1383,7 @@
     "isOldest": false,
     "olderId": "poetry-0086",
     "newerId": "poetry-0088",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1403,7 +1403,7 @@
     "isOldest": false,
     "olderId": "poetry-0087",
     "newerId": "poetry-0089",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1423,7 +1423,7 @@
     "isOldest": false,
     "olderId": "poetry-0088",
     "newerId": "poetry-0090",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1443,7 +1443,7 @@
     "isOldest": false,
     "olderId": "poetry-0089",
     "newerId": "poetry-0091",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1463,7 +1463,7 @@
     "isOldest": false,
     "olderId": "poetry-0090",
     "newerId": "poetry-0092",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1483,7 +1483,7 @@
     "isOldest": false,
     "olderId": "poetry-0091",
     "newerId": "poetry-0093",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1503,7 +1503,7 @@
     "isOldest": false,
     "olderId": "poetry-0092",
     "newerId": "poetry-0094",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1523,7 +1523,7 @@
     "isOldest": false,
     "olderId": "poetry-0093",
     "newerId": "poetry-0095",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1543,7 +1543,7 @@
     "isOldest": false,
     "olderId": "poetry-0094",
     "newerId": "poetry-0096",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1563,7 +1563,7 @@
     "isOldest": false,
     "olderId": "poetry-0095",
     "newerId": "poetry-0097",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1583,7 +1583,7 @@
     "isOldest": false,
     "olderId": "poetry-0096",
     "newerId": "poetry-0098",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1603,7 +1603,7 @@
     "isOldest": false,
     "olderId": "poetry-0097",
     "newerId": "poetry-0099",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1623,7 +1623,7 @@
     "isOldest": false,
     "olderId": "poetry-0098",
     "newerId": "poetry-0100",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1643,7 +1643,7 @@
     "isOldest": false,
     "olderId": "poetry-0099",
     "newerId": "poetry-0101",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1663,7 +1663,7 @@
     "isOldest": false,
     "olderId": "poetry-0100",
     "newerId": "poetry-0102",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1683,7 +1683,7 @@
     "isOldest": false,
     "olderId": "poetry-0101",
     "newerId": "poetry-0103",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1703,7 +1703,7 @@
     "isOldest": false,
     "olderId": "poetry-0102",
     "newerId": "poetry-0104",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1723,7 +1723,7 @@
     "isOldest": false,
     "olderId": "poetry-0103",
     "newerId": "poetry-0105",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1743,7 +1743,7 @@
     "isOldest": false,
     "olderId": "poetry-0104",
     "newerId": "poetry-0106",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1763,7 +1763,7 @@
     "isOldest": false,
     "olderId": "poetry-0105",
     "newerId": "poetry-0107",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1783,7 +1783,7 @@
     "isOldest": false,
     "olderId": "poetry-0106",
     "newerId": "poetry-0108",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1803,7 +1803,7 @@
     "isOldest": false,
     "olderId": "poetry-0107",
     "newerId": "poetry-0109",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1823,7 +1823,7 @@
     "isOldest": false,
     "olderId": "poetry-0108",
     "newerId": "poetry-0110",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1843,7 +1843,7 @@
     "isOldest": false,
     "olderId": "poetry-0109",
     "newerId": "poetry-0111",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1863,7 +1863,7 @@
     "isOldest": false,
     "olderId": "poetry-0110",
     "newerId": "poetry-0112",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1883,7 +1883,7 @@
     "isOldest": false,
     "olderId": "poetry-0111",
     "newerId": "poetry-0113",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1903,7 +1903,7 @@
     "isOldest": false,
     "olderId": "poetry-0112",
     "newerId": "poetry-0114",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1923,7 +1923,7 @@
     "isOldest": false,
     "olderId": "poetry-0113",
     "newerId": "poetry-0115",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1943,7 +1943,7 @@
     "isOldest": false,
     "olderId": "poetry-0114",
     "newerId": "poetry-0116",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1963,7 +1963,7 @@
     "isOldest": false,
     "olderId": "poetry-0115",
     "newerId": "poetry-0117",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -1983,7 +1983,7 @@
     "isOldest": false,
     "olderId": "poetry-0116",
     "newerId": "poetry-0118",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2003,7 +2003,7 @@
     "isOldest": false,
     "olderId": "poetry-0117",
     "newerId": "poetry-0119",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2023,7 +2023,7 @@
     "isOldest": false,
     "olderId": "poetry-0118",
     "newerId": "poetry-0120",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2043,7 +2043,7 @@
     "isOldest": false,
     "olderId": "poetry-0119",
     "newerId": "poetry-0121",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2063,7 +2063,7 @@
     "isOldest": false,
     "olderId": "poetry-0120",
     "newerId": "poetry-0122",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2083,7 +2083,7 @@
     "isOldest": false,
     "olderId": "poetry-0121",
     "newerId": "poetry-0123",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2103,7 +2103,7 @@
     "isOldest": false,
     "olderId": "poetry-0122",
     "newerId": "poetry-0124",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2123,7 +2123,7 @@
     "isOldest": false,
     "olderId": "poetry-0123",
     "newerId": "poetry-0125",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2143,7 +2143,7 @@
     "isOldest": false,
     "olderId": "poetry-0124",
     "newerId": "poetry-0126",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2163,7 +2163,7 @@
     "isOldest": false,
     "olderId": "poetry-0125",
     "newerId": "poetry-0127",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2183,7 +2183,7 @@
     "isOldest": false,
     "olderId": "poetry-0126",
     "newerId": "poetry-0128",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2203,7 +2203,7 @@
     "isOldest": false,
     "olderId": "poetry-0127",
     "newerId": "poetry-0129",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2223,7 +2223,7 @@
     "isOldest": false,
     "olderId": "poetry-0128",
     "newerId": "poetry-0130",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2243,7 +2243,7 @@
     "isOldest": false,
     "olderId": "poetry-0129",
     "newerId": "poetry-0131",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2263,7 +2263,7 @@
     "isOldest": false,
     "olderId": "poetry-0130",
     "newerId": "poetry-0132",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2283,7 +2283,7 @@
     "isOldest": false,
     "olderId": "poetry-0131",
     "newerId": "poetry-0133",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2303,7 +2303,7 @@
     "isOldest": false,
     "olderId": "poetry-0132",
     "newerId": "poetry-0134",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2323,7 +2323,7 @@
     "isOldest": false,
     "olderId": "poetry-0133",
     "newerId": "poetry-0135",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2343,7 +2343,7 @@
     "isOldest": false,
     "olderId": "poetry-0134",
     "newerId": "poetry-0136",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2363,7 +2363,7 @@
     "isOldest": false,
     "olderId": "poetry-0135",
     "newerId": "poetry-0137",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2383,7 +2383,7 @@
     "isOldest": false,
     "olderId": "poetry-0136",
     "newerId": "poetry-0138",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2403,7 +2403,7 @@
     "isOldest": false,
     "olderId": "poetry-0137",
     "newerId": "poetry-0139",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2423,7 +2423,7 @@
     "isOldest": false,
     "olderId": "poetry-0138",
     "newerId": "poetry-0140",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2443,7 +2443,7 @@
     "isOldest": false,
     "olderId": "poetry-0139",
     "newerId": "poetry-0141",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2463,7 +2463,7 @@
     "isOldest": false,
     "olderId": "poetry-0140",
     "newerId": "poetry-0142",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2483,7 +2483,7 @@
     "isOldest": false,
     "olderId": "poetry-0141",
     "newerId": "poetry-0143",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2503,7 +2503,7 @@
     "isOldest": false,
     "olderId": "poetry-0142",
     "newerId": "poetry-0144",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2523,7 +2523,7 @@
     "isOldest": false,
     "olderId": "poetry-0143",
     "newerId": "poetry-0145",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2543,7 +2543,7 @@
     "isOldest": false,
     "olderId": "poetry-0144",
     "newerId": "poetry-0146",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2563,7 +2563,7 @@
     "isOldest": false,
     "olderId": "poetry-0145",
     "newerId": "poetry-0147",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2583,7 +2583,7 @@
     "isOldest": false,
     "olderId": "poetry-0146",
     "newerId": "poetry-0148",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2603,7 +2603,7 @@
     "isOldest": false,
     "olderId": "poetry-0147",
     "newerId": "poetry-0149",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2623,7 +2623,7 @@
     "isOldest": false,
     "olderId": "poetry-0148",
     "newerId": "poetry-0150",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2643,7 +2643,7 @@
     "isOldest": false,
     "olderId": "poetry-0149",
     "newerId": "poetry-0151",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2663,7 +2663,7 @@
     "isOldest": false,
     "olderId": "poetry-0150",
     "newerId": "poetry-0152",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2683,7 +2683,7 @@
     "isOldest": false,
     "olderId": "poetry-0151",
     "newerId": "poetry-0153",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2703,7 +2703,7 @@
     "isOldest": false,
     "olderId": "poetry-0152",
     "newerId": "poetry-0154",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2723,7 +2723,7 @@
     "isOldest": false,
     "olderId": "poetry-0153",
     "newerId": "poetry-0155",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2743,7 +2743,7 @@
     "isOldest": false,
     "olderId": "poetry-0154",
     "newerId": "poetry-0156",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2763,7 +2763,7 @@
     "isOldest": false,
     "olderId": "poetry-0155",
     "newerId": "poetry-0157",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2783,7 +2783,7 @@
     "isOldest": false,
     "olderId": "poetry-0156",
     "newerId": "poetry-0158",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2803,7 +2803,7 @@
     "isOldest": false,
     "olderId": "poetry-0157",
     "newerId": "poetry-0159",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2823,7 +2823,7 @@
     "isOldest": false,
     "olderId": "poetry-0158",
     "newerId": "poetry-0160",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2843,7 +2843,7 @@
     "isOldest": false,
     "olderId": "poetry-0159",
     "newerId": "poetry-0161",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2863,7 +2863,7 @@
     "isOldest": false,
     "olderId": "poetry-0160",
     "newerId": "poetry-0162",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2883,7 +2883,7 @@
     "isOldest": false,
     "olderId": "poetry-0161",
     "newerId": "poetry-0163",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2903,7 +2903,7 @@
     "isOldest": false,
     "olderId": "poetry-0162",
     "newerId": "poetry-0164",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2923,7 +2923,7 @@
     "isOldest": false,
     "olderId": "poetry-0163",
     "newerId": "poetry-0165",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2943,7 +2943,7 @@
     "isOldest": false,
     "olderId": "poetry-0164",
     "newerId": "poetry-0166",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2963,7 +2963,7 @@
     "isOldest": false,
     "olderId": "poetry-0165",
     "newerId": "poetry-0167",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -2983,7 +2983,7 @@
     "isOldest": false,
     "olderId": "poetry-0166",
     "newerId": "poetry-0168",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3003,7 +3003,7 @@
     "isOldest": false,
     "olderId": "poetry-0167",
     "newerId": "poetry-0169",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3023,7 +3023,7 @@
     "isOldest": false,
     "olderId": "poetry-0168",
     "newerId": "poetry-0170",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3043,7 +3043,7 @@
     "isOldest": false,
     "olderId": "poetry-0169",
     "newerId": "poetry-0171",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3063,7 +3063,7 @@
     "isOldest": false,
     "olderId": "poetry-0170",
     "newerId": "poetry-0172",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3083,7 +3083,7 @@
     "isOldest": false,
     "olderId": "poetry-0171",
     "newerId": "poetry-0173",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3103,7 +3103,7 @@
     "isOldest": false,
     "olderId": "poetry-0172",
     "newerId": "poetry-0174",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3123,7 +3123,7 @@
     "isOldest": false,
     "olderId": "poetry-0173",
     "newerId": "poetry-0175",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3143,7 +3143,7 @@
     "isOldest": false,
     "olderId": "poetry-0174",
     "newerId": "poetry-0176",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3163,7 +3163,7 @@
     "isOldest": false,
     "olderId": "poetry-0175",
     "newerId": "poetry-0177",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3183,7 +3183,7 @@
     "isOldest": false,
     "olderId": "poetry-0176",
     "newerId": "poetry-0178",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3203,7 +3203,7 @@
     "isOldest": false,
     "olderId": "poetry-0177",
     "newerId": "poetry-0179",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3223,7 +3223,7 @@
     "isOldest": false,
     "olderId": "poetry-0178",
     "newerId": "poetry-0180",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3243,7 +3243,7 @@
     "isOldest": false,
     "olderId": "poetry-0179",
     "newerId": "poetry-0181",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3263,7 +3263,7 @@
     "isOldest": false,
     "olderId": "poetry-0180",
     "newerId": "poetry-0182",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3283,7 +3283,7 @@
     "isOldest": false,
     "olderId": "poetry-0181",
     "newerId": "poetry-0183",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3303,7 +3303,7 @@
     "isOldest": false,
     "olderId": "poetry-0182",
     "newerId": "poetry-0184",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3323,7 +3323,7 @@
     "isOldest": false,
     "olderId": "poetry-0183",
     "newerId": "poetry-0185",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3343,7 +3343,7 @@
     "isOldest": false,
     "olderId": "poetry-0184",
     "newerId": "poetry-0186",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3363,7 +3363,7 @@
     "isOldest": false,
     "olderId": "poetry-0185",
     "newerId": "poetry-0187",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3383,7 +3383,7 @@
     "isOldest": false,
     "olderId": "poetry-0186",
     "newerId": "poetry-0188",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3403,7 +3403,7 @@
     "isOldest": false,
     "olderId": "poetry-0187",
     "newerId": "poetry-0189",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3423,7 +3423,7 @@
     "isOldest": false,
     "olderId": "poetry-0188",
     "newerId": "poetry-0190",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3443,7 +3443,7 @@
     "isOldest": false,
     "olderId": "poetry-0189",
     "newerId": "poetry-0191",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3463,7 +3463,7 @@
     "isOldest": false,
     "olderId": "poetry-0190",
     "newerId": "poetry-0192",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3483,7 +3483,7 @@
     "isOldest": false,
     "olderId": "poetry-0191",
     "newerId": "poetry-0193",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3503,7 +3503,7 @@
     "isOldest": false,
     "olderId": "poetry-0192",
     "newerId": "poetry-0194",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3523,7 +3523,7 @@
     "isOldest": false,
     "olderId": "poetry-0193",
     "newerId": "poetry-0195",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3543,7 +3543,7 @@
     "isOldest": false,
     "olderId": "poetry-0194",
     "newerId": "poetry-0196",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3563,7 +3563,7 @@
     "isOldest": false,
     "olderId": "poetry-0195",
     "newerId": "poetry-0197",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3583,7 +3583,7 @@
     "isOldest": false,
     "olderId": "poetry-0196",
     "newerId": "poetry-0198",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3603,7 +3603,7 @@
     "isOldest": false,
     "olderId": "poetry-0197",
     "newerId": "poetry-0199",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3623,7 +3623,7 @@
     "isOldest": false,
     "olderId": "poetry-0198",
     "newerId": "poetry-0200",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3643,7 +3643,7 @@
     "isOldest": false,
     "olderId": "poetry-0199",
     "newerId": "poetry-0201",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3663,7 +3663,7 @@
     "isOldest": false,
     "olderId": "poetry-0200",
     "newerId": "poetry-0202",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3683,7 +3683,7 @@
     "isOldest": false,
     "olderId": "poetry-0201",
     "newerId": "poetry-0203",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3703,7 +3703,7 @@
     "isOldest": false,
     "olderId": "poetry-0202",
     "newerId": "poetry-0204",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3723,7 +3723,7 @@
     "isOldest": false,
     "olderId": "poetry-0203",
     "newerId": "poetry-0205",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3743,7 +3743,7 @@
     "isOldest": false,
     "olderId": "poetry-0204",
     "newerId": "poetry-0206",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3763,7 +3763,7 @@
     "isOldest": false,
     "olderId": "poetry-0205",
     "newerId": "poetry-0207",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3783,7 +3783,7 @@
     "isOldest": false,
     "olderId": "poetry-0206",
     "newerId": "poetry-0208",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3803,7 +3803,7 @@
     "isOldest": false,
     "olderId": "poetry-0207",
     "newerId": "poetry-0209",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3823,7 +3823,7 @@
     "isOldest": false,
     "olderId": "poetry-0208",
     "newerId": "poetry-0210",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3843,7 +3843,7 @@
     "isOldest": false,
     "olderId": "poetry-0209",
     "newerId": "poetry-0211",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3863,7 +3863,7 @@
     "isOldest": false,
     "olderId": "poetry-0210",
     "newerId": "poetry-0212",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   },
   {
@@ -3874,16 +3874,36 @@
     "timestamp": "Monday, September 28th 2020, 7:39:49 pm",
     "id": "poetry-0212",
     "data": {
-      "text": "Ability to connect with knowledge through audio-books,\nand retain that knowledge, as your own,\nand build on it to no end, is beyond the powers of Universe.\n\nInheriting Knowledge to build Wisdom makes you unstoppable,\nand once you sit down to write a book of your own you become infinite.\n\nWe should not allow anyone to stand between us and our education,\ninheritance of knowledge is extremely important to our mental health,\nto how we treat each other, and how we interact with the world.\n\nBooks are the loveliest things in the world,\nmy time listening to \"A Short History of Nearly Everything by Bill Bryson\" is such a wonderful memory.\n\nI still smile at how shy Henry Cavendish was,\nand sometimes I worry about a Kimberlite Pipes popping up somewhere nearby, you never know.\n\nThe part where Conway Morris muttered \"...not another phylum.\",\ngot me when I was jogging in the middle of the night at Ann Arbor, MI,\nI almost suffocated from laughter.\n\nSee a school can't present knowledge this way,\nI know that there are many amazing professors,\nbut most of them, probably have a fantastic book or series or lectures out.\n\nKnowledge has to be presented with Love and Joy, and maybe a hint of Comedy,\nschools of today are coldhearted machines incapable of those emotions.\n\nWe can't just pass the tests that schools expect us to cram for,\nwe need the actual knowledge, and wonders that will help us become wise.\n\nLife is always asking us to pick a direction,\nthe wiser we become early on, the happier we will be on the paths we chose.\n\nWe must not become tricked into believing we are bad at learning,\nthere is just no such thing as bad at learning.\n\nBad grades just prove that middle-school, high-school and college are seriously broken,\nthe kids that do get good grades and become successful learn outside of school,\nand they certainly do not cram before tests they actually learn.\n\nLearning and Schools should not be two separate things,\nand there should never be a threat of someone becoming tricked into thinking that they are not smart.\n\nThis is a global problem,\nthe leaders and policy makes who did cram for tests,\nthey too need a real education that will contribute to their wisdom.\n\nThis is not just about fixing High School,\nthis is about helping Humanity Grow in Wisdom.",
-      "html": "<section>\n  <p>Ability to connect with knowledge through audio-books,</p>\n  <p>and retain that knowledge, as your own,</p>\n  <p>and build on it to no end, is beyond the powers of Universe.</p>\n</section>\n\n<section>\n  <p>Inheriting Knowledge to build Wisdom makes you unstoppable,</p>\n  <p>and once you sit down to write a book of your own you become infinite.</p>\n</section>\n\n<section>\n  <p>We should not allow anyone to stand between us and our education,</p>\n  <p>inheritance of knowledge is extremely important to our mental health,</p>\n  <p>to how we treat each other, and how we interact with the world.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Books are the loveliest things in the world,</p>\n  <p>my time listening to &quot;A Short History of Nearly Everything by Bill Bryson&quot; is such a wonderful memory.</p>\n</section>\n\n<section>\n  <p>I still smile at how shy Henry Cavendish was,</p>\n  <p>and sometimes I worry about a Kimberlite Pipes popping up somewhere nearby, you never know.</p>\n</section>\n\n<section>\n  <p>The part where Conway Morris muttered &quot;...not another phylum.&quot;,</p>\n  <p>got me when I was jogging in the middle of the night at Ann Arbor, MI,</p>\n  <p>I almost suffocated from laughter.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>See a school can&apos;t present knowledge this way,</p>\n  <p>I know that there are many amazing professors,</p>\n  <p>but most of them, probably have a fantastic book or series or lectures out.</p>\n</section>\n\n<section>\n  <p>Knowledge has to be presented with Love and Joy, and maybe a hint of Comedy,</p>\n  <p>schools of today are coldhearted machines incapable of those emotions.</p>\n</section>\n\n<section>\n  <p>We can&apos;t just pass the tests that schools expect us to cram for,</p>\n  <p>we need the actual knowledge, and wonders that will help us become wise.</p>\n</section>\n\n<section>\n  <p>Life is always asking us to pick a direction,</p>\n  <p>the wiser we become early on, the happier we will be on the paths we chose.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>We must not become tricked into believing we are bad at learning,</p>\n  <p>there is just no such thing as bad at learning.</p>\n</section>\n\n<section>\n  <p>Bad grades just prove that middle-school, high-school and college are seriously broken,</p>\n  <p>the kids that do get good grades and become successful learn outside of school,</p>\n  <p>and they certainly do not cram before tests they actually learn.</p>\n</section>\n\n<section>\n  <p>Learning and Schools should not be two separate things,</p>\n  <p>and there should never be a threat of someone becoming tricked into thinking that they are not smart.</p>\n</section>\n\n<section>\n  <p>This is a global problem,</p>\n  <p>the leaders and policy makes who did cram for tests,</p>\n  <p>they too need a real education that will contribute to their wisdom.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>This is not just about fixing High School,</p>\n  <p>this is about helping Humanity Grow in Wisdom.</p>\n</section>",
-      "page": "<html>\n\n  <head>\n    <title>Helping Humanity Grow in Wisdom</title>\n\n\n\n  </head>\n\n  <body>\n    <section><img src=\"image/poetry-0212-illustration.jpg\"></section>\n    <section>\n      <p><a href=\"audio/poetry-0212.mp3\">Audio Version</a></p>\n    </section>\n\n    <section>\n      <p>Ability to connect with knowledge through audio-books,</p>\n      <p>and retain that knowledge, as your own,</p>\n      <p>and build on it to no end, is beyond the powers of Universe.</p>\n    </section>\n\n    <section>\n      <p>Inheriting Knowledge to build Wisdom makes you unstoppable,</p>\n      <p>and once you sit down to write a book of your own you become infinite.</p>\n    </section>\n\n    <section>\n      <p>We should not allow anyone to stand between us and our education,</p>\n      <p>inheritance of knowledge is extremely important to our mental health,</p>\n      <p>to how we treat each other, and how we interact with the world.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Books are the loveliest things in the world,</p>\n      <p>my time listening to &quot;A Short History of Nearly Everything by Bill Bryson&quot; is such a wonderful memory.</p>\n    </section>\n\n    <section>\n      <p>I still smile at how shy Henry Cavendish was,</p>\n      <p>and sometimes I worry about a Kimberlite Pipes popping up somewhere nearby, you never know.</p>\n    </section>\n\n    <section>\n      <p>The part where Conway Morris muttered &quot;...not another phylum.&quot;,</p>\n      <p>got me when I was jogging in the middle of the night at Ann Arbor, MI,</p>\n      <p>I almost suffocated from laughter.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>See a school can&apos;t present knowledge this way,</p>\n      <p>I know that there are many amazing professors,</p>\n      <p>but most of them, probably have a fantastic book or series or lectures out.</p>\n    </section>\n\n    <section>\n      <p>Knowledge has to be presented with Love and Joy, and maybe a hint of Comedy,</p>\n      <p>schools of today are coldhearted machines incapable of those emotions.</p>\n    </section>\n\n    <section>\n      <p>We can&apos;t just pass the tests that schools expect us to cram for,</p>\n      <p>we need the actual knowledge, and wonders that will help us become wise.</p>\n    </section>\n\n    <section>\n      <p>Life is always asking us to pick a direction,</p>\n      <p>the wiser we become early on, the happier we will be on the paths we chose.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>We must not become tricked into believing we are bad at learning,</p>\n      <p>there is just no such thing as bad at learning.</p>\n    </section>\n\n    <section>\n      <p>Bad grades just prove that middle-school, high-school and college are seriously broken,</p>\n      <p>the kids that do get good grades and become successful learn outside of school,</p>\n      <p>and they certainly do not cram before tests they actually learn.</p>\n    </section>\n\n    <section>\n      <p>Learning and Schools should not be two separate things,</p>\n      <p>and there should never be a threat of someone becoming tricked into thinking that they are not smart.</p>\n    </section>\n\n    <section>\n      <p>This is a global problem,</p>\n      <p>the leaders and policy makes who did cram for tests,</p>\n      <p>they too need a real education that will contribute to their wisdom.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>This is not just about fixing High School,</p>\n      <p>this is about helping Humanity Grow in Wisdom.</p>\n    </section>\n\n\n\n\n\n\n  </body>\n\n</html>"
+      "text": "Ability to connect with knowledge through audio-books,\nand retain that knowledge, as your own,\nand build on it to no end, is beyond the powers of Universe.\n\nInheriting Knowledge to build Wisdom makes you unstoppable,\nand once you sit down to write a book of your own you become infinite.\n\nWe should not allow anyone to stand between us and our education,\ninheritance of knowledge is extremely important to our mental health,\nto how we treat each other, and how we interact with the world.\n\nBooks are the loveliest things in the world,\nmy time listening to \"A Short History of Nearly Everything\" by Bill Bryson is such a wonderful memory.\n\nI still smile at how shy Henry Cavendish was,\nand sometimes I worry about a Kimberlite Pipes popping up somewhere nearby, you never know.\n\nThe part where Conway Morris muttered \"...not another phylum.\",\ngot me when I was jogging in the middle of the night at Ann Arbor, MI,\nI almost suffocated from laughter.\n\nSee a school can't present knowledge this way,\nI know that there are many amazing professors,\nbut most of them, probably have a fantastic book or series or lectures out.\n\nKnowledge has to be presented with Love and Joy, and maybe a hint of Comedy,\nschools of today are coldhearted machines incapable of those emotions.\n\nWe can't just pass the tests that schools expect us to cram for,\nwe need the actual knowledge, and wonders that will help us become wise.\n\nLife is always asking us to pick a direction,\nthe wiser we become early on, the happier we will be on the paths we chose.\n\nWe must not become tricked into believing we are bad at learning,\nthere is just no such thing as bad at learning.\n\nBad grades just prove that middle-school, high-school and college are seriously broken,\nthe kids that do get good grades and become successful learn outside of school,\nand they certainly do not cram before tests they actually learn.\n\nLearning and Schools should not be two separate things,\nand there should never be a threat of someone becoming tricked into thinking that they are not smart.\n\nThis is a global problem,\nthe leaders and policy makes who did cram for tests,\nthey too need a real education that will contribute to their wisdom.\n\nThis is not just about fixing High School,\nthis is about helping Humanity Grow in Wisdom.",
+      "html": "<section>\n  <p>Ability to connect with knowledge through audio-books,</p>\n  <p>and retain that knowledge, as your own,</p>\n  <p>and build on it to no end, is beyond the powers of Universe.</p>\n</section>\n\n<section>\n  <p>Inheriting Knowledge to build Wisdom makes you unstoppable,</p>\n  <p>and once you sit down to write a book of your own you become infinite.</p>\n</section>\n\n<section>\n  <p>We should not allow anyone to stand between us and our education,</p>\n  <p>inheritance of knowledge is extremely important to our mental health,</p>\n  <p>to how we treat each other, and how we interact with the world.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Books are the loveliest things in the world,</p>\n  <p>my time listening to &quot;A Short History of Nearly Everything&quot; by Bill Bryson is such a wonderful memory.</p>\n</section>\n\n<section>\n  <p>I still smile at how shy Henry Cavendish was,</p>\n  <p>and sometimes I worry about a Kimberlite Pipes popping up somewhere nearby, you never know.</p>\n</section>\n\n<section>\n  <p>The part where Conway Morris muttered &quot;...not another phylum.&quot;,</p>\n  <p>got me when I was jogging in the middle of the night at Ann Arbor, MI,</p>\n  <p>I almost suffocated from laughter.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>See a school can&apos;t present knowledge this way,</p>\n  <p>I know that there are many amazing professors,</p>\n  <p>but most of them, probably have a fantastic book or series or lectures out.</p>\n</section>\n\n<section>\n  <p>Knowledge has to be presented with Love and Joy, and maybe a hint of Comedy,</p>\n  <p>schools of today are coldhearted machines incapable of those emotions.</p>\n</section>\n\n<section>\n  <p>We can&apos;t just pass the tests that schools expect us to cram for,</p>\n  <p>we need the actual knowledge, and wonders that will help us become wise.</p>\n</section>\n\n<section>\n  <p>Life is always asking us to pick a direction,</p>\n  <p>the wiser we become early on, the happier we will be on the paths we chose.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>We must not become tricked into believing we are bad at learning,</p>\n  <p>there is just no such thing as bad at learning.</p>\n</section>\n\n<section>\n  <p>Bad grades just prove that middle-school, high-school and college are seriously broken,</p>\n  <p>the kids that do get good grades and become successful learn outside of school,</p>\n  <p>and they certainly do not cram before tests they actually learn.</p>\n</section>\n\n<section>\n  <p>Learning and Schools should not be two separate things,</p>\n  <p>and there should never be a threat of someone becoming tricked into thinking that they are not smart.</p>\n</section>\n\n<section>\n  <p>This is a global problem,</p>\n  <p>the leaders and policy makes who did cram for tests,</p>\n  <p>they too need a real education that will contribute to their wisdom.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>This is not just about fixing High School,</p>\n  <p>this is about helping Humanity Grow in Wisdom.</p>\n</section>",
+      "page": "<html>\n\n  <head>\n    <title>Helping Humanity Grow in Wisdom</title>\n\n\n\n  </head>\n\n  <body>\n    <section><img src=\"image/poetry-0212-illustration.jpg\"></section>\n    <section>\n      <p><a href=\"audio/poetry-0212.mp3\">Audio Version</a></p>\n    </section>\n\n    <section>\n      <p>Ability to connect with knowledge through audio-books,</p>\n      <p>and retain that knowledge, as your own,</p>\n      <p>and build on it to no end, is beyond the powers of Universe.</p>\n    </section>\n\n    <section>\n      <p>Inheriting Knowledge to build Wisdom makes you unstoppable,</p>\n      <p>and once you sit down to write a book of your own you become infinite.</p>\n    </section>\n\n    <section>\n      <p>We should not allow anyone to stand between us and our education,</p>\n      <p>inheritance of knowledge is extremely important to our mental health,</p>\n      <p>to how we treat each other, and how we interact with the world.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Books are the loveliest things in the world,</p>\n      <p>my time listening to &quot;A Short History of Nearly Everything&quot; by Bill Bryson is such a wonderful memory.</p>\n    </section>\n\n    <section>\n      <p>I still smile at how shy Henry Cavendish was,</p>\n      <p>and sometimes I worry about a Kimberlite Pipes popping up somewhere nearby, you never know.</p>\n    </section>\n\n    <section>\n      <p>The part where Conway Morris muttered &quot;...not another phylum.&quot;,</p>\n      <p>got me when I was jogging in the middle of the night at Ann Arbor, MI,</p>\n      <p>I almost suffocated from laughter.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>See a school can&apos;t present knowledge this way,</p>\n      <p>I know that there are many amazing professors,</p>\n      <p>but most of them, probably have a fantastic book or series or lectures out.</p>\n    </section>\n\n    <section>\n      <p>Knowledge has to be presented with Love and Joy, and maybe a hint of Comedy,</p>\n      <p>schools of today are coldhearted machines incapable of those emotions.</p>\n    </section>\n\n    <section>\n      <p>We can&apos;t just pass the tests that schools expect us to cram for,</p>\n      <p>we need the actual knowledge, and wonders that will help us become wise.</p>\n    </section>\n\n    <section>\n      <p>Life is always asking us to pick a direction,</p>\n      <p>the wiser we become early on, the happier we will be on the paths we chose.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>We must not become tricked into believing we are bad at learning,</p>\n      <p>there is just no such thing as bad at learning.</p>\n    </section>\n\n    <section>\n      <p>Bad grades just prove that middle-school, high-school and college are seriously broken,</p>\n      <p>the kids that do get good grades and become successful learn outside of school,</p>\n      <p>and they certainly do not cram before tests they actually learn.</p>\n    </section>\n\n    <section>\n      <p>Learning and Schools should not be two separate things,</p>\n      <p>and there should never be a threat of someone becoming tricked into thinking that they are not smart.</p>\n    </section>\n\n    <section>\n      <p>This is a global problem,</p>\n      <p>the leaders and policy makes who did cram for tests,</p>\n      <p>they too need a real education that will contribute to their wisdom.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>This is not just about fixing High School,</p>\n      <p>this is about helping Humanity Grow in Wisdom.</p>\n    </section>\n\n\n\n\n\n\n  </body>\n\n</html>"
     },
     "counter": 197,
-    "isNewest": true,
+    "isNewest": false,
     "isOldest": false,
     "olderId": "poetry-0211",
+    "newerId": "poetry-0213",
+    "newestId": "poetry-0213",
+    "oldestId": "poetry-0016"
+  },
+  {
+    "title": "The Conjecture",
+    "date": "2020-09-30T00:20:13.524Z",
+    "image": "poetry-0213-illustration.jpg",
+    "audio": "poetry-0213.mp3",
+    "timestamp": "Tuesday, September 29th 2020, 8:20:13 pm",
+    "id": "poetry-0213",
+    "data": {
+      "text": "It started Christmas 2020, the world was already in trouble;\nthe conjecture in a sentence was this:\n\n\"What can be corrupted will be corrupted, and there are no fully operational public institutions anywhere\",\nit is too easy for bad people to, not just subvert, but erase lifetimes of hard work and dedication.\n\nIt is commonly known as corruption, but that didn't matter to them,\nbecause they were not attempting to fix things, they had an idea how to replace everything.\n\nAnd by everything,\nthey meant institutions all around the world.\n\nThey were going to begin in the beginning, Henry Ford once said,\n\"If I had asked people what they wanted, they would have said faster horses.\",\n\nThe idea was that if they went to the Courts, Police or Schools,\nthey would have wanted the wrong things, that would only invite more problems.\n\nInitially nobody knew how immune to corruption the thing was going to be,\nbut there was a way to find out.\n\nThe thing was a game, it was meant to be a simulation of a city,\nit was a simple program that used simple web design principles to simulate a city.\n\nThe non playable characters, were little bots that would interact with the player,\nthe bots were crafted to simulate officials, and they interacted with web pages the way a user would.\n\nSo part of the reason why the programming was so simple,\nis that bots needed a simple way to pretend to be humans.\n\nWhen everything went online players would sign up to take over for the bots,\nand some of the initial testing was about corrupting the institutions of the city.\n\nThe thinking was that, if it was not possible for players to corrupt an institution,\nthen the program could replace all the management software of a real city.\n\nTo their surprise there was a number of cities that were willing to participate in the trials,\nit took them a better part of a decade to get everything going, but the initial trials worked.\n\nThey knew that they became famous,\nwhen the UN wouldn't stop calling.\n\nIt worked because they kept insisting on simplicity,\nthey kept using bots, and corruption simulation teams for decades.\n\nThe program was adopted by almost all the cities of the world,\nabout 10,000 running copies.\n\nWhat was fascinating about this,\nis that it was still played as a game.\n\nThere was a Virtual Cyberpunk City,\nthat everyone went to for internet news.\n\nThe program relies on the Common Gateway Interface,\nand to make it operate well on $30 Android Tablets it uses little client-side scripting.\n\nIt is a Virtual City at heart,\nbut when players start mapping out real homes, and roads, and the citizens join in,\nit inflates to become a virtual representation of a real city.\n\nPeople can vote in elections, and there is no real threat of corruption here,\nbecause their voting history is under their profile.\n\nElections, that was one of the things that got a huge upgrade in many of the cities around the world,\nsome cities just vote on ideas that need to get done, they don't vote on representatives anymore.\n\nThe program as a whole,\neliminated the need for representatives.\n\nPeople vote on issues that need immediate attention,\nand those are the first issues that get solved.\n\nTwo amazing things emerged from within the program,\nschools begun working for the students by providing them with Audio Books, Lectures, and Chat (that's what the teachers are called),\nand the trail of programs that students select over the course of their teenage years actually becomes their resume.\n\nSchools started working,\nit was Rebirth and Enlightenment of both the citizens and the cities.\n\nThe second,\npeople could work on tasks logged by the users of the program.\n\nSome tasks like taking care of public gardens could result in users getting monthly tips from their community,\npeople loved being able to give the lady down the street $8/mo. for making sure all the flower beds were taken care of,\nthe lady next door was often bringing in $3,200 per month for something that she would do anyway, people loved her.\n\nOther tasks like road work, could get a bounty, bounties basically ensured that all the road work was done,\nany competent company could claim a task and grab the bounty for a pothole.\n\nPeople would setup an tiny Limited Liability Company and stock up on compatible materials, and wait for roadwork tasks,\nthere were no more delays to get things done, and these bounties could grow fast.\n\nAll this was tested in the games before cities adopted the program,\nso everyone knew what they were getting, and the stuff just worked.\n\nThere was an interesting phenomenon where automated programs would actually stay in place of people,\none of the most well know instances dealt with the prison population, in a small Swiss city.\n\nThe entire process was often ran by bots,\ncity was able to vote on presets, this eliminated the need for many local Judges.\n\nIn this particular instance all the folks who got into fights,\nwere automatically given community service, duration of which would increase with each repeated offense under the same category,\nthe community service program was actually a well paying program, the users didn't want people to go to jail,\nthey wanted the troublemakers to get a job.\n\nWords like felon and criminal were not used, people in the community had access to their entire education,\nthey could see into hearts and souls of these users, the books, pursuits, and curiosities of their teenage years were right there.\n\nPsychologists were able to build up a new spectrum disorder, that emerged from stress, loss, fear, isolation.\n\nThe Swiss town actually ended up closing most of it's prisons.\n\nIn America, a similar system of automated programs resulted in a lot of convictions being overturned.\n\nThis was a prison management system where the inmates were able to present their case in a way that the citizens would understand from a more humane perspective,\nagain the entire past of that person was right there, tragedies and loss, and stress would be followed by more misfortune, deteriorating mental condition, desperate self medication\nto get back to a thinking state, and what was once called a Felon or Criminal, once again became a Human, a Brother, a Son, a Daughter, a Mother.\n\nPrison population dropped.\n\nNobody called this program a game,\nit was always meant to change the world.\n\nThe cities were always connected together to form a larger Global Metropolis,\noriginally it helped people with jobs, as users could tell where they could find tasks that fit them best,\n\nBut now, decades after the initial release;\nthe program begun uniting the world.\n\nWar, for one became unthinkable,\nas people could see how the well being of even one city affected all the others.\n\nThere was no such thing as not having a job,\nthe cities always needed help with countless tasks.\n\nCorruption had nowhere to hide, the crooked politicians had nowhere to hide,\nnational borders made little economic sense, and Climate Change stopped being an issue by 2030.\n\nNot that they cared for rewards, but The Women behind the program,\nthe original programmers, received Purple Hearts and multiple Nobel Peace Prizes.\n\nWhat they did love was the fact that the United Nations regained a certain vitality,\nsomething that they discovered was once lost in the translation.\n\nEvery city now has a sculpture to honor them.\nMany of their sculptures bear the words they uttered so many times during the initial development, \"Faster Horses\".\n\nIn closing, the conjecture was true.\nIn the haste of life, people, often out of desperation, will try to meet goals by exploiting systems without active countermeasures.\nThe only system that can resist corruption and exploitation, is one designed from ground up to resist it.\n\nIt takes a computer to create a a corruption-resistant scaffold around the matters of a city.\nWhere there is no room for stretching rules, the participants can only be encouraged to take the correct paths.",
+      "html": "<section>\n  <p>It started Christmas 2020, the world was already in trouble;</p>\n  <p>the conjecture in a sentence was this:</p>\n</section>\n\n<section>\n  <p>&quot;What can be corrupted will be corrupted, and there are no fully operational public institutions anywhere&quot;,</p>\n  <p>it is too easy for bad people to, not just subvert, but erase lifetimes of hard work and dedication.</p>\n</section>\n\n\n<section>\n  <hr>\n</section>\n\n\n\n<section>\n  <p>It is commonly known as corruption, but that didn&apos;t matter to them,</p>\n  <p>because they were not attempting to fix things, they had an idea how to replace everything.</p>\n</section>\n\n<section>\n  <p>And by everything,</p>\n  <p>they meant institutions all around the world.</p>\n</section>\n\n\n<section>\n  <hr>\n</section>\n\n\n\n<section>\n  <p>They were going to begin in the beginning, Henry Ford once said,</p>\n  <p>&quot;If I had asked people what they wanted, they would have said faster horses.&quot;,</p>\n</section>\n\n<section>\n  <p>The idea was that if they went to the Courts, Police or Schools,</p>\n  <p>they would have wanted the wrong things, that would only invite more problems.</p>\n</section>\n\n\n<section>\n  <hr>\n</section>\n\n\n\n<section>\n  <p>Initially nobody knew how immune to corruption the thing was going to be,</p>\n  <p>but there was a way to find out.</p>\n</section>\n\n<section>\n  <p>The thing was a game, it was meant to be a simulation of a city,</p>\n  <p>it was a simple program that used simple web design principles to simulate a city.</p>\n</section>\n\n\n<section>\n  <hr>\n</section>\n\n\n\n<section>\n  <p>The non playable characters, were little bots that would interact with the player,</p>\n  <p>the bots were crafted to simulate officials, and they interacted with web pages the way a user would.</p>\n</section>\n\n<section>\n  <p>So part of the reason why the programming was so simple,</p>\n  <p>is that bots needed a simple way to pretend to be humans.</p>\n</section>\n\n\n<section>\n  <p>When everything went online players would sign up to take over for the bots,</p>\n  <p>and some of the initial testing was about corrupting the institutions of the city.</p>\n</section>\n\n<section>\n  <p>The thinking was that, if it was not possible for players to corrupt an institution,</p>\n  <p>then the program could replace all the management software of a real city.</p>\n</section>\n\n\n<section>\n  <p>To their surprise there was a number of cities that were willing to participate in the trials,</p>\n  <p>it took them a better part of a decade to get everything going, but the initial trials worked.</p>\n</section>\n\n\n<section>\n  <hr>\n</section>\n\n\n\n<section>\n  <p>They knew that they became famous,</p>\n  <p>when the UN wouldn&apos;t stop calling.</p>\n</section>\n\n<section>\n  <p>It worked because they kept insisting on simplicity,</p>\n  <p>they kept using bots, and corruption simulation teams for decades.</p>\n</section>\n\n<section>\n  <p>The program was adopted by almost all the cities of the world,</p>\n  <p>about 10,000 running copies.</p>\n</section>\n\n\n<section>\n  <hr>\n</section>\n\n\n\n<section>\n  <p>What was fascinating about this,</p>\n  <p>is that it was still played as a game.</p>\n</section>\n\n<section>\n  <p>There was a Virtual Cyberpunk City,</p>\n  <p>that everyone went to for internet news.</p>\n</section>\n\n<section>\n  <p>The program relies on the Common Gateway Interface,</p>\n  <p>and to make it operate well on $30 Android Tablets it uses little client-side scripting.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n\n\n<section>\n  <p>It is a Virtual City at heart,</p>\n  <p>but when players start mapping out real homes, and roads, and the citizens join in,</p>\n  <p>it inflates to become a virtual representation of a real city.</p>\n</section>\n\n<section>\n  <p>People can vote in elections, and there is no real threat of corruption here,</p>\n  <p>because their voting history is under their profile.</p>\n</section>\n\n<section>\n  <p>Elections, that was one of the things that got a huge upgrade in many of the cities around the world,</p>\n  <p>some cities just vote on ideas that need to get done, they don&apos;t vote on representatives anymore.</p>\n</section>\n\n<section>\n  <p>The program as a whole,</p>\n  <p>eliminated the need for representatives.</p>\n</section>\n\n<section>\n  <p>People vote on issues that need immediate attention,</p>\n  <p>and those are the first issues that get solved.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n\n\n<section>\n  <p>Two amazing things emerged from within the program,</p>\n  <p>schools begun working for the students by providing them with Audio Books, Lectures, and Chat (that&apos;s what the teachers are called),</p>\n  <p>and the trail of programs that students select over the course of their teenage years actually becomes their resume.</p>\n</section>\n\n<section>\n  <p>Schools started working,</p>\n  <p>it was Rebirth and Enlightenment of both the citizens and the cities.</p>\n</section>\n\n<section>\n  <p>The second,</p>\n  <p>people could work on tasks logged by the users of the program.</p>\n</section>\n\n<section>\n  <p>Some tasks like taking care of public gardens could result in users getting monthly tips from their community,</p>\n  <p>people loved being able to give the lady down the street $8/mo. for making sure all the flower beds were taken care of,</p>\n  <p>the lady next door was often bringing in $3,200 per month for something that she would do anyway, people loved her.</p>\n</section>\n\n<section>\n  <p>Other tasks like road work, could get a bounty, bounties basically ensured that all the road work was done,</p>\n  <p>any competent company could claim a task and grab the bounty for a pothole.</p>\n</section>\n\n<section>\n  <p>People would setup an tiny Limited Liability Company and stock up on compatible materials, and wait for roadwork tasks,</p>\n  <p>there were no more delays to get things done, and these bounties could grow fast.</p>\n</section>\n\n\n<section>\n  <hr>\n</section>\n\n\n\n<section>\n  <p>All this was tested in the games before cities adopted the program,</p>\n  <p>so everyone knew what they were getting, and the stuff just worked.</p>\n</section>\n\n<section>\n  <p>There was an interesting phenomenon where automated programs would actually stay in place of people,</p>\n  <p>one of the most well know instances dealt with the prison population, in a small Swiss city.</p>\n</section>\n\n<section>\n  <p>The entire process was often ran by bots,</p>\n  <p>city was able to vote on presets, this eliminated the need for many local Judges.</p>\n</section>\n\n<section>\n  <p>In this particular instance all the folks who got into fights,</p>\n  <p>were automatically given community service, duration of which would increase with each repeated offense under the same category,</p>\n  <p>the community service program was actually a well paying program, the users didn&apos;t want people to go to jail,</p>\n  <p>they wanted the troublemakers to get a job.</p>\n</section>\n\n<section>\n  <p>Words like felon and criminal were not used, people in the community had access to their entire education,</p>\n  <p>they could see into hearts and souls of these users, the books, pursuits, and curiosities of their teenage years were right there.</p>\n</section>\n\n<section>\n  <p>Psychologists were able to build up a new spectrum disorder, that emerged from stress, loss, fear, isolation.</p>\n</section>\n\n<section>\n  <p>The Swiss town actually ended up closing most of it&apos;s prisons.</p>\n</section>\n\n<section>\n  <p>In America, a similar system of automated programs resulted in a lot of convictions being overturned.</p>\n</section>\n\n<section>\n  <p>\n    This was a prison management system where the inmates were able to present their case in a way that the citizens would understand from a more humane perspective,</p>\n  again the entire past of that person was right there, tragedies and loss, and stress would be followed by more misfortune, deteriorating mental condition, desperate self medication\n  to get back to a thinking state, and what was once called a Felon or Criminal, once again became a Human, a Brother, a Son, a Daughter, a Mother.<p></p>\n</section>\n\n<section>\n  <p>Prison population dropped.</p>\n</section>\n\n\n<section>\n  <hr>\n</section>\n\n\n<section>\n  <p>Nobody called this program a game,</p>\n  <p>it was always meant to change the world.</p>\n</section>\n\n<section>\n  <p>The cities were always connected together to form a larger Global Metropolis,</p>\n  <p>originally it helped people with jobs, as users could tell where they could find tasks that fit them best,</p>\n</section>\n\n<section>\n  <p>But now, decades after the initial release;</p>\n  <p>the program begun uniting the world.</p>\n</section>\n\n<section>\n  <p>War, for one became unthinkable,</p>\n  <p>as people could see how the well being of even one city affected all the others.</p>\n</section>\n\n<section>\n  <p>There was no such thing as not having a job,</p>\n  <p>the cities always needed help with countless tasks.</p>\n</section>\n\n<section>\n  <p>Corruption had nowhere to hide, the crooked politicians had nowhere to hide,</p>\n  <p>national borders made little economic sense, and Climate Change stopped being an issue by 2030.</p>\n</section>\n\n<section>\n  <p>Not that they cared for rewards, but The Women behind the program,</p>\n  <p>the original programmers, received Purple Hearts and multiple Nobel Peace Prizes.</p>\n</section>\n\n<section>\n  <p>What they did love was the fact that the United Nations regained a certain vitality,</p>\n  <p>something that they discovered was once lost in the translation.</p>\n</section>\n\n<section>\n  <p>Every city now has a sculpture to honor them.</p>\n  <p>Many of their sculptures bear the words they uttered so many times during the initial development, &quot;Faster Horses&quot;.</p>\n</section>\n\n\n<section>\n  <hr>\n</section>\n\n\n<section>\n  <p>In closing, the conjecture was true.</p>\n  <p>In the haste of life, people, often out of desperation, will try to meet goals by exploiting systems without active countermeasures.</p>\n  <p>The only system that can resist corruption and exploitation, is one designed from ground up to resist it.</p>\n  <p>\n  </p>\n</section>\n\n<section>\n  <p>It takes a computer to create a a corruption-resistant scaffold around the matters of a city.</p>\n  <p>Where there is no room for stretching rules, the participants can only be encouraged to take the correct paths.</p>\n</section>",
+      "page": "<html>\n\n  <head>\n    <title>The Conjecture</title>\n\n\n\n  </head>\n\n  <body>\n    <section><img src=\"image/poetry-0213-illustration.jpg\"></section>\n    <section>\n      <p><a href=\"audio/poetry-0213.mp3\">Audio Version</a></p>\n    </section>\n\n    <section>\n      <p>It started Christmas 2020, the world was already in trouble;</p>\n      <p>the conjecture in a sentence was this:</p>\n    </section>\n\n    <section>\n      <p>&quot;What can be corrupted will be corrupted, and there are no fully operational public institutions anywhere&quot;,</p>\n      <p>it is too easy for bad people to, not just subvert, but erase lifetimes of hard work and dedication.</p>\n    </section>\n\n\n    <section>\n      <hr>\n    </section>\n\n\n\n    <section>\n      <p>It is commonly known as corruption, but that didn&apos;t matter to them,</p>\n      <p>because they were not attempting to fix things, they had an idea how to replace everything.</p>\n    </section>\n\n    <section>\n      <p>And by everything,</p>\n      <p>they meant institutions all around the world.</p>\n    </section>\n\n\n    <section>\n      <hr>\n    </section>\n\n\n\n    <section>\n      <p>They were going to begin in the beginning, Henry Ford once said,</p>\n      <p>&quot;If I had asked people what they wanted, they would have said faster horses.&quot;,</p>\n    </section>\n\n    <section>\n      <p>The idea was that if they went to the Courts, Police or Schools,</p>\n      <p>they would have wanted the wrong things, that would only invite more problems.</p>\n    </section>\n\n\n    <section>\n      <hr>\n    </section>\n\n\n\n    <section>\n      <p>Initially nobody knew how immune to corruption the thing was going to be,</p>\n      <p>but there was a way to find out.</p>\n    </section>\n\n    <section>\n      <p>The thing was a game, it was meant to be a simulation of a city,</p>\n      <p>it was a simple program that used simple web design principles to simulate a city.</p>\n    </section>\n\n\n    <section>\n      <hr>\n    </section>\n\n\n\n    <section>\n      <p>The non playable characters, were little bots that would interact with the player,</p>\n      <p>the bots were crafted to simulate officials, and they interacted with web pages the way a user would.</p>\n    </section>\n\n    <section>\n      <p>So part of the reason why the programming was so simple,</p>\n      <p>is that bots needed a simple way to pretend to be humans.</p>\n    </section>\n\n\n    <section>\n      <p>When everything went online players would sign up to take over for the bots,</p>\n      <p>and some of the initial testing was about corrupting the institutions of the city.</p>\n    </section>\n\n    <section>\n      <p>The thinking was that, if it was not possible for players to corrupt an institution,</p>\n      <p>then the program could replace all the management software of a real city.</p>\n    </section>\n\n\n    <section>\n      <p>To their surprise there was a number of cities that were willing to participate in the trials,</p>\n      <p>it took them a better part of a decade to get everything going, but the initial trials worked.</p>\n    </section>\n\n\n    <section>\n      <hr>\n    </section>\n\n\n\n    <section>\n      <p>They knew that they became famous,</p>\n      <p>when the UN wouldn&apos;t stop calling.</p>\n    </section>\n\n    <section>\n      <p>It worked because they kept insisting on simplicity,</p>\n      <p>they kept using bots, and corruption simulation teams for decades.</p>\n    </section>\n\n    <section>\n      <p>The program was adopted by almost all the cities of the world,</p>\n      <p>about 10,000 running copies.</p>\n    </section>\n\n\n    <section>\n      <hr>\n    </section>\n\n\n\n    <section>\n      <p>What was fascinating about this,</p>\n      <p>is that it was still played as a game.</p>\n    </section>\n\n    <section>\n      <p>There was a Virtual Cyberpunk City,</p>\n      <p>that everyone went to for internet news.</p>\n    </section>\n\n    <section>\n      <p>The program relies on the Common Gateway Interface,</p>\n      <p>and to make it operate well on $30 Android Tablets it uses little client-side scripting.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n\n\n    <section>\n      <p>It is a Virtual City at heart,</p>\n      <p>but when players start mapping out real homes, and roads, and the citizens join in,</p>\n      <p>it inflates to become a virtual representation of a real city.</p>\n    </section>\n\n    <section>\n      <p>People can vote in elections, and there is no real threat of corruption here,</p>\n      <p>because their voting history is under their profile.</p>\n    </section>\n\n    <section>\n      <p>Elections, that was one of the things that got a huge upgrade in many of the cities around the world,</p>\n      <p>some cities just vote on ideas that need to get done, they don&apos;t vote on representatives anymore.</p>\n    </section>\n\n    <section>\n      <p>The program as a whole,</p>\n      <p>eliminated the need for representatives.</p>\n    </section>\n\n    <section>\n      <p>People vote on issues that need immediate attention,</p>\n      <p>and those are the first issues that get solved.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n\n\n    <section>\n      <p>Two amazing things emerged from within the program,</p>\n      <p>schools begun working for the students by providing them with Audio Books, Lectures, and Chat (that&apos;s what the teachers are called),</p>\n      <p>and the trail of programs that students select over the course of their teenage years actually becomes their resume.</p>\n    </section>\n\n    <section>\n      <p>Schools started working,</p>\n      <p>it was Rebirth and Enlightenment of both the citizens and the cities.</p>\n    </section>\n\n    <section>\n      <p>The second,</p>\n      <p>people could work on tasks logged by the users of the program.</p>\n    </section>\n\n    <section>\n      <p>Some tasks like taking care of public gardens could result in users getting monthly tips from their community,</p>\n      <p>people loved being able to give the lady down the street $8/mo. for making sure all the flower beds were taken care of,</p>\n      <p>the lady next door was often bringing in $3,200 per month for something that she would do anyway, people loved her.</p>\n    </section>\n\n    <section>\n      <p>Other tasks like road work, could get a bounty, bounties basically ensured that all the road work was done,</p>\n      <p>any competent company could claim a task and grab the bounty for a pothole.</p>\n    </section>\n\n    <section>\n      <p>People would setup an tiny Limited Liability Company and stock up on compatible materials, and wait for roadwork tasks,</p>\n      <p>there were no more delays to get things done, and these bounties could grow fast.</p>\n    </section>\n\n\n    <section>\n      <hr>\n    </section>\n\n\n\n    <section>\n      <p>All this was tested in the games before cities adopted the program,</p>\n      <p>so everyone knew what they were getting, and the stuff just worked.</p>\n    </section>\n\n    <section>\n      <p>There was an interesting phenomenon where automated programs would actually stay in place of people,</p>\n      <p>one of the most well know instances dealt with the prison population, in a small Swiss city.</p>\n    </section>\n\n    <section>\n      <p>The entire process was often ran by bots,</p>\n      <p>city was able to vote on presets, this eliminated the need for many local Judges.</p>\n    </section>\n\n    <section>\n      <p>In this particular instance all the folks who got into fights,</p>\n      <p>were automatically given community service, duration of which would increase with each repeated offense under the same category,</p>\n      <p>the community service program was actually a well paying program, the users didn&apos;t want people to go to jail,</p>\n      <p>they wanted the troublemakers to get a job.</p>\n    </section>\n\n    <section>\n      <p>Words like felon and criminal were not used, people in the community had access to their entire education,</p>\n      <p>they could see into hearts and souls of these users, the books, pursuits, and curiosities of their teenage years were right there.</p>\n    </section>\n\n    <section>\n      <p>Psychologists were able to build up a new spectrum disorder, that emerged from stress, loss, fear, isolation.</p>\n    </section>\n\n    <section>\n      <p>The Swiss town actually ended up closing most of it&apos;s prisons.</p>\n    </section>\n\n    <section>\n      <p>In America, a similar system of automated programs resulted in a lot of convictions being overturned.</p>\n    </section>\n\n    <section>\n      <p>\n        This was a prison management system where the inmates were able to present their case in a way that the citizens would understand from a more humane perspective,</p>\n      again the entire past of that person was right there, tragedies and loss, and stress would be followed by more misfortune, deteriorating mental condition, desperate self medication\n      to get back to a thinking state, and what was once called a Felon or Criminal, once again became a Human, a Brother, a Son, a Daughter, a Mother.<p></p>\n    </section>\n\n    <section>\n      <p>Prison population dropped.</p>\n    </section>\n\n\n    <section>\n      <hr>\n    </section>\n\n\n    <section>\n      <p>Nobody called this program a game,</p>\n      <p>it was always meant to change the world.</p>\n    </section>\n\n    <section>\n      <p>The cities were always connected together to form a larger Global Metropolis,</p>\n      <p>originally it helped people with jobs, as users could tell where they could find tasks that fit them best,</p>\n    </section>\n\n    <section>\n      <p>But now, decades after the initial release;</p>\n      <p>the program begun uniting the world.</p>\n    </section>\n\n    <section>\n      <p>War, for one became unthinkable,</p>\n      <p>as people could see how the well being of even one city affected all the others.</p>\n    </section>\n\n    <section>\n      <p>There was no such thing as not having a job,</p>\n      <p>the cities always needed help with countless tasks.</p>\n    </section>\n\n    <section>\n      <p>Corruption had nowhere to hide, the crooked politicians had nowhere to hide,</p>\n      <p>national borders made little economic sense, and Climate Change stopped being an issue by 2030.</p>\n    </section>\n\n    <section>\n      <p>Not that they cared for rewards, but The Women behind the program,</p>\n      <p>the original programmers, received Purple Hearts and multiple Nobel Peace Prizes.</p>\n    </section>\n\n    <section>\n      <p>What they did love was the fact that the United Nations regained a certain vitality,</p>\n      <p>something that they discovered was once lost in the translation.</p>\n    </section>\n\n    <section>\n      <p>Every city now has a sculpture to honor them.</p>\n      <p>Many of their sculptures bear the words they uttered so many times during the initial development, &quot;Faster Horses&quot;.</p>\n    </section>\n\n\n    <section>\n      <hr>\n    </section>\n\n\n    <section>\n      <p>In closing, the conjecture was true.</p>\n      <p>In the haste of life, people, often out of desperation, will try to meet goals by exploiting systems without active countermeasures.</p>\n      <p>The only system that can resist corruption and exploitation, is one designed from ground up to resist it.</p>\n      <p>\n      </p>\n    </section>\n\n    <section>\n      <p>It takes a computer to create a a corruption-resistant scaffold around the matters of a city.</p>\n      <p>Where there is no room for stretching rules, the participants can only be encouraged to take the correct paths.</p>\n    </section>\n\n\n\n  </body>\n\n</html>"
+    },
+    "counter": 198,
+    "isNewest": true,
+    "isOldest": false,
+    "olderId": "poetry-0212",
     "newerId": "poetry-0016",
-    "newestId": "poetry-0212",
+    "newestId": "poetry-0213",
     "oldestId": "poetry-0016"
   }
 ]
