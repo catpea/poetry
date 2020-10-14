@@ -12,9 +12,9 @@
     "counter": 1,
     "isNewest": false,
     "isOldest": true,
-    "olderId": "poetry-0226",
+    "olderId": "poetry-0227",
     "newerId": "poetry-0017",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -32,7 +32,7 @@
     "isOldest": false,
     "olderId": "poetry-0016",
     "newerId": "poetry-0018",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -50,7 +50,7 @@
     "isOldest": false,
     "olderId": "poetry-0017",
     "newerId": "poetry-0019",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -68,7 +68,7 @@
     "isOldest": false,
     "olderId": "poetry-0018",
     "newerId": "poetry-0020",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -86,7 +86,7 @@
     "isOldest": false,
     "olderId": "poetry-0019",
     "newerId": "poetry-0021",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -104,7 +104,7 @@
     "isOldest": false,
     "olderId": "poetry-0020",
     "newerId": "poetry-0022",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -122,7 +122,7 @@
     "isOldest": false,
     "olderId": "poetry-0021",
     "newerId": "poetry-0023",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -140,7 +140,7 @@
     "isOldest": false,
     "olderId": "poetry-0022",
     "newerId": "poetry-0024",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -158,7 +158,7 @@
     "isOldest": false,
     "olderId": "poetry-0023",
     "newerId": "poetry-0025",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -176,7 +176,7 @@
     "isOldest": false,
     "olderId": "poetry-0024",
     "newerId": "poetry-0026",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -194,7 +194,7 @@
     "isOldest": false,
     "olderId": "poetry-0025",
     "newerId": "poetry-0027",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -212,7 +212,7 @@
     "isOldest": false,
     "olderId": "poetry-0026",
     "newerId": "poetry-0028",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -231,7 +231,7 @@
     "isOldest": false,
     "olderId": "poetry-0027",
     "newerId": "poetry-0029",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -250,7 +250,7 @@
     "isOldest": false,
     "olderId": "poetry-0028",
     "newerId": "poetry-0030",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -269,7 +269,7 @@
     "isOldest": false,
     "olderId": "poetry-0029",
     "newerId": "poetry-0031",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -288,7 +288,7 @@
     "isOldest": false,
     "olderId": "poetry-0030",
     "newerId": "poetry-0032",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -307,7 +307,7 @@
     "isOldest": false,
     "olderId": "poetry-0031",
     "newerId": "poetry-0033",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -326,7 +326,7 @@
     "isOldest": false,
     "olderId": "poetry-0032",
     "newerId": "poetry-0034",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -345,7 +345,7 @@
     "isOldest": false,
     "olderId": "poetry-0033",
     "newerId": "poetry-0035",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -364,7 +364,7 @@
     "isOldest": false,
     "olderId": "poetry-0034",
     "newerId": "poetry-0036",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -383,7 +383,7 @@
     "isOldest": false,
     "olderId": "poetry-0035",
     "newerId": "poetry-0037",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -402,7 +402,7 @@
     "isOldest": false,
     "olderId": "poetry-0036",
     "newerId": "poetry-0038",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -421,7 +421,7 @@
     "isOldest": false,
     "olderId": "poetry-0037",
     "newerId": "poetry-0039",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -440,7 +440,7 @@
     "isOldest": false,
     "olderId": "poetry-0038",
     "newerId": "poetry-0040",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -459,7 +459,7 @@
     "isOldest": false,
     "olderId": "poetry-0039",
     "newerId": "poetry-0041",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -478,7 +478,7 @@
     "isOldest": false,
     "olderId": "poetry-0040",
     "newerId": "poetry-0042",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -497,7 +497,7 @@
     "isOldest": false,
     "olderId": "poetry-0041",
     "newerId": "poetry-0043",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -516,7 +516,7 @@
     "isOldest": false,
     "olderId": "poetry-0042",
     "newerId": "poetry-0044",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -535,7 +535,7 @@
     "isOldest": false,
     "olderId": "poetry-0043",
     "newerId": "poetry-0045",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -554,7 +554,7 @@
     "isOldest": false,
     "olderId": "poetry-0044",
     "newerId": "poetry-0046",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -573,7 +573,7 @@
     "isOldest": false,
     "olderId": "poetry-0045",
     "newerId": "poetry-0047",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -592,7 +592,7 @@
     "isOldest": false,
     "olderId": "poetry-0046",
     "newerId": "poetry-0048",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -611,7 +611,7 @@
     "isOldest": false,
     "olderId": "poetry-0047",
     "newerId": "poetry-0049",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -630,7 +630,7 @@
     "isOldest": false,
     "olderId": "poetry-0048",
     "newerId": "poetry-0050",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -649,7 +649,7 @@
     "isOldest": false,
     "olderId": "poetry-0049",
     "newerId": "poetry-0051",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -669,7 +669,7 @@
     "isOldest": false,
     "olderId": "poetry-0050",
     "newerId": "poetry-0052",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -689,7 +689,7 @@
     "isOldest": false,
     "olderId": "poetry-0051",
     "newerId": "poetry-0053",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -708,7 +708,7 @@
     "isOldest": false,
     "olderId": "poetry-0052",
     "newerId": "poetry-0054",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -728,7 +728,7 @@
     "isOldest": false,
     "olderId": "poetry-0053",
     "newerId": "poetry-0055",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -748,7 +748,7 @@
     "isOldest": false,
     "olderId": "poetry-0054",
     "newerId": "poetry-0056",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -768,7 +768,7 @@
     "isOldest": false,
     "olderId": "poetry-0055",
     "newerId": "poetry-0057",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -788,7 +788,7 @@
     "isOldest": false,
     "olderId": "poetry-0056",
     "newerId": "poetry-0058",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -807,7 +807,7 @@
     "isOldest": false,
     "olderId": "poetry-0057",
     "newerId": "poetry-0059",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -826,7 +826,7 @@
     "isOldest": false,
     "olderId": "poetry-0058",
     "newerId": "poetry-0060",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -846,7 +846,7 @@
     "isOldest": false,
     "olderId": "poetry-0059",
     "newerId": "poetry-0061",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -865,7 +865,7 @@
     "isOldest": false,
     "olderId": "poetry-0060",
     "newerId": "poetry-0062",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -884,7 +884,7 @@
     "isOldest": false,
     "olderId": "poetry-0061",
     "newerId": "poetry-0063",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -904,7 +904,7 @@
     "isOldest": false,
     "olderId": "poetry-0062",
     "newerId": "poetry-0064",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -924,7 +924,7 @@
     "isOldest": false,
     "olderId": "poetry-0063",
     "newerId": "poetry-0065",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -943,7 +943,7 @@
     "isOldest": false,
     "olderId": "poetry-0064",
     "newerId": "poetry-0066",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -963,7 +963,7 @@
     "isOldest": false,
     "olderId": "poetry-0065",
     "newerId": "poetry-0067",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -983,7 +983,7 @@
     "isOldest": false,
     "olderId": "poetry-0066",
     "newerId": "poetry-0068",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1003,7 +1003,7 @@
     "isOldest": false,
     "olderId": "poetry-0067",
     "newerId": "poetry-0069",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1023,7 +1023,7 @@
     "isOldest": false,
     "olderId": "poetry-0068",
     "newerId": "poetry-0070",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1043,7 +1043,7 @@
     "isOldest": false,
     "olderId": "poetry-0069",
     "newerId": "poetry-0071",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1063,7 +1063,7 @@
     "isOldest": false,
     "olderId": "poetry-0070",
     "newerId": "poetry-0072",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1083,7 +1083,7 @@
     "isOldest": false,
     "olderId": "poetry-0071",
     "newerId": "poetry-0073",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1103,7 +1103,7 @@
     "isOldest": false,
     "olderId": "poetry-0072",
     "newerId": "poetry-0074",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1123,7 +1123,7 @@
     "isOldest": false,
     "olderId": "poetry-0073",
     "newerId": "poetry-0075",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1143,7 +1143,7 @@
     "isOldest": false,
     "olderId": "poetry-0074",
     "newerId": "poetry-0076",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1163,7 +1163,7 @@
     "isOldest": false,
     "olderId": "poetry-0075",
     "newerId": "poetry-0077",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1183,7 +1183,7 @@
     "isOldest": false,
     "olderId": "poetry-0076",
     "newerId": "poetry-0078",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1203,7 +1203,7 @@
     "isOldest": false,
     "olderId": "poetry-0077",
     "newerId": "poetry-0079",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1223,7 +1223,7 @@
     "isOldest": false,
     "olderId": "poetry-0078",
     "newerId": "poetry-0080",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1243,7 +1243,7 @@
     "isOldest": false,
     "olderId": "poetry-0079",
     "newerId": "poetry-0081",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1263,7 +1263,7 @@
     "isOldest": false,
     "olderId": "poetry-0080",
     "newerId": "poetry-0082",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1283,7 +1283,7 @@
     "isOldest": false,
     "olderId": "poetry-0081",
     "newerId": "poetry-0083",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1303,7 +1303,7 @@
     "isOldest": false,
     "olderId": "poetry-0082",
     "newerId": "poetry-0084",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1323,7 +1323,7 @@
     "isOldest": false,
     "olderId": "poetry-0083",
     "newerId": "poetry-0085",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1343,7 +1343,7 @@
     "isOldest": false,
     "olderId": "poetry-0084",
     "newerId": "poetry-0086",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1363,7 +1363,7 @@
     "isOldest": false,
     "olderId": "poetry-0085",
     "newerId": "poetry-0087",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1383,7 +1383,7 @@
     "isOldest": false,
     "olderId": "poetry-0086",
     "newerId": "poetry-0088",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1403,7 +1403,7 @@
     "isOldest": false,
     "olderId": "poetry-0087",
     "newerId": "poetry-0089",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1423,7 +1423,7 @@
     "isOldest": false,
     "olderId": "poetry-0088",
     "newerId": "poetry-0090",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1443,7 +1443,7 @@
     "isOldest": false,
     "olderId": "poetry-0089",
     "newerId": "poetry-0091",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1463,7 +1463,7 @@
     "isOldest": false,
     "olderId": "poetry-0090",
     "newerId": "poetry-0092",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1483,7 +1483,7 @@
     "isOldest": false,
     "olderId": "poetry-0091",
     "newerId": "poetry-0093",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1503,7 +1503,7 @@
     "isOldest": false,
     "olderId": "poetry-0092",
     "newerId": "poetry-0094",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1523,7 +1523,7 @@
     "isOldest": false,
     "olderId": "poetry-0093",
     "newerId": "poetry-0095",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1543,7 +1543,7 @@
     "isOldest": false,
     "olderId": "poetry-0094",
     "newerId": "poetry-0096",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1563,7 +1563,7 @@
     "isOldest": false,
     "olderId": "poetry-0095",
     "newerId": "poetry-0097",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1583,7 +1583,7 @@
     "isOldest": false,
     "olderId": "poetry-0096",
     "newerId": "poetry-0098",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1603,7 +1603,7 @@
     "isOldest": false,
     "olderId": "poetry-0097",
     "newerId": "poetry-0099",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1623,7 +1623,7 @@
     "isOldest": false,
     "olderId": "poetry-0098",
     "newerId": "poetry-0100",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1643,7 +1643,7 @@
     "isOldest": false,
     "olderId": "poetry-0099",
     "newerId": "poetry-0101",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1663,7 +1663,7 @@
     "isOldest": false,
     "olderId": "poetry-0100",
     "newerId": "poetry-0102",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1683,7 +1683,7 @@
     "isOldest": false,
     "olderId": "poetry-0101",
     "newerId": "poetry-0103",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1703,7 +1703,7 @@
     "isOldest": false,
     "olderId": "poetry-0102",
     "newerId": "poetry-0104",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1723,7 +1723,7 @@
     "isOldest": false,
     "olderId": "poetry-0103",
     "newerId": "poetry-0105",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1743,7 +1743,7 @@
     "isOldest": false,
     "olderId": "poetry-0104",
     "newerId": "poetry-0106",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1763,7 +1763,7 @@
     "isOldest": false,
     "olderId": "poetry-0105",
     "newerId": "poetry-0107",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1783,7 +1783,7 @@
     "isOldest": false,
     "olderId": "poetry-0106",
     "newerId": "poetry-0108",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1803,7 +1803,7 @@
     "isOldest": false,
     "olderId": "poetry-0107",
     "newerId": "poetry-0109",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1823,7 +1823,7 @@
     "isOldest": false,
     "olderId": "poetry-0108",
     "newerId": "poetry-0110",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1843,7 +1843,7 @@
     "isOldest": false,
     "olderId": "poetry-0109",
     "newerId": "poetry-0111",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1863,7 +1863,7 @@
     "isOldest": false,
     "olderId": "poetry-0110",
     "newerId": "poetry-0112",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1883,7 +1883,7 @@
     "isOldest": false,
     "olderId": "poetry-0111",
     "newerId": "poetry-0113",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1903,7 +1903,7 @@
     "isOldest": false,
     "olderId": "poetry-0112",
     "newerId": "poetry-0114",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1923,7 +1923,7 @@
     "isOldest": false,
     "olderId": "poetry-0113",
     "newerId": "poetry-0115",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1943,7 +1943,7 @@
     "isOldest": false,
     "olderId": "poetry-0114",
     "newerId": "poetry-0116",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1963,7 +1963,7 @@
     "isOldest": false,
     "olderId": "poetry-0115",
     "newerId": "poetry-0117",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -1983,7 +1983,7 @@
     "isOldest": false,
     "olderId": "poetry-0116",
     "newerId": "poetry-0118",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2003,7 +2003,7 @@
     "isOldest": false,
     "olderId": "poetry-0117",
     "newerId": "poetry-0119",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2023,7 +2023,7 @@
     "isOldest": false,
     "olderId": "poetry-0118",
     "newerId": "poetry-0120",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2043,7 +2043,7 @@
     "isOldest": false,
     "olderId": "poetry-0119",
     "newerId": "poetry-0121",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2063,7 +2063,7 @@
     "isOldest": false,
     "olderId": "poetry-0120",
     "newerId": "poetry-0122",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2083,7 +2083,7 @@
     "isOldest": false,
     "olderId": "poetry-0121",
     "newerId": "poetry-0123",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2103,7 +2103,7 @@
     "isOldest": false,
     "olderId": "poetry-0122",
     "newerId": "poetry-0124",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2123,7 +2123,7 @@
     "isOldest": false,
     "olderId": "poetry-0123",
     "newerId": "poetry-0125",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2143,7 +2143,7 @@
     "isOldest": false,
     "olderId": "poetry-0124",
     "newerId": "poetry-0126",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2163,7 +2163,7 @@
     "isOldest": false,
     "olderId": "poetry-0125",
     "newerId": "poetry-0127",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2183,7 +2183,7 @@
     "isOldest": false,
     "olderId": "poetry-0126",
     "newerId": "poetry-0128",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2203,7 +2203,7 @@
     "isOldest": false,
     "olderId": "poetry-0127",
     "newerId": "poetry-0129",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2223,7 +2223,7 @@
     "isOldest": false,
     "olderId": "poetry-0128",
     "newerId": "poetry-0130",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2243,7 +2243,7 @@
     "isOldest": false,
     "olderId": "poetry-0129",
     "newerId": "poetry-0131",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2263,7 +2263,7 @@
     "isOldest": false,
     "olderId": "poetry-0130",
     "newerId": "poetry-0132",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2283,7 +2283,7 @@
     "isOldest": false,
     "olderId": "poetry-0131",
     "newerId": "poetry-0133",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2303,7 +2303,7 @@
     "isOldest": false,
     "olderId": "poetry-0132",
     "newerId": "poetry-0134",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2323,7 +2323,7 @@
     "isOldest": false,
     "olderId": "poetry-0133",
     "newerId": "poetry-0135",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2343,7 +2343,7 @@
     "isOldest": false,
     "olderId": "poetry-0134",
     "newerId": "poetry-0136",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2363,7 +2363,7 @@
     "isOldest": false,
     "olderId": "poetry-0135",
     "newerId": "poetry-0137",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2383,7 +2383,7 @@
     "isOldest": false,
     "olderId": "poetry-0136",
     "newerId": "poetry-0138",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2403,7 +2403,7 @@
     "isOldest": false,
     "olderId": "poetry-0137",
     "newerId": "poetry-0139",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2423,7 +2423,7 @@
     "isOldest": false,
     "olderId": "poetry-0138",
     "newerId": "poetry-0140",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2443,7 +2443,7 @@
     "isOldest": false,
     "olderId": "poetry-0139",
     "newerId": "poetry-0141",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2463,7 +2463,7 @@
     "isOldest": false,
     "olderId": "poetry-0140",
     "newerId": "poetry-0142",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2483,7 +2483,7 @@
     "isOldest": false,
     "olderId": "poetry-0141",
     "newerId": "poetry-0143",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2503,7 +2503,7 @@
     "isOldest": false,
     "olderId": "poetry-0142",
     "newerId": "poetry-0144",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2523,7 +2523,7 @@
     "isOldest": false,
     "olderId": "poetry-0143",
     "newerId": "poetry-0145",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2543,7 +2543,7 @@
     "isOldest": false,
     "olderId": "poetry-0144",
     "newerId": "poetry-0146",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2563,7 +2563,7 @@
     "isOldest": false,
     "olderId": "poetry-0145",
     "newerId": "poetry-0147",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2583,7 +2583,7 @@
     "isOldest": false,
     "olderId": "poetry-0146",
     "newerId": "poetry-0148",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2603,7 +2603,7 @@
     "isOldest": false,
     "olderId": "poetry-0147",
     "newerId": "poetry-0149",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2623,7 +2623,7 @@
     "isOldest": false,
     "olderId": "poetry-0148",
     "newerId": "poetry-0150",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2643,7 +2643,7 @@
     "isOldest": false,
     "olderId": "poetry-0149",
     "newerId": "poetry-0151",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2663,7 +2663,7 @@
     "isOldest": false,
     "olderId": "poetry-0150",
     "newerId": "poetry-0152",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2683,7 +2683,7 @@
     "isOldest": false,
     "olderId": "poetry-0151",
     "newerId": "poetry-0153",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2703,7 +2703,7 @@
     "isOldest": false,
     "olderId": "poetry-0152",
     "newerId": "poetry-0154",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2723,7 +2723,7 @@
     "isOldest": false,
     "olderId": "poetry-0153",
     "newerId": "poetry-0155",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2743,7 +2743,7 @@
     "isOldest": false,
     "olderId": "poetry-0154",
     "newerId": "poetry-0156",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2763,7 +2763,7 @@
     "isOldest": false,
     "olderId": "poetry-0155",
     "newerId": "poetry-0157",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2783,7 +2783,7 @@
     "isOldest": false,
     "olderId": "poetry-0156",
     "newerId": "poetry-0158",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2803,7 +2803,7 @@
     "isOldest": false,
     "olderId": "poetry-0157",
     "newerId": "poetry-0159",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2823,7 +2823,7 @@
     "isOldest": false,
     "olderId": "poetry-0158",
     "newerId": "poetry-0160",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2843,7 +2843,7 @@
     "isOldest": false,
     "olderId": "poetry-0159",
     "newerId": "poetry-0161",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2863,7 +2863,7 @@
     "isOldest": false,
     "olderId": "poetry-0160",
     "newerId": "poetry-0162",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2883,7 +2883,7 @@
     "isOldest": false,
     "olderId": "poetry-0161",
     "newerId": "poetry-0163",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2903,7 +2903,7 @@
     "isOldest": false,
     "olderId": "poetry-0162",
     "newerId": "poetry-0164",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2923,7 +2923,7 @@
     "isOldest": false,
     "olderId": "poetry-0163",
     "newerId": "poetry-0165",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2943,7 +2943,7 @@
     "isOldest": false,
     "olderId": "poetry-0164",
     "newerId": "poetry-0166",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2963,7 +2963,7 @@
     "isOldest": false,
     "olderId": "poetry-0165",
     "newerId": "poetry-0167",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -2983,7 +2983,7 @@
     "isOldest": false,
     "olderId": "poetry-0166",
     "newerId": "poetry-0168",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3003,7 +3003,7 @@
     "isOldest": false,
     "olderId": "poetry-0167",
     "newerId": "poetry-0169",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3023,7 +3023,7 @@
     "isOldest": false,
     "olderId": "poetry-0168",
     "newerId": "poetry-0170",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3043,7 +3043,7 @@
     "isOldest": false,
     "olderId": "poetry-0169",
     "newerId": "poetry-0171",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3063,7 +3063,7 @@
     "isOldest": false,
     "olderId": "poetry-0170",
     "newerId": "poetry-0172",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3083,7 +3083,7 @@
     "isOldest": false,
     "olderId": "poetry-0171",
     "newerId": "poetry-0173",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3103,7 +3103,7 @@
     "isOldest": false,
     "olderId": "poetry-0172",
     "newerId": "poetry-0174",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3123,7 +3123,7 @@
     "isOldest": false,
     "olderId": "poetry-0173",
     "newerId": "poetry-0175",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3143,7 +3143,7 @@
     "isOldest": false,
     "olderId": "poetry-0174",
     "newerId": "poetry-0176",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3163,7 +3163,7 @@
     "isOldest": false,
     "olderId": "poetry-0175",
     "newerId": "poetry-0177",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3183,7 +3183,7 @@
     "isOldest": false,
     "olderId": "poetry-0176",
     "newerId": "poetry-0178",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3203,7 +3203,7 @@
     "isOldest": false,
     "olderId": "poetry-0177",
     "newerId": "poetry-0179",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3223,7 +3223,7 @@
     "isOldest": false,
     "olderId": "poetry-0178",
     "newerId": "poetry-0180",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3243,7 +3243,7 @@
     "isOldest": false,
     "olderId": "poetry-0179",
     "newerId": "poetry-0181",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3263,7 +3263,7 @@
     "isOldest": false,
     "olderId": "poetry-0180",
     "newerId": "poetry-0182",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3283,7 +3283,7 @@
     "isOldest": false,
     "olderId": "poetry-0181",
     "newerId": "poetry-0183",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3303,7 +3303,7 @@
     "isOldest": false,
     "olderId": "poetry-0182",
     "newerId": "poetry-0184",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3323,7 +3323,7 @@
     "isOldest": false,
     "olderId": "poetry-0183",
     "newerId": "poetry-0185",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3343,7 +3343,7 @@
     "isOldest": false,
     "olderId": "poetry-0184",
     "newerId": "poetry-0186",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3363,7 +3363,7 @@
     "isOldest": false,
     "olderId": "poetry-0185",
     "newerId": "poetry-0187",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3383,7 +3383,7 @@
     "isOldest": false,
     "olderId": "poetry-0186",
     "newerId": "poetry-0188",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3403,7 +3403,7 @@
     "isOldest": false,
     "olderId": "poetry-0187",
     "newerId": "poetry-0189",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3423,7 +3423,7 @@
     "isOldest": false,
     "olderId": "poetry-0188",
     "newerId": "poetry-0190",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3443,7 +3443,7 @@
     "isOldest": false,
     "olderId": "poetry-0189",
     "newerId": "poetry-0191",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3463,7 +3463,7 @@
     "isOldest": false,
     "olderId": "poetry-0190",
     "newerId": "poetry-0192",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3483,7 +3483,7 @@
     "isOldest": false,
     "olderId": "poetry-0191",
     "newerId": "poetry-0193",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3503,7 +3503,7 @@
     "isOldest": false,
     "olderId": "poetry-0192",
     "newerId": "poetry-0194",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3523,7 +3523,7 @@
     "isOldest": false,
     "olderId": "poetry-0193",
     "newerId": "poetry-0195",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3543,7 +3543,7 @@
     "isOldest": false,
     "olderId": "poetry-0194",
     "newerId": "poetry-0196",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3563,7 +3563,7 @@
     "isOldest": false,
     "olderId": "poetry-0195",
     "newerId": "poetry-0197",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3583,7 +3583,7 @@
     "isOldest": false,
     "olderId": "poetry-0196",
     "newerId": "poetry-0198",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3603,7 +3603,7 @@
     "isOldest": false,
     "olderId": "poetry-0197",
     "newerId": "poetry-0199",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3623,7 +3623,7 @@
     "isOldest": false,
     "olderId": "poetry-0198",
     "newerId": "poetry-0200",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3643,7 +3643,7 @@
     "isOldest": false,
     "olderId": "poetry-0199",
     "newerId": "poetry-0201",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3663,7 +3663,7 @@
     "isOldest": false,
     "olderId": "poetry-0200",
     "newerId": "poetry-0202",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3683,7 +3683,7 @@
     "isOldest": false,
     "olderId": "poetry-0201",
     "newerId": "poetry-0203",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3703,7 +3703,7 @@
     "isOldest": false,
     "olderId": "poetry-0202",
     "newerId": "poetry-0204",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3723,7 +3723,7 @@
     "isOldest": false,
     "olderId": "poetry-0203",
     "newerId": "poetry-0205",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3743,7 +3743,7 @@
     "isOldest": false,
     "olderId": "poetry-0204",
     "newerId": "poetry-0206",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3763,7 +3763,7 @@
     "isOldest": false,
     "olderId": "poetry-0205",
     "newerId": "poetry-0207",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3783,7 +3783,7 @@
     "isOldest": false,
     "olderId": "poetry-0206",
     "newerId": "poetry-0208",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3803,7 +3803,7 @@
     "isOldest": false,
     "olderId": "poetry-0207",
     "newerId": "poetry-0209",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3823,7 +3823,7 @@
     "isOldest": false,
     "olderId": "poetry-0208",
     "newerId": "poetry-0210",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3843,7 +3843,7 @@
     "isOldest": false,
     "olderId": "poetry-0209",
     "newerId": "poetry-0211",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3863,7 +3863,7 @@
     "isOldest": false,
     "olderId": "poetry-0210",
     "newerId": "poetry-0212",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3883,7 +3883,7 @@
     "isOldest": false,
     "olderId": "poetry-0211",
     "newerId": "poetry-0213",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3903,7 +3903,7 @@
     "isOldest": false,
     "olderId": "poetry-0212",
     "newerId": "poetry-0214",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3923,7 +3923,7 @@
     "isOldest": false,
     "olderId": "poetry-0213",
     "newerId": "poetry-0215",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3943,7 +3943,7 @@
     "isOldest": false,
     "olderId": "poetry-0214",
     "newerId": "poetry-0216",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3963,7 +3963,7 @@
     "isOldest": false,
     "olderId": "poetry-0215",
     "newerId": "poetry-0217",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -3983,7 +3983,7 @@
     "isOldest": false,
     "olderId": "poetry-0216",
     "newerId": "poetry-0218",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -4003,7 +4003,7 @@
     "isOldest": false,
     "olderId": "poetry-0217",
     "newerId": "poetry-0219",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -4023,7 +4023,7 @@
     "isOldest": false,
     "olderId": "poetry-0218",
     "newerId": "poetry-0220",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -4043,7 +4043,7 @@
     "isOldest": false,
     "olderId": "poetry-0219",
     "newerId": "poetry-0221",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -4063,7 +4063,7 @@
     "isOldest": false,
     "olderId": "poetry-0220",
     "newerId": "poetry-0222",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -4083,7 +4083,7 @@
     "isOldest": false,
     "olderId": "poetry-0221",
     "newerId": "poetry-0223",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -4103,7 +4103,7 @@
     "isOldest": false,
     "olderId": "poetry-0222",
     "newerId": "poetry-0224",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -4123,7 +4123,7 @@
     "isOldest": false,
     "olderId": "poetry-0223",
     "newerId": "poetry-0225",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -4143,7 +4143,7 @@
     "isOldest": false,
     "olderId": "poetry-0224",
     "newerId": "poetry-0226",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   },
   {
@@ -4154,16 +4154,36 @@
     "timestamp": "Monday, October 12th 2020, 6:19:41 pm",
     "id": "poetry-0226",
     "data": {
-      "text": "Do not drop out of High School,\nthe Back Row is a special place.\n\nIt is how the Universe asks for help,\nyou are being asked to watch for trouble.\n\nTo keep an eye on your bullies,\nmake sure they all come back from home.\n\nTheir violence is an expression of abuse,\nthere is nothing you can do.\n\nYou are being asked to stare into the Teachers Soul,\nespecially when the bullies come, and she turns her head.\n\nAnd you are being asked to be the first one to call the police,\nif someone is in danger, get everything on video, upload.\n\nWatch the Security Guards,\nmake sure that everyone is keeping a distance from all the students.\n\nSo, by now the teachers have you half way,\ntowards believing that you are dumb, a loser, and a waste of time.\n\nThey have been using you to tidy up their Grade Statistics,\ntheir statistics can't stick out, they need a usual distribution of grades.\n\nIf it was all As, someone would come around asking why,\nyou are the \"F\" that makes their bullshit look legitimate.\n\nI know, you know, that your grades your bad, because you were not learning before,\nand now you don't have the base, that would help you understand what the teacher is saying right now.\n\nBut you are wrong.\n\nNobody else learned that stuff either,\neven some of the kids that had tutors, didn't learn it, they just memorized it.\n\nYou'd have to be a freak of nature,\nto actually comprehend that curriculum, please, please, don't memorize garbage.\n\nBe careful, the teachers, and principals maybe suffering a kind of collective delusion:\n\n\"...The principal and I rejected his alibi and hung a fat zero on his final exam.\nThat dropped his precalculus grade down from a B+ to a D+.\nIt lingered like a purple bruise on his college applications.\"\nBen Orlin \"When Memorization Gets in the Way of Learning\" The Atlantic, September 9, 2013.\n\nYou are just as smart as everybody else,\nyou are just as smart as Newton was before he started reading books he liked.\n\nThere are no gifted individuals,\nbut there are individuals who like being celebrated as gifted, of special, or above all else.\n\nThey want it so bad,\nthat they go home and memorize that garbage, garbage.\n\nEven though your mind is perfectly fine,\nyou still need Knowledge, you need an integrated picture of the world.\n\nA clear picture constructed out of a hundred books,\nloved an admired by Intellectuals, Scientists, Philosophers, those who show great achievement.\n\nBy sitting in the back row, and constantly being made to feel stupid,\nthey are stressing you out and preventing you from enjoying life up to a point where you can listen to Audio Books and Lectures.\n\nThis place is standing between you and knowledge,\nand calling you stupid while its at it.\n\nThis is why you can't drop out,\nbecause if this continues the world will fall apart.\n\nYour real study,\nbegins right now.\n\nYou have to figure out,\nhow this place works.\n\nWho the teachers answer to,\nwho the principals answer to.\n\nHow are they getting paid,\nfor this s*it.\n\nYou have to understand the school system,\nbecause you are going to fix it.\n\nThere is a couple of teachers,\nand a handful of students that will help you.\n\nLearn from the internet how to give speeches,\nand begin preparing yourself for speaking out against fake education.\n\nForgive the memorizes, they are often under as much pressure as the bullies are,\nthey are just better at keeping their mind from fracturing.\n\nSome of them maybe admiring you,\nthat you are so strong that you don't pretend to learn.\n\nIf one of the girls tries to talk to you,\ndon't freak out just say the truth:\n\n\"I am shy, I need some time to be able to speak with you,\nif you help me, I'll be your friend.\"\n\nand then add,\n\n\"I am going to try to fix school, I'll need a lot of help.\"\n\nAnd everything will work out.\n\n--\n\nMy Friend,\n\nA school that pretends to teach,\nis a school that robs you of knowledge.\n\nCivilizations do not die with a bang,\nit happens so slowly that nobody notices when all the trees are gone.\n\nHow many Tigers are left in your time?\nI hope you still have a few, I had 4,000 when I wrote this.\n\nThe Nuclear superpowers,\nchose Mutually Assured Destruction, over Disarmament.\n\nAnd prisons were full of people who were warped,\nby stress, poverty, and lack of Knowledge,\nit was Ten Million at the time of writing.\n\nThe blindness starts in school,\nwhen Knowledge is replaced with disconnected facts and memorization.\n\nAnd it continues,\ngrow strong my friend,\nspeak Wisely, Nobly and Loudly.\n\nImagine what it will be like when it is all over, and schools begin working.\n\nEvery formula animated before student's eyes, paid internships all around the word,\nstudent exchange will be the first and foremost, adventures in England, Germany, Australia, Switzerland, and Liechtenstein, and why not.\n\nStudent Stipend will grant the students years of Enlightenment and Adventure,\nthe only grade will be their own path of education from Middle-school to University,\nall their curiosities combined together into a Hard Cover book,\nthat others may follow and improve upon in a Fellowship of Enlightenment.\n\nBegin your journey with A Short History of Nearly Everything, by Bill Bryson,\nleap to A People's History of the United States by Howard Zinn,\nfor light reading try What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe,\nsee if you can find a copy of The Giants of Philosophy Series read by Charlton Heston,\nand look into The Teaching Company Lectures.\n\nTo make money, find a Start-up Accelerator similar to YCombinator near you,\nand begin building Virtual Schools Online, borrow from Massively multiplayer online games.\n\nPlease don't be alone, but even if you do end up trying to save the world alone,\nyou will be in company of great beings, my Friend, and the future generations will stand upon your shoulders.\n\nHere are some Starting Points, Thinkers and Scientists to get you started.\n\nBen Orlin \"When Memorization Gets in the Way of Learning\" The Atlantic, September 9, 2013.\nDe-Grading Education by Elizabeth Wissner-Gross\nHow America's public schools keep kids in poverty by Kandice Sumner\nErica Goldson's Graduation Speech\n\nSir Ken Robinson\nAstra Taylor\n\nBill Bryson\nRichard Dawkins\nSam Harris\nPZ Myers\nLawrence Krauss\nLord Martin Rees\nJill Tarter\nSeth Shostak\nAlex Filippenko\nSean Carroll\nJared Diamond\nHoward Zinn\n\nBrené Brown\nAyaan Hirsi Ali\nDan Dennett\nChristopher Hitchens\nNoam Chomsky\n\n\n[Security Guards]: http://archive.cantonpl.org/observer/2000/02_Feb%202000/02-06-2000.pdf\n[statistics can't stick out]: https://www.youtube.com/watch?v=DzSnvxejenY\n[Ben Orlin \"When Memorization Gets in the Way of Learning\" The Atlantic, September 9, 2013]: https://www.theatlantic.com/education/archive/2013/09/when-memorization-gets-in-the-way-of-learning/279425/",
-      "html": "<section>\n  <p>Do not drop out of High School,</p>\n  <p>the Back Row is a special place.</p>\n</section>\n\n<section>\n  <p>It is how the Universe asks for help,</p>\n  <p>you are being asked to watch for trouble.</p>\n</section>\n\n<section>\n  <p>To keep an eye on your bullies,</p>\n  <p>make sure they all come back from home.</p>\n</section>\n\n<section>\n  <p>Their violence is an expression of abuse,</p>\n  <p>there is nothing you can do.</p>\n</section>\n\n<section>\n  <p>You are being asked to stare into the Teachers Soul,</p>\n  <p>especially when the bullies come, and she turns her head.</p>\n</section>\n\n<section>\n  <p>And you are being asked to be the first one to call the police,</p>\n  <p>if someone is in danger, get everything on video, upload.</p>\n</section>\n\n<section>\n  <p>Watch the <a href=\"http://archive.cantonpl.org/observer/2000/02_Feb%202000/02-06-2000.pdf\">Security Guards</a>,</p>\n  <p>make sure that everyone is keeping a distance from all the students.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>So, by now the teachers have you half way,</p>\n  <p>towards believing that you are dumb, a loser, and a waste of time.</p>\n</section>\n\n<section>\n  <p>They have been using you to tidy up their Grade Statistics,</p>\n  <p>their <a href=\"https://www.youtube.com/watch?v=DzSnvxejenY\">statistics can&apos;t stick out</a>, they need a usual distribution of grades.</p>\n</section>\n\n<section>\n  <p>If it was all As, someone would come around asking why,</p>\n  <p>you are the &quot;F&quot; that makes their bullshit look legitimate.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>I know, you know, that your grades your bad, because you were not learning before,</p>\n  <p>and now you don&apos;t have the base, that would help you understand what the teacher is saying right now.</p>\n</section>\n\n<section>\n  <p>But you are wrong.</p>\n</section>\n\n<section>\n  <p>Nobody else learned that stuff either,</p>\n  <p>even some of the kids that had tutors, didn&apos;t learn it, they just memorized it.</p>\n</section>\n\n<section>\n  <p>You&apos;d have to be a freak of nature,</p>\n  <p>to actually comprehend that curriculum, please, please, don&apos;t memorize garbage.</p>\n</section>\n\n<section>\n  <p>Be careful, the teachers, and principals maybe suffering a kind of collective delusion:</p>\n</section>\n\n<section>\n  <p>&quot;...The principal and I rejected his alibi and hung a fat zero on his final exam.</p>\n  <p>That dropped his precalculus grade down from a B+ to a D+.</p>\n  <p>It lingered like a purple bruise on his college applications.&quot;</p>\n  <p><a href=\"https://www.theatlantic.com/education/archive/2013/09/when-memorization-gets-in-the-way-of-learning/279425/\">Ben Orlin &quot;When Memorization Gets in the Way of Learning&quot; The Atlantic, September 9, 2013</a>.</p>\n</section>\n\n\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>You are just as smart as everybody else,</p>\n  <p>you are just as smart as Newton was before he started reading books he liked.</p>\n</section>\n\n<section>\n  <p>There are no gifted individuals,</p>\n  <p>but there are individuals who like being celebrated as gifted, of special, or above all else.</p>\n</section>\n\n<section>\n  <p>They want it so bad,</p>\n  <p>that they go home and memorize that garbage, garbage.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Even though your mind is perfectly fine,</p>\n  <p>you still need Knowledge, you need an integrated picture of the world.</p>\n</section>\n\n<section>\n  <p>A clear picture constructed out of a hundred books,</p>\n  <p>loved an admired by Intellectuals, Scientists, Philosophers, those who show great achievement.</p>\n</section>\n\n<section>\n  <p>By sitting in the back row, and constantly being made to feel stupid,</p>\n  <p>they are stressing you out and preventing you from enjoying life up to a point where you can listen to Audio Books and Lectures.</p>\n</section>\n\n<section>\n  <p>This place is standing between you and knowledge,</p>\n  <p>and calling you stupid while its at it.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>This is why you can&apos;t drop out,</p>\n  <p>because if this continues the world will fall apart.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Your real study,</p>\n  <p>begins right now.</p>\n</section>\n\n<section>\n  <p>You have to figure out,</p>\n  <p>how this place works.</p>\n</section>\n\n<section>\n  <p>Who the teachers answer to,</p>\n  <p>who the principals answer to.</p>\n</section>\n\n<section>\n  <p>How are they getting paid,</p>\n  <p>for this s*it.</p>\n</section>\n\n<section>\n  <p>You have to understand the school system,</p>\n  <p>because you are going to fix it.</p>\n</section>\n\n<section>\n  <p>There is a couple of teachers,</p>\n  <p>and a handful of students that will help you.</p>\n</section>\n\n<section>\n  <p>Learn from the internet how to give speeches,</p>\n  <p>and begin preparing yourself for speaking out against fake education.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Forgive the memorizes, they are often under as much pressure as the bullies are,</p>\n  <p>they are just better at keeping their mind from fracturing.</p>\n</section>\n\n<section>\n  <p>Some of them maybe admiring you,</p>\n  <p>that you are so strong that you don&apos;t pretend to learn.</p>\n</section>\n\n<section>\n  <p>If one of the girls tries to talk to you,</p>\n  <p>don&apos;t freak out just say the truth:</p>\n</section>\n\n<section>\n  <p>&quot;I am shy, I need some time to be able to speak with you,</p>\n  <p>if you help me, I&apos;ll be your friend.&quot;</p>\n</section>\n\n<section>\n  <p>and then add,</p>\n</section>\n\n<section>\n  <p>&quot;I am going to try to fix school, I&apos;ll need a lot of help.&quot;</p>\n</section>\n\n<section>\n  <p>And everything will work out.</p>\n</section>\n\n<section>\n  <p>--</p>\n</section>\n\n<section>\n  <p>My Friend,</p>\n</section>\n\n<section>\n  <p>A school that pretends to teach,</p>\n  <p>is a school that robs you of knowledge.</p>\n</section>\n\n<section>\n  <p>Civilizations do not die with a bang,</p>\n  <p>it happens so slowly that nobody notices when all the trees are gone.</p>\n</section>\n\n<section>\n  <p>How many Tigers are left in your time?</p>\n  <p>I hope you still have a few, I had 4,000 when I wrote this.</p>\n</section>\n\n<section>\n  <p>The Nuclear superpowers,</p>\n  <p>chose Mutually Assured Destruction, over Disarmament.</p>\n</section>\n\n<section>\n  <p>And prisons were full of people who were warped,</p>\n  <p>by stress, poverty, and lack of Knowledge,</p>\n  <p>it was Ten Million at the time of writing.</p>\n</section>\n\n<section>\n  <p>The blindness starts in school,</p>\n  <p>when Knowledge is replaced with disconnected facts and memorization.</p>\n</section>\n\n<section>\n  <p>And it continues,</p>\n  <p>grow strong my friend,</p>\n  <p>speak Wisely, Nobly and Loudly.</p>\n</section>\n\n<section>\n  <p>Imagine what it will be like when it is all over, and schools begin working.</p>\n</section>\n\n<section>\n  <p>Every formula animated before student&apos;s eyes, paid internships all around the word,</p>\n  <p>student exchange will be the first and foremost, adventures in England, Germany, Australia, Switzerland, and Liechtenstein, and why not.</p>\n</section>\n\n<section>\n  <p>Student Stipend will grant the students years of Enlightenment and Adventure,</p>\n  <p>the only grade will be their own path of education from Middle-school to University,</p>\n  <p>all their curiosities combined together into a Hard Cover book,</p>\n  <p>that others may follow and improve upon in a Fellowship of Enlightenment.</p>\n</section>\n\n\n<section>\n  <p>Begin your journey with A Short History of Nearly Everything, by Bill Bryson,</p>\n  <p>leap to A People&apos;s History of the United States by Howard Zinn,</p>\n  <p>for light reading try What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe,</p>\n  <p>see if you can find a copy of The Giants of Philosophy Series read by Charlton Heston,</p>\n  <p>and look into The Teaching Company Lectures.</p>\n</section>\n\n<section>\n  <p>To make money, find a Start-up Accelerator similar to YCombinator near you,</p>\n  <p>and begin building Virtual Schools Online, borrow from Massively multiplayer online games.</p>\n</section>\n\n<section>\n  <p>Please don&apos;t be alone, but even if you do end up trying to save the world alone,</p>\n  <p>you will be in company of great beings, my Friend, and the future generations will stand upon your shoulders.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Here are some Starting Points, Thinkers and Scientists to get you started.</p>\n</section>\n\n<section>\n\n  <ul>\n    <a href=\"https://www.theatlantic.com/education/archive/2013/09/when-memorization-gets-in-the-way-of-learning/279425/\">Ben Orlin &quot;When Memorization Gets in the Way of Learning&quot; The Atlantic, September 9, 2013</a>.\n    <a href=\"https://www.youtube.com/watch?v=DzSnvxejenY\">De-Grading Education by Elizabeth Wissner-Gross</a>\n    <a href=\"https://www.ted.com/talks/kandice_sumner_how_america_s_public_schools_keep_kids_in_poverty\">How America&apos;s public schools keep kids in poverty by Kandice Sumner</a>\n    <a href=\"https://www.youtube.com/watch?v=9M4tdMsg3ts\">Erica Goldson&apos;s Graduation Speech</a>\n  </ul>\n\n  <ul>\n    <li><a href=\"https://www.youtube.com/results?search_query=Sir+Ken+Robinson\">Sir Ken Robinson</a>\n    </li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Astra+Taylor\">Astra Taylor</a>\n    </li>\n  </ul>\n\n  <ul>\n    <li><a href=\"https://www.youtube.com/results?search_query=Bill+Bryson\">Bill Bryson</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Richard+Dawkins\">Richard Dawkins</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Sam+Harris\">Sam Harris</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=PZ+Myers\">PZ Myers</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Lawrence+Krauss\">Lawrence Krauss</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Lord+Martin+Rees\">Lord Martin Rees</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Jill+Tarter\">Jill Tarter</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Seth+Shostak\">Seth Shostak</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Alex+Filippenko\">Alex Filippenko</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Sean+Carroll\">Sean Carroll</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Jared+Diamond\">Jared Diamond</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Howard+Zinn\">Howard Zinn</a></li>\n\n    <li><a href=\"https://www.youtube.com/results?search_query=Brene+Brown\">Bren&#xE9; Brown</a>\n    </li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Ayaan+Hirsi+Ali\">Ayaan Hirsi Ali</a>\n    </li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Dan+Dennett\">Dan Dennett</a>\n    </li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Christopher+Hitchens\">Christopher Hitchens</a>\n    </li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Noam+Chomsky\">Noam Chomsky</a>\n\n    </li>\n  </ul>\n</section>",
-      "page": "<html>\n\n  <head>\n    <title>Back Row</title>\n\n\n\n  </head>\n\n  <body>\n    <section><img src=\"image/poetry-0226-illustration.jpg\"></section>\n    <section>\n      <p><a href=\"audio/poetry-0226.mp3\">Audio Version</a></p>\n    </section>\n\n    <section>\n      <p>Do not drop out of High School,</p>\n      <p>the Back Row is a special place.</p>\n    </section>\n\n    <section>\n      <p>It is how the Universe asks for help,</p>\n      <p>you are being asked to watch for trouble.</p>\n    </section>\n\n    <section>\n      <p>To keep an eye on your bullies,</p>\n      <p>make sure they all come back from home.</p>\n    </section>\n\n    <section>\n      <p>Their violence is an expression of abuse,</p>\n      <p>there is nothing you can do.</p>\n    </section>\n\n    <section>\n      <p>You are being asked to stare into the Teachers Soul,</p>\n      <p>especially when the bullies come, and she turns her head.</p>\n    </section>\n\n    <section>\n      <p>And you are being asked to be the first one to call the police,</p>\n      <p>if someone is in danger, get everything on video, upload.</p>\n    </section>\n\n    <section>\n      <p>Watch the <a href=\"http://archive.cantonpl.org/observer/2000/02_Feb%202000/02-06-2000.pdf\">Security Guards</a>,</p>\n      <p>make sure that everyone is keeping a distance from all the students.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>So, by now the teachers have you half way,</p>\n      <p>towards believing that you are dumb, a loser, and a waste of time.</p>\n    </section>\n\n    <section>\n      <p>They have been using you to tidy up their Grade Statistics,</p>\n      <p>their <a href=\"https://www.youtube.com/watch?v=DzSnvxejenY\">statistics can&apos;t stick out</a>, they need a usual distribution of grades.</p>\n    </section>\n\n    <section>\n      <p>If it was all As, someone would come around asking why,</p>\n      <p>you are the &quot;F&quot; that makes their bullshit look legitimate.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>I know, you know, that your grades your bad, because you were not learning before,</p>\n      <p>and now you don&apos;t have the base, that would help you understand what the teacher is saying right now.</p>\n    </section>\n\n    <section>\n      <p>But you are wrong.</p>\n    </section>\n\n    <section>\n      <p>Nobody else learned that stuff either,</p>\n      <p>even some of the kids that had tutors, didn&apos;t learn it, they just memorized it.</p>\n    </section>\n\n    <section>\n      <p>You&apos;d have to be a freak of nature,</p>\n      <p>to actually comprehend that curriculum, please, please, don&apos;t memorize garbage.</p>\n    </section>\n\n    <section>\n      <p>Be careful, the teachers, and principals maybe suffering a kind of collective delusion:</p>\n    </section>\n\n    <section>\n      <p>&quot;...The principal and I rejected his alibi and hung a fat zero on his final exam.</p>\n      <p>That dropped his precalculus grade down from a B+ to a D+.</p>\n      <p>It lingered like a purple bruise on his college applications.&quot;</p>\n      <p><a href=\"https://www.theatlantic.com/education/archive/2013/09/when-memorization-gets-in-the-way-of-learning/279425/\">Ben Orlin &quot;When Memorization Gets in the Way of Learning&quot; The Atlantic, September 9, 2013</a>.</p>\n    </section>\n\n\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>You are just as smart as everybody else,</p>\n      <p>you are just as smart as Newton was before he started reading books he liked.</p>\n    </section>\n\n    <section>\n      <p>There are no gifted individuals,</p>\n      <p>but there are individuals who like being celebrated as gifted, of special, or above all else.</p>\n    </section>\n\n    <section>\n      <p>They want it so bad,</p>\n      <p>that they go home and memorize that garbage, garbage.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Even though your mind is perfectly fine,</p>\n      <p>you still need Knowledge, you need an integrated picture of the world.</p>\n    </section>\n\n    <section>\n      <p>A clear picture constructed out of a hundred books,</p>\n      <p>loved an admired by Intellectuals, Scientists, Philosophers, those who show great achievement.</p>\n    </section>\n\n    <section>\n      <p>By sitting in the back row, and constantly being made to feel stupid,</p>\n      <p>they are stressing you out and preventing you from enjoying life up to a point where you can listen to Audio Books and Lectures.</p>\n    </section>\n\n    <section>\n      <p>This place is standing between you and knowledge,</p>\n      <p>and calling you stupid while its at it.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>This is why you can&apos;t drop out,</p>\n      <p>because if this continues the world will fall apart.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Your real study,</p>\n      <p>begins right now.</p>\n    </section>\n\n    <section>\n      <p>You have to figure out,</p>\n      <p>how this place works.</p>\n    </section>\n\n    <section>\n      <p>Who the teachers answer to,</p>\n      <p>who the principals answer to.</p>\n    </section>\n\n    <section>\n      <p>How are they getting paid,</p>\n      <p>for this s*it.</p>\n    </section>\n\n    <section>\n      <p>You have to understand the school system,</p>\n      <p>because you are going to fix it.</p>\n    </section>\n\n    <section>\n      <p>There is a couple of teachers,</p>\n      <p>and a handful of students that will help you.</p>\n    </section>\n\n    <section>\n      <p>Learn from the internet how to give speeches,</p>\n      <p>and begin preparing yourself for speaking out against fake education.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Forgive the memorizes, they are often under as much pressure as the bullies are,</p>\n      <p>they are just better at keeping their mind from fracturing.</p>\n    </section>\n\n    <section>\n      <p>Some of them maybe admiring you,</p>\n      <p>that you are so strong that you don&apos;t pretend to learn.</p>\n    </section>\n\n    <section>\n      <p>If one of the girls tries to talk to you,</p>\n      <p>don&apos;t freak out just say the truth:</p>\n    </section>\n\n    <section>\n      <p>&quot;I am shy, I need some time to be able to speak with you,</p>\n      <p>if you help me, I&apos;ll be your friend.&quot;</p>\n    </section>\n\n    <section>\n      <p>and then add,</p>\n    </section>\n\n    <section>\n      <p>&quot;I am going to try to fix school, I&apos;ll need a lot of help.&quot;</p>\n    </section>\n\n    <section>\n      <p>And everything will work out.</p>\n    </section>\n\n    <section>\n      <p>--</p>\n    </section>\n\n    <section>\n      <p>My Friend,</p>\n    </section>\n\n    <section>\n      <p>A school that pretends to teach,</p>\n      <p>is a school that robs you of knowledge.</p>\n    </section>\n\n    <section>\n      <p>Civilizations do not die with a bang,</p>\n      <p>it happens so slowly that nobody notices when all the trees are gone.</p>\n    </section>\n\n    <section>\n      <p>How many Tigers are left in your time?</p>\n      <p>I hope you still have a few, I had 4,000 when I wrote this.</p>\n    </section>\n\n    <section>\n      <p>The Nuclear superpowers,</p>\n      <p>chose Mutually Assured Destruction, over Disarmament.</p>\n    </section>\n\n    <section>\n      <p>And prisons were full of people who were warped,</p>\n      <p>by stress, poverty, and lack of Knowledge,</p>\n      <p>it was Ten Million at the time of writing.</p>\n    </section>\n\n    <section>\n      <p>The blindness starts in school,</p>\n      <p>when Knowledge is replaced with disconnected facts and memorization.</p>\n    </section>\n\n    <section>\n      <p>And it continues,</p>\n      <p>grow strong my friend,</p>\n      <p>speak Wisely, Nobly and Loudly.</p>\n    </section>\n\n    <section>\n      <p>Imagine what it will be like when it is all over, and schools begin working.</p>\n    </section>\n\n    <section>\n      <p>Every formula animated before student&apos;s eyes, paid internships all around the word,</p>\n      <p>student exchange will be the first and foremost, adventures in England, Germany, Australia, Switzerland, and Liechtenstein, and why not.</p>\n    </section>\n\n    <section>\n      <p>Student Stipend will grant the students years of Enlightenment and Adventure,</p>\n      <p>the only grade will be their own path of education from Middle-school to University,</p>\n      <p>all their curiosities combined together into a Hard Cover book,</p>\n      <p>that others may follow and improve upon in a Fellowship of Enlightenment.</p>\n    </section>\n\n\n    <section>\n      <p>Begin your journey with A Short History of Nearly Everything, by Bill Bryson,</p>\n      <p>leap to A People&apos;s History of the United States by Howard Zinn,</p>\n      <p>for light reading try What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe,</p>\n      <p>see if you can find a copy of The Giants of Philosophy Series read by Charlton Heston,</p>\n      <p>and look into The Teaching Company Lectures.</p>\n    </section>\n\n    <section>\n      <p>To make money, find a Start-up Accelerator similar to YCombinator near you,</p>\n      <p>and begin building Virtual Schools Online, borrow from Massively multiplayer online games.</p>\n    </section>\n\n    <section>\n      <p>Please don&apos;t be alone, but even if you do end up trying to save the world alone,</p>\n      <p>you will be in company of great beings, my Friend, and the future generations will stand upon your shoulders.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Here are some Starting Points, Thinkers and Scientists to get you started.</p>\n    </section>\n\n    <section>\n\n      <ul>\n        <a href=\"https://www.theatlantic.com/education/archive/2013/09/when-memorization-gets-in-the-way-of-learning/279425/\">Ben Orlin &quot;When Memorization Gets in the Way of Learning&quot; The Atlantic, September 9, 2013</a>.\n        <a href=\"https://www.youtube.com/watch?v=DzSnvxejenY\">De-Grading Education by Elizabeth Wissner-Gross</a>\n        <a href=\"https://www.ted.com/talks/kandice_sumner_how_america_s_public_schools_keep_kids_in_poverty\">How America&apos;s public schools keep kids in poverty by Kandice Sumner</a>\n        <a href=\"https://www.youtube.com/watch?v=9M4tdMsg3ts\">Erica Goldson&apos;s Graduation Speech</a>\n      </ul>\n\n      <ul>\n        <li><a href=\"https://www.youtube.com/results?search_query=Sir+Ken+Robinson\">Sir Ken Robinson</a>\n        </li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Astra+Taylor\">Astra Taylor</a>\n        </li>\n      </ul>\n\n      <ul>\n        <li><a href=\"https://www.youtube.com/results?search_query=Bill+Bryson\">Bill Bryson</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Richard+Dawkins\">Richard Dawkins</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Sam+Harris\">Sam Harris</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=PZ+Myers\">PZ Myers</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Lawrence+Krauss\">Lawrence Krauss</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Lord+Martin+Rees\">Lord Martin Rees</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Jill+Tarter\">Jill Tarter</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Seth+Shostak\">Seth Shostak</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Alex+Filippenko\">Alex Filippenko</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Sean+Carroll\">Sean Carroll</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Jared+Diamond\">Jared Diamond</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Howard+Zinn\">Howard Zinn</a></li>\n\n        <li><a href=\"https://www.youtube.com/results?search_query=Brene+Brown\">Bren&#xE9; Brown</a>\n        </li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Ayaan+Hirsi+Ali\">Ayaan Hirsi Ali</a>\n        </li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Dan+Dennett\">Dan Dennett</a>\n        </li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Christopher+Hitchens\">Christopher Hitchens</a>\n        </li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Noam+Chomsky\">Noam Chomsky</a>\n\n        </li>\n      </ul>\n    </section>\n\n\n\n\n\n\n\n  </body>\n\n</html>"
+      "text": "Do not drop out of High School,\nthe Back Row is a special place.\n\nIt is how the Universe asks for help,\nyou are being asked to watch for trouble.\n\nTo keep an eye on your bullies,\nmake sure they all come back from home.\n\nTheir violence is an expression of abuse,\nthere is nothing you can do.\n\nYou are being asked to stare into the Teachers Soul,\nespecially when the bullies come, and she turns her head.\n\nAnd you are being asked to be the first one to call the police,\nif someone is in danger, get everything on video, upload.\n\nWatch the Security Guards,\nmake sure that everyone is keeping a distance from all the students.\n\nSo, by now the teachers have you half way,\ntowards believing that you are dumb, a loser, and a waste of time.\n\nThey have been using you to tidy up their Grade Statistics,\ntheir statistics can't stick out, they need a usual distribution of grades.\n\nIf it was all As, someone would come around asking why,\nyou are the \"F\" that makes their bullshit look legitimate.\n\nI know, you know, that your grades your bad, because you were not learning before,\nand now you don't have the base, that would help you understand what the teacher is saying right now.\n\nBut you are wrong.\n\nNobody else learned that stuff either,\neven some of the kids that had tutors, didn't learn it, they just memorized it.\n\nYou'd have to be a freak of nature,\nto actually comprehend that curriculum, please, please, don't memorize garbage.\n\nBe careful, the teachers, and principals maybe suffering a kind of collective delusion:\n\n\"...The principal and I rejected his alibi and hung a fat zero on his final exam.\nThat dropped his precalculus grade down from a B+ to a D+.\nIt lingered like a purple bruise on his college applications.\"\nBen Orlin \"When Memorization Gets in the Way of Learning\" The Atlantic, September 9, 2013.\n\nYou are just as smart as everybody else,\nyou are just as smart as Newton was before he started reading books he liked.\n\nThere are no gifted individuals,\nbut there are individuals who like being celebrated as gifted, of special, or above all else.\n\nThey want it so bad,\nthat they go home and memorize that garbage, garbage.\n\nEven though your mind is perfectly fine,\nyou still need Knowledge, you need an integrated picture of the world.\n\nA clear picture constructed out of a hundred books,\nloved an admired by Intellectuals, Scientists, Philosophers, those who show great achievement.\n\nBy sitting in the back row, and constantly being made to feel stupid,\nthey are stressing you out and preventing you from enjoying life up to a point where you can listen to Audio Books and Lectures.\n\nThis place is standing between you and knowledge,\nand calling you stupid while its at it.\n\nThis is why you can't drop out,\nbecause if this continues the world will fall apart.\n\nYour real study,\nbegins right now.\n\nYou have to figure out,\nhow this place works.\n\nWho the teachers answer to,\nwho the principals answer to.\n\nHow are they getting paid,\nfor this s*it.\n\nYou have to understand the school system,\nbecause you are going to fix it.\n\nThere is a couple of teachers,\nand a handful of students that will help you.\n\nLearn from the internet how to give speeches,\nand begin preparing yourself for speaking out against fake education.\n\nForgive the memorizes, they are often under as much pressure as the bullies are,\nthey are just better at keeping their mind from fracturing.\n\nSome of them maybe admiring you,\nthat you are so strong that you don't pretend to learn.\n\nIf one of the girls tries to talk to you,\ndon't freak out just say the truth:\n\n\"I am shy, I need some time to be able to speak with you,\nif you help me, I'll be your friend.\"\n\nand then add,\n\n\"I am going to try to fix school, I'll need a lot of help.\"\n\nAnd everything will work out.\n\nMy Friend,\n\nA school that pretends to teach,\nis a school that robs you of knowledge.\n\nCivilizations do not die with a bang,\nit happens so slowly that nobody notices when all the trees are gone.\n\nHow many Tigers are left in your time?\nI hope you still have a few, I had 4,000 when I wrote this.\n\nThe Nuclear superpowers,\nchose Mutually Assured Destruction, over Disarmament.\n\nAnd prisons were full of people who were warped,\nby stress, poverty, and lack of Knowledge,\nit was Ten Million at the time of writing.\n\nThe blindness starts in school,\nwhen Knowledge is replaced with disconnected facts and memorization.\n\nAnd it continues,\ngrow strong my friend,\nspeak Wisely, Nobly and Loudly.\n\nImagine what it will be like when it is all over, and schools begin working.\n\nEvery formula animated before student's eyes, paid internships all around the word,\nstudent exchange will be the first and foremost, adventures in England, Germany, Australia, Switzerland, and Liechtenstein, and why not.\n\nStudent Stipend will grant the students years of Enlightenment and Adventure,\nthe only grade will be their own path of education from Middle-school to University,\nall their curiosities combined together into a Hard Cover book,\nthat others may follow and improve upon in a Fellowship of Enlightenment.\n\nBegin your journey with A Short History of Nearly Everything, by Bill Bryson,\nleap to A People's History of the United States by Howard Zinn,\nfor light reading try What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe,\nsee if you can find a copy of The Giants of Philosophy Series read by Charlton Heston,\nand look into The Teaching Company Lectures.\n\nTo make money, find a Start-up Accelerator similar to YCombinator near you,\nand begin building Virtual Schools Online, borrow from Massively multiplayer online games.\n\nPlease don't be alone, but even if you do end up trying to save the world alone,\nyou will be in company of great beings, my Friend, and the future generations will stand upon your shoulders.\n\nHere are some Starting Points, Thinkers and Scientists to get you started.\n\nBen Orlin \"When Memorization Gets in the Way of Learning\" The Atlantic, September 9, 2013.\nDe-Grading Education by Elizabeth Wissner-Gross\nHow America's public schools keep kids in poverty by Kandice Sumner\nErica Goldson's Graduation Speech\n\nSir Ken Robinson\nAstra Taylor\n\nBill Bryson\nRichard Dawkins\nSam Harris\nPZ Myers\nLawrence Krauss\nLord Martin Rees\nJill Tarter\nSeth Shostak\nAlex Filippenko\nSean Carroll\nJared Diamond\nHoward Zinn\n\nBrené Brown\nAyaan Hirsi Ali\nDan Dennett\nChristopher Hitchens\nNoam Chomsky\n\n\n[Security Guards]: http://archive.cantonpl.org/observer/2000/02_Feb%202000/02-06-2000.pdf\n[statistics can't stick out]: https://www.youtube.com/watch?v=DzSnvxejenY\n[Ben Orlin \"When Memorization Gets in the Way of Learning\" The Atlantic, September 9, 2013]: https://www.theatlantic.com/education/archive/2013/09/when-memorization-gets-in-the-way-of-learning/279425/",
+      "html": "<section>\n  <p>Do not drop out of High School,</p>\n  <p>the Back Row is a special place.</p>\n</section>\n\n<section>\n  <p>It is how the Universe asks for help,</p>\n  <p>you are being asked to watch for trouble.</p>\n</section>\n\n<section>\n  <p>To keep an eye on your bullies,</p>\n  <p>make sure they all come back from home.</p>\n</section>\n\n<section>\n  <p>Their violence is an expression of abuse,</p>\n  <p>there is nothing you can do.</p>\n</section>\n\n<section>\n  <p>You are being asked to stare into the Teachers Soul,</p>\n  <p>especially when the bullies come, and she turns her head.</p>\n</section>\n\n<section>\n  <p>And you are being asked to be the first one to call the police,</p>\n  <p>if someone is in danger, get everything on video, upload.</p>\n</section>\n\n<section>\n  <p>Watch the <a href=\"http://archive.cantonpl.org/observer/2000/02_Feb%202000/02-06-2000.pdf\">Security Guards</a>,</p>\n  <p>make sure that everyone is keeping a distance from all the students.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>So, by now the teachers have you half way,</p>\n  <p>towards believing that you are dumb, a loser, and a waste of time.</p>\n</section>\n\n<section>\n  <p>They have been using you to tidy up their Grade Statistics,</p>\n  <p>their <a href=\"https://www.youtube.com/watch?v=DzSnvxejenY\">statistics can&apos;t stick out</a>, they need a usual distribution of grades.</p>\n</section>\n\n<section>\n  <p>If it was all As, someone would come around asking why,</p>\n  <p>you are the &quot;F&quot; that makes their bullshit look legitimate.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>I know, you know, that your grades your bad, because you were not learning before,</p>\n  <p>and now you don&apos;t have the base, that would help you understand what the teacher is saying right now.</p>\n</section>\n\n<section>\n  <p>But you are wrong.</p>\n</section>\n\n<section>\n  <p>Nobody else learned that stuff either,</p>\n  <p>even some of the kids that had tutors, didn&apos;t learn it, they just memorized it.</p>\n</section>\n\n<section>\n  <p>You&apos;d have to be a freak of nature,</p>\n  <p>to actually comprehend that curriculum, please, please, don&apos;t memorize garbage.</p>\n</section>\n\n<section>\n  <p>Be careful, the teachers, and principals maybe suffering a kind of collective delusion:</p>\n</section>\n\n<section>\n  <p>&quot;...The principal and I rejected his alibi and hung a fat zero on his final exam.</p>\n  <p>That dropped his precalculus grade down from a B+ to a D+.</p>\n  <p>It lingered like a purple bruise on his college applications.&quot;</p>\n  <p><a href=\"https://www.theatlantic.com/education/archive/2013/09/when-memorization-gets-in-the-way-of-learning/279425/\">Ben Orlin &quot;When Memorization Gets in the Way of Learning&quot; The Atlantic, September 9, 2013</a>.</p>\n</section>\n\n\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>You are just as smart as everybody else,</p>\n  <p>you are just as smart as Newton was before he started reading books he liked.</p>\n</section>\n\n<section>\n  <p>There are no gifted individuals,</p>\n  <p>but there are individuals who like being celebrated as gifted, of special, or above all else.</p>\n</section>\n\n<section>\n  <p>They want it so bad,</p>\n  <p>that they go home and memorize that garbage, garbage.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Even though your mind is perfectly fine,</p>\n  <p>you still need Knowledge, you need an integrated picture of the world.</p>\n</section>\n\n<section>\n  <p>A clear picture constructed out of a hundred books,</p>\n  <p>loved an admired by Intellectuals, Scientists, Philosophers, those who show great achievement.</p>\n</section>\n\n<section>\n  <p>By sitting in the back row, and constantly being made to feel stupid,</p>\n  <p>they are stressing you out and preventing you from enjoying life up to a point where you can listen to Audio Books and Lectures.</p>\n</section>\n\n<section>\n  <p>This place is standing between you and knowledge,</p>\n  <p>and calling you stupid while its at it.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>This is why you can&apos;t drop out,</p>\n  <p>because if this continues the world will fall apart.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Your real study,</p>\n  <p>begins right now.</p>\n</section>\n\n<section>\n  <p>You have to figure out,</p>\n  <p>how this place works.</p>\n</section>\n\n<section>\n  <p>Who the teachers answer to,</p>\n  <p>who the principals answer to.</p>\n</section>\n\n<section>\n  <p>How are they getting paid,</p>\n  <p>for this s*it.</p>\n</section>\n\n<section>\n  <p>You have to understand the school system,</p>\n  <p>because you are going to fix it.</p>\n</section>\n\n<section>\n  <p>There is a couple of teachers,</p>\n  <p>and a handful of students that will help you.</p>\n</section>\n\n<section>\n  <p>Learn from the internet how to give speeches,</p>\n  <p>and begin preparing yourself for speaking out against fake education.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Forgive the memorizes, they are often under as much pressure as the bullies are,</p>\n  <p>they are just better at keeping their mind from fracturing.</p>\n</section>\n\n<section>\n  <p>Some of them maybe admiring you,</p>\n  <p>that you are so strong that you don&apos;t pretend to learn.</p>\n</section>\n\n<section>\n  <p>If one of the girls tries to talk to you,</p>\n  <p>don&apos;t freak out just say the truth:</p>\n</section>\n\n<section>\n  <p>&quot;I am shy, I need some time to be able to speak with you,</p>\n  <p>if you help me, I&apos;ll be your friend.&quot;</p>\n</section>\n\n<section>\n  <p>and then add,</p>\n</section>\n\n<section>\n  <p>&quot;I am going to try to fix school, I&apos;ll need a lot of help.&quot;</p>\n</section>\n\n<section>\n  <p>And everything will work out.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>My Friend,</p>\n</section>\n\n<section>\n  <p>A school that pretends to teach,</p>\n  <p>is a school that robs you of knowledge.</p>\n</section>\n\n<section>\n  <p>Civilizations do not die with a bang,</p>\n  <p>it happens so slowly that nobody notices when all the trees are gone.</p>\n</section>\n\n<section>\n  <p>How many Tigers are left in your time?</p>\n  <p>I hope you still have a few, I had 4,000 when I wrote this.</p>\n</section>\n\n<section>\n  <p>The Nuclear superpowers,</p>\n  <p>chose Mutually Assured Destruction, over Disarmament.</p>\n</section>\n\n<section>\n  <p>And prisons were full of people who were warped,</p>\n  <p>by stress, poverty, and lack of Knowledge,</p>\n  <p>it was Ten Million at the time of writing.</p>\n</section>\n\n<section>\n  <p>The blindness starts in school,</p>\n  <p>when Knowledge is replaced with disconnected facts and memorization.</p>\n</section>\n\n<section>\n  <p>And it continues,</p>\n  <p>grow strong my friend,</p>\n  <p>speak Wisely, Nobly and Loudly.</p>\n</section>\n\n<section>\n  <p>Imagine what it will be like when it is all over, and schools begin working.</p>\n</section>\n\n<section>\n  <p>Every formula animated before student&apos;s eyes, paid internships all around the word,</p>\n  <p>student exchange will be the first and foremost, adventures in England, Germany, Australia, Switzerland, and Liechtenstein, and why not.</p>\n</section>\n\n<section>\n  <p>Student Stipend will grant the students years of Enlightenment and Adventure,</p>\n  <p>the only grade will be their own path of education from Middle-school to University,</p>\n  <p>all their curiosities combined together into a Hard Cover book,</p>\n  <p>that others may follow and improve upon in a Fellowship of Enlightenment.</p>\n</section>\n\n\n<section>\n  <p>Begin your journey with A Short History of Nearly Everything, by Bill Bryson,</p>\n  <p>leap to A People&apos;s History of the United States by Howard Zinn,</p>\n  <p>for light reading try What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe,</p>\n  <p>see if you can find a copy of The Giants of Philosophy Series read by Charlton Heston,</p>\n  <p>and look into The Teaching Company Lectures.</p>\n</section>\n\n<section>\n  <p>To make money, find a Start-up Accelerator similar to YCombinator near you,</p>\n  <p>and begin building Virtual Schools Online, borrow from Massively multiplayer online games.</p>\n</section>\n\n<section>\n  <p>Please don&apos;t be alone, but even if you do end up trying to save the world alone,</p>\n  <p>you will be in company of great beings, my Friend, and the future generations will stand upon your shoulders.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Here are some Starting Points, Thinkers and Scientists to get you started.</p>\n</section>\n\n<section>\n\n  <ul>\n    <a href=\"https://www.theatlantic.com/education/archive/2013/09/when-memorization-gets-in-the-way-of-learning/279425/\">Ben Orlin &quot;When Memorization Gets in the Way of Learning&quot; The Atlantic, September 9, 2013</a>.\n    <a href=\"https://www.youtube.com/watch?v=DzSnvxejenY\">De-Grading Education by Elizabeth Wissner-Gross</a>\n    <a href=\"https://www.ted.com/talks/kandice_sumner_how_america_s_public_schools_keep_kids_in_poverty\">How America&apos;s public schools keep kids in poverty by Kandice Sumner</a>\n    <a href=\"https://www.youtube.com/watch?v=9M4tdMsg3ts\">Erica Goldson&apos;s Graduation Speech</a>\n  </ul>\n\n  <ul>\n    <li><a href=\"https://www.youtube.com/results?search_query=Sir+Ken+Robinson\">Sir Ken Robinson</a>\n    </li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Astra+Taylor\">Astra Taylor</a>\n    </li>\n  </ul>\n\n  <ul>\n    <li><a href=\"https://www.youtube.com/results?search_query=Bill+Bryson\">Bill Bryson</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Richard+Dawkins\">Richard Dawkins</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Sam+Harris\">Sam Harris</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=PZ+Myers\">PZ Myers</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Lawrence+Krauss\">Lawrence Krauss</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Lord+Martin+Rees\">Lord Martin Rees</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Jill+Tarter\">Jill Tarter</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Seth+Shostak\">Seth Shostak</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Alex+Filippenko\">Alex Filippenko</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Sean+Carroll\">Sean Carroll</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Jared+Diamond\">Jared Diamond</a></li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Howard+Zinn\">Howard Zinn</a></li>\n\n    <li><a href=\"https://www.youtube.com/results?search_query=Brene+Brown\">Bren&#xE9; Brown</a>\n    </li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Ayaan+Hirsi+Ali\">Ayaan Hirsi Ali</a>\n    </li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Dan+Dennett\">Dan Dennett</a>\n    </li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Christopher+Hitchens\">Christopher Hitchens</a>\n    </li>\n    <li><a href=\"https://www.youtube.com/results?search_query=Noam+Chomsky\">Noam Chomsky</a>\n\n    </li>\n  </ul>\n</section>",
+      "page": "<html>\n\n  <head>\n    <title>Back Row</title>\n\n\n\n  </head>\n\n  <body>\n    <section><img src=\"image/poetry-0226-illustration.jpg\"></section>\n    <section>\n      <p><a href=\"audio/poetry-0226.mp3\">Audio Version</a></p>\n    </section>\n\n    <section>\n      <p>Do not drop out of High School,</p>\n      <p>the Back Row is a special place.</p>\n    </section>\n\n    <section>\n      <p>It is how the Universe asks for help,</p>\n      <p>you are being asked to watch for trouble.</p>\n    </section>\n\n    <section>\n      <p>To keep an eye on your bullies,</p>\n      <p>make sure they all come back from home.</p>\n    </section>\n\n    <section>\n      <p>Their violence is an expression of abuse,</p>\n      <p>there is nothing you can do.</p>\n    </section>\n\n    <section>\n      <p>You are being asked to stare into the Teachers Soul,</p>\n      <p>especially when the bullies come, and she turns her head.</p>\n    </section>\n\n    <section>\n      <p>And you are being asked to be the first one to call the police,</p>\n      <p>if someone is in danger, get everything on video, upload.</p>\n    </section>\n\n    <section>\n      <p>Watch the <a href=\"http://archive.cantonpl.org/observer/2000/02_Feb%202000/02-06-2000.pdf\">Security Guards</a>,</p>\n      <p>make sure that everyone is keeping a distance from all the students.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>So, by now the teachers have you half way,</p>\n      <p>towards believing that you are dumb, a loser, and a waste of time.</p>\n    </section>\n\n    <section>\n      <p>They have been using you to tidy up their Grade Statistics,</p>\n      <p>their <a href=\"https://www.youtube.com/watch?v=DzSnvxejenY\">statistics can&apos;t stick out</a>, they need a usual distribution of grades.</p>\n    </section>\n\n    <section>\n      <p>If it was all As, someone would come around asking why,</p>\n      <p>you are the &quot;F&quot; that makes their bullshit look legitimate.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>I know, you know, that your grades your bad, because you were not learning before,</p>\n      <p>and now you don&apos;t have the base, that would help you understand what the teacher is saying right now.</p>\n    </section>\n\n    <section>\n      <p>But you are wrong.</p>\n    </section>\n\n    <section>\n      <p>Nobody else learned that stuff either,</p>\n      <p>even some of the kids that had tutors, didn&apos;t learn it, they just memorized it.</p>\n    </section>\n\n    <section>\n      <p>You&apos;d have to be a freak of nature,</p>\n      <p>to actually comprehend that curriculum, please, please, don&apos;t memorize garbage.</p>\n    </section>\n\n    <section>\n      <p>Be careful, the teachers, and principals maybe suffering a kind of collective delusion:</p>\n    </section>\n\n    <section>\n      <p>&quot;...The principal and I rejected his alibi and hung a fat zero on his final exam.</p>\n      <p>That dropped his precalculus grade down from a B+ to a D+.</p>\n      <p>It lingered like a purple bruise on his college applications.&quot;</p>\n      <p><a href=\"https://www.theatlantic.com/education/archive/2013/09/when-memorization-gets-in-the-way-of-learning/279425/\">Ben Orlin &quot;When Memorization Gets in the Way of Learning&quot; The Atlantic, September 9, 2013</a>.</p>\n    </section>\n\n\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>You are just as smart as everybody else,</p>\n      <p>you are just as smart as Newton was before he started reading books he liked.</p>\n    </section>\n\n    <section>\n      <p>There are no gifted individuals,</p>\n      <p>but there are individuals who like being celebrated as gifted, of special, or above all else.</p>\n    </section>\n\n    <section>\n      <p>They want it so bad,</p>\n      <p>that they go home and memorize that garbage, garbage.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Even though your mind is perfectly fine,</p>\n      <p>you still need Knowledge, you need an integrated picture of the world.</p>\n    </section>\n\n    <section>\n      <p>A clear picture constructed out of a hundred books,</p>\n      <p>loved an admired by Intellectuals, Scientists, Philosophers, those who show great achievement.</p>\n    </section>\n\n    <section>\n      <p>By sitting in the back row, and constantly being made to feel stupid,</p>\n      <p>they are stressing you out and preventing you from enjoying life up to a point where you can listen to Audio Books and Lectures.</p>\n    </section>\n\n    <section>\n      <p>This place is standing between you and knowledge,</p>\n      <p>and calling you stupid while its at it.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>This is why you can&apos;t drop out,</p>\n      <p>because if this continues the world will fall apart.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Your real study,</p>\n      <p>begins right now.</p>\n    </section>\n\n    <section>\n      <p>You have to figure out,</p>\n      <p>how this place works.</p>\n    </section>\n\n    <section>\n      <p>Who the teachers answer to,</p>\n      <p>who the principals answer to.</p>\n    </section>\n\n    <section>\n      <p>How are they getting paid,</p>\n      <p>for this s*it.</p>\n    </section>\n\n    <section>\n      <p>You have to understand the school system,</p>\n      <p>because you are going to fix it.</p>\n    </section>\n\n    <section>\n      <p>There is a couple of teachers,</p>\n      <p>and a handful of students that will help you.</p>\n    </section>\n\n    <section>\n      <p>Learn from the internet how to give speeches,</p>\n      <p>and begin preparing yourself for speaking out against fake education.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Forgive the memorizes, they are often under as much pressure as the bullies are,</p>\n      <p>they are just better at keeping their mind from fracturing.</p>\n    </section>\n\n    <section>\n      <p>Some of them maybe admiring you,</p>\n      <p>that you are so strong that you don&apos;t pretend to learn.</p>\n    </section>\n\n    <section>\n      <p>If one of the girls tries to talk to you,</p>\n      <p>don&apos;t freak out just say the truth:</p>\n    </section>\n\n    <section>\n      <p>&quot;I am shy, I need some time to be able to speak with you,</p>\n      <p>if you help me, I&apos;ll be your friend.&quot;</p>\n    </section>\n\n    <section>\n      <p>and then add,</p>\n    </section>\n\n    <section>\n      <p>&quot;I am going to try to fix school, I&apos;ll need a lot of help.&quot;</p>\n    </section>\n\n    <section>\n      <p>And everything will work out.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>My Friend,</p>\n    </section>\n\n    <section>\n      <p>A school that pretends to teach,</p>\n      <p>is a school that robs you of knowledge.</p>\n    </section>\n\n    <section>\n      <p>Civilizations do not die with a bang,</p>\n      <p>it happens so slowly that nobody notices when all the trees are gone.</p>\n    </section>\n\n    <section>\n      <p>How many Tigers are left in your time?</p>\n      <p>I hope you still have a few, I had 4,000 when I wrote this.</p>\n    </section>\n\n    <section>\n      <p>The Nuclear superpowers,</p>\n      <p>chose Mutually Assured Destruction, over Disarmament.</p>\n    </section>\n\n    <section>\n      <p>And prisons were full of people who were warped,</p>\n      <p>by stress, poverty, and lack of Knowledge,</p>\n      <p>it was Ten Million at the time of writing.</p>\n    </section>\n\n    <section>\n      <p>The blindness starts in school,</p>\n      <p>when Knowledge is replaced with disconnected facts and memorization.</p>\n    </section>\n\n    <section>\n      <p>And it continues,</p>\n      <p>grow strong my friend,</p>\n      <p>speak Wisely, Nobly and Loudly.</p>\n    </section>\n\n    <section>\n      <p>Imagine what it will be like when it is all over, and schools begin working.</p>\n    </section>\n\n    <section>\n      <p>Every formula animated before student&apos;s eyes, paid internships all around the word,</p>\n      <p>student exchange will be the first and foremost, adventures in England, Germany, Australia, Switzerland, and Liechtenstein, and why not.</p>\n    </section>\n\n    <section>\n      <p>Student Stipend will grant the students years of Enlightenment and Adventure,</p>\n      <p>the only grade will be their own path of education from Middle-school to University,</p>\n      <p>all their curiosities combined together into a Hard Cover book,</p>\n      <p>that others may follow and improve upon in a Fellowship of Enlightenment.</p>\n    </section>\n\n\n    <section>\n      <p>Begin your journey with A Short History of Nearly Everything, by Bill Bryson,</p>\n      <p>leap to A People&apos;s History of the United States by Howard Zinn,</p>\n      <p>for light reading try What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe,</p>\n      <p>see if you can find a copy of The Giants of Philosophy Series read by Charlton Heston,</p>\n      <p>and look into The Teaching Company Lectures.</p>\n    </section>\n\n    <section>\n      <p>To make money, find a Start-up Accelerator similar to YCombinator near you,</p>\n      <p>and begin building Virtual Schools Online, borrow from Massively multiplayer online games.</p>\n    </section>\n\n    <section>\n      <p>Please don&apos;t be alone, but even if you do end up trying to save the world alone,</p>\n      <p>you will be in company of great beings, my Friend, and the future generations will stand upon your shoulders.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Here are some Starting Points, Thinkers and Scientists to get you started.</p>\n    </section>\n\n    <section>\n\n      <ul>\n        <a href=\"https://www.theatlantic.com/education/archive/2013/09/when-memorization-gets-in-the-way-of-learning/279425/\">Ben Orlin &quot;When Memorization Gets in the Way of Learning&quot; The Atlantic, September 9, 2013</a>.\n        <a href=\"https://www.youtube.com/watch?v=DzSnvxejenY\">De-Grading Education by Elizabeth Wissner-Gross</a>\n        <a href=\"https://www.ted.com/talks/kandice_sumner_how_america_s_public_schools_keep_kids_in_poverty\">How America&apos;s public schools keep kids in poverty by Kandice Sumner</a>\n        <a href=\"https://www.youtube.com/watch?v=9M4tdMsg3ts\">Erica Goldson&apos;s Graduation Speech</a>\n      </ul>\n\n      <ul>\n        <li><a href=\"https://www.youtube.com/results?search_query=Sir+Ken+Robinson\">Sir Ken Robinson</a>\n        </li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Astra+Taylor\">Astra Taylor</a>\n        </li>\n      </ul>\n\n      <ul>\n        <li><a href=\"https://www.youtube.com/results?search_query=Bill+Bryson\">Bill Bryson</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Richard+Dawkins\">Richard Dawkins</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Sam+Harris\">Sam Harris</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=PZ+Myers\">PZ Myers</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Lawrence+Krauss\">Lawrence Krauss</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Lord+Martin+Rees\">Lord Martin Rees</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Jill+Tarter\">Jill Tarter</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Seth+Shostak\">Seth Shostak</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Alex+Filippenko\">Alex Filippenko</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Sean+Carroll\">Sean Carroll</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Jared+Diamond\">Jared Diamond</a></li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Howard+Zinn\">Howard Zinn</a></li>\n\n        <li><a href=\"https://www.youtube.com/results?search_query=Brene+Brown\">Bren&#xE9; Brown</a>\n        </li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Ayaan+Hirsi+Ali\">Ayaan Hirsi Ali</a>\n        </li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Dan+Dennett\">Dan Dennett</a>\n        </li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Christopher+Hitchens\">Christopher Hitchens</a>\n        </li>\n        <li><a href=\"https://www.youtube.com/results?search_query=Noam+Chomsky\">Noam Chomsky</a>\n\n        </li>\n      </ul>\n    </section>\n\n\n\n\n\n\n\n  </body>\n\n</html>"
     },
     "counter": 211,
-    "isNewest": true,
+    "isNewest": false,
     "isOldest": false,
     "olderId": "poetry-0225",
+    "newerId": "poetry-0227",
+    "newestId": "poetry-0227",
+    "oldestId": "poetry-0016"
+  },
+  {
+    "title": "Ariadne",
+    "date": "2020-10-14T02:10:03.619Z",
+    "image": "poetry-0227-illustration.jpg",
+    "audio": "poetry-0227.mp3",
+    "timestamp": "Tuesday, October 13th 2020, 10:10:03 pm",
+    "id": "poetry-0227",
+    "data": {
+      "text": "Each human being contains precisely one labyrinth mostly consisting with a single long winding road with plenty of forks.\nthis is their own perfect, private, personal, sacred curriculum.\n\nIf they are granted the opportunity to follow it,\nat their own pace, in their own way, they will eventually become Wise.\n\nThis wondrous road, must double as a library,\nand it can only contain Humanity's Noblest Works of Knowledge and Wisdom.\n\nThe men who created, and rebuilt, and mixed up, and reformed the standardized education curricula,\nare politicians, bureaucrats, and fake it until you make artists with something but temporary to prove.\n\nMost had agendas, made trades, deals, promises,\nsome worked to compress one part, while others added more garbage to the next.\n\nUnlike a road, there is no path that leads up the Tree of Knowledge here,\nthe standardized curriculum is a patchwork of political fantasies.\n\nIt shows a complete misunderstanding of the Human Condition,\nand great emphasis on easy administration of tests that only an uneducated voter would see any value in.\n\nOur path of exploration,\nis sacred.\n\nYou are unique,\nyou cannot be replaced.\n\nThere are no actors,\nthat could pretend to be you.\n\nAnd you are a key,\na key to a higher understanding of the Universe and Human Condition.\n\nNo one can interrupt your quest for wisdom,\nand you should never suspend it or give up.\n\nThat beautiful road of questions and answers,\nforks, and diverging paths that lead you up.\n\nUp to the very top of the Tree of Knowledge,\nto grow up, and move Mountains, and become a Great Being.\n\nThat beautiful road and mountains beyond hold the answers,\nthat the world needs in other to Grow, and Heal, and Mature.\n\nYour life may seem ordinary,\nbut it is not.\n\nThe universe is always gasping for more brilliance,\nand when the roads are denied or not taken, it grows darker for it.\n\nEven your sadness,\nmakes the universe darker.\n\nThe world needs you to grow,\nit needs our brilliance to become an Enlightened, Wise and Peaceful Place.\n\nIt just so happens that we have tiny flaw,\nwe accept authority, and believe the culture we are born into.\n\nIn a world where schools follow a curriculum that is a patchwork,\nof political promises, and lowest common denominator garbage meant to easily test progress.\n\nWe fall in to the rabbit hole,\nwe become indoctrinated into the belief that education is not our own path,\n\nBut a hodge-podge of trinkets,\nthat we must toil and moil to unpack to try to make some sense of.\n\nIt is possible to follow your own path,\nand then come back to school and come out with a perfect grade.\n\nBut doing this also adds legitimacy to a very sick system,\nthat removes people natural predisposition for beauty to replace it with a mere impression of knowledge.\n\nMany will wholly reject the fact that schools are broken,\nbecause it is all they knew.\n\nHeartbreakingly, they will hold up a beautiful book by a beloved Science Popularizer,\nand laugh at how it left out at all the things that they have memorized in class.\n\nBut Knowledge is not about recalling all the facts,\nbe it by memorization or mnemonic.\n\nKnowledge, is about synthesizing new observations, new ideas, new challenges,\nfrom magnificent conjecture to newly discovered brilliant theories, formulas, facts, and inventions.\n\nAnd, not at some abstract point, post graduation which after all a mere piece of paper,\nbut the genesis of new ideas from the moment you finish reading your fifth book on a subject you like.\n\nThe way you progress through your labyrinth of discovery, and that path through the tree of knowledge, is baby step at a time,\nsometimes you'll discover something that will take you left, sometimes right, but you will always move upwards, always growing up.\n\nYour path must be a sequence of steps that make sense to you,\npleasant answers to your curiosities.\n\nYour path is deeply personal,\nit helps your mind to grow Strong and Healthy.\n\nStandardized education, is so mixed up that it is best memorized,\nbut memorization can only be temporary, it is not helpful in ideas synthesis, it is only helpful for actors and pretenders.\n\nSchools are a recent invention, and it was a lot worse before, but now we need more,\na clearer, more personalized, more honest, more loving schools, that help to guide people towards Wisdom and Knowledge.\n\nBut to achieve that dream, we must take responsibility for our own education first,\nonly then will we know how to build the next generation of schools.",
+      "html": "<section>\n  <p>Each human being contains precisely one labyrinth mostly consisting with a single long winding road with plenty of forks.</p>\n  <p>this is their own perfect, private, personal, sacred curriculum.</p>\n</section>\n\n<section>\n  <p>If they are granted the opportunity to follow it,</p>\n  <p>at their own pace, in their own way, they will eventually become Wise.</p>\n</section>\n\n<section>\n  <p>This wondrous road, must double as a library,</p>\n  <p>and it can only contain Humanity&apos;s Noblest Works of Knowledge and Wisdom.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>The men who created, and rebuilt, and mixed up, and reformed the standardized education curricula,</p>\n  <p>are politicians, bureaucrats, and fake it until you make artists with something but temporary to prove.</p>\n</section>\n\n<section>\n  <p>Most had agendas, made trades, deals, promises,</p>\n  <p>some worked to compress one part, while others added more garbage to the next.</p>\n</section>\n\n<section>\n  <p>Unlike a road, there is no path that leads up the Tree of Knowledge here,</p>\n  <p>the standardized curriculum is a patchwork of political fantasies.</p>\n</section>\n\n<section>\n  <p>It shows a complete misunderstanding of the Human Condition,</p>\n  <p>and great emphasis on easy administration of tests that only an uneducated voter would see any value in.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Our path of exploration,</p>\n  <p>is sacred.</p>\n</section>\n\n<section>\n  <p>You are unique,</p>\n  <p>you cannot be replaced.</p>\n</section>\n\n<section>\n  <p>There are no actors,</p>\n  <p>that could pretend to be you.</p>\n</section>\n\n<section>\n  <p>And you are a key,</p>\n  <p>a key to a higher understanding of the Universe and Human Condition.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>No one can interrupt your quest for wisdom,</p>\n  <p>and you should never suspend it or give up.</p>\n</section>\n\n<section>\n  <p>That beautiful road of questions and answers,</p>\n  <p>forks, and diverging paths that lead you up.</p>\n</section>\n\n<section>\n  <p>Up to the very top of the Tree of Knowledge,</p>\n  <p>to grow up, and move Mountains, and become a Great Being.</p>\n</section>\n\n<section>\n  <p>That beautiful road and mountains beyond hold the answers,</p>\n  <p>that the world needs in other to Grow, and Heal, and Mature.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Your life may seem ordinary,</p>\n  <p>but it is not.</p>\n</section>\n\n<section>\n  <p>The universe is always gasping for more brilliance,</p>\n  <p>and when the roads are denied or not taken, it grows darker for it.</p>\n</section>\n\n<section>\n  <p>Even your sadness,</p>\n  <p>makes the universe darker.</p>\n</section>\n\n<section>\n  <p>The world needs you to grow,</p>\n  <p>it needs our brilliance to become an Enlightened, Wise and Peaceful Place.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>It just so happens that we have tiny flaw,</p>\n  <p>we accept authority, and believe the culture we are born into.</p>\n</section>\n\n<section>\n  <p>In a world where schools follow a curriculum that is a patchwork,</p>\n  <p>of political promises, and lowest common denominator garbage meant to easily test progress.</p>\n</section>\n\n<section>\n  <p>We fall in to the rabbit hole,</p>\n  <p>we become indoctrinated into the belief that education is not our own path,</p>\n</section>\n\n<section>\n  <p>But a hodge-podge of trinkets,</p>\n  <p>that we must toil and moil to unpack to try to make some sense of.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>It is possible to follow your own path,</p>\n  <p>and then come back to school and come out with a perfect grade.</p>\n</section>\n\n<section>\n  <p>But doing this also adds legitimacy to a very sick system,</p>\n  <p>that removes people natural predisposition for beauty to replace it with a mere impression of knowledge.</p>\n</section>\n\n<section>\n  <p>Many will wholly reject the fact that schools are broken,</p>\n  <p>because it is all they knew.</p>\n</section>\n\n<section>\n  <p>Heartbreakingly, they will hold up a beautiful book by a beloved Science Popularizer,</p>\n  <p>and laugh at how it left out at all the things that they have memorized in class.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>But Knowledge is not about recalling all the facts,</p>\n  <p>be it by memorization or mnemonic.</p>\n</section>\n\n<section>\n  <p>Knowledge, is about synthesizing new observations, new ideas, new challenges,</p>\n  <p>from magnificent conjecture to newly discovered brilliant theories, formulas, facts, and inventions.</p>\n</section>\n\n<section>\n  <p>And, not at some abstract point, post graduation which after all a mere piece of paper,</p>\n  <p>but the genesis of new ideas from the moment you finish reading your fifth book on a subject you like.</p>\n</section>\n\n<section>\n  <p>The way you progress through your labyrinth of discovery, and that path through the tree of knowledge, is baby step at a time,</p>\n  <p>sometimes you&apos;ll discover something that will take you left, sometimes right, but you will always move upwards, always growing up.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>Your path must be a sequence of steps that make sense to you,</p>\n  <p>pleasant answers to your curiosities.</p>\n</section>\n\n<section>\n  <p>Your path is deeply personal,</p>\n  <p>it helps your mind to grow Strong and Healthy.</p>\n</section>\n\n<section>\n  <p>Standardized education, is so mixed up that it is best memorized,</p>\n  <p>but memorization can only be temporary, it is not helpful in ideas synthesis, it is only helpful for actors and pretenders.</p>\n</section>\n\n<section>\n  <p>Schools are a recent invention, and it was a lot worse before, but now we need more,</p>\n  <p>a clearer, more personalized, more honest, more loving schools, that help to guide people towards Wisdom and Knowledge.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>But to achieve that dream, we must take responsibility for our own education first,</p>\n  <p>only then will we know how to build the next generation of schools.</p>\n</section>",
+      "page": "<html>\n\n  <head>\n    <title>Ariadne</title>\n\n\n\n  </head>\n\n  <body>\n    <section><img src=\"image/poetry-0227-illustration.jpg\"></section>\n    <section>\n      <p><a href=\"audio/poetry-0227.mp3\">Audio Version</a></p>\n    </section>\n\n    <section>\n      <p>Each human being contains precisely one labyrinth mostly consisting with a single long winding road with plenty of forks.</p>\n      <p>this is their own perfect, private, personal, sacred curriculum.</p>\n    </section>\n\n    <section>\n      <p>If they are granted the opportunity to follow it,</p>\n      <p>at their own pace, in their own way, they will eventually become Wise.</p>\n    </section>\n\n    <section>\n      <p>This wondrous road, must double as a library,</p>\n      <p>and it can only contain Humanity&apos;s Noblest Works of Knowledge and Wisdom.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>The men who created, and rebuilt, and mixed up, and reformed the standardized education curricula,</p>\n      <p>are politicians, bureaucrats, and fake it until you make artists with something but temporary to prove.</p>\n    </section>\n\n    <section>\n      <p>Most had agendas, made trades, deals, promises,</p>\n      <p>some worked to compress one part, while others added more garbage to the next.</p>\n    </section>\n\n    <section>\n      <p>Unlike a road, there is no path that leads up the Tree of Knowledge here,</p>\n      <p>the standardized curriculum is a patchwork of political fantasies.</p>\n    </section>\n\n    <section>\n      <p>It shows a complete misunderstanding of the Human Condition,</p>\n      <p>and great emphasis on easy administration of tests that only an uneducated voter would see any value in.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Our path of exploration,</p>\n      <p>is sacred.</p>\n    </section>\n\n    <section>\n      <p>You are unique,</p>\n      <p>you cannot be replaced.</p>\n    </section>\n\n    <section>\n      <p>There are no actors,</p>\n      <p>that could pretend to be you.</p>\n    </section>\n\n    <section>\n      <p>And you are a key,</p>\n      <p>a key to a higher understanding of the Universe and Human Condition.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>No one can interrupt your quest for wisdom,</p>\n      <p>and you should never suspend it or give up.</p>\n    </section>\n\n    <section>\n      <p>That beautiful road of questions and answers,</p>\n      <p>forks, and diverging paths that lead you up.</p>\n    </section>\n\n    <section>\n      <p>Up to the very top of the Tree of Knowledge,</p>\n      <p>to grow up, and move Mountains, and become a Great Being.</p>\n    </section>\n\n    <section>\n      <p>That beautiful road and mountains beyond hold the answers,</p>\n      <p>that the world needs in other to Grow, and Heal, and Mature.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Your life may seem ordinary,</p>\n      <p>but it is not.</p>\n    </section>\n\n    <section>\n      <p>The universe is always gasping for more brilliance,</p>\n      <p>and when the roads are denied or not taken, it grows darker for it.</p>\n    </section>\n\n    <section>\n      <p>Even your sadness,</p>\n      <p>makes the universe darker.</p>\n    </section>\n\n    <section>\n      <p>The world needs you to grow,</p>\n      <p>it needs our brilliance to become an Enlightened, Wise and Peaceful Place.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>It just so happens that we have tiny flaw,</p>\n      <p>we accept authority, and believe the culture we are born into.</p>\n    </section>\n\n    <section>\n      <p>In a world where schools follow a curriculum that is a patchwork,</p>\n      <p>of political promises, and lowest common denominator garbage meant to easily test progress.</p>\n    </section>\n\n    <section>\n      <p>We fall in to the rabbit hole,</p>\n      <p>we become indoctrinated into the belief that education is not our own path,</p>\n    </section>\n\n    <section>\n      <p>But a hodge-podge of trinkets,</p>\n      <p>that we must toil and moil to unpack to try to make some sense of.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>It is possible to follow your own path,</p>\n      <p>and then come back to school and come out with a perfect grade.</p>\n    </section>\n\n    <section>\n      <p>But doing this also adds legitimacy to a very sick system,</p>\n      <p>that removes people natural predisposition for beauty to replace it with a mere impression of knowledge.</p>\n    </section>\n\n    <section>\n      <p>Many will wholly reject the fact that schools are broken,</p>\n      <p>because it is all they knew.</p>\n    </section>\n\n    <section>\n      <p>Heartbreakingly, they will hold up a beautiful book by a beloved Science Popularizer,</p>\n      <p>and laugh at how it left out at all the things that they have memorized in class.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>But Knowledge is not about recalling all the facts,</p>\n      <p>be it by memorization or mnemonic.</p>\n    </section>\n\n    <section>\n      <p>Knowledge, is about synthesizing new observations, new ideas, new challenges,</p>\n      <p>from magnificent conjecture to newly discovered brilliant theories, formulas, facts, and inventions.</p>\n    </section>\n\n    <section>\n      <p>And, not at some abstract point, post graduation which after all a mere piece of paper,</p>\n      <p>but the genesis of new ideas from the moment you finish reading your fifth book on a subject you like.</p>\n    </section>\n\n    <section>\n      <p>The way you progress through your labyrinth of discovery, and that path through the tree of knowledge, is baby step at a time,</p>\n      <p>sometimes you&apos;ll discover something that will take you left, sometimes right, but you will always move upwards, always growing up.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>Your path must be a sequence of steps that make sense to you,</p>\n      <p>pleasant answers to your curiosities.</p>\n    </section>\n\n    <section>\n      <p>Your path is deeply personal,</p>\n      <p>it helps your mind to grow Strong and Healthy.</p>\n    </section>\n\n    <section>\n      <p>Standardized education, is so mixed up that it is best memorized,</p>\n      <p>but memorization can only be temporary, it is not helpful in ideas synthesis, it is only helpful for actors and pretenders.</p>\n    </section>\n\n    <section>\n      <p>Schools are a recent invention, and it was a lot worse before, but now we need more,</p>\n      <p>a clearer, more personalized, more honest, more loving schools, that help to guide people towards Wisdom and Knowledge.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>But to achieve that dream, we must take responsibility for our own education first,</p>\n      <p>only then will we know how to build the next generation of schools.</p>\n    </section>\n\n\n\n\n\n  </body>\n\n</html>"
+    },
+    "counter": 212,
+    "isNewest": true,
+    "isOldest": false,
+    "olderId": "poetry-0226",
     "newerId": "poetry-0016",
-    "newestId": "poetry-0226",
+    "newestId": "poetry-0227",
     "oldestId": "poetry-0016"
   }
 ]
