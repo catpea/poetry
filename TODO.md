@@ -6,270 +6,183 @@ remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitH
 
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
+(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
 
-    Of course, it is not just aging,
-    but is it also more than just learning.
+Playing With Computers
 
-    Some say "Lean into the discomfort.",
-    others "Don't try go all the way.".
+Invent everything,
 
-    It is all about building ourselves,
-    layer by layer.
+we are all extremely smart.
 
-    The layers,
-    need not always be on the same subject.
+We can learn anything,
 
-    You may start an artist, or a dreamer, or a mechanic,
-    and then move to urban explorer, photographer, and islander.
+so as long as we don't skip any steps along the way.
 
-    The steps we take are slightly different,
-    from what we take away.
+And so as long,
 
-    An artist learns the harmony of colors,
-    the strange simplicity of desaturating colors by mixing opposites.
+as all steps are interesting and fun to us.
 
-    The dreamer learns that a dream is not just a dream,
-    because if you snag on it and carry it out, it will become true.
+Never force yourself to learn something you don't enjoy,
 
-    The mechanic learns about a screw,
-    if you tighten it too much you will ruin it.
+just keep reading books, and keep looking for something to strike your fancy.
 
-    The urban explorer learns that the attorney,
-    that left his stuff behind was always suffering and died alone.
+From Dreaming, and Inventing,
 
-    The photographer learns that it is the journey,
-    and the photo is a mere bookmark in memories.
+to Art, Programming and taking to the skies.
 
-    And the islander,
-    ohh, the islander.
+An invention can be as simple,
 
-    Finally, when the golden age of wisdom and endless aches and grunts comes,
-    the islander learns that life is to be lived fully.
+as an LED Throwie or LED Glowie.
 
-    And what that means, is that we take what we learned from the day before,
-    mix it with today, and get it ready to mix it with tomorrow.
+Just a Light Emitting Diode, a battery and magnet,
 
-    Like a waterfall that runs into to the ocean,
-    the new things we learn add to the body of the old.
+to keep it all together; and as a bonus make it stick to metal surfaces.
 
-    With old age being a privilege denied to so many,
-    the treasure we carry truly becomes magnificent as we move forth.
+That is a three component invention,
 
-    ---
+LED, magnet, battery.
 
-    We can't learn all at once,
-    and we can't fully learn through synthetic means.
+My favorite Radio Astronomer,
 
-    At schools the curriculum is so warped,
-    it can only be dishonestly memorized.
+Seth Shostak.
 
-    Audio Books and Lectures, go a long way,
-    so as long as you make room for the lessons within.
+Quips, that the baseline for determining if a member of a species is intelligent,
 
-    Education requires room, here there can be no stress from grades,
-    no craziness for a high GPA, brand name education, and a promise of a job.
+is whether or not it can hold a soldering iron, and make a radio.
 
-    We need life, we need the full thickness of life,
-    and then an urge to study will emerge.
+Allow me to get you soldering a radio,
 
-    That thick life,
-    will move us.
+as quickly as possible.
 
-    It will uncover an absence of knowledge,
-    and it will feel great to fill it right up with precisely 14 books on the subject.
+Get a Raspberry PI Zero W (the W stands for Wireless or "with WI-FI"),
 
-    A synthetic education born from being forced to learn,
-    is a very poor education.
+a soldering kit, a solder wick, some GPIO headers,
 
-    Memorization,
-    is not an education at all, it is actually dangerous and stupid.
+and a 4 x 8 RGB LED HAT that fits a Raspberry PI Zero neatly.
 
-    And networking with grads from a brand name university to get stuff done,
-    has nothing to do with getting educated, it is a service trading club.
+Look everything up on YouTube,
 
-    ---
+how to solder, how to solder headers, how to use a solder wick.
 
-    Learning from books,
-    whilst walking a huge trail filled with Bobcats and Mountain Lions,
-    is far superior of a teacher than anything claiming to educate today.
+This is serious business,
 
-    And one of the best things about books,
-    is that they make mistakes sometimes.
+in last few years embedded Linux became extremely inexpensive.
 
-    Their authors get so inspired,
-    that their ideas sometimes take off and fly in the sky.
+Though get a $30 kit
 
-    And when you catch a famous Author on such a flight of fancy,
-    you learn even more, you learn about Excellence.
+that includes a case, power adapter, heat sinks, and a header.
 
-    (And how useless, and desperate, and child like book critics are.)
+At first you connect it to a keyboard and a monitor,
 
-    ---
+and set it up on the network.
 
-    Medical Schools are not an exception here,
-    textbooks are important, practice even more,
-    but so is healing a person on the inside, within their mind.
+But later as you figure everything out,
 
-    We can all imagine an excellent doctor, extremely professional,
-    perfect grades, well read, awesome person all around, no complaints.
+you unplug everything leaving just the power.
 
-    And we can imagine what it is like to suffer without hope,
-    and seeing this kind individual, just move on to the next patient.
+To get inside it,
 
-    See, being a perfect Doctor, is not enough,
-    the surgery is not over when the procedure is done.
+you use a remote terminal.
 
-    And people can tell when someone merely follows etiquette,
-    and merely pops in for a moment to say something nice, and be done with it.
+Once you login,
 
-    ---
+you get a command prompt.
 
-    Be it a Doctor, Scientist, Musician, Artist,
-    Dreamer, Adventurer, Rebel, even Beloved Professor...
+It listens to words, to commands,
 
-    ...more is needed.
+very similar to adventure games.
 
-    Greatness of heart,
-    is a really good start.
+Indeed, directories on your hard-drive,
 
-    But, I think the golden standard of Life and Art,
-    is; Vastness of Heart.
+are very much like rooms in a game.
 
-    ---
+To get inside Documents,
 
-    There is no describing it, but these Beautiful Beings,
-    smile, and laugh, no matter the weather,
+type in "cd Documents"
 
-    And when they speak, they seem to be part of Cosmos,
-    not just Earth.
+The command "cd" is short for,
 
-    ---
+Change Directory, a Directory is the same as a folder on windows.
 
-    A Mechanic who borrows from his work,
-    for purposes of Wisdom.
+When you say "cd Documents",
 
-    Will hold up a screw,
-    and say.
+you are giving the cd command an argument, or an option, or a setting, or a preference.
 
-    "In order for this important piece of the system to do its job,
-    you have to know when too much of tightening the screw will damage it."
+The cd command is a perfect example of how command line interfaces should work,
 
-    This is a good example of what we see in schools,
-    Elementary is a Dream, Middle School kind of works,
-    but creating High School by just making subjects more demanding, is insane.
+just a couple of words and nothing more.
 
-    The screw is tightened,
-    damaged, and now, it cannot be repaired.
+But sometimes, that is not enough,
 
-    At the very least, we must help the children to create a start-up,
-    to work together on building 3D printed inventions, learning Linux, and coming up with new stuff.
+like for example when you want to ask "cd" for help.
 
-    And help them setup a way of charging customers,
-    a way of advertising products, and wipe their fears of poverty.
+We can't say "cd help" becasue then the cd command would search for a directory named help,
 
-    The kids, are always smarter than us,
-    they build on top of what we have built.
+we have to make the second word special, to do that you use hyphens.
 
-    We are not giving them the tools for their future,
-    we teach pure Trigonometry and this cannot be dumber.
+You can type in "cd --help",
 
-    Because to teach Trigonometry,
-    all the teacher has to do is create a class about
-    <a href="https://www.raywenderlich.com/2736-trigonometry-for-game-programming-part-1-2">building games</a> that get published on Steam (game store).
+it will notice the hyphens, and print out some helpful information.
 
-    What a teacher may not do,
-    is force feed pure triangle garbage to people who don't have an interest in it.
+There are many tutorials on how to use the command line,
 
-    It is not hormones (and no teacher should ever say that), students simply stop listing,
-    when they figure out the teachers are... selling them out for a paycheck.
+and many books, my favorite are the pocket books, take a look at O'Reilly Bash Pocket Reference
 
-    ---
+Here are instructions on how to play audio through HDMI,
 
-    Dreamers are my favorite,
-    here is someone who sits down and thinks up the following,
+your monitor should have an audio out somewhere.
 
-    "If I was born on a different continent,
-    to a different religion, I would be asked to worship that other god that I am told is false."
+Now see if you can get that GPIO header soldered on,
 
-    "Furthermore," - and you know there is always a furthermore,
-    that's part of the reason why they cannot be stopped.
+and try to blink some of the RGB LED HAT lights based on this tutorial.
 
-    "Aren't we all atheists,
-    to all the other gods."
+Alternatively you can just blink a simple LED based on this instructable,
 
-    And just when you think she was done with it,
-    she adds "Why don't we go the extra step and love All Life, All Wisdom, All Good Ideas, and All Human Beings"
+note that a standard Raspberry PI 4 8GB comes with the header soldered on to make things easier.
 
-    And the next thing you know,
-    you realize she was never a Dreamer, nor was she ever little.
+And there is also a Raspberry PI WH,
 
-    She's a Philosopher.
+meaning Wireless with Headers pre-soldered.
 
-    To tell children, that there exists a group of Universal Beings,
-    that dedicate their lives and immortality to Wisdom,
-    and passing it on to all the future generations,
-    is to help them grow from the highest of mountains.
+And now, get a $10 camera,
 
-    ---
+and use raspistill to take a photo,
 
-    And the Urban Explorer,
-    they see homes after the families left.
+and play around with all the other options.
 
-    They see pictures,
-    and smiles, and forgotten hopes.
+Now you have an inexpensive platform for your inventions,
 
-    They see passage of time,
-    they see the motion of generation upon generation.
+a programmable machine, that you access over the radio of your wireless network.
 
-    They can see the homes as they were on Christmas,
-    and they can read the medical bills scattered in the corner.
+You can make it blink, or take time-lapse photographs of the next snow storm,
 
-    These so called scoundrels,
-    often chased away like dogs.
+you can get an LCD screen and turn it into a tablet.
 
-    They are working on wording a lesson,
-    that they hope to voice some day.
+Raspberry PI is not the only Single-board computer,
 
-    Maybe come their golden age,
-    as Guggenheim shows their works.
+PINE looks really nice as well.
 
-    They will speak of leaving bad ideas behind,
-    and sharing in all the good ones.
+If you are looking for a more complicated project,
 
-    How truly precious all our daily chores,
-    how it is these little ordinary moments that add to create almost all our lives.
+perhaps try building a Raspberry PI Drone,
 
-    "There are no ordinary moments" as Dan Millman says.
+bonus if you can get it to cross the Atlantic.
 
-    ---
+We have no limits,
 
-    Layer by layer, and the sequence will come deep from within the heart,
-    and it will reveal it self by means of curiosity.
+but we are also very unique.
 
-    When a day comes, and you find yourself looking out the window,
-    with more pleasure than than writing games or interactive fiction,
-    or managing your corporation, or putting out fire tornadoes.
+Our inventions need not rely on commuters,
 
-    Deep from within your heart,
-    a new curiosity calls to you.
+some of the greatest inventions the Human Kind has seen, were just ideas.
 
-    And it can only make you better,
-    better at what you do, help you climb higher than the height you are on right now.
+Don't let anybody stop you from inventing,
 
-    You don't have to switch careers,
-    but you do need to throw a loaf of bread into your back pack.
+and don't stop dreaming.
 
-    And hit the trail.
+Finally, the most impractical and outrageous inventions,
 
-    If you are out east Section Hike the Appalachian Trail,
-    if you are out west than hike the Pacific Crest Trail,
-    if you are out in the Pacific then set of for the  Kalalau on the island of Ka'uai.
+make for the most magnificent Videos, White Papers, CVs, and Resumes.
 
-    Bring your Audio Books,
-    and make no mistake,
-
-    Because the end of that trail,
-    marks only the beginning of your new adventure.
-
-    Remember the aim, my friends:
-    Vastness Of Heart!
+Aim,
+for the Moon.
