@@ -3,186 +3,114 @@ remote: warning: See http://git.io/iEPt8g for more information.
 remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
 
 
+(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
+
+
 
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
-(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
 
-Playing With Computers
+   Myths were invented to describe amazing people,
+   and I've seen many amazing creatures in my journeys.
 
-Invent everything,
+   ---
 
-we are all extremely smart.
+   One time out in Nordhouse,
+   out of nowhere popped out a freshly graduated engineer.
 
-We can learn anything,
+   He held up a gallon water container that was carrying back to camp,
+   and the poor mad lad uttered, "8.34 pounds".
 
-so as long as we don't skip any steps along the way.
+   He seemed excited, but also sad,
+   and I think he was acting so odd because he realized he was forgetting everything.
 
-And so as long,
+   Plus, I am certain he said pounds,
+   not kilograms; mad in deed.
 
-as all steps are interesting and fun to us.
+   ---
 
-Never force yourself to learn something you don't enjoy,
+   Another time, at 6am or so, I was going through maps of south Pacific,
+   in Ann Arbor, by that strange black metal cube sculpture that squeaks when rotated.
 
-just keep reading books, and keep looking for something to strike your fancy.
+   I just had to get away from Ambrosia's morning clientele,
+   bless their hearts.
 
-From Dreaming, and Inventing,
+   And I've noticed that across the park some student was sleeping under an evergreen,
+   I don't think she worked in US, I just somehow assumed South America, Amazon.
 
-to Art, Programming and taking to the skies.
+   She stared getting off the ground, and tried to yell that she wasn't homeless or drunk,
+   I kept looking into my maps, ignoring her; and she went on her way to get a grant, or give a speech or something.
 
-An invention can be as simple,
+   I am sure she worked in South America,
+   probably with the natives.
 
-as an LED Throwie or LED Glowie.
+   ---
 
-Just a Light Emitting Diode, a battery and magnet,
+   Over in Ludington, there was this one time a little girl was feeding Seagulls with her mom,
+   and just as I noticed the commotion...
 
-to keep it all together; and as a bonus make it stick to metal surfaces.
+   one of the Seagulls,
+   went, all, out!
 
-That is a three component invention,
+   Right in her hair,
+   I felt so bad, and her mother was only barely able to contain her laughter.
 
-LED, magnet, battery.
+   She puffed up her face as if playing a trumpet,
+   you could totally tell she had enough of that kid, and she was getting payback for all her hissy fits.
 
-My favorite Radio Astronomer,
+   ---
 
-Seth Shostak.
+   And then there is this... story that is most Dearest to me,
+   one of my happiest memories, that I swore I would never talk about because I am far too mature.
 
-Quips, that the baseline for determining if a member of a species is intelligent,
+   Alas, this is what All Hallows' Eve is all about,
+   talking about strange creatures, and wonderful memories.
 
-is whether or not it can hold a soldering iron, and make a radio.
+   It was an beautiful early morning,
+   I was sitting by my breakfast fire.
 
-Allow me to get you soldering a radio,
+   Mostly listening to birds, and probably angry bears,
+   whilst squiggling in my journal, about poems, and programs.
 
-as quickly as possible.
+   This was a large and beautiful camp site full of tress,
+   they had clean showers, and proper restrooms.
 
-Get a Raspberry PI Zero W (the W stands for Wireless or "with WI-FI"),
+   I had the first camp site on the Orchid Loop at Nordhouse,
+   and I noticed that a couple of giggly middle aged ladies were just getting into the spirit of camping.
 
-a soldering kit, a solder wick, some GPIO headers,
+   They were always happy, and sophisticated,
+   and laughing, playing some smart radio station, and always full of joy.
 
-and a 4 x 8 RGB LED HAT that fits a Raspberry PI Zero neatly.
+   This morning the tall one started shimmy shammying first,
+   she was probably getting around to starting up a fire to make breakfast.
 
-Look everything up on YouTube,
+   They had all the firewood,
+   and swe was singing something, it was unusual for people to make so many happy little noises during a stay there.
 
-how to solder, how to solder headers, how to use a solder wick.
+   She quieted down a bit,
+   and lit her fire.
 
-This is serious business,
+   And as she bent over to pick up some twigs to get things going,
+   she fired off that old familiar sound that one would expect from a constipated and uncultured, filthy, lactose intolerant old man.
 
-in last few years embedded Linux became extremely inexpensive.
+   And, oh my gosh,
+   all of a sudden all the birds went quiet.
 
-Though get a $30 kit
+   It was just this unusual deafening silence,
+   and that's just half the story, because all of a sudden this sophisticated wealthy woman goes:
 
-that includes a case, power adapter, heat sinks, and a header.
+   "Puull my finga"
 
-At first you connect it to a keyboard and a monitor,
+   In the worst fake southern accent she could possibly conjure up,
+   and with the longest drawl.
 
-and set it up on the network.
+   And then she quickly skedaddled back to her camper,
+   - probably to change, and lay down a bit.
 
-But later as you figure everything out,
+   This must have been ten years ago or more,
+   and I still haven't forgotten about it.
 
-you unplug everything leaving just the power.
+   ---
 
-To get inside it,
-
-you use a remote terminal.
-
-Once you login,
-
-you get a command prompt.
-
-It listens to words, to commands,
-
-very similar to adventure games.
-
-Indeed, directories on your hard-drive,
-
-are very much like rooms in a game.
-
-To get inside Documents,
-
-type in "cd Documents"
-
-The command "cd" is short for,
-
-Change Directory, a Directory is the same as a folder on windows.
-
-When you say "cd Documents",
-
-you are giving the cd command an argument, or an option, or a setting, or a preference.
-
-The cd command is a perfect example of how command line interfaces should work,
-
-just a couple of words and nothing more.
-
-But sometimes, that is not enough,
-
-like for example when you want to ask "cd" for help.
-
-We can't say "cd help" becasue then the cd command would search for a directory named help,
-
-we have to make the second word special, to do that you use hyphens.
-
-You can type in "cd --help",
-
-it will notice the hyphens, and print out some helpful information.
-
-There are many tutorials on how to use the command line,
-
-and many books, my favorite are the pocket books, take a look at O'Reilly Bash Pocket Reference
-
-Here are instructions on how to play audio through HDMI,
-
-your monitor should have an audio out somewhere.
-
-Now see if you can get that GPIO header soldered on,
-
-and try to blink some of the RGB LED HAT lights based on this tutorial.
-
-Alternatively you can just blink a simple LED based on this instructable,
-
-note that a standard Raspberry PI 4 8GB comes with the header soldered on to make things easier.
-
-And there is also a Raspberry PI WH,
-
-meaning Wireless with Headers pre-soldered.
-
-And now, get a $10 camera,
-
-and use raspistill to take a photo,
-
-and play around with all the other options.
-
-Now you have an inexpensive platform for your inventions,
-
-a programmable machine, that you access over the radio of your wireless network.
-
-You can make it blink, or take time-lapse photographs of the next snow storm,
-
-you can get an LCD screen and turn it into a tablet.
-
-Raspberry PI is not the only Single-board computer,
-
-PINE looks really nice as well.
-
-If you are looking for a more complicated project,
-
-perhaps try building a Raspberry PI Drone,
-
-bonus if you can get it to cross the Atlantic.
-
-We have no limits,
-
-but we are also very unique.
-
-Our inventions need not rely on commuters,
-
-some of the greatest inventions the Human Kind has seen, were just ideas.
-
-Don't let anybody stop you from inventing,
-
-and don't stop dreaming.
-
-Finally, the most impractical and outrageous inventions,
-
-make for the most magnificent Videos, White Papers, CVs, and Resumes.
-
-Aim,
-for the Moon.
+   Happy Halloween,
+   Everyone.
