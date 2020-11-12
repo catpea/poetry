@@ -30,7 +30,7 @@ Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.
     traditions, parents, friends, schools, fairy tales, and curfews.
 
     Is null and void,
-    by the power of the Universe.
+    by the power of the Universe, by the power of Reality.
 
     Do you hear me?
     all that matters is that you become a Great Being and Help Humanity Grow.
