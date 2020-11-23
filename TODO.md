@@ -11,112 +11,43 @@ remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitH
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
 
-Science and Wisdom: From Led to Gold, Let The Universe Unfold
+For The Good Of Humankind
+2020-11-23T02:18:25.055Z
 
-A hole in the window curtain,
+Audio Version
 
-lets a stray ray of light in.
+Greatness is not a question of having it or not,
 
-The light displays a blurry image,
+it is whether or not you use it a little or a lot.
 
-of what is outside, a pin hole camera.
+We will each be asked to become Wise and Great,
 
-As the beam travels along the wall,
+to save the world from mediocrity and hate.
 
-he can imagine the entire solar system.
+All battles for goodness are already won,
 
-He knows the planet spins and rotates,
+and before you know it, your great task will be done.
 
-by inference from Jupiter Io, Europa, Ganymede, and Callisto.
+But first, we need to learn to reject the status quo,
 
-And now slowly the light,
+set off on a quest for wisdom, and enlightenment, and go.
 
-reaches an old crystal vase.
+You never really fight in a good war,
 
-There is a rainbow,
+the enemy in their madness never makes it out the door.
 
-the beam of light is unfurled.
+But Greatness will call to you non the less,
 
-He's counting the colors,
+it will ask you to speak about Wisdom, Love, Growing Up, and Kindness.
 
-and a violin plays.
+You see many Great Beings smile when facing wrath,
 
-And A becomes Blue,
+that powerful joy comes from the certainty of walking the right path.
 
-B is Indigo,
+Those who walk the wrong path, age quickly and fade,
 
-C turns Violet,
+and history books will soon-enough reveal their charade.
 
-D is Red,
+The Noble Greatness within us all is forged to last,
 
-E becomes Orange,
-
-F is Yellow,
-
-and G glows Green.
-
-He watched the whole thing,
-
-in bed, in silence.
-
-He knows now he will turn led to gold,
-
-let the Clockwork Universe, Unfold.
-
-You are so lucky that you live in an age where you can pull up,
-
-Newton's book on opticks with the click of a link.
-
-In most cases you can't be stopped by by research you have not yet conducted,
-
-and you don't have to invent much from scratch, you just need a science book.
-
-You have the same mental powers as Newton and all the others,
-
-but you DO, have to slow down, and think about things just like they did.
-
-Learning or catching up,
-
-is an Art.
-
-Even though you have all the answers before you,
-
-you can't read it all at once.
-
-You have to follow one thread at a time,
-
-our minds need time to comprehend and rearrange.
-
-Like the body of a dancer needs time to adapt,
-
-we have to learn at a precise pace, and sequence.
-
-It is very similar to learning the roads of a new city,
-
-you never say to your self I am not smart enough to navigate.
-
-Because you never listen to confusing directions,
-
-you just follow a single road at your own pace and eventually master it.
-
-See, Newton learned from works of Galileo,
-
-who passed away the year Newton was born.
-
-And although Newton never did convert led to gold,
-
-the led of his pencil, became even more precious.
-
-Many of Newton's works,
-
-must have fascinated Henry Cavendish.
-
-And Einstein no doubt appreciated the modes of thinking these men revealed,
-
-even though he never figured out his Spooky Action at a Distance.
-
-They all learned much along the way,
-
-and each became wise for trying.
-
-(Soundtrack Purcell The Fairy Queen, Z.629)
+and the opportunities ahead are as beautiful as vast.
