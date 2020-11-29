@@ -8,187 +8,156 @@ remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitH
 
 (SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
 
-Always Ask Yourself If You Are Learning
+Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
-You must not allow your parents to use school as a babysitter,
-you must not allow your teachers to trick you into memorization.
 
-Friends and social life, are not an excuse to stay in a bad school,
-grab your friends and transfer to something better, or learn on your own.
+(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
 
-A bad school diploma does not get you anything,
-it only shows people that they can cheat you.
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+remote: warning: See http://git.io/iEPt8g for more information.
+remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
 
----
 
-On the other hand dumping a broken school,
-and transferring to something that does show results makes a world of difference.
+(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
 
-For one it will help you experience independence,
-with a small measure of discomfort it will help your mind become stronger.
 
-You do not want to work at a company that expect you to waste years on junk lectures,
-your years are precious, each year must find you smarter, stronger, and wiser.
+(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
 
-Rejection of pretending to learn,
-and following others will help yo grow.
 
-Finding lectures or books that do make you smarter and wiser,
-will help you build your own company.
+Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
----
+You Are Not Wrong
 
+If something is wrong somewhere,
 
-Schools are almost certainly completely broken,
-they may be so broken that otherwise normal people may need dangerous meds.
+you are not the only one to care.
 
-You must resist memorization, and merely getting good at passing tests,
-because that is not an real education, that's just basic acting.
+There are others that will fight beside you,
 
-It is not enough to be in school,
-or even to have good grades.
+so as long as your cause is just and true.
 
-You must ask yourself if you are learning for real,
-and if what you are learning is already useful to you.
+Some will fight by subtle analogy,
 
-You must ask yourself if you are seeing results,
-if what you have learned had a positive impact on you, already.
+learn from them, and their lack of apology.
 
----
+Speaking out will set you free,
 
-And, you may not be able to find a school,
-it is a real tragedy, we failed you.
+even though many will come to disagree.
 
-Perhaps, "Fake it until you make it",
-has already turned the world into a brittle cheeto.
+Our lives are unfortunately much too short,
 
----
+but good things will come and you'll find comfort.
 
-There is hope.
+We are afforded a handful of miracles,
 
-(You might want to sit down for this one,
-alternatively just grab your butt.)
+and those certainly will aid to your cause.
 
-THe hope is in self-educaiton.
+Most importantly remember to just speak out,
 
-The people who invented schools and those who made breakthroughs in science,
-begun their self education with a single thread or a question.
+the change is up to the people that you bring about.
 
-They followed a single unbroken line of curiosities and answers,
-start with survey courses in Science and Adventure.
+Your voice is one but a million is required,
 
-To find your beginning search carefully amongst electronics,
-art and sculpture or painting and music, computers, design, programming.
+so only speak, and never go past getting tired.
 
-Find the start, get your anwsers, and rest,
-and now resume from where you left off.
+Whatever it is that you will say,
 
-You don't even have to keep notes this way,
-there is no stress here no hard work.
+do not forget about Love not even for a day.
 
-You may only need LEGO Technic and a Raspberry PI kit with sensors,
-maybe a abook about UNIX and a couple of used cheap 3D printers that you splice together.
+Personal Note,
 
-The only thing that you have to be mindfull of,
-is keeping a a small Research Journal and Building a Huge Colorful Portfolio.
+I seem to babble on about many things,
 
-In fact your portfolio should become the one of the main reasons,
-for becoming a Graphic Designer and possibly a Web Developer.
+but the first wrong that hurt me was school.
 
-After all, you are capturing your pure joy,
-and your path of self-education is pure pride.
+So when I think about helping the world grow,
 
----
+the first thing that comes to mind is fixing it.
 
-This kind of coupling, where the want of a beautiful portfolio,
-pushes you towards Design, and possibly programming happens often.
+I am really worried about the ease,
 
-A personal "want" has driven many independent inventors before you,
-difference between being taught, and reaching out for knowledge yourself is like night and day.
+with which we can be indoctrinated into false beliefs.
 
-One takes you to enlightenment, and the other,
-often times towards hating Mondays, waiting for Wednesdays and drinking on Fridays while you wonder if you hate your life.
+I mean we are all born into a world
 
----
+with intercontinental ballistic missiles pointed at all cities.
 
-It is likely that you will not be accepted to Harvard, not even Peace Corps,
-but listen...
+We accept this all to easily,
 
-...what does an institution that expects you to sit through worthless mind numbing lectures,
-matter to you, and what does that say about their values and ideas, and deans and the friends and experiences you will encounter there.
+most of us never pays any attention.
 
-Don't bother with things that are not worth your time,
-we have to find a way to fix the world.
+The mechanism behind our blind acceptance.
 
-We have to fix schools, we have to fix poverty,
-and damn it, we can't go through our lives with atomic weapons pointed at our families.
+is also the same mechanism that may launch them someday.
 
-Ideas like Mutually Assured Destruction (MAD),
-and banning certain weapons in war but not war it self really show us how young of a civilization we are.
+To really see all the things we need to fix,
 
-Now we race for a High School or COllege Diploma,
-by pretending to learn with memorization while teachers pretend they didn't force us into it for a paycheck.
+we have to wiggle ourselves out of any and all indoctrinations.
 
-And deans pretend they have no idea this is going on,
-and for the mere stress of massive unforgivable student debt we can get a brand name education that recruiters will void their bowles over.
+One of our most powerful superpowers,
 
-On and not to mention the 13th Amendment where we can be sent into Legal Slavery,
-by downloading the complete questionable works of Lady Gaga in mp3 format, or even just for participating in <a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a> to host our own poems.
+is thinking by subtle analogy to something else.
 
----
+That is one of the mechanisms that powers our wisdom,
 
-There is nothing that you will gain from not learning,
-pretending to get educated is just the same as staying uneducated.
+we can see or solve problems based on other things we find in books.
 
-Spewing useless jibberish about Trig or powerhouses of the cell,
-only makes people look foolish.
+There are three people that influenced my ideas about education the most,
 
-Not only that, but eventually they figure out they got tricked into cramming,
-and now not only the look foolish - but heartbreakingly - start feeling it too.
+Richard Dawkins, Erica Goldson, and the Saintly Sir Ken Robinson.
 
-For those of you who did get tricked,
-please just listen to top rated Audio Books in the science, adventure, philosophy and memoir section, it won't take long to catch up.
+When I look at them, I feel like I copied everything from them,
 
-That whole thing about not being able to learn as fast when you are older is fake,
-as you get older your bullshit meters get better.
+but that's just means we are all fighting toward similar goals.
 
-It is just that you are no longer willing to waste your time on useless things,
-that's why books work but re-taking the GED does not.
+The thing that sticks out about me is this notion of wisdom,
 
----
+I absolutely believe that we are all great thinkers that eventually become wise.
 
-But do take it easy,
-especially when you are young.
+And unlike Sir Robinson who urges to reform,
 
-Learn to avoid troublemakers,
-they are just children with aged faces.
+or Miss Godson who want to work together.
 
-And no there are no exceptions,
-and no you are not meant to fill in the blanks for thems.
+I mostly want to encourage students to stop trusting schools,
 
-The last thing you need is your husband deciding to smoke weed or become a drunk (or worse) 15 years into a marriage because it is now legal,
-there is no excuse, no shortcuts in the world of lack of education, we neeeeeeeed wisdom, it is our operating system, it is our everything.
+and accept the responsibility for their own education.
 
-Our minds are so powerful,
-it is so easy to inherit from memoirs.
+I do not think that being bombarded by mixtures of lessons and homework,
 
-When combining fascinating books with incredible adventures...
-when you find your self atop of an ancient dune in the middle of a nasty storm listening to a life cahnging book, it all becomes clear.
+is good for learning, I think it only induces cramming, and renders a student uneducated.
 
-You are underestimating yourself,
-most of us have no idea how powerful we are.
+Sir Robinson mentions,
 
-Our only problem is that in the face of not knowing,
-we can be easily mislead and follow useless paths for years or even decades, such as is the case with ineffective education.
+that there is a small percentage of students that do thrive in school.
 
-So speak out,
-don't follow, and don't be silent.
+But you see what Erica Goldson is saying,
 
-With the aid of your classroom friends,
-make it clear to your teacher that you would rather study things that are relevant to yoi personally that enlighten your path and produce lasting results that you can build on.
+she's is only good at passing tests, and she's scared.
 
-Read books, begin your self education, and develop the skills necessary to express your concerns about the school just turning you into profits,
-fill an auditorium, give speeches and talks in multiple schools; become a leader, an inspiration, a Great Being.
+Richard Dawkins is a scientist who urges people,
 
-Do Not Follow,
-Life Is Too Precious, and Your Wisdom Too Important.
+to focus on the The Magic of Reality, rather than any other magic.
+
+The way he takes to the stage,
+
+and the way he moves an audience.
+
+His dignity and certainty of knowing-that he is correct,
+
+and that he is helping the world grow, is an perfect example of a Great Being.
+
+The title of this text,
+
+comes from a question asked by a young [presumably religions] lady: "What if you're wrong?"
+
+I urge you to look it up on the internet to hear his response,
+
+and to see what a being hoping to help the world grow really looks like.
+
+One of the most heartbreakingly powerful things that comes to my mind in regards to his work,
+
+is him visiting a school where children are being indoctrinated into the belief that Noah and his Ark are absolutely real.
+
+These children can't know otherwise,
+
+it becomes their very reality.
