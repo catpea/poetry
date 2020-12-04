@@ -12,9 +12,9 @@
     "counter": 1,
     "isNewest": false,
     "isOldest": true,
-    "olderId": "poetry-0277",
+    "olderId": "poetry-0278",
     "newerId": "poetry-0017",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -32,7 +32,7 @@
     "isOldest": false,
     "olderId": "poetry-0016",
     "newerId": "poetry-0018",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -50,7 +50,7 @@
     "isOldest": false,
     "olderId": "poetry-0017",
     "newerId": "poetry-0019",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -68,7 +68,7 @@
     "isOldest": false,
     "olderId": "poetry-0018",
     "newerId": "poetry-0020",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -86,7 +86,7 @@
     "isOldest": false,
     "olderId": "poetry-0019",
     "newerId": "poetry-0021",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -104,7 +104,7 @@
     "isOldest": false,
     "olderId": "poetry-0020",
     "newerId": "poetry-0022",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -122,7 +122,7 @@
     "isOldest": false,
     "olderId": "poetry-0021",
     "newerId": "poetry-0023",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -140,7 +140,7 @@
     "isOldest": false,
     "olderId": "poetry-0022",
     "newerId": "poetry-0024",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -158,7 +158,7 @@
     "isOldest": false,
     "olderId": "poetry-0023",
     "newerId": "poetry-0025",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -176,7 +176,7 @@
     "isOldest": false,
     "olderId": "poetry-0024",
     "newerId": "poetry-0026",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -194,7 +194,7 @@
     "isOldest": false,
     "olderId": "poetry-0025",
     "newerId": "poetry-0027",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -212,7 +212,7 @@
     "isOldest": false,
     "olderId": "poetry-0026",
     "newerId": "poetry-0028",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -231,7 +231,7 @@
     "isOldest": false,
     "olderId": "poetry-0027",
     "newerId": "poetry-0029",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -250,7 +250,7 @@
     "isOldest": false,
     "olderId": "poetry-0028",
     "newerId": "poetry-0030",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -269,7 +269,7 @@
     "isOldest": false,
     "olderId": "poetry-0029",
     "newerId": "poetry-0031",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -288,7 +288,7 @@
     "isOldest": false,
     "olderId": "poetry-0030",
     "newerId": "poetry-0032",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -307,7 +307,7 @@
     "isOldest": false,
     "olderId": "poetry-0031",
     "newerId": "poetry-0033",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -326,7 +326,7 @@
     "isOldest": false,
     "olderId": "poetry-0032",
     "newerId": "poetry-0034",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -345,7 +345,7 @@
     "isOldest": false,
     "olderId": "poetry-0033",
     "newerId": "poetry-0035",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -364,7 +364,7 @@
     "isOldest": false,
     "olderId": "poetry-0034",
     "newerId": "poetry-0036",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -383,7 +383,7 @@
     "isOldest": false,
     "olderId": "poetry-0035",
     "newerId": "poetry-0037",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -402,7 +402,7 @@
     "isOldest": false,
     "olderId": "poetry-0036",
     "newerId": "poetry-0038",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -421,7 +421,7 @@
     "isOldest": false,
     "olderId": "poetry-0037",
     "newerId": "poetry-0039",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -440,7 +440,7 @@
     "isOldest": false,
     "olderId": "poetry-0038",
     "newerId": "poetry-0040",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -459,7 +459,7 @@
     "isOldest": false,
     "olderId": "poetry-0039",
     "newerId": "poetry-0041",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -478,7 +478,7 @@
     "isOldest": false,
     "olderId": "poetry-0040",
     "newerId": "poetry-0042",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -497,7 +497,7 @@
     "isOldest": false,
     "olderId": "poetry-0041",
     "newerId": "poetry-0043",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -516,7 +516,7 @@
     "isOldest": false,
     "olderId": "poetry-0042",
     "newerId": "poetry-0044",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -535,7 +535,7 @@
     "isOldest": false,
     "olderId": "poetry-0043",
     "newerId": "poetry-0045",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -554,7 +554,7 @@
     "isOldest": false,
     "olderId": "poetry-0044",
     "newerId": "poetry-0046",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -573,7 +573,7 @@
     "isOldest": false,
     "olderId": "poetry-0045",
     "newerId": "poetry-0047",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -592,7 +592,7 @@
     "isOldest": false,
     "olderId": "poetry-0046",
     "newerId": "poetry-0048",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -611,7 +611,7 @@
     "isOldest": false,
     "olderId": "poetry-0047",
     "newerId": "poetry-0049",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -630,7 +630,7 @@
     "isOldest": false,
     "olderId": "poetry-0048",
     "newerId": "poetry-0050",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -649,7 +649,7 @@
     "isOldest": false,
     "olderId": "poetry-0049",
     "newerId": "poetry-0051",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -669,7 +669,7 @@
     "isOldest": false,
     "olderId": "poetry-0050",
     "newerId": "poetry-0052",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -689,7 +689,7 @@
     "isOldest": false,
     "olderId": "poetry-0051",
     "newerId": "poetry-0053",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -708,7 +708,7 @@
     "isOldest": false,
     "olderId": "poetry-0052",
     "newerId": "poetry-0054",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -728,7 +728,7 @@
     "isOldest": false,
     "olderId": "poetry-0053",
     "newerId": "poetry-0055",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -748,7 +748,7 @@
     "isOldest": false,
     "olderId": "poetry-0054",
     "newerId": "poetry-0056",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -768,7 +768,7 @@
     "isOldest": false,
     "olderId": "poetry-0055",
     "newerId": "poetry-0057",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -788,7 +788,7 @@
     "isOldest": false,
     "olderId": "poetry-0056",
     "newerId": "poetry-0058",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -807,7 +807,7 @@
     "isOldest": false,
     "olderId": "poetry-0057",
     "newerId": "poetry-0059",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -826,7 +826,7 @@
     "isOldest": false,
     "olderId": "poetry-0058",
     "newerId": "poetry-0060",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -846,7 +846,7 @@
     "isOldest": false,
     "olderId": "poetry-0059",
     "newerId": "poetry-0061",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -865,7 +865,7 @@
     "isOldest": false,
     "olderId": "poetry-0060",
     "newerId": "poetry-0062",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -884,7 +884,7 @@
     "isOldest": false,
     "olderId": "poetry-0061",
     "newerId": "poetry-0063",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -904,7 +904,7 @@
     "isOldest": false,
     "olderId": "poetry-0062",
     "newerId": "poetry-0064",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -924,7 +924,7 @@
     "isOldest": false,
     "olderId": "poetry-0063",
     "newerId": "poetry-0065",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -943,7 +943,7 @@
     "isOldest": false,
     "olderId": "poetry-0064",
     "newerId": "poetry-0066",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -963,7 +963,7 @@
     "isOldest": false,
     "olderId": "poetry-0065",
     "newerId": "poetry-0067",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -983,7 +983,7 @@
     "isOldest": false,
     "olderId": "poetry-0066",
     "newerId": "poetry-0068",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1003,7 +1003,7 @@
     "isOldest": false,
     "olderId": "poetry-0067",
     "newerId": "poetry-0069",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1023,7 +1023,7 @@
     "isOldest": false,
     "olderId": "poetry-0068",
     "newerId": "poetry-0070",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1043,7 +1043,7 @@
     "isOldest": false,
     "olderId": "poetry-0069",
     "newerId": "poetry-0071",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1063,7 +1063,7 @@
     "isOldest": false,
     "olderId": "poetry-0070",
     "newerId": "poetry-0072",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1083,7 +1083,7 @@
     "isOldest": false,
     "olderId": "poetry-0071",
     "newerId": "poetry-0073",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1103,7 +1103,7 @@
     "isOldest": false,
     "olderId": "poetry-0072",
     "newerId": "poetry-0074",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1123,7 +1123,7 @@
     "isOldest": false,
     "olderId": "poetry-0073",
     "newerId": "poetry-0075",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1143,7 +1143,7 @@
     "isOldest": false,
     "olderId": "poetry-0074",
     "newerId": "poetry-0076",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1163,7 +1163,7 @@
     "isOldest": false,
     "olderId": "poetry-0075",
     "newerId": "poetry-0077",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1183,7 +1183,7 @@
     "isOldest": false,
     "olderId": "poetry-0076",
     "newerId": "poetry-0078",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1203,7 +1203,7 @@
     "isOldest": false,
     "olderId": "poetry-0077",
     "newerId": "poetry-0079",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1223,7 +1223,7 @@
     "isOldest": false,
     "olderId": "poetry-0078",
     "newerId": "poetry-0080",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1243,7 +1243,7 @@
     "isOldest": false,
     "olderId": "poetry-0079",
     "newerId": "poetry-0081",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1263,7 +1263,7 @@
     "isOldest": false,
     "olderId": "poetry-0080",
     "newerId": "poetry-0082",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1283,7 +1283,7 @@
     "isOldest": false,
     "olderId": "poetry-0081",
     "newerId": "poetry-0083",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1303,7 +1303,7 @@
     "isOldest": false,
     "olderId": "poetry-0082",
     "newerId": "poetry-0084",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1323,7 +1323,7 @@
     "isOldest": false,
     "olderId": "poetry-0083",
     "newerId": "poetry-0085",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1343,7 +1343,7 @@
     "isOldest": false,
     "olderId": "poetry-0084",
     "newerId": "poetry-0086",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1363,7 +1363,7 @@
     "isOldest": false,
     "olderId": "poetry-0085",
     "newerId": "poetry-0087",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1383,7 +1383,7 @@
     "isOldest": false,
     "olderId": "poetry-0086",
     "newerId": "poetry-0088",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1403,7 +1403,7 @@
     "isOldest": false,
     "olderId": "poetry-0087",
     "newerId": "poetry-0089",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1423,7 +1423,7 @@
     "isOldest": false,
     "olderId": "poetry-0088",
     "newerId": "poetry-0090",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1443,7 +1443,7 @@
     "isOldest": false,
     "olderId": "poetry-0089",
     "newerId": "poetry-0091",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1463,7 +1463,7 @@
     "isOldest": false,
     "olderId": "poetry-0090",
     "newerId": "poetry-0092",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1483,7 +1483,7 @@
     "isOldest": false,
     "olderId": "poetry-0091",
     "newerId": "poetry-0093",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1503,7 +1503,7 @@
     "isOldest": false,
     "olderId": "poetry-0092",
     "newerId": "poetry-0094",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1523,7 +1523,7 @@
     "isOldest": false,
     "olderId": "poetry-0093",
     "newerId": "poetry-0095",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1543,7 +1543,7 @@
     "isOldest": false,
     "olderId": "poetry-0094",
     "newerId": "poetry-0096",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1563,7 +1563,7 @@
     "isOldest": false,
     "olderId": "poetry-0095",
     "newerId": "poetry-0097",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1583,7 +1583,7 @@
     "isOldest": false,
     "olderId": "poetry-0096",
     "newerId": "poetry-0098",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1603,7 +1603,7 @@
     "isOldest": false,
     "olderId": "poetry-0097",
     "newerId": "poetry-0099",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1623,7 +1623,7 @@
     "isOldest": false,
     "olderId": "poetry-0098",
     "newerId": "poetry-0100",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1643,7 +1643,7 @@
     "isOldest": false,
     "olderId": "poetry-0099",
     "newerId": "poetry-0101",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1663,7 +1663,7 @@
     "isOldest": false,
     "olderId": "poetry-0100",
     "newerId": "poetry-0102",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1683,7 +1683,7 @@
     "isOldest": false,
     "olderId": "poetry-0101",
     "newerId": "poetry-0103",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1703,7 +1703,7 @@
     "isOldest": false,
     "olderId": "poetry-0102",
     "newerId": "poetry-0104",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1723,7 +1723,7 @@
     "isOldest": false,
     "olderId": "poetry-0103",
     "newerId": "poetry-0105",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1743,7 +1743,7 @@
     "isOldest": false,
     "olderId": "poetry-0104",
     "newerId": "poetry-0106",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1763,7 +1763,7 @@
     "isOldest": false,
     "olderId": "poetry-0105",
     "newerId": "poetry-0107",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1783,7 +1783,7 @@
     "isOldest": false,
     "olderId": "poetry-0106",
     "newerId": "poetry-0108",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1803,7 +1803,7 @@
     "isOldest": false,
     "olderId": "poetry-0107",
     "newerId": "poetry-0109",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1823,7 +1823,7 @@
     "isOldest": false,
     "olderId": "poetry-0108",
     "newerId": "poetry-0110",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1843,7 +1843,7 @@
     "isOldest": false,
     "olderId": "poetry-0109",
     "newerId": "poetry-0111",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1863,7 +1863,7 @@
     "isOldest": false,
     "olderId": "poetry-0110",
     "newerId": "poetry-0112",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1883,7 +1883,7 @@
     "isOldest": false,
     "olderId": "poetry-0111",
     "newerId": "poetry-0113",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1903,7 +1903,7 @@
     "isOldest": false,
     "olderId": "poetry-0112",
     "newerId": "poetry-0114",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1923,7 +1923,7 @@
     "isOldest": false,
     "olderId": "poetry-0113",
     "newerId": "poetry-0115",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1943,7 +1943,7 @@
     "isOldest": false,
     "olderId": "poetry-0114",
     "newerId": "poetry-0116",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1963,7 +1963,7 @@
     "isOldest": false,
     "olderId": "poetry-0115",
     "newerId": "poetry-0117",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -1983,7 +1983,7 @@
     "isOldest": false,
     "olderId": "poetry-0116",
     "newerId": "poetry-0118",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2003,7 +2003,7 @@
     "isOldest": false,
     "olderId": "poetry-0117",
     "newerId": "poetry-0119",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2023,7 +2023,7 @@
     "isOldest": false,
     "olderId": "poetry-0118",
     "newerId": "poetry-0120",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2043,7 +2043,7 @@
     "isOldest": false,
     "olderId": "poetry-0119",
     "newerId": "poetry-0121",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2063,7 +2063,7 @@
     "isOldest": false,
     "olderId": "poetry-0120",
     "newerId": "poetry-0122",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2083,7 +2083,7 @@
     "isOldest": false,
     "olderId": "poetry-0121",
     "newerId": "poetry-0123",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2103,7 +2103,7 @@
     "isOldest": false,
     "olderId": "poetry-0122",
     "newerId": "poetry-0124",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2123,7 +2123,7 @@
     "isOldest": false,
     "olderId": "poetry-0123",
     "newerId": "poetry-0125",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2143,7 +2143,7 @@
     "isOldest": false,
     "olderId": "poetry-0124",
     "newerId": "poetry-0126",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2163,7 +2163,7 @@
     "isOldest": false,
     "olderId": "poetry-0125",
     "newerId": "poetry-0127",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2183,7 +2183,7 @@
     "isOldest": false,
     "olderId": "poetry-0126",
     "newerId": "poetry-0128",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2203,7 +2203,7 @@
     "isOldest": false,
     "olderId": "poetry-0127",
     "newerId": "poetry-0129",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2223,7 +2223,7 @@
     "isOldest": false,
     "olderId": "poetry-0128",
     "newerId": "poetry-0130",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2243,7 +2243,7 @@
     "isOldest": false,
     "olderId": "poetry-0129",
     "newerId": "poetry-0131",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2263,7 +2263,7 @@
     "isOldest": false,
     "olderId": "poetry-0130",
     "newerId": "poetry-0132",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2283,7 +2283,7 @@
     "isOldest": false,
     "olderId": "poetry-0131",
     "newerId": "poetry-0133",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2303,7 +2303,7 @@
     "isOldest": false,
     "olderId": "poetry-0132",
     "newerId": "poetry-0134",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2323,7 +2323,7 @@
     "isOldest": false,
     "olderId": "poetry-0133",
     "newerId": "poetry-0135",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2343,7 +2343,7 @@
     "isOldest": false,
     "olderId": "poetry-0134",
     "newerId": "poetry-0136",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2363,7 +2363,7 @@
     "isOldest": false,
     "olderId": "poetry-0135",
     "newerId": "poetry-0137",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2383,7 +2383,7 @@
     "isOldest": false,
     "olderId": "poetry-0136",
     "newerId": "poetry-0138",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2403,7 +2403,7 @@
     "isOldest": false,
     "olderId": "poetry-0137",
     "newerId": "poetry-0139",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2423,7 +2423,7 @@
     "isOldest": false,
     "olderId": "poetry-0138",
     "newerId": "poetry-0140",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2443,7 +2443,7 @@
     "isOldest": false,
     "olderId": "poetry-0139",
     "newerId": "poetry-0141",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2463,7 +2463,7 @@
     "isOldest": false,
     "olderId": "poetry-0140",
     "newerId": "poetry-0142",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2483,7 +2483,7 @@
     "isOldest": false,
     "olderId": "poetry-0141",
     "newerId": "poetry-0143",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2503,7 +2503,7 @@
     "isOldest": false,
     "olderId": "poetry-0142",
     "newerId": "poetry-0144",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2523,7 +2523,7 @@
     "isOldest": false,
     "olderId": "poetry-0143",
     "newerId": "poetry-0145",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2543,7 +2543,7 @@
     "isOldest": false,
     "olderId": "poetry-0144",
     "newerId": "poetry-0146",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2563,7 +2563,7 @@
     "isOldest": false,
     "olderId": "poetry-0145",
     "newerId": "poetry-0147",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2583,7 +2583,7 @@
     "isOldest": false,
     "olderId": "poetry-0146",
     "newerId": "poetry-0148",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2603,7 +2603,7 @@
     "isOldest": false,
     "olderId": "poetry-0147",
     "newerId": "poetry-0149",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2623,7 +2623,7 @@
     "isOldest": false,
     "olderId": "poetry-0148",
     "newerId": "poetry-0150",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2643,7 +2643,7 @@
     "isOldest": false,
     "olderId": "poetry-0149",
     "newerId": "poetry-0151",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2663,7 +2663,7 @@
     "isOldest": false,
     "olderId": "poetry-0150",
     "newerId": "poetry-0152",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2683,7 +2683,7 @@
     "isOldest": false,
     "olderId": "poetry-0151",
     "newerId": "poetry-0153",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2703,7 +2703,7 @@
     "isOldest": false,
     "olderId": "poetry-0152",
     "newerId": "poetry-0154",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2723,7 +2723,7 @@
     "isOldest": false,
     "olderId": "poetry-0153",
     "newerId": "poetry-0155",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2743,7 +2743,7 @@
     "isOldest": false,
     "olderId": "poetry-0154",
     "newerId": "poetry-0156",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2763,7 +2763,7 @@
     "isOldest": false,
     "olderId": "poetry-0155",
     "newerId": "poetry-0157",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2783,7 +2783,7 @@
     "isOldest": false,
     "olderId": "poetry-0156",
     "newerId": "poetry-0158",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2803,7 +2803,7 @@
     "isOldest": false,
     "olderId": "poetry-0157",
     "newerId": "poetry-0159",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2823,7 +2823,7 @@
     "isOldest": false,
     "olderId": "poetry-0158",
     "newerId": "poetry-0160",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2843,7 +2843,7 @@
     "isOldest": false,
     "olderId": "poetry-0159",
     "newerId": "poetry-0161",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2863,7 +2863,7 @@
     "isOldest": false,
     "olderId": "poetry-0160",
     "newerId": "poetry-0162",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2883,7 +2883,7 @@
     "isOldest": false,
     "olderId": "poetry-0161",
     "newerId": "poetry-0163",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2903,7 +2903,7 @@
     "isOldest": false,
     "olderId": "poetry-0162",
     "newerId": "poetry-0164",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2923,7 +2923,7 @@
     "isOldest": false,
     "olderId": "poetry-0163",
     "newerId": "poetry-0165",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2943,7 +2943,7 @@
     "isOldest": false,
     "olderId": "poetry-0164",
     "newerId": "poetry-0166",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2963,7 +2963,7 @@
     "isOldest": false,
     "olderId": "poetry-0165",
     "newerId": "poetry-0167",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -2983,7 +2983,7 @@
     "isOldest": false,
     "olderId": "poetry-0166",
     "newerId": "poetry-0168",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3003,7 +3003,7 @@
     "isOldest": false,
     "olderId": "poetry-0167",
     "newerId": "poetry-0169",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3023,7 +3023,7 @@
     "isOldest": false,
     "olderId": "poetry-0168",
     "newerId": "poetry-0170",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3043,7 +3043,7 @@
     "isOldest": false,
     "olderId": "poetry-0169",
     "newerId": "poetry-0171",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3063,7 +3063,7 @@
     "isOldest": false,
     "olderId": "poetry-0170",
     "newerId": "poetry-0172",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3083,7 +3083,7 @@
     "isOldest": false,
     "olderId": "poetry-0171",
     "newerId": "poetry-0173",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3103,7 +3103,7 @@
     "isOldest": false,
     "olderId": "poetry-0172",
     "newerId": "poetry-0174",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3123,7 +3123,7 @@
     "isOldest": false,
     "olderId": "poetry-0173",
     "newerId": "poetry-0175",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3143,7 +3143,7 @@
     "isOldest": false,
     "olderId": "poetry-0174",
     "newerId": "poetry-0176",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3163,7 +3163,7 @@
     "isOldest": false,
     "olderId": "poetry-0175",
     "newerId": "poetry-0177",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3183,7 +3183,7 @@
     "isOldest": false,
     "olderId": "poetry-0176",
     "newerId": "poetry-0178",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3203,7 +3203,7 @@
     "isOldest": false,
     "olderId": "poetry-0177",
     "newerId": "poetry-0179",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3223,7 +3223,7 @@
     "isOldest": false,
     "olderId": "poetry-0178",
     "newerId": "poetry-0180",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3243,7 +3243,7 @@
     "isOldest": false,
     "olderId": "poetry-0179",
     "newerId": "poetry-0181",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3263,7 +3263,7 @@
     "isOldest": false,
     "olderId": "poetry-0180",
     "newerId": "poetry-0182",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3283,7 +3283,7 @@
     "isOldest": false,
     "olderId": "poetry-0181",
     "newerId": "poetry-0183",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3303,7 +3303,7 @@
     "isOldest": false,
     "olderId": "poetry-0182",
     "newerId": "poetry-0184",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3323,7 +3323,7 @@
     "isOldest": false,
     "olderId": "poetry-0183",
     "newerId": "poetry-0185",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3343,7 +3343,7 @@
     "isOldest": false,
     "olderId": "poetry-0184",
     "newerId": "poetry-0186",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3363,7 +3363,7 @@
     "isOldest": false,
     "olderId": "poetry-0185",
     "newerId": "poetry-0187",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3383,7 +3383,7 @@
     "isOldest": false,
     "olderId": "poetry-0186",
     "newerId": "poetry-0188",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3403,7 +3403,7 @@
     "isOldest": false,
     "olderId": "poetry-0187",
     "newerId": "poetry-0189",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3423,7 +3423,7 @@
     "isOldest": false,
     "olderId": "poetry-0188",
     "newerId": "poetry-0190",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3443,7 +3443,7 @@
     "isOldest": false,
     "olderId": "poetry-0189",
     "newerId": "poetry-0191",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3463,7 +3463,7 @@
     "isOldest": false,
     "olderId": "poetry-0190",
     "newerId": "poetry-0192",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3483,7 +3483,7 @@
     "isOldest": false,
     "olderId": "poetry-0191",
     "newerId": "poetry-0193",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3503,7 +3503,7 @@
     "isOldest": false,
     "olderId": "poetry-0192",
     "newerId": "poetry-0194",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3523,7 +3523,7 @@
     "isOldest": false,
     "olderId": "poetry-0193",
     "newerId": "poetry-0195",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3543,7 +3543,7 @@
     "isOldest": false,
     "olderId": "poetry-0194",
     "newerId": "poetry-0196",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3563,7 +3563,7 @@
     "isOldest": false,
     "olderId": "poetry-0195",
     "newerId": "poetry-0197",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3583,7 +3583,7 @@
     "isOldest": false,
     "olderId": "poetry-0196",
     "newerId": "poetry-0198",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3603,7 +3603,7 @@
     "isOldest": false,
     "olderId": "poetry-0197",
     "newerId": "poetry-0199",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3623,7 +3623,7 @@
     "isOldest": false,
     "olderId": "poetry-0198",
     "newerId": "poetry-0200",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3643,7 +3643,7 @@
     "isOldest": false,
     "olderId": "poetry-0199",
     "newerId": "poetry-0201",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3663,7 +3663,7 @@
     "isOldest": false,
     "olderId": "poetry-0200",
     "newerId": "poetry-0202",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3683,7 +3683,7 @@
     "isOldest": false,
     "olderId": "poetry-0201",
     "newerId": "poetry-0203",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3703,7 +3703,7 @@
     "isOldest": false,
     "olderId": "poetry-0202",
     "newerId": "poetry-0204",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3723,7 +3723,7 @@
     "isOldest": false,
     "olderId": "poetry-0203",
     "newerId": "poetry-0205",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3743,7 +3743,7 @@
     "isOldest": false,
     "olderId": "poetry-0204",
     "newerId": "poetry-0206",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3763,7 +3763,7 @@
     "isOldest": false,
     "olderId": "poetry-0205",
     "newerId": "poetry-0207",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3783,7 +3783,7 @@
     "isOldest": false,
     "olderId": "poetry-0206",
     "newerId": "poetry-0208",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3803,7 +3803,7 @@
     "isOldest": false,
     "olderId": "poetry-0207",
     "newerId": "poetry-0209",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3823,7 +3823,7 @@
     "isOldest": false,
     "olderId": "poetry-0208",
     "newerId": "poetry-0210",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3843,7 +3843,7 @@
     "isOldest": false,
     "olderId": "poetry-0209",
     "newerId": "poetry-0211",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3863,7 +3863,7 @@
     "isOldest": false,
     "olderId": "poetry-0210",
     "newerId": "poetry-0212",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3883,7 +3883,7 @@
     "isOldest": false,
     "olderId": "poetry-0211",
     "newerId": "poetry-0213",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3903,7 +3903,7 @@
     "isOldest": false,
     "olderId": "poetry-0212",
     "newerId": "poetry-0214",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3923,7 +3923,7 @@
     "isOldest": false,
     "olderId": "poetry-0213",
     "newerId": "poetry-0215",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3943,7 +3943,7 @@
     "isOldest": false,
     "olderId": "poetry-0214",
     "newerId": "poetry-0216",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3963,7 +3963,7 @@
     "isOldest": false,
     "olderId": "poetry-0215",
     "newerId": "poetry-0217",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -3983,7 +3983,7 @@
     "isOldest": false,
     "olderId": "poetry-0216",
     "newerId": "poetry-0218",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4003,7 +4003,7 @@
     "isOldest": false,
     "olderId": "poetry-0217",
     "newerId": "poetry-0219",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4023,7 +4023,7 @@
     "isOldest": false,
     "olderId": "poetry-0218",
     "newerId": "poetry-0220",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4043,7 +4043,7 @@
     "isOldest": false,
     "olderId": "poetry-0219",
     "newerId": "poetry-0221",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4063,7 +4063,7 @@
     "isOldest": false,
     "olderId": "poetry-0220",
     "newerId": "poetry-0222",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4083,7 +4083,7 @@
     "isOldest": false,
     "olderId": "poetry-0221",
     "newerId": "poetry-0223",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4103,7 +4103,7 @@
     "isOldest": false,
     "olderId": "poetry-0222",
     "newerId": "poetry-0224",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4123,7 +4123,7 @@
     "isOldest": false,
     "olderId": "poetry-0223",
     "newerId": "poetry-0225",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4143,7 +4143,7 @@
     "isOldest": false,
     "olderId": "poetry-0224",
     "newerId": "poetry-0226",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4163,7 +4163,7 @@
     "isOldest": false,
     "olderId": "poetry-0225",
     "newerId": "poetry-0227",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4183,7 +4183,7 @@
     "isOldest": false,
     "olderId": "poetry-0226",
     "newerId": "poetry-0228",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4203,7 +4203,7 @@
     "isOldest": false,
     "olderId": "poetry-0227",
     "newerId": "poetry-0229",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4223,7 +4223,7 @@
     "isOldest": false,
     "olderId": "poetry-0228",
     "newerId": "poetry-0230",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4243,7 +4243,7 @@
     "isOldest": false,
     "olderId": "poetry-0229",
     "newerId": "poetry-0231",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4263,7 +4263,7 @@
     "isOldest": false,
     "olderId": "poetry-0230",
     "newerId": "poetry-0232",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4283,7 +4283,7 @@
     "isOldest": false,
     "olderId": "poetry-0231",
     "newerId": "poetry-0233",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4303,7 +4303,7 @@
     "isOldest": false,
     "olderId": "poetry-0232",
     "newerId": "poetry-0234",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4323,7 +4323,7 @@
     "isOldest": false,
     "olderId": "poetry-0233",
     "newerId": "poetry-0235",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4343,7 +4343,7 @@
     "isOldest": false,
     "olderId": "poetry-0234",
     "newerId": "poetry-0236",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4363,7 +4363,7 @@
     "isOldest": false,
     "olderId": "poetry-0235",
     "newerId": "poetry-0237",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4383,7 +4383,7 @@
     "isOldest": false,
     "olderId": "poetry-0236",
     "newerId": "poetry-0238",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4403,7 +4403,7 @@
     "isOldest": false,
     "olderId": "poetry-0237",
     "newerId": "poetry-0239",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4423,7 +4423,7 @@
     "isOldest": false,
     "olderId": "poetry-0238",
     "newerId": "poetry-0240",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4443,7 +4443,7 @@
     "isOldest": false,
     "olderId": "poetry-0239",
     "newerId": "poetry-0241",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4463,7 +4463,7 @@
     "isOldest": false,
     "olderId": "poetry-0240",
     "newerId": "poetry-0242",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4483,7 +4483,7 @@
     "isOldest": false,
     "olderId": "poetry-0241",
     "newerId": "poetry-0243",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4503,7 +4503,7 @@
     "isOldest": false,
     "olderId": "poetry-0242",
     "newerId": "poetry-0244",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4523,7 +4523,7 @@
     "isOldest": false,
     "olderId": "poetry-0243",
     "newerId": "poetry-0245",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4543,7 +4543,7 @@
     "isOldest": false,
     "olderId": "poetry-0244",
     "newerId": "poetry-0246",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4563,7 +4563,7 @@
     "isOldest": false,
     "olderId": "poetry-0245",
     "newerId": "poetry-0247",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4583,7 +4583,7 @@
     "isOldest": false,
     "olderId": "poetry-0246",
     "newerId": "poetry-0248",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4603,7 +4603,7 @@
     "isOldest": false,
     "olderId": "poetry-0247",
     "newerId": "poetry-0249",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4623,7 +4623,7 @@
     "isOldest": false,
     "olderId": "poetry-0248",
     "newerId": "poetry-0250",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4643,7 +4643,7 @@
     "isOldest": false,
     "olderId": "poetry-0249",
     "newerId": "poetry-0251",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4663,7 +4663,7 @@
     "isOldest": false,
     "olderId": "poetry-0250",
     "newerId": "poetry-0252",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4683,7 +4683,7 @@
     "isOldest": false,
     "olderId": "poetry-0251",
     "newerId": "poetry-0253",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4703,7 +4703,7 @@
     "isOldest": false,
     "olderId": "poetry-0252",
     "newerId": "poetry-0254",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4723,7 +4723,7 @@
     "isOldest": false,
     "olderId": "poetry-0253",
     "newerId": "poetry-0255",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4743,7 +4743,7 @@
     "isOldest": false,
     "olderId": "poetry-0254",
     "newerId": "poetry-0256",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4763,7 +4763,7 @@
     "isOldest": false,
     "olderId": "poetry-0255",
     "newerId": "poetry-0257",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4783,7 +4783,7 @@
     "isOldest": false,
     "olderId": "poetry-0256",
     "newerId": "poetry-0258",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4803,7 +4803,7 @@
     "isOldest": false,
     "olderId": "poetry-0257",
     "newerId": "poetry-0259",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4823,7 +4823,7 @@
     "isOldest": false,
     "olderId": "poetry-0258",
     "newerId": "poetry-0260",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4843,7 +4843,7 @@
     "isOldest": false,
     "olderId": "poetry-0259",
     "newerId": "poetry-0261",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4863,7 +4863,7 @@
     "isOldest": false,
     "olderId": "poetry-0260",
     "newerId": "poetry-0262",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4883,7 +4883,7 @@
     "isOldest": false,
     "olderId": "poetry-0261",
     "newerId": "poetry-0263",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4903,7 +4903,7 @@
     "isOldest": false,
     "olderId": "poetry-0262",
     "newerId": "poetry-0264",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4923,7 +4923,7 @@
     "isOldest": false,
     "olderId": "poetry-0263",
     "newerId": "poetry-0265",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4943,7 +4943,7 @@
     "isOldest": false,
     "olderId": "poetry-0264",
     "newerId": "poetry-0266",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4963,7 +4963,7 @@
     "isOldest": false,
     "olderId": "poetry-0265",
     "newerId": "poetry-0267",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -4983,7 +4983,7 @@
     "isOldest": false,
     "olderId": "poetry-0266",
     "newerId": "poetry-0268",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -5003,7 +5003,7 @@
     "isOldest": false,
     "olderId": "poetry-0267",
     "newerId": "poetry-0269",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -5023,7 +5023,7 @@
     "isOldest": false,
     "olderId": "poetry-0268",
     "newerId": "poetry-0270",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -5043,7 +5043,7 @@
     "isOldest": false,
     "olderId": "poetry-0269",
     "newerId": "poetry-0271",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -5063,7 +5063,7 @@
     "isOldest": false,
     "olderId": "poetry-0270",
     "newerId": "poetry-0272",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -5083,7 +5083,7 @@
     "isOldest": false,
     "olderId": "poetry-0271",
     "newerId": "poetry-0273",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -5103,7 +5103,7 @@
     "isOldest": false,
     "olderId": "poetry-0272",
     "newerId": "poetry-0274",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -5123,7 +5123,7 @@
     "isOldest": false,
     "olderId": "poetry-0273",
     "newerId": "poetry-0275",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -5143,7 +5143,7 @@
     "isOldest": false,
     "olderId": "poetry-0274",
     "newerId": "poetry-0276",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -5163,7 +5163,7 @@
     "isOldest": false,
     "olderId": "poetry-0275",
     "newerId": "poetry-0277",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   },
   {
@@ -5174,16 +5174,36 @@
     "timestamp": "Wednesday, December 2nd 2020, 10:41:19 pm",
     "id": "poetry-0277",
     "data": {
-      "text": "The best kind of trouble is the trouble you create for yourself,\nthere is no limit to how elaborate of a problem you can invent.\n\nRelativity and contrast play a very important role here,\nthe lower you are and the higher you aim the more it is worth the trouble.\n\nIt is safe to say that a nice and comfortable bed with an electric blanket,\non a quiet and sleepy afternoon is a pretty good low.\n\nA pretty good height to reach is either ten miles by foot,\nor 1,500 miles by car where it usually involves a beach somewhere.\n\nMoreover, you need a team deadline, a snooze button, a soon to end semester,\nand an ungrateful team where you do all the work, add a few bullies...\n\nand your co-worker whispering:\n\"Why did she get a raise, she doesn't know anything\" - emphasizing \"she doesn't know\".\n\nWhile not purrfect, this is a really good start,\nand erasing the deadline from its existence, is a sweet-sweet cherry on top.\n\nThere are too more things you could use, a handful or ungrateful friends,\nand a really well thought out backpack, and a large solar charger you can hang on the back.\n\nSee, you are not just headed for Key West and back,\nI m sure you will stop at all the antique stores, and hopefully pawn shops as they have good stuff too.\n\nA good pawn shop somewhere down in Florida or by an ocean is sure to have a cheap Wet Suit,\nit is a little known fact that they aid your buoyancy, it is like wrapping your self in a wee boat.\n\nI think it is really important to consider stopping by the highway accessible State Parks,\nthey are usually there because something beautiful is going on.\n\nYou never know what you find, it could be a little lake, maybe enormous dunes,\nit could be a hill with a historic watchtower of a lookout, or it could be a stable, with horses.\n\nPersonally, I think it is disrespectful for a man to sit on a poor animal,\nbut it is fine for a woman.\n\nAnd you certainly don't want to realize come your late golden age,\nthat you never rode a horse, and yet you always knew that you were a cowgirl at heart.\n\nNow, you see what I am saying, you go from a warm and cozy blanket on a lazy afternoon, facing an ugly week,\nto wondering how to make the damn animal stop galloping, because by now you are in the middle of the woods.\n\nAn hour later as you lead your new equine fiend back,\nit won't be just that you soul and heart are filling with beauty...\n\n...but somehow you will also gain a sense for how irrelevant your deadline was,\nhow nearly falling from your new spirit animal and soul-mate combined to repair your perspective.\n\nIt is never enough to merely dump indoctrination and repair misconceptions,\nthere is also a kind of a fog-of-war that luls you into a life that frankly, you already made too many compromises for.\n\nIn real life you do things out of love, in the other kind of life you compromise,\nand do that long enough and you will find yourself hardly noticing that you are walking a stranger's road - that ain't good.\n\nEventually, you pet and pat you horse, give the caretaker a smile,\nand stop at the next park.\n\nThe more stops you make, the more you will heal and the faster you will catch up with growing up,\nyou can almost feel it in your hands, they will fell empty without a journal.\n\nNow, let me just pause here for a second, and remind you, that you are removing unimportant things from your life,\nbe good to your journal, failing that get a second one, as the first one won't last long at all.\n\nDon't make the same mistake I did, I bought this beautiful leather bound thing,\nand figured why don't I use a pencil at first...\n\n...smart right?\n\nIt took me hours to try to erase the pages, and most of them still had annoying little bits of letters on it,\ntreat your journal like a friend, and speak in wee little bits.\n\nIf you want to speak at length,\ndo what I am doing, give advice, make a little audio file and put it on the internet.\n\nHealing will make it so that you will want to erase it because it will sound \"dumb\" to you after a bit,\nbut that is only because you are growing really quickly, catching up, others still need the simpler thoughts.\n\nA lot of people will stay in bed,\nthey will meet the deadline, and that snooze button will slowly turn their joy of life off.\n\nThere is still hope for them, maybe the boss will be mentally ill, hopefully,\nshe could then come around and tell them \"Hey! you will never get a raise again?\", that could still snap them out of it.\n\nBut, if the boss is not fully crazed,\nyou are their last hope.\n\nThe trouble you go through to learn to jog,\nor try to hit every state park, without really caring much for actually making it to Key West.\n\nAs all end of the road towns are tourist traps,\nso, it is true when they say it is the journey, not the destination.\n\nExcept maybe for those six toed cats that Ernest Hemingway left behind in his Key West home,\nvery few things will surprise you with independence, and a cat probably capable of of grasping tools is one of them.\n\nYeah, all the trouble, and little pit stops, and furry or maned discoveries, serve as a call to health,\nto all those who are almost ready for it, but not quite there.\n\nNo human should lead the life of a house cat,\nwe are very dynamic, and doing beautiful unusual things helps us stay healthy.\n\nOne, time, I camped next to a couple that brought their two year old to a hike-in site,\nit was clearly the husband's idea, the wife was angry, and the kid was crying...\n\nIt was a nice try, but they needed more vacations, and more babysitters,\nand not just camping, but jogging, trail running, and a plan to visit all the famous lighthouses.\n\nI am sure she loved the trouble of camping when they started dating,\nnow the inconvenience of it all was making the poor lady, angry, out of the storm of stress.\n\nI am certain, that she was blaming her self for it,\nand thinking of her self as just that kind of a person, nobody is angry like that.\n\nBetween the three of them, they had everything in the universe, except the trouble was so overwhelming and the fog-of-war so thick.\nThat this, clearly, mighty and courageous mom, was only racing forward to get stuff done.\n\nThey stayed the weekend,\nbut they needed at least three weeks if not months.\n\nThey needed to stop racing forward,\nthey needed more adventures, more \"inconvenience\", more trouble-making as I call it.\n\nThat woman in particular struck me as someone who needed to run the Western States 100,\nshe had the power for it, no, she has a soul for it.\n\nSee emanated the mana that bespoke that,\nthe standard marathons needed to qualify for western states meant nothing to her, it was just a blistering formality.\n\nAnyway, still a glorious couple,\nand their little one will surely grow up to be an adventurer.\n\nAside from a raccoon I named Friday, using his cute little hands to soil my hot dog buns,\nthat week brought in another mighty being - this time a teenage boy.\n\nHis father passed away, and he pushed himself too far,\nthe psychologist put him on permanent medicine.\n\nI had the great honor of speaking to him, he told me he slept in fields and ditches,\nbut he had his sister, or mom, looking out for him.\n\nHe was a Powerful Troublemaker,\nI told him we need to care for ourselves, our bodies need vitamins, electrolytes, our minds need whatever they need.\n\n\"There is no such thing as crazy,\nyou just went through a lot in life, it was your life that got crazy.\" - I said to him.\n\nA thousand miles on a bicycle, which according to my maps requires a little trip to Canada, and a ferry,\nis all the proof needed that the kid was really special.\n\nI returned to my camp, and a day or two later,\na shadowy figure visited him, his mom probably, and without me paying attention I've noticed it was a slow and mighty, and very heavy conversation.\n\nKnowing he was well, I hope he continued his bicycling, at least to the upper peninsula,\nthough there was a ferry near by, so maybe he was headed for Chicago, I hope they both went.\n\nSee, here is a child well on his way to become a great being,\nhe was learning wisdom, and all he needed was backpack, a bicycle, and a thousand miles of road.\n\nTrouble-making is no joke, it an art,\nand it is medicine worthy of great heroes.\n\nIf you, my Dear Reader, get stuck, or stung, or scared, or get stuck in a fog of war,\nknow that it is not a time to try harder, and push harder, and let me tell you why without mincing words:\n\nBecause you are absolutely irreplaceable,\nand - what you think your flaws are - aren't, they are not flaws, this is your uniqueness.\n\nYou will only exist once in the universe,\nand though you can rain wrath precisely like a god, you also need to pace yourself.\n\nThe best kind of a Warrior is a Laughing Philosopher,\nnot a Berserker (that's too easy), be an Artist.\n\nIt is a huge part of the art of living,\nto quit blaming yourself for being angry, or clumsy, or never finishing anything you start, or never finding the right person.\n\nYou are not angry, there is nothing wrong with you,\nyou just took on so much weight and made so many compromises that there is no more time left for you to be yourself.\n\nI know it sounds awful when I say something as simple and go ride a bicycle, or a horse,\nor give the campsite raccoons so much anxiety that they start clawing their way into nice people's backpacks.\n\nBut that is how it works, the way out of fog of war,\nmust be simple so that you have no trouble taking it.\n\nNo one is asking you to drop out of school permanently,\nyou're not going to be homeless, you will find a better job.\n\nYou only need to say the truth to your next employer,\nyour mental health, and your joy of life, and a balanced existence is critical to a healthy existence.\n\nJust because someone can lay down their life to meet a deadline whilst kissing ass and never asking for a raise,\nit does not mean anybody healthy will ever try.\n\nIf principals or teachers, or management or anything gets crazy on you,\ndon't quit, just don't comply because doing so will hurt you, just take a vacation, because your mental and physical health is more important than anything else, period.\n\nIf you are still not hearing this, if you are still not ready not to sacrifice yourself,\nlet me say this, there is a lot of people out there who like that Mighty Teenager do have a breaking point that will scare the bajezus out of a shrink, who is only too happy to prescribe something.\n\nYour self-compassion, your dignity, your beauty,\nand the power that your laughter, your foolishness, your silliness, your mischievousness, and above all your giggles exert on the universe that surrounds you is to important to us all for you to keep walking a path that is hurting you.\n\nYou are irreplaceable, and when you rise, and choose to share your stories,\nyou will build roads for others to follow.\n\nBy not putting up with what is hurting you,\nyou make the Universe a better place by becoming a beacon of sanity for those who will hear of your adventures.\n\nReturning to school or job with with this dignity and integrity of mind,\nwill change the way people treat you.\n\nNot just your confidence, but your wisdom, and strength, and balance,\nwill alter your body language.\n\nStressed people and relaxed people, give off different behavioral clues,\npeople including those in charge of budgets can read that very easily.\n\nTerrible people who lack compassion are everywhere,\nsometimes stressed out people will be abused with more stress just because they keep taking it on.\n\nThings get supremely complicated,\nin ways that we can't always understand.\n\nFor example the reason why someone loses their 4.0 may have nothing to do with their performance,\nbut with the teacher giving out too many A/s in the previous semester, and now just trying to average things out with the people who never complain, so that the dean doesn't come around complaining that his class sticks out.\n\nIt doesn't matter if it is High School, or College, or what used to be a Dream Job,\nthere are unethical fake it until you make it people covering their asses everywhere, it is a tragedy that someone like that should become a reason behind someone's years of suffering.\n\nThese are simple examples I am making up,\nin real life, there is no understanding of all the motives as people who never grew up, constantly interact with each other to to do less, and get more,\n\nTrouble-making is just a lighthearted way of leaving all that noise behind,\nand regaining your own beauty, and strengths, and awe for the world around you.\n\nGive yourself some trouble that actually makes you better for a change.\nif the path you re walking on feels wrong, you need to begin preparing an adventure backpack.\n\nA very special Monday is coming around,\nyour clock will go off just like always.\n\nBut this time it will die with a sad whimper as you - slowly and deliberately - unplug it from the wall,\nand return to sleep, not worried about your deadline, job or school, but simply knowing full well, that they don't matter anymore; because your well being is infinitely more important.\n\nThen get into your car, or on a bus, and set a direction for sunny weather,\ndrive, fly, just go, and do not wait to create your rules of adventure, do it as soon as possible.\n\nWhen your health returns to you,\nyou'll know exactly where you are going, and schools will always take you back, and jobs that hurt you are now worthy of your concern at all.\n\nDon't make plans about the rest of your life until you catch up where you need to be and become wiser as think things through.\n\nAnd finally, if you don't like the idea of trouble making,\nthen between You and I let us call it: Love of Life.",
-      "html": "<section>\n  <p>The best kind of trouble is the trouble you create for yourself,</p>\n  <p>there is no limit to how elaborate of a problem you can invent.</p>\n</section>\n\n<section>\n  <p>Relativity and contrast play a very important role here,</p>\n  <p>the lower you are and the higher you aim the more it is worth the trouble.</p>\n</section>\n\n<section>\n  <p>It is safe to say that a nice and comfortable bed with an electric blanket,</p>\n  <p>on a quiet and sleepy afternoon is a pretty good low.</p>\n</section>\n\n<section>\n  <p>A pretty good height to reach is either ten miles by foot,</p>\n  <p>or 1,500 miles by car where it usually involves a beach somewhere.</p>\n</section>\n\n<section>\n  <p>Moreover, you need a team deadline, a snooze button, a soon to end semester,</p>\n  <p>and an ungrateful team where you do all the work, add a few bullies...</p>\n</section>\n\n<section>\n  <p>and your co-worker whispering:</p>\n  <p>&quot;Why did she get a raise, she doesn&apos;t know anything&quot; - emphasizing &quot;she doesn&apos;t know&quot;.</p>\n</section>\n\n<section>\n  <p>While not purrfect, this is a really good start,</p>\n  <p>and erasing the deadline from its existence, is a sweet-sweet cherry on top.</p>\n</section>\n\n<section>\n  <p>There are too more things you could use, a handful or ungrateful friends,</p>\n  <p>and a really well thought out backpack, and a large solar charger you can hang on the back.</p>\n</section>\n\n<section>\n  <p>See, you are not just headed for Key West and back,</p>\n  <p>I m sure you will stop at all the antique stores, and hopefully pawn shops as they have good stuff too.</p>\n</section>\n\n<section>\n  <p>A good pawn shop somewhere down in Florida or by an ocean is sure to have a cheap Wet Suit,</p>\n  <p>it is a little known fact that they aid your buoyancy, it is like wrapping your self in a wee boat.</p>\n</section>\n\n<section>\n  <p>I think it is really important to consider stopping by the highway accessible State Parks,</p>\n  <p>they are usually there because something beautiful is going on.</p>\n</section>\n\n<section>\n  <p>You never know what you find, it could be a little lake, maybe enormous dunes,</p>\n  <p>it could be a hill with a historic watchtower of a lookout, or it could be a stable, with horses.</p>\n</section>\n\n<section>\n  <p>Personally, I think it is disrespectful for a man to sit on a poor animal,</p>\n  <p>but it is fine for a woman.</p>\n</section>\n\n<section>\n  <p>And you certainly don&apos;t want to realize come your late golden age,</p>\n  <p>that you never rode a horse, and yet you always knew that you were a cowgirl at heart.</p>\n</section>\n\n<section>\n  <p>Now, you see what I am saying, you go from a warm and cozy blanket on a lazy afternoon, facing an ugly week,</p>\n  <p>to wondering how to make the damn animal stop galloping, because by now you are in the middle of the woods.</p>\n</section>\n\n<section>\n  <p>An hour later as you lead your new equine fiend back,</p>\n  <p>it won&apos;t be just that you soul and heart are filling with beauty...</p>\n</section>\n\n<section>\n  <p>...but somehow you will also gain a sense for how irrelevant your deadline was,</p>\n  <p>how nearly falling from your new spirit animal and soul-mate combined to repair your perspective.</p>\n</section>\n\n<section>\n  <p>It is never enough to merely dump indoctrination and repair misconceptions,</p>\n  <p>there is also a kind of a fog-of-war that luls you into a life that frankly, you already made too many compromises for.</p>\n</section>\n\n<section>\n  <p>In real life you do things out of love, in the other kind of life you compromise,</p>\n  <p>and do that long enough and you will find yourself hardly noticing that you are walking a stranger&apos;s road - that ain&apos;t good.</p>\n</section>\n\n<section>\n  <p>Eventually, you pet and pat you horse, give the caretaker a smile,</p>\n  <p>and stop at the next park.</p>\n</section>\n\n<section>\n  <p>The more stops you make, the more you will heal and the faster you will catch up with growing up,</p>\n  <p>you can almost feel it in your hands, they will fell empty without a journal.</p>\n</section>\n\n<section>\n  <p>Now, let me just pause here for a second, and remind you, that you are removing unimportant things from your life,</p>\n  <p>be good to your journal, failing that get a second one, as the first one won&apos;t last long at all.</p>\n</section>\n\n<section>\n  <p>Don&apos;t make the same mistake I did, I bought this beautiful leather bound thing,</p>\n  <p>and figured why don&apos;t I use a pencil at first...</p>\n</section>\n\n<section>\n  <p>...smart right?</p>\n</section>\n\n<section>\n  <p>It took me hours to try to erase the pages, and most of them still had annoying little bits of letters on it,</p>\n  <p>treat your journal like a friend, and speak in wee little bits.</p>\n</section>\n\n<section>\n  <p>If you want to speak at length,</p>\n  <p>do what I am doing, give advice, make a little audio file and put it on the internet.</p>\n</section>\n\n<section>\n  <p>Healing will make it so that you will want to erase it because it will sound &quot;dumb&quot; to you after a bit,</p>\n  <p>but that is only because you are growing really quickly, catching up, others still need the simpler thoughts.</p>\n</section>\n\n<section>\n  <p>A lot of people will stay in bed,</p>\n  <p>they will meet the deadline, and that snooze button will slowly turn their joy of life off.</p>\n</section>\n\n<section>\n  <p>There is still hope for them, maybe the boss will be mentally ill, hopefully,</p>\n  <p>she could then come around and tell them &quot;Hey! you will never get a raise again?&quot;, that could still snap them out of it.</p>\n</section>\n\n<section>\n  <p>But, if the boss is not fully crazed,</p>\n  <p>you are their last hope.</p>\n</section>\n\n<section>\n  <p>The trouble you go through to learn to jog,</p>\n  <p>or try to hit every state park, without really caring much for actually making it to Key West.</p>\n</section>\n\n<section>\n  <p>As all end of the road towns are tourist traps,</p>\n  <p>so, it is true when they say it is the journey, not the destination.</p>\n</section>\n\n<section>\n  <p>Except maybe for those six toed cats that Ernest Hemingway left behind in his Key West home,</p>\n  <p>very few things will surprise you with independence, and a cat probably capable of of grasping tools is one of them.</p>\n</section>\n\n<section>\n  <p>Yeah, all the trouble, and little pit stops, and furry or maned discoveries, serve as a call to health,</p>\n  <p>to all those who are almost ready for it, but not quite there.</p>\n</section>\n\n<section>\n  <p>No human should lead the life of a house cat,</p>\n  <p>we are very dynamic, and doing beautiful unusual things helps us stay healthy.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>One, time, I camped next to a couple that brought their two year old to a hike-in site,</p>\n  <p>it was clearly the husband&apos;s idea, the wife was angry, and the kid was crying...</p>\n</section>\n\n<section>\n  <p>It was a nice try, but they needed more vacations, and more babysitters,</p>\n  <p>and not just camping, but jogging, trail running, and a plan to visit all the famous lighthouses.</p>\n</section>\n\n<section>\n  <p>I am sure she loved the trouble of camping when they started dating,</p>\n  <p>now the inconvenience of it all was making the poor lady, angry, out of the storm of stress.</p>\n</section>\n\n<section>\n  <p>I am certain, that she was blaming her self for it,</p>\n  <p>and thinking of her self as just that kind of a person, nobody is angry like that.</p>\n</section>\n\n<section>\n  <p>Between the three of them, they had everything in the universe, except the trouble was so overwhelming and the fog-of-war so thick.</p>\n  <p>That this, clearly, mighty and courageous mom, was only racing forward to get stuff done.</p>\n</section>\n\n<section>\n  <p>They stayed the weekend,</p>\n  <p>but they needed at least three weeks if not months.</p>\n</section>\n\n<section>\n  <p>They needed to stop racing forward,</p>\n  <p>they needed more adventures, more &quot;inconvenience&quot;, more trouble-making as I call it.</p>\n</section>\n\n<section>\n  <p>That woman in particular struck me as someone who needed to run the Western States 100,</p>\n  <p>she had the power for it, no, she has a soul for it.</p>\n</section>\n\n<section>\n  <p>See emanated the mana that bespoke that,</p>\n  <p>the standard marathons needed to qualify for western states meant nothing to her, it was just a blistering formality.</p>\n</section>\n\n<section>\n  <p>Anyway, still a glorious couple,</p>\n  <p>and their little one will surely grow up to be an adventurer.</p>\n</section>\n\n<section>\n  <p>Aside from a raccoon I named Friday, using his cute little hands to soil my hot dog buns,</p>\n  <p>that week brought in another mighty being - this time a teenage boy.</p>\n</section>\n\n<section>\n  <p>His father passed away, and he pushed himself too far,</p>\n  <p>the psychologist put him on permanent medicine.</p>\n</section>\n\n<section>\n  <p>I had the great honor of speaking to him, he told me he slept in fields and ditches,</p>\n  <p>but he had his sister, or mom, looking out for him.</p>\n</section>\n\n<section>\n  <p>He was a Powerful Troublemaker,</p>\n  <p>I told him we need to care for ourselves, our bodies need vitamins, electrolytes, our minds need whatever they need.</p>\n</section>\n\n<section>\n  <p>&quot;There is no such thing as crazy,</p>\n  <p>you just went through a lot in life, it was your life that got crazy.&quot; - I said to him.</p>\n</section>\n\n<section>\n  <p>A thousand miles on a bicycle, which according to my maps requires a little trip to Canada, and a ferry,</p>\n  <p>is all the proof needed that the kid was really special.</p>\n</section>\n\n<section>\n  <p>I returned to my camp, and a day or two later,</p>\n  <p>a shadowy figure visited him, his mom probably, and without me paying attention I&apos;ve noticed it was a slow and mighty, and very heavy conversation.</p>\n</section>\n\n<section>\n  <p>Knowing he was well, I hope he continued his bicycling, at least to the upper peninsula,</p>\n  <p>though there was a ferry near by, so maybe he was headed for Chicago, I hope they both went.</p>\n</section>\n\n<section>\n  <p>See, here is a child well on his way to become a great being,</p>\n  <p>he was learning wisdom, and all he needed was backpack, a bicycle, and a thousand miles of road.</p>\n</section>\n\n<section>\n  <p>Trouble-making is no joke, it an art,</p>\n  <p>and it is medicine worthy of great heroes.</p>\n</section>\n\n<section>\n  <p>If you, my Dear Reader, get stuck, or stung, or scared, or get stuck in a fog of war,</p>\n  <p>know that it is not a time to try harder, and push harder, and let me tell you why without mincing words:</p>\n</section>\n\n<section>\n  <p>Because you are absolutely irreplaceable,</p>\n  <p>and - what you think your flaws are - aren&apos;t, they are not flaws, this is your uniqueness.</p>\n</section>\n\n<section>\n  <p>You will only exist once in the universe,</p>\n  <p>and though you can rain wrath precisely like a god, you also need to pace yourself.</p>\n</section>\n\n<section>\n  <p>The best kind of a Warrior is a Laughing Philosopher,</p>\n  <p>not a Berserker (that&apos;s too easy), be an Artist.</p>\n</section>\n\n<section>\n  <p>It is a huge part of the art of living,</p>\n  <p>to quit blaming yourself for being angry, or clumsy, or never finishing anything you start, or never finding the right person.</p>\n</section>\n\n<section>\n  <p>You are not angry, there is nothing wrong with you,</p>\n  <p>you just took on so much weight and made so many compromises that there is no more time left for you to be yourself.</p>\n</section>\n\n<section>\n  <p>I know it sounds awful when I say something as simple and go ride a bicycle, or a horse,</p>\n  <p>or give the campsite raccoons so much anxiety that they start clawing their way into nice people&apos;s backpacks.</p>\n</section>\n\n<section>\n  <p>But that is how it works, the way out of fog of war,</p>\n  <p>must be simple so that you have no trouble taking it.</p>\n</section>\n\n<section>\n  <p>No one is asking you to drop out of school permanently,</p>\n  <p>you&apos;re not going to be homeless, you will find a better job.</p>\n</section>\n\n<section>\n  <p>You only need to say the truth to your next employer,</p>\n  <p>your mental health, and your joy of life, and a balanced existence is critical to a healthy existence.</p>\n</section>\n\n<section>\n  <p>Just because someone can lay down their life to meet a deadline whilst kissing ass and never asking for a raise,</p>\n  <p>it does not mean anybody healthy will ever try.</p>\n</section>\n\n<section>\n  <p>If principals or teachers, or management or anything gets crazy on you,</p>\n  <p>don&apos;t quit, just don&apos;t comply because doing so will hurt you, just take a vacation, because your mental and physical health is more important than anything else, period.</p>\n</section>\n\n<section>\n  <p>If you are still not hearing this, if you are still not ready not to sacrifice yourself,</p>\n  <p>let me say this, there is a lot of people out there who like that Mighty Teenager do have a breaking point that will scare the bajezus out of a shrink, who is only too happy to prescribe something.</p>\n</section>\n\n<section>\n  <p>Your self-compassion, your dignity, your beauty,</p>\n  <p>and the power that your laughter, your foolishness, your silliness, your mischievousness, and above all your giggles exert on the universe that surrounds you is to important to us all for you to keep walking a path that is hurting you.</p>\n</section>\n\n<section>\n  <p>You are irreplaceable, and when you rise, and choose to share your stories,</p>\n  <p>you will build roads for others to follow.</p>\n</section>\n\n<section>\n  <p>By not putting up with what is hurting you,</p>\n  <p>you make the Universe a better place by becoming a beacon of sanity for those who will hear of your adventures.</p>\n</section>\n\n<section>\n  <p>Returning to school or job with with this dignity and integrity of mind,</p>\n  <p>will change the way people treat you.</p>\n</section>\n\n<section>\n  <p>Not just your confidence, but your wisdom, and strength, and balance,</p>\n  <p>will alter your body language.</p>\n</section>\n\n<section>\n  <p>Stressed people and relaxed people, give off different behavioral clues,</p>\n  <p>people including those in charge of budgets can read that very easily.</p>\n</section>\n\n<section>\n  <p>Terrible people who lack compassion are everywhere,</p>\n  <p>sometimes stressed out people will be abused with more stress just because they keep taking it on.</p>\n</section>\n\n<section>\n  <p>Things get supremely complicated,</p>\n  <p>in ways that we can&apos;t always understand.</p>\n</section>\n\n<section>\n  <p>For example the reason why someone loses their 4.0 may have nothing to do with their performance,</p>\n  <p>but with the teacher giving out too many A/s in the previous semester, and now just trying to average things out with the people who never complain, so that the dean doesn&apos;t come around complaining that his class sticks out.</p>\n</section>\n\n<section>\n  <p>It doesn&apos;t matter if it is High School, or College, or what used to be a Dream Job,</p>\n  <p>there are unethical fake it until you make it people covering their asses everywhere, it is a tragedy that someone like that should become a reason behind someone&apos;s years of suffering.</p>\n</section>\n\n<section>\n  <p>These are simple examples I am making up,</p>\n  <p>in real life, there is no understanding of all the motives as people who never grew up, constantly interact with each other to to do less, and get more,</p>\n</section>\n\n<section>\n  <p>Trouble-making is just a lighthearted way of leaving all that noise behind,</p>\n  <p>and regaining your own beauty, and strengths, and awe for the world around you.</p>\n</section>\n\n<section>\n  <p>Give yourself some trouble that actually makes you better for a change.</p>\n  <p>if the path you re walking on feels wrong, you need to begin preparing an adventure backpack.</p>\n</section>\n\n<section>\n  <p>A very special Monday is coming around,</p>\n  <p>your clock will go off just like always.</p>\n</section>\n\n<section>\n  <p>But this time it will die with a sad whimper as you - slowly and deliberately - unplug it from the wall,</p>\n  <p>and return to sleep, not worried about your deadline, job or school, but simply knowing full well, that they don&apos;t matter anymore; because your well being is infinitely more important.</p>\n</section>\n\n<section>\n  <p>Then get into your car, or on a bus, and set a direction for sunny weather,</p>\n  <p>drive, fly, just go, and do not wait to create your rules of adventure, do it as soon as possible.</p>\n</section>\n\n<section>\n  <p>When your health returns to you,</p>\n  <p>you&apos;ll know exactly where you are going, and schools will always take you back, and jobs that hurt you are now worthy of your concern at all.</p>\n</section>\n\n<section>\n  <p>Don&apos;t make plans about the rest of your life until you catch up where you need to be and become wiser as think things through.</p>\n</section>\n\n<section>\n  <p>And finally, if you don&apos;t like the idea of trouble making,</p>\n  <p>then between You and I let us call it: Love of Life.</p>\n</section>",
-      "page": "<html>\n\n  <head>\n    <title>The Serious Business Of Trouble-making</title>\n\n\n\n  </head>\n\n  <body>\n    <section><img src=\"image/poetry-0277-illustration.jpg\"></section>\n    <section>\n      <p><a href=\"audio/poetry-0277.mp3\">Audio Version</a></p>\n    </section>\n\n    <section>\n      <p>The best kind of trouble is the trouble you create for yourself,</p>\n      <p>there is no limit to how elaborate of a problem you can invent.</p>\n    </section>\n\n    <section>\n      <p>Relativity and contrast play a very important role here,</p>\n      <p>the lower you are and the higher you aim the more it is worth the trouble.</p>\n    </section>\n\n    <section>\n      <p>It is safe to say that a nice and comfortable bed with an electric blanket,</p>\n      <p>on a quiet and sleepy afternoon is a pretty good low.</p>\n    </section>\n\n    <section>\n      <p>A pretty good height to reach is either ten miles by foot,</p>\n      <p>or 1,500 miles by car where it usually involves a beach somewhere.</p>\n    </section>\n\n    <section>\n      <p>Moreover, you need a team deadline, a snooze button, a soon to end semester,</p>\n      <p>and an ungrateful team where you do all the work, add a few bullies...</p>\n    </section>\n\n    <section>\n      <p>and your co-worker whispering:</p>\n      <p>&quot;Why did she get a raise, she doesn&apos;t know anything&quot; - emphasizing &quot;she doesn&apos;t know&quot;.</p>\n    </section>\n\n    <section>\n      <p>While not purrfect, this is a really good start,</p>\n      <p>and erasing the deadline from its existence, is a sweet-sweet cherry on top.</p>\n    </section>\n\n    <section>\n      <p>There are too more things you could use, a handful or ungrateful friends,</p>\n      <p>and a really well thought out backpack, and a large solar charger you can hang on the back.</p>\n    </section>\n\n    <section>\n      <p>See, you are not just headed for Key West and back,</p>\n      <p>I m sure you will stop at all the antique stores, and hopefully pawn shops as they have good stuff too.</p>\n    </section>\n\n    <section>\n      <p>A good pawn shop somewhere down in Florida or by an ocean is sure to have a cheap Wet Suit,</p>\n      <p>it is a little known fact that they aid your buoyancy, it is like wrapping your self in a wee boat.</p>\n    </section>\n\n    <section>\n      <p>I think it is really important to consider stopping by the highway accessible State Parks,</p>\n      <p>they are usually there because something beautiful is going on.</p>\n    </section>\n\n    <section>\n      <p>You never know what you find, it could be a little lake, maybe enormous dunes,</p>\n      <p>it could be a hill with a historic watchtower of a lookout, or it could be a stable, with horses.</p>\n    </section>\n\n    <section>\n      <p>Personally, I think it is disrespectful for a man to sit on a poor animal,</p>\n      <p>but it is fine for a woman.</p>\n    </section>\n\n    <section>\n      <p>And you certainly don&apos;t want to realize come your late golden age,</p>\n      <p>that you never rode a horse, and yet you always knew that you were a cowgirl at heart.</p>\n    </section>\n\n    <section>\n      <p>Now, you see what I am saying, you go from a warm and cozy blanket on a lazy afternoon, facing an ugly week,</p>\n      <p>to wondering how to make the damn animal stop galloping, because by now you are in the middle of the woods.</p>\n    </section>\n\n    <section>\n      <p>An hour later as you lead your new equine fiend back,</p>\n      <p>it won&apos;t be just that you soul and heart are filling with beauty...</p>\n    </section>\n\n    <section>\n      <p>...but somehow you will also gain a sense for how irrelevant your deadline was,</p>\n      <p>how nearly falling from your new spirit animal and soul-mate combined to repair your perspective.</p>\n    </section>\n\n    <section>\n      <p>It is never enough to merely dump indoctrination and repair misconceptions,</p>\n      <p>there is also a kind of a fog-of-war that luls you into a life that frankly, you already made too many compromises for.</p>\n    </section>\n\n    <section>\n      <p>In real life you do things out of love, in the other kind of life you compromise,</p>\n      <p>and do that long enough and you will find yourself hardly noticing that you are walking a stranger&apos;s road - that ain&apos;t good.</p>\n    </section>\n\n    <section>\n      <p>Eventually, you pet and pat you horse, give the caretaker a smile,</p>\n      <p>and stop at the next park.</p>\n    </section>\n\n    <section>\n      <p>The more stops you make, the more you will heal and the faster you will catch up with growing up,</p>\n      <p>you can almost feel it in your hands, they will fell empty without a journal.</p>\n    </section>\n\n    <section>\n      <p>Now, let me just pause here for a second, and remind you, that you are removing unimportant things from your life,</p>\n      <p>be good to your journal, failing that get a second one, as the first one won&apos;t last long at all.</p>\n    </section>\n\n    <section>\n      <p>Don&apos;t make the same mistake I did, I bought this beautiful leather bound thing,</p>\n      <p>and figured why don&apos;t I use a pencil at first...</p>\n    </section>\n\n    <section>\n      <p>...smart right?</p>\n    </section>\n\n    <section>\n      <p>It took me hours to try to erase the pages, and most of them still had annoying little bits of letters on it,</p>\n      <p>treat your journal like a friend, and speak in wee little bits.</p>\n    </section>\n\n    <section>\n      <p>If you want to speak at length,</p>\n      <p>do what I am doing, give advice, make a little audio file and put it on the internet.</p>\n    </section>\n\n    <section>\n      <p>Healing will make it so that you will want to erase it because it will sound &quot;dumb&quot; to you after a bit,</p>\n      <p>but that is only because you are growing really quickly, catching up, others still need the simpler thoughts.</p>\n    </section>\n\n    <section>\n      <p>A lot of people will stay in bed,</p>\n      <p>they will meet the deadline, and that snooze button will slowly turn their joy of life off.</p>\n    </section>\n\n    <section>\n      <p>There is still hope for them, maybe the boss will be mentally ill, hopefully,</p>\n      <p>she could then come around and tell them &quot;Hey! you will never get a raise again?&quot;, that could still snap them out of it.</p>\n    </section>\n\n    <section>\n      <p>But, if the boss is not fully crazed,</p>\n      <p>you are their last hope.</p>\n    </section>\n\n    <section>\n      <p>The trouble you go through to learn to jog,</p>\n      <p>or try to hit every state park, without really caring much for actually making it to Key West.</p>\n    </section>\n\n    <section>\n      <p>As all end of the road towns are tourist traps,</p>\n      <p>so, it is true when they say it is the journey, not the destination.</p>\n    </section>\n\n    <section>\n      <p>Except maybe for those six toed cats that Ernest Hemingway left behind in his Key West home,</p>\n      <p>very few things will surprise you with independence, and a cat probably capable of of grasping tools is one of them.</p>\n    </section>\n\n    <section>\n      <p>Yeah, all the trouble, and little pit stops, and furry or maned discoveries, serve as a call to health,</p>\n      <p>to all those who are almost ready for it, but not quite there.</p>\n    </section>\n\n    <section>\n      <p>No human should lead the life of a house cat,</p>\n      <p>we are very dynamic, and doing beautiful unusual things helps us stay healthy.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>One, time, I camped next to a couple that brought their two year old to a hike-in site,</p>\n      <p>it was clearly the husband&apos;s idea, the wife was angry, and the kid was crying...</p>\n    </section>\n\n    <section>\n      <p>It was a nice try, but they needed more vacations, and more babysitters,</p>\n      <p>and not just camping, but jogging, trail running, and a plan to visit all the famous lighthouses.</p>\n    </section>\n\n    <section>\n      <p>I am sure she loved the trouble of camping when they started dating,</p>\n      <p>now the inconvenience of it all was making the poor lady, angry, out of the storm of stress.</p>\n    </section>\n\n    <section>\n      <p>I am certain, that she was blaming her self for it,</p>\n      <p>and thinking of her self as just that kind of a person, nobody is angry like that.</p>\n    </section>\n\n    <section>\n      <p>Between the three of them, they had everything in the universe, except the trouble was so overwhelming and the fog-of-war so thick.</p>\n      <p>That this, clearly, mighty and courageous mom, was only racing forward to get stuff done.</p>\n    </section>\n\n    <section>\n      <p>They stayed the weekend,</p>\n      <p>but they needed at least three weeks if not months.</p>\n    </section>\n\n    <section>\n      <p>They needed to stop racing forward,</p>\n      <p>they needed more adventures, more &quot;inconvenience&quot;, more trouble-making as I call it.</p>\n    </section>\n\n    <section>\n      <p>That woman in particular struck me as someone who needed to run the Western States 100,</p>\n      <p>she had the power for it, no, she has a soul for it.</p>\n    </section>\n\n    <section>\n      <p>See emanated the mana that bespoke that,</p>\n      <p>the standard marathons needed to qualify for western states meant nothing to her, it was just a blistering formality.</p>\n    </section>\n\n    <section>\n      <p>Anyway, still a glorious couple,</p>\n      <p>and their little one will surely grow up to be an adventurer.</p>\n    </section>\n\n    <section>\n      <p>Aside from a raccoon I named Friday, using his cute little hands to soil my hot dog buns,</p>\n      <p>that week brought in another mighty being - this time a teenage boy.</p>\n    </section>\n\n    <section>\n      <p>His father passed away, and he pushed himself too far,</p>\n      <p>the psychologist put him on permanent medicine.</p>\n    </section>\n\n    <section>\n      <p>I had the great honor of speaking to him, he told me he slept in fields and ditches,</p>\n      <p>but he had his sister, or mom, looking out for him.</p>\n    </section>\n\n    <section>\n      <p>He was a Powerful Troublemaker,</p>\n      <p>I told him we need to care for ourselves, our bodies need vitamins, electrolytes, our minds need whatever they need.</p>\n    </section>\n\n    <section>\n      <p>&quot;There is no such thing as crazy,</p>\n      <p>you just went through a lot in life, it was your life that got crazy.&quot; - I said to him.</p>\n    </section>\n\n    <section>\n      <p>A thousand miles on a bicycle, which according to my maps requires a little trip to Canada, and a ferry,</p>\n      <p>is all the proof needed that the kid was really special.</p>\n    </section>\n\n    <section>\n      <p>I returned to my camp, and a day or two later,</p>\n      <p>a shadowy figure visited him, his mom probably, and without me paying attention I&apos;ve noticed it was a slow and mighty, and very heavy conversation.</p>\n    </section>\n\n    <section>\n      <p>Knowing he was well, I hope he continued his bicycling, at least to the upper peninsula,</p>\n      <p>though there was a ferry near by, so maybe he was headed for Chicago, I hope they both went.</p>\n    </section>\n\n    <section>\n      <p>See, here is a child well on his way to become a great being,</p>\n      <p>he was learning wisdom, and all he needed was backpack, a bicycle, and a thousand miles of road.</p>\n    </section>\n\n    <section>\n      <p>Trouble-making is no joke, it an art,</p>\n      <p>and it is medicine worthy of great heroes.</p>\n    </section>\n\n    <section>\n      <p>If you, my Dear Reader, get stuck, or stung, or scared, or get stuck in a fog of war,</p>\n      <p>know that it is not a time to try harder, and push harder, and let me tell you why without mincing words:</p>\n    </section>\n\n    <section>\n      <p>Because you are absolutely irreplaceable,</p>\n      <p>and - what you think your flaws are - aren&apos;t, they are not flaws, this is your uniqueness.</p>\n    </section>\n\n    <section>\n      <p>You will only exist once in the universe,</p>\n      <p>and though you can rain wrath precisely like a god, you also need to pace yourself.</p>\n    </section>\n\n    <section>\n      <p>The best kind of a Warrior is a Laughing Philosopher,</p>\n      <p>not a Berserker (that&apos;s too easy), be an Artist.</p>\n    </section>\n\n    <section>\n      <p>It is a huge part of the art of living,</p>\n      <p>to quit blaming yourself for being angry, or clumsy, or never finishing anything you start, or never finding the right person.</p>\n    </section>\n\n    <section>\n      <p>You are not angry, there is nothing wrong with you,</p>\n      <p>you just took on so much weight and made so many compromises that there is no more time left for you to be yourself.</p>\n    </section>\n\n    <section>\n      <p>I know it sounds awful when I say something as simple and go ride a bicycle, or a horse,</p>\n      <p>or give the campsite raccoons so much anxiety that they start clawing their way into nice people&apos;s backpacks.</p>\n    </section>\n\n    <section>\n      <p>But that is how it works, the way out of fog of war,</p>\n      <p>must be simple so that you have no trouble taking it.</p>\n    </section>\n\n    <section>\n      <p>No one is asking you to drop out of school permanently,</p>\n      <p>you&apos;re not going to be homeless, you will find a better job.</p>\n    </section>\n\n    <section>\n      <p>You only need to say the truth to your next employer,</p>\n      <p>your mental health, and your joy of life, and a balanced existence is critical to a healthy existence.</p>\n    </section>\n\n    <section>\n      <p>Just because someone can lay down their life to meet a deadline whilst kissing ass and never asking for a raise,</p>\n      <p>it does not mean anybody healthy will ever try.</p>\n    </section>\n\n    <section>\n      <p>If principals or teachers, or management or anything gets crazy on you,</p>\n      <p>don&apos;t quit, just don&apos;t comply because doing so will hurt you, just take a vacation, because your mental and physical health is more important than anything else, period.</p>\n    </section>\n\n    <section>\n      <p>If you are still not hearing this, if you are still not ready not to sacrifice yourself,</p>\n      <p>let me say this, there is a lot of people out there who like that Mighty Teenager do have a breaking point that will scare the bajezus out of a shrink, who is only too happy to prescribe something.</p>\n    </section>\n\n    <section>\n      <p>Your self-compassion, your dignity, your beauty,</p>\n      <p>and the power that your laughter, your foolishness, your silliness, your mischievousness, and above all your giggles exert on the universe that surrounds you is to important to us all for you to keep walking a path that is hurting you.</p>\n    </section>\n\n    <section>\n      <p>You are irreplaceable, and when you rise, and choose to share your stories,</p>\n      <p>you will build roads for others to follow.</p>\n    </section>\n\n    <section>\n      <p>By not putting up with what is hurting you,</p>\n      <p>you make the Universe a better place by becoming a beacon of sanity for those who will hear of your adventures.</p>\n    </section>\n\n    <section>\n      <p>Returning to school or job with with this dignity and integrity of mind,</p>\n      <p>will change the way people treat you.</p>\n    </section>\n\n    <section>\n      <p>Not just your confidence, but your wisdom, and strength, and balance,</p>\n      <p>will alter your body language.</p>\n    </section>\n\n    <section>\n      <p>Stressed people and relaxed people, give off different behavioral clues,</p>\n      <p>people including those in charge of budgets can read that very easily.</p>\n    </section>\n\n    <section>\n      <p>Terrible people who lack compassion are everywhere,</p>\n      <p>sometimes stressed out people will be abused with more stress just because they keep taking it on.</p>\n    </section>\n\n    <section>\n      <p>Things get supremely complicated,</p>\n      <p>in ways that we can&apos;t always understand.</p>\n    </section>\n\n    <section>\n      <p>For example the reason why someone loses their 4.0 may have nothing to do with their performance,</p>\n      <p>but with the teacher giving out too many A/s in the previous semester, and now just trying to average things out with the people who never complain, so that the dean doesn&apos;t come around complaining that his class sticks out.</p>\n    </section>\n\n    <section>\n      <p>It doesn&apos;t matter if it is High School, or College, or what used to be a Dream Job,</p>\n      <p>there are unethical fake it until you make it people covering their asses everywhere, it is a tragedy that someone like that should become a reason behind someone&apos;s years of suffering.</p>\n    </section>\n\n    <section>\n      <p>These are simple examples I am making up,</p>\n      <p>in real life, there is no understanding of all the motives as people who never grew up, constantly interact with each other to to do less, and get more,</p>\n    </section>\n\n    <section>\n      <p>Trouble-making is just a lighthearted way of leaving all that noise behind,</p>\n      <p>and regaining your own beauty, and strengths, and awe for the world around you.</p>\n    </section>\n\n    <section>\n      <p>Give yourself some trouble that actually makes you better for a change.</p>\n      <p>if the path you re walking on feels wrong, you need to begin preparing an adventure backpack.</p>\n    </section>\n\n    <section>\n      <p>A very special Monday is coming around,</p>\n      <p>your clock will go off just like always.</p>\n    </section>\n\n    <section>\n      <p>But this time it will die with a sad whimper as you - slowly and deliberately - unplug it from the wall,</p>\n      <p>and return to sleep, not worried about your deadline, job or school, but simply knowing full well, that they don&apos;t matter anymore; because your well being is infinitely more important.</p>\n    </section>\n\n    <section>\n      <p>Then get into your car, or on a bus, and set a direction for sunny weather,</p>\n      <p>drive, fly, just go, and do not wait to create your rules of adventure, do it as soon as possible.</p>\n    </section>\n\n    <section>\n      <p>When your health returns to you,</p>\n      <p>you&apos;ll know exactly where you are going, and schools will always take you back, and jobs that hurt you are now worthy of your concern at all.</p>\n    </section>\n\n    <section>\n      <p>Don&apos;t make plans about the rest of your life until you catch up where you need to be and become wiser as think things through.</p>\n    </section>\n\n    <section>\n      <p>And finally, if you don&apos;t like the idea of trouble making,</p>\n      <p>then between You and I let us call it: Love of Life.</p>\n    </section>\n\n\n\n\n\n  </body>\n\n</html>"
+      "text": "The best kind of trouble is the trouble you create for yourself,\nthere is no limit to how elaborate of a problem you can invent.\n\nRelativity and contrast play a very important role here,\nthe lower you are and the higher you aim the more it is worth the trouble.\n\nIt is safe to say that a nice and comfortable bed with an electric blanket,\non a quiet and sleepy afternoon is a pretty good low.\n\nA pretty good height to reach is either ten miles by foot,\nor 1,500 miles by car where it usually involves a beach somewhere.\n\nMoreover, you need a team deadline, a snooze button, a soon to end semester,\nand an ungrateful team where you do all the work, add a few bullies...\n\nand your co-worker whispering:\n\"Why did she get a raise, she doesn't know anything\" - emphasizing \"she doesn't know\".\n\nWhile not purrfect, this is a really good start,\nand erasing the deadline from its existence, is a sweet-sweet cherry on top.\n\nThere are too more things you could use, a handful or ungrateful friends,\nand a really well thought out backpack, and a large solar charger you can hang on the back.\n\nSee, you are not just headed for Key West and back,\nI m sure you will stop at all the antique stores, and hopefully pawn shops as they have good stuff too.\n\nA good pawn shop somewhere down in Florida or by an ocean is sure to have a cheap Wet Suit,\nit is a little known fact that they aid your buoyancy, it is like wrapping your self in a wee boat.\n\nI think it is really important to consider stopping by the highway accessible State Parks,\nthey are usually there because something beautiful is going on.\n\nYou never know what you find, it could be a little lake, maybe enormous dunes,\nit could be a hill with a historic watchtower of a lookout, or it could be a stable, with horses.\n\nPersonally, I think it is disrespectful for a man to sit on a poor animal,\nbut it is fine for a woman.\n\nAnd you certainly don't want to realize come your late golden age,\nthat you never rode a horse, and yet you always knew that you were a cowgirl at heart.\n\nNow, you see what I am saying, you go from a warm and cozy blanket on a lazy afternoon, facing an ugly week,\nto wondering how to make the damn animal stop galloping, because by now you are in the middle of the woods.\n\nAn hour later as you lead your new equine fiend back,\nit won't be just that you soul and heart are filling with beauty...\n\n...but somehow you will also gain a sense for how irrelevant your deadline was,\nhow nearly falling from your new spirit animal and soul-mate combined to repair your perspective.\n\nIt is never enough to merely dump indoctrination and repair misconceptions,\nthere is also a kind of a fog-of-war that luls you into a life that frankly, you already made too many compromises for.\n\nIn real life you do things out of love, in the other kind of life you compromise,\nand do that long enough and you will find yourself hardly noticing that you are walking a stranger's road - that ain't good.\n\nEventually, you pet and pat you horse, give the caretaker a smile,\nand stop at the next park.\n\nThe more stops you make, the more you will heal and the faster you will catch up with growing up,\nyou can almost feel it in your hands, they will fell empty without a journal.\n\nNow, let me just pause here for a second, and remind you, that you are removing unimportant things from your life,\nbe good to your journal, failing that get a second one, as the first one won't last long at all.\n\nDon't make the same mistake I did, I bought this beautiful leather bound thing,\nand figured why don't I use a pencil at first...\n\n...smart right?\n\nIt took me hours to try to erase the pages, and most of them still had annoying little bits of letters on it,\ntreat your journal like a friend, and speak in wee little bits.\n\nIf you want to speak at length,\ndo what I am doing, give advice, make a little audio file and put it on the internet.\n\nHealing will make it so that you will want to erase it because it will sound \"dumb\" to you after a bit,\nbut that is only because you are growing really quickly, catching up, others still need the simpler thoughts.\n\nA lot of people will stay in bed,\nthey will meet the deadline, and that snooze button will slowly turn their joy of life off.\n\nThere is still hope for them, maybe the boss will be super crazy and mean, hopefully,\nshe could then come around and tell them \"Hey! you will never get a raise again?\", that could still snap them out of it.\n\nBut, if the boss is not fully crazed,\nyou are their last hope.\n\nThe trouble you go through to learn to jog,\nor try to hit every state park, without really caring much for actually making it to Key West.\n\nAs all end of the road towns are tourist traps,\nso, it is true when they say it is the journey, not the destination.\n\nExcept maybe for those six toed cats that Ernest Hemingway left behind in his Key West home,\nvery few things will surprise you with independence, and a cat probably capable of of grasping tools is one of them.\n\nYeah, all the trouble, and little pit stops, and furry or maned discoveries, serve as a call to health,\nto all those who are almost ready for it, but not quite there.\n\nNo human should lead the life of a house cat,\nwe are very dynamic, and doing beautiful unusual things helps us stay healthy.\n\nOne, time, I camped next to a couple that brought their two year old to a hike-in site,\nit was clearly the husband's idea, the wife was angry, and the kid was crying...\n\nIt was a nice try, but they needed more vacations, and more babysitters,\nand not just camping, but jogging, trail running, and a plan to visit all the famous lighthouses.\n\nI am sure she loved the trouble of camping when they started dating,\nnow the inconvenience of it all was making the poor lady, angry, out of the storm of stress.\n\nI am certain, that she was blaming her self for it,\nand thinking of her self as just that kind of a person, nobody is angry like that.\n\nBetween the three of them, they had everything in the universe, except the trouble was so overwhelming and the fog-of-war so thick.\nThat this, clearly, mighty and courageous mom, was only racing forward to get stuff done.\n\nThey stayed the weekend,\nbut they needed at least three weeks if not months.\n\nThey needed to stop racing forward,\nthey needed more adventures, more \"inconvenience\", more trouble-making as I call it.\n\nThat woman in particular struck me as someone who needed to run the Western States 100,\nshe had the power for it, no, she has a soul for it.\n\nSee emanated the mana that bespoke that,\nthe standard marathons needed to qualify for western states meant nothing to her, it was just a blistering formality.\n\nAnyway, still a glorious couple,\nand their little one will surely grow up to be an adventurer.\n\nAside from a raccoon I named Friday, using his cute little hands to soil my hot dog buns,\nthat week brought in another mighty being - this time a teenage boy.\n\nHis father passed away, and he pushed himself too far,\nthe psychologist put him on permanent medicine.\n\nI had the great honor of speaking to him, he told me he slept in fields and ditches,\nbut he had his sister, or mom, looking out for him.\n\nHe was a Powerful Troublemaker,\nI told him we need to care for ourselves, our bodies need vitamins, electrolytes, our minds need whatever they need.\n\n\"There is no such thing as crazy,\nyou just went through a lot in life, it was your life that got crazy.\" - I said to him.\n\nA thousand miles on a bicycle, which according to my maps requires a little trip to Canada, and a ferry,\nis all the proof needed that the kid was really special.\n\nI returned to my camp, and a day or two later,\na shadowy figure visited him, his mom probably, and without me paying attention I've noticed it was a slow and mighty, and very heavy conversation.\n\nKnowing he was well, I hope he continued his bicycling, at least to the upper peninsula,\nthough there was a ferry near by, so maybe he was headed for Chicago, I hope they both went.\n\nSee, here is a child well on his way to become a great being,\nhe was learning wisdom, and all he needed was backpack, a bicycle, and a thousand miles of road.\n\nTrouble-making is no joke, it an art,\nand it is medicine worthy of great heroes.\n\nIf you, my Dear Reader, get stuck, or stung, or scared, or get stuck in a fog of war,\nknow that it is not a time to try harder, and push harder, and let me tell you why without mincing words:\n\nBecause you are absolutely irreplaceable,\nand - what you think your flaws are - aren't, they are not flaws, this is your uniqueness.\n\nYou will only exist once in the universe,\nand though you can rain wrath precisely like a god, you also need to pace yourself.\n\nThe best kind of a Warrior is a Laughing Philosopher,\nnot a Berserker (that's too easy), be an Artist.\n\nIt is a huge part of the art of living,\nto quit blaming yourself for being angry, or clumsy, or never finishing anything you start, or never finding the right person.\n\nYou are not angry, there is nothing wrong with you,\nyou just took on so much weight and made so many compromises that there is no more time left for you to be yourself.\n\nI know it sounds awful when I say something as simple and go ride a bicycle, or a horse,\nor give the campsite raccoons so much anxiety that they start clawing their way into nice people's backpacks.\n\nBut that is how it works, the way out of fog of war,\nmust be simple so that you have no trouble taking it.\n\nNo one is asking you to drop out of school permanently,\nyou're not going to be homeless, you will find a better job.\n\nYou only need to say the truth to your next employer,\nyour mental health, and your joy of life, and a balanced existence is critical to a healthy existence.\n\nJust because someone can lay down their life to meet a deadline whilst kissing ass and never asking for a raise,\nit does not mean anybody healthy will ever try.\n\nIf principals or teachers, or management or anything gets crazy on you,\ndon't quit, just don't comply because doing so will hurt you, just take a vacation, because your mental and physical health is more important than anything else, period.\n\nIf you are still not hearing this, if you are still not ready not to sacrifice yourself,\nlet me say this, there is a lot of people out there who like that Mighty Teenager do have a breaking point that will scare the bajezus out of a shrink, who is only too happy to prescribe something.\n\nYour self-compassion, your dignity, your beauty,\nand the power that your laughter, your foolishness, your silliness, your mischievousness, and above all your giggles exert on the universe that surrounds you is to important to us all for you to keep walking a path that is hurting you.\n\nYou are irreplaceable, and when you rise, and choose to share your stories,\nyou will build roads for others to follow.\n\nBy not putting up with what is hurting you,\nyou make the Universe a better place by becoming a beacon of sanity for those who will hear of your adventures.\n\nReturning to school or job with with this dignity and integrity of mind,\nwill change the way people treat you.\n\nNot just your confidence, but your wisdom, and strength, and balance,\nwill alter your body language.\n\nStressed people and relaxed people, give off different behavioral clues,\npeople including those in charge of budgets can read that very easily.\n\nTerrible people who lack compassion are everywhere,\nsometimes stressed out people will be abused with more stress just because they keep taking it on.\n\nThings get supremely complicated,\nin ways that we can't always understand.\n\nFor example the reason why someone loses their 4.0 may have nothing to do with their performance,\nbut with the teacher giving out too many A/s in the previous semester, and now just trying to average things out with the people who never complain, so that the dean doesn't come around complaining that his class sticks out.\n\nIt doesn't matter if it is High School, or College, or what used to be a Dream Job,\nthere are unethical fake it until you make it people covering their asses everywhere, it is a tragedy that someone like that should become a reason behind someone's years of suffering.\n\nThese are simple examples I am making up,\nin real life, there is no understanding of all the motives as people who never grew up, constantly interact with each other to to do less, and get more,\n\nTrouble-making is just a lighthearted way of leaving all that noise behind,\nand regaining your own beauty, and strengths, and awe for the world around you.\n\nGive yourself some trouble that actually makes you better for a change.\nif the path you re walking on feels wrong, you need to begin preparing an adventure backpack.\n\nA very special Monday is coming around,\nyour clock will go off just like always.\n\nBut this time it will die with a sad whimper as you - slowly and deliberately - unplug it from the wall,\nand return to sleep, not worried about your deadline, job or school, but simply knowing full well, that they don't matter anymore; because your well being is infinitely more important.\n\nThen get into your car, or on a bus, and set a direction for sunny weather,\ndrive, fly, just go, and do not wait to create your rules of adventure, do it as soon as possible.\n\nWhen your health returns to you,\nyou'll know exactly where you are going, and schools will always take you back, and jobs that hurt you are now worthy of your concern at all.\n\nDon't make plans about the rest of your life until you catch up where you need to be and become wiser as think things through.\n\nAnd finally, if you don't like the idea of trouble making,\nthen between You and I let us call it: Love of Life.",
+      "html": "<section>\n  <p>The best kind of trouble is the trouble you create for yourself,</p>\n  <p>there is no limit to how elaborate of a problem you can invent.</p>\n</section>\n\n<section>\n  <p>Relativity and contrast play a very important role here,</p>\n  <p>the lower you are and the higher you aim the more it is worth the trouble.</p>\n</section>\n\n<section>\n  <p>It is safe to say that a nice and comfortable bed with an electric blanket,</p>\n  <p>on a quiet and sleepy afternoon is a pretty good low.</p>\n</section>\n\n<section>\n  <p>A pretty good height to reach is either ten miles by foot,</p>\n  <p>or 1,500 miles by car where it usually involves a beach somewhere.</p>\n</section>\n\n<section>\n  <p>Moreover, you need a team deadline, a snooze button, a soon to end semester,</p>\n  <p>and an ungrateful team where you do all the work, add a few bullies...</p>\n</section>\n\n<section>\n  <p>and your co-worker whispering:</p>\n  <p>&quot;Why did she get a raise, she doesn&apos;t know anything&quot; - emphasizing &quot;she doesn&apos;t know&quot;.</p>\n</section>\n\n<section>\n  <p>While not purrfect, this is a really good start,</p>\n  <p>and erasing the deadline from its existence, is a sweet-sweet cherry on top.</p>\n</section>\n\n<section>\n  <p>There are too more things you could use, a handful or ungrateful friends,</p>\n  <p>and a really well thought out backpack, and a large solar charger you can hang on the back.</p>\n</section>\n\n<section>\n  <p>See, you are not just headed for Key West and back,</p>\n  <p>I m sure you will stop at all the antique stores, and hopefully pawn shops as they have good stuff too.</p>\n</section>\n\n<section>\n  <p>A good pawn shop somewhere down in Florida or by an ocean is sure to have a cheap Wet Suit,</p>\n  <p>it is a little known fact that they aid your buoyancy, it is like wrapping your self in a wee boat.</p>\n</section>\n\n<section>\n  <p>I think it is really important to consider stopping by the highway accessible State Parks,</p>\n  <p>they are usually there because something beautiful is going on.</p>\n</section>\n\n<section>\n  <p>You never know what you find, it could be a little lake, maybe enormous dunes,</p>\n  <p>it could be a hill with a historic watchtower of a lookout, or it could be a stable, with horses.</p>\n</section>\n\n<section>\n  <p>Personally, I think it is disrespectful for a man to sit on a poor animal,</p>\n  <p>but it is fine for a woman.</p>\n</section>\n\n<section>\n  <p>And you certainly don&apos;t want to realize come your late golden age,</p>\n  <p>that you never rode a horse, and yet you always knew that you were a cowgirl at heart.</p>\n</section>\n\n<section>\n  <p>Now, you see what I am saying, you go from a warm and cozy blanket on a lazy afternoon, facing an ugly week,</p>\n  <p>to wondering how to make the damn animal stop galloping, because by now you are in the middle of the woods.</p>\n</section>\n\n<section>\n  <p>An hour later as you lead your new equine fiend back,</p>\n  <p>it won&apos;t be just that you soul and heart are filling with beauty...</p>\n</section>\n\n<section>\n  <p>...but somehow you will also gain a sense for how irrelevant your deadline was,</p>\n  <p>how nearly falling from your new spirit animal and soul-mate combined to repair your perspective.</p>\n</section>\n\n<section>\n  <p>It is never enough to merely dump indoctrination and repair misconceptions,</p>\n  <p>there is also a kind of a fog-of-war that luls you into a life that frankly, you already made too many compromises for.</p>\n</section>\n\n<section>\n  <p>In real life you do things out of love, in the other kind of life you compromise,</p>\n  <p>and do that long enough and you will find yourself hardly noticing that you are walking a stranger&apos;s road - that ain&apos;t good.</p>\n</section>\n\n<section>\n  <p>Eventually, you pet and pat you horse, give the caretaker a smile,</p>\n  <p>and stop at the next park.</p>\n</section>\n\n<section>\n  <p>The more stops you make, the more you will heal and the faster you will catch up with growing up,</p>\n  <p>you can almost feel it in your hands, they will fell empty without a journal.</p>\n</section>\n\n<section>\n  <p>Now, let me just pause here for a second, and remind you, that you are removing unimportant things from your life,</p>\n  <p>be good to your journal, failing that get a second one, as the first one won&apos;t last long at all.</p>\n</section>\n\n<section>\n  <p>Don&apos;t make the same mistake I did, I bought this beautiful leather bound thing,</p>\n  <p>and figured why don&apos;t I use a pencil at first...</p>\n</section>\n\n<section>\n  <p>...smart right?</p>\n</section>\n\n<section>\n  <p>It took me hours to try to erase the pages, and most of them still had annoying little bits of letters on it,</p>\n  <p>treat your journal like a friend, and speak in wee little bits.</p>\n</section>\n\n<section>\n  <p>If you want to speak at length,</p>\n  <p>do what I am doing, give advice, make a little audio file and put it on the internet.</p>\n</section>\n\n<section>\n  <p>Healing will make it so that you will want to erase it because it will sound &quot;dumb&quot; to you after a bit,</p>\n  <p>but that is only because you are growing really quickly, catching up, others still need the simpler thoughts.</p>\n</section>\n\n<section>\n  <p>A lot of people will stay in bed,</p>\n  <p>they will meet the deadline, and that snooze button will slowly turn their joy of life off.</p>\n</section>\n\n<section>\n  <p>There is still hope for them, maybe the boss will be super crazy and mean, hopefully,</p>\n  <p>she could then come around and tell them &quot;Hey! you will never get a raise again?&quot;, that could still snap them out of it.</p>\n</section>\n\n<section>\n  <p>But, if the boss is not fully crazed,</p>\n  <p>you are their last hope.</p>\n</section>\n\n<section>\n  <p>The trouble you go through to learn to jog,</p>\n  <p>or try to hit every state park, without really caring much for actually making it to Key West.</p>\n</section>\n\n<section>\n  <p>As all end of the road towns are tourist traps,</p>\n  <p>so, it is true when they say it is the journey, not the destination.</p>\n</section>\n\n<section>\n  <p>Except maybe for those six toed cats that Ernest Hemingway left behind in his Key West home,</p>\n  <p>very few things will surprise you with independence, and a cat probably capable of of grasping tools is one of them.</p>\n</section>\n\n<section>\n  <p>Yeah, all the trouble, and little pit stops, and furry or maned discoveries, serve as a call to health,</p>\n  <p>to all those who are almost ready for it, but not quite there.</p>\n</section>\n\n<section>\n  <p>No human should lead the life of a house cat,</p>\n  <p>we are very dynamic, and doing beautiful unusual things helps us stay healthy.</p>\n</section>\n\n<section>\n  <hr>\n</section>\n\n<section>\n  <p>One, time, I camped next to a couple that brought their two year old to a hike-in site,</p>\n  <p>it was clearly the husband&apos;s idea, the wife was angry, and the kid was crying...</p>\n</section>\n\n<section>\n  <p>It was a nice try, but they needed more vacations, and more babysitters,</p>\n  <p>and not just camping, but jogging, trail running, and a plan to visit all the famous lighthouses.</p>\n</section>\n\n<section>\n  <p>I am sure she loved the trouble of camping when they started dating,</p>\n  <p>now the inconvenience of it all was making the poor lady, angry, out of the storm of stress.</p>\n</section>\n\n<section>\n  <p>I am certain, that she was blaming her self for it,</p>\n  <p>and thinking of her self as just that kind of a person, nobody is angry like that.</p>\n</section>\n\n<section>\n  <p>Between the three of them, they had everything in the universe, except the trouble was so overwhelming and the fog-of-war so thick.</p>\n  <p>That this, clearly, mighty and courageous mom, was only racing forward to get stuff done.</p>\n</section>\n\n<section>\n  <p>They stayed the weekend,</p>\n  <p>but they needed at least three weeks if not months.</p>\n</section>\n\n<section>\n  <p>They needed to stop racing forward,</p>\n  <p>they needed more adventures, more &quot;inconvenience&quot;, more trouble-making as I call it.</p>\n</section>\n\n<section>\n  <p>That woman in particular struck me as someone who needed to run the Western States 100,</p>\n  <p>she had the power for it, no, she has a soul for it.</p>\n</section>\n\n<section>\n  <p>See emanated the mana that bespoke that,</p>\n  <p>the standard marathons needed to qualify for western states meant nothing to her, it was just a blistering formality.</p>\n</section>\n\n<section>\n  <p>Anyway, still a glorious couple,</p>\n  <p>and their little one will surely grow up to be an adventurer.</p>\n</section>\n\n<section>\n  <p>Aside from a raccoon I named Friday, using his cute little hands to soil my hot dog buns,</p>\n  <p>that week brought in another mighty being - this time a teenage boy.</p>\n</section>\n\n<section>\n  <p>His father passed away, and he pushed himself too far,</p>\n  <p>the psychologist put him on permanent medicine.</p>\n</section>\n\n<section>\n  <p>I had the great honor of speaking to him, he told me he slept in fields and ditches,</p>\n  <p>but he had his sister, or mom, looking out for him.</p>\n</section>\n\n<section>\n  <p>He was a Powerful Troublemaker,</p>\n  <p>I told him we need to care for ourselves, our bodies need vitamins, electrolytes, our minds need whatever they need.</p>\n</section>\n\n<section>\n  <p>&quot;There is no such thing as crazy,</p>\n  <p>you just went through a lot in life, it was your life that got crazy.&quot; - I said to him.</p>\n</section>\n\n<section>\n  <p>A thousand miles on a bicycle, which according to my maps requires a little trip to Canada, and a ferry,</p>\n  <p>is all the proof needed that the kid was really special.</p>\n</section>\n\n<section>\n  <p>I returned to my camp, and a day or two later,</p>\n  <p>a shadowy figure visited him, his mom probably, and without me paying attention I&apos;ve noticed it was a slow and mighty, and very heavy conversation.</p>\n</section>\n\n<section>\n  <p>Knowing he was well, I hope he continued his bicycling, at least to the upper peninsula,</p>\n  <p>though there was a ferry near by, so maybe he was headed for Chicago, I hope they both went.</p>\n</section>\n\n<section>\n  <p>See, here is a child well on his way to become a great being,</p>\n  <p>he was learning wisdom, and all he needed was backpack, a bicycle, and a thousand miles of road.</p>\n</section>\n\n<section>\n  <p>Trouble-making is no joke, it an art,</p>\n  <p>and it is medicine worthy of great heroes.</p>\n</section>\n\n<section>\n  <p>If you, my Dear Reader, get stuck, or stung, or scared, or get stuck in a fog of war,</p>\n  <p>know that it is not a time to try harder, and push harder, and let me tell you why without mincing words:</p>\n</section>\n\n<section>\n  <p>Because you are absolutely irreplaceable,</p>\n  <p>and - what you think your flaws are - aren&apos;t, they are not flaws, this is your uniqueness.</p>\n</section>\n\n<section>\n  <p>You will only exist once in the universe,</p>\n  <p>and though you can rain wrath precisely like a god, you also need to pace yourself.</p>\n</section>\n\n<section>\n  <p>The best kind of a Warrior is a Laughing Philosopher,</p>\n  <p>not a Berserker (that&apos;s too easy), be an Artist.</p>\n</section>\n\n<section>\n  <p>It is a huge part of the art of living,</p>\n  <p>to quit blaming yourself for being angry, or clumsy, or never finishing anything you start, or never finding the right person.</p>\n</section>\n\n<section>\n  <p>You are not angry, there is nothing wrong with you,</p>\n  <p>you just took on so much weight and made so many compromises that there is no more time left for you to be yourself.</p>\n</section>\n\n<section>\n  <p>I know it sounds awful when I say something as simple and go ride a bicycle, or a horse,</p>\n  <p>or give the campsite raccoons so much anxiety that they start clawing their way into nice people&apos;s backpacks.</p>\n</section>\n\n<section>\n  <p>But that is how it works, the way out of fog of war,</p>\n  <p>must be simple so that you have no trouble taking it.</p>\n</section>\n\n<section>\n  <p>No one is asking you to drop out of school permanently,</p>\n  <p>you&apos;re not going to be homeless, you will find a better job.</p>\n</section>\n\n<section>\n  <p>You only need to say the truth to your next employer,</p>\n  <p>your mental health, and your joy of life, and a balanced existence is critical to a healthy existence.</p>\n</section>\n\n<section>\n  <p>Just because someone can lay down their life to meet a deadline whilst kissing ass and never asking for a raise,</p>\n  <p>it does not mean anybody healthy will ever try.</p>\n</section>\n\n<section>\n  <p>If principals or teachers, or management or anything gets crazy on you,</p>\n  <p>don&apos;t quit, just don&apos;t comply because doing so will hurt you, just take a vacation, because your mental and physical health is more important than anything else, period.</p>\n</section>\n\n<section>\n  <p>If you are still not hearing this, if you are still not ready not to sacrifice yourself,</p>\n  <p>let me say this, there is a lot of people out there who like that Mighty Teenager do have a breaking point that will scare the bajezus out of a shrink, who is only too happy to prescribe something.</p>\n</section>\n\n<section>\n  <p>Your self-compassion, your dignity, your beauty,</p>\n  <p>and the power that your laughter, your foolishness, your silliness, your mischievousness, and above all your giggles exert on the universe that surrounds you is to important to us all for you to keep walking a path that is hurting you.</p>\n</section>\n\n<section>\n  <p>You are irreplaceable, and when you rise, and choose to share your stories,</p>\n  <p>you will build roads for others to follow.</p>\n</section>\n\n<section>\n  <p>By not putting up with what is hurting you,</p>\n  <p>you make the Universe a better place by becoming a beacon of sanity for those who will hear of your adventures.</p>\n</section>\n\n<section>\n  <p>Returning to school or job with with this dignity and integrity of mind,</p>\n  <p>will change the way people treat you.</p>\n</section>\n\n<section>\n  <p>Not just your confidence, but your wisdom, and strength, and balance,</p>\n  <p>will alter your body language.</p>\n</section>\n\n<section>\n  <p>Stressed people and relaxed people, give off different behavioral clues,</p>\n  <p>people including those in charge of budgets can read that very easily.</p>\n</section>\n\n<section>\n  <p>Terrible people who lack compassion are everywhere,</p>\n  <p>sometimes stressed out people will be abused with more stress just because they keep taking it on.</p>\n</section>\n\n<section>\n  <p>Things get supremely complicated,</p>\n  <p>in ways that we can&apos;t always understand.</p>\n</section>\n\n<section>\n  <p>For example the reason why someone loses their 4.0 may have nothing to do with their performance,</p>\n  <p>but with the teacher giving out too many A/s in the previous semester, and now just trying to average things out with the people who never complain, so that the dean doesn&apos;t come around complaining that his class sticks out.</p>\n</section>\n\n<section>\n  <p>It doesn&apos;t matter if it is High School, or College, or what used to be a Dream Job,</p>\n  <p>there are unethical fake it until you make it people covering their asses everywhere, it is a tragedy that someone like that should become a reason behind someone&apos;s years of suffering.</p>\n</section>\n\n<section>\n  <p>These are simple examples I am making up,</p>\n  <p>in real life, there is no understanding of all the motives as people who never grew up, constantly interact with each other to to do less, and get more,</p>\n</section>\n\n<section>\n  <p>Trouble-making is just a lighthearted way of leaving all that noise behind,</p>\n  <p>and regaining your own beauty, and strengths, and awe for the world around you.</p>\n</section>\n\n<section>\n  <p>Give yourself some trouble that actually makes you better for a change.</p>\n  <p>if the path you re walking on feels wrong, you need to begin preparing an adventure backpack.</p>\n</section>\n\n<section>\n  <p>A very special Monday is coming around,</p>\n  <p>your clock will go off just like always.</p>\n</section>\n\n<section>\n  <p>But this time it will die with a sad whimper as you - slowly and deliberately - unplug it from the wall,</p>\n  <p>and return to sleep, not worried about your deadline, job or school, but simply knowing full well, that they don&apos;t matter anymore; because your well being is infinitely more important.</p>\n</section>\n\n<section>\n  <p>Then get into your car, or on a bus, and set a direction for sunny weather,</p>\n  <p>drive, fly, just go, and do not wait to create your rules of adventure, do it as soon as possible.</p>\n</section>\n\n<section>\n  <p>When your health returns to you,</p>\n  <p>you&apos;ll know exactly where you are going, and schools will always take you back, and jobs that hurt you are now worthy of your concern at all.</p>\n</section>\n\n<section>\n  <p>Don&apos;t make plans about the rest of your life until you catch up where you need to be and become wiser as think things through.</p>\n</section>\n\n<section>\n  <p>And finally, if you don&apos;t like the idea of trouble making,</p>\n  <p>then between You and I let us call it: Love of Life.</p>\n</section>",
+      "page": "<html>\n\n  <head>\n    <title>The Serious Business Of Trouble-making</title>\n\n\n\n  </head>\n\n  <body>\n    <section><img src=\"image/poetry-0277-illustration.jpg\"></section>\n    <section>\n      <p><a href=\"audio/poetry-0277.mp3\">Audio Version</a></p>\n    </section>\n\n    <section>\n      <p>The best kind of trouble is the trouble you create for yourself,</p>\n      <p>there is no limit to how elaborate of a problem you can invent.</p>\n    </section>\n\n    <section>\n      <p>Relativity and contrast play a very important role here,</p>\n      <p>the lower you are and the higher you aim the more it is worth the trouble.</p>\n    </section>\n\n    <section>\n      <p>It is safe to say that a nice and comfortable bed with an electric blanket,</p>\n      <p>on a quiet and sleepy afternoon is a pretty good low.</p>\n    </section>\n\n    <section>\n      <p>A pretty good height to reach is either ten miles by foot,</p>\n      <p>or 1,500 miles by car where it usually involves a beach somewhere.</p>\n    </section>\n\n    <section>\n      <p>Moreover, you need a team deadline, a snooze button, a soon to end semester,</p>\n      <p>and an ungrateful team where you do all the work, add a few bullies...</p>\n    </section>\n\n    <section>\n      <p>and your co-worker whispering:</p>\n      <p>&quot;Why did she get a raise, she doesn&apos;t know anything&quot; - emphasizing &quot;she doesn&apos;t know&quot;.</p>\n    </section>\n\n    <section>\n      <p>While not purrfect, this is a really good start,</p>\n      <p>and erasing the deadline from its existence, is a sweet-sweet cherry on top.</p>\n    </section>\n\n    <section>\n      <p>There are too more things you could use, a handful or ungrateful friends,</p>\n      <p>and a really well thought out backpack, and a large solar charger you can hang on the back.</p>\n    </section>\n\n    <section>\n      <p>See, you are not just headed for Key West and back,</p>\n      <p>I m sure you will stop at all the antique stores, and hopefully pawn shops as they have good stuff too.</p>\n    </section>\n\n    <section>\n      <p>A good pawn shop somewhere down in Florida or by an ocean is sure to have a cheap Wet Suit,</p>\n      <p>it is a little known fact that they aid your buoyancy, it is like wrapping your self in a wee boat.</p>\n    </section>\n\n    <section>\n      <p>I think it is really important to consider stopping by the highway accessible State Parks,</p>\n      <p>they are usually there because something beautiful is going on.</p>\n    </section>\n\n    <section>\n      <p>You never know what you find, it could be a little lake, maybe enormous dunes,</p>\n      <p>it could be a hill with a historic watchtower of a lookout, or it could be a stable, with horses.</p>\n    </section>\n\n    <section>\n      <p>Personally, I think it is disrespectful for a man to sit on a poor animal,</p>\n      <p>but it is fine for a woman.</p>\n    </section>\n\n    <section>\n      <p>And you certainly don&apos;t want to realize come your late golden age,</p>\n      <p>that you never rode a horse, and yet you always knew that you were a cowgirl at heart.</p>\n    </section>\n\n    <section>\n      <p>Now, you see what I am saying, you go from a warm and cozy blanket on a lazy afternoon, facing an ugly week,</p>\n      <p>to wondering how to make the damn animal stop galloping, because by now you are in the middle of the woods.</p>\n    </section>\n\n    <section>\n      <p>An hour later as you lead your new equine fiend back,</p>\n      <p>it won&apos;t be just that you soul and heart are filling with beauty...</p>\n    </section>\n\n    <section>\n      <p>...but somehow you will also gain a sense for how irrelevant your deadline was,</p>\n      <p>how nearly falling from your new spirit animal and soul-mate combined to repair your perspective.</p>\n    </section>\n\n    <section>\n      <p>It is never enough to merely dump indoctrination and repair misconceptions,</p>\n      <p>there is also a kind of a fog-of-war that luls you into a life that frankly, you already made too many compromises for.</p>\n    </section>\n\n    <section>\n      <p>In real life you do things out of love, in the other kind of life you compromise,</p>\n      <p>and do that long enough and you will find yourself hardly noticing that you are walking a stranger&apos;s road - that ain&apos;t good.</p>\n    </section>\n\n    <section>\n      <p>Eventually, you pet and pat you horse, give the caretaker a smile,</p>\n      <p>and stop at the next park.</p>\n    </section>\n\n    <section>\n      <p>The more stops you make, the more you will heal and the faster you will catch up with growing up,</p>\n      <p>you can almost feel it in your hands, they will fell empty without a journal.</p>\n    </section>\n\n    <section>\n      <p>Now, let me just pause here for a second, and remind you, that you are removing unimportant things from your life,</p>\n      <p>be good to your journal, failing that get a second one, as the first one won&apos;t last long at all.</p>\n    </section>\n\n    <section>\n      <p>Don&apos;t make the same mistake I did, I bought this beautiful leather bound thing,</p>\n      <p>and figured why don&apos;t I use a pencil at first...</p>\n    </section>\n\n    <section>\n      <p>...smart right?</p>\n    </section>\n\n    <section>\n      <p>It took me hours to try to erase the pages, and most of them still had annoying little bits of letters on it,</p>\n      <p>treat your journal like a friend, and speak in wee little bits.</p>\n    </section>\n\n    <section>\n      <p>If you want to speak at length,</p>\n      <p>do what I am doing, give advice, make a little audio file and put it on the internet.</p>\n    </section>\n\n    <section>\n      <p>Healing will make it so that you will want to erase it because it will sound &quot;dumb&quot; to you after a bit,</p>\n      <p>but that is only because you are growing really quickly, catching up, others still need the simpler thoughts.</p>\n    </section>\n\n    <section>\n      <p>A lot of people will stay in bed,</p>\n      <p>they will meet the deadline, and that snooze button will slowly turn their joy of life off.</p>\n    </section>\n\n    <section>\n      <p>There is still hope for them, maybe the boss will be super crazy and mean, hopefully,</p>\n      <p>she could then come around and tell them &quot;Hey! you will never get a raise again?&quot;, that could still snap them out of it.</p>\n    </section>\n\n    <section>\n      <p>But, if the boss is not fully crazed,</p>\n      <p>you are their last hope.</p>\n    </section>\n\n    <section>\n      <p>The trouble you go through to learn to jog,</p>\n      <p>or try to hit every state park, without really caring much for actually making it to Key West.</p>\n    </section>\n\n    <section>\n      <p>As all end of the road towns are tourist traps,</p>\n      <p>so, it is true when they say it is the journey, not the destination.</p>\n    </section>\n\n    <section>\n      <p>Except maybe for those six toed cats that Ernest Hemingway left behind in his Key West home,</p>\n      <p>very few things will surprise you with independence, and a cat probably capable of of grasping tools is one of them.</p>\n    </section>\n\n    <section>\n      <p>Yeah, all the trouble, and little pit stops, and furry or maned discoveries, serve as a call to health,</p>\n      <p>to all those who are almost ready for it, but not quite there.</p>\n    </section>\n\n    <section>\n      <p>No human should lead the life of a house cat,</p>\n      <p>we are very dynamic, and doing beautiful unusual things helps us stay healthy.</p>\n    </section>\n\n    <section>\n      <hr>\n    </section>\n\n    <section>\n      <p>One, time, I camped next to a couple that brought their two year old to a hike-in site,</p>\n      <p>it was clearly the husband&apos;s idea, the wife was angry, and the kid was crying...</p>\n    </section>\n\n    <section>\n      <p>It was a nice try, but they needed more vacations, and more babysitters,</p>\n      <p>and not just camping, but jogging, trail running, and a plan to visit all the famous lighthouses.</p>\n    </section>\n\n    <section>\n      <p>I am sure she loved the trouble of camping when they started dating,</p>\n      <p>now the inconvenience of it all was making the poor lady, angry, out of the storm of stress.</p>\n    </section>\n\n    <section>\n      <p>I am certain, that she was blaming her self for it,</p>\n      <p>and thinking of her self as just that kind of a person, nobody is angry like that.</p>\n    </section>\n\n    <section>\n      <p>Between the three of them, they had everything in the universe, except the trouble was so overwhelming and the fog-of-war so thick.</p>\n      <p>That this, clearly, mighty and courageous mom, was only racing forward to get stuff done.</p>\n    </section>\n\n    <section>\n      <p>They stayed the weekend,</p>\n      <p>but they needed at least three weeks if not months.</p>\n    </section>\n\n    <section>\n      <p>They needed to stop racing forward,</p>\n      <p>they needed more adventures, more &quot;inconvenience&quot;, more trouble-making as I call it.</p>\n    </section>\n\n    <section>\n      <p>That woman in particular struck me as someone who needed to run the Western States 100,</p>\n      <p>she had the power for it, no, she has a soul for it.</p>\n    </section>\n\n    <section>\n      <p>See emanated the mana that bespoke that,</p>\n      <p>the standard marathons needed to qualify for western states meant nothing to her, it was just a blistering formality.</p>\n    </section>\n\n    <section>\n      <p>Anyway, still a glorious couple,</p>\n      <p>and their little one will surely grow up to be an adventurer.</p>\n    </section>\n\n    <section>\n      <p>Aside from a raccoon I named Friday, using his cute little hands to soil my hot dog buns,</p>\n      <p>that week brought in another mighty being - this time a teenage boy.</p>\n    </section>\n\n    <section>\n      <p>His father passed away, and he pushed himself too far,</p>\n      <p>the psychologist put him on permanent medicine.</p>\n    </section>\n\n    <section>\n      <p>I had the great honor of speaking to him, he told me he slept in fields and ditches,</p>\n      <p>but he had his sister, or mom, looking out for him.</p>\n    </section>\n\n    <section>\n      <p>He was a Powerful Troublemaker,</p>\n      <p>I told him we need to care for ourselves, our bodies need vitamins, electrolytes, our minds need whatever they need.</p>\n    </section>\n\n    <section>\n      <p>&quot;There is no such thing as crazy,</p>\n      <p>you just went through a lot in life, it was your life that got crazy.&quot; - I said to him.</p>\n    </section>\n\n    <section>\n      <p>A thousand miles on a bicycle, which according to my maps requires a little trip to Canada, and a ferry,</p>\n      <p>is all the proof needed that the kid was really special.</p>\n    </section>\n\n    <section>\n      <p>I returned to my camp, and a day or two later,</p>\n      <p>a shadowy figure visited him, his mom probably, and without me paying attention I&apos;ve noticed it was a slow and mighty, and very heavy conversation.</p>\n    </section>\n\n    <section>\n      <p>Knowing he was well, I hope he continued his bicycling, at least to the upper peninsula,</p>\n      <p>though there was a ferry near by, so maybe he was headed for Chicago, I hope they both went.</p>\n    </section>\n\n    <section>\n      <p>See, here is a child well on his way to become a great being,</p>\n      <p>he was learning wisdom, and all he needed was backpack, a bicycle, and a thousand miles of road.</p>\n    </section>\n\n    <section>\n      <p>Trouble-making is no joke, it an art,</p>\n      <p>and it is medicine worthy of great heroes.</p>\n    </section>\n\n    <section>\n      <p>If you, my Dear Reader, get stuck, or stung, or scared, or get stuck in a fog of war,</p>\n      <p>know that it is not a time to try harder, and push harder, and let me tell you why without mincing words:</p>\n    </section>\n\n    <section>\n      <p>Because you are absolutely irreplaceable,</p>\n      <p>and - what you think your flaws are - aren&apos;t, they are not flaws, this is your uniqueness.</p>\n    </section>\n\n    <section>\n      <p>You will only exist once in the universe,</p>\n      <p>and though you can rain wrath precisely like a god, you also need to pace yourself.</p>\n    </section>\n\n    <section>\n      <p>The best kind of a Warrior is a Laughing Philosopher,</p>\n      <p>not a Berserker (that&apos;s too easy), be an Artist.</p>\n    </section>\n\n    <section>\n      <p>It is a huge part of the art of living,</p>\n      <p>to quit blaming yourself for being angry, or clumsy, or never finishing anything you start, or never finding the right person.</p>\n    </section>\n\n    <section>\n      <p>You are not angry, there is nothing wrong with you,</p>\n      <p>you just took on so much weight and made so many compromises that there is no more time left for you to be yourself.</p>\n    </section>\n\n    <section>\n      <p>I know it sounds awful when I say something as simple and go ride a bicycle, or a horse,</p>\n      <p>or give the campsite raccoons so much anxiety that they start clawing their way into nice people&apos;s backpacks.</p>\n    </section>\n\n    <section>\n      <p>But that is how it works, the way out of fog of war,</p>\n      <p>must be simple so that you have no trouble taking it.</p>\n    </section>\n\n    <section>\n      <p>No one is asking you to drop out of school permanently,</p>\n      <p>you&apos;re not going to be homeless, you will find a better job.</p>\n    </section>\n\n    <section>\n      <p>You only need to say the truth to your next employer,</p>\n      <p>your mental health, and your joy of life, and a balanced existence is critical to a healthy existence.</p>\n    </section>\n\n    <section>\n      <p>Just because someone can lay down their life to meet a deadline whilst kissing ass and never asking for a raise,</p>\n      <p>it does not mean anybody healthy will ever try.</p>\n    </section>\n\n    <section>\n      <p>If principals or teachers, or management or anything gets crazy on you,</p>\n      <p>don&apos;t quit, just don&apos;t comply because doing so will hurt you, just take a vacation, because your mental and physical health is more important than anything else, period.</p>\n    </section>\n\n    <section>\n      <p>If you are still not hearing this, if you are still not ready not to sacrifice yourself,</p>\n      <p>let me say this, there is a lot of people out there who like that Mighty Teenager do have a breaking point that will scare the bajezus out of a shrink, who is only too happy to prescribe something.</p>\n    </section>\n\n    <section>\n      <p>Your self-compassion, your dignity, your beauty,</p>\n      <p>and the power that your laughter, your foolishness, your silliness, your mischievousness, and above all your giggles exert on the universe that surrounds you is to important to us all for you to keep walking a path that is hurting you.</p>\n    </section>\n\n    <section>\n      <p>You are irreplaceable, and when you rise, and choose to share your stories,</p>\n      <p>you will build roads for others to follow.</p>\n    </section>\n\n    <section>\n      <p>By not putting up with what is hurting you,</p>\n      <p>you make the Universe a better place by becoming a beacon of sanity for those who will hear of your adventures.</p>\n    </section>\n\n    <section>\n      <p>Returning to school or job with with this dignity and integrity of mind,</p>\n      <p>will change the way people treat you.</p>\n    </section>\n\n    <section>\n      <p>Not just your confidence, but your wisdom, and strength, and balance,</p>\n      <p>will alter your body language.</p>\n    </section>\n\n    <section>\n      <p>Stressed people and relaxed people, give off different behavioral clues,</p>\n      <p>people including those in charge of budgets can read that very easily.</p>\n    </section>\n\n    <section>\n      <p>Terrible people who lack compassion are everywhere,</p>\n      <p>sometimes stressed out people will be abused with more stress just because they keep taking it on.</p>\n    </section>\n\n    <section>\n      <p>Things get supremely complicated,</p>\n      <p>in ways that we can&apos;t always understand.</p>\n    </section>\n\n    <section>\n      <p>For example the reason why someone loses their 4.0 may have nothing to do with their performance,</p>\n      <p>but with the teacher giving out too many A/s in the previous semester, and now just trying to average things out with the people who never complain, so that the dean doesn&apos;t come around complaining that his class sticks out.</p>\n    </section>\n\n    <section>\n      <p>It doesn&apos;t matter if it is High School, or College, or what used to be a Dream Job,</p>\n      <p>there are unethical fake it until you make it people covering their asses everywhere, it is a tragedy that someone like that should become a reason behind someone&apos;s years of suffering.</p>\n    </section>\n\n    <section>\n      <p>These are simple examples I am making up,</p>\n      <p>in real life, there is no understanding of all the motives as people who never grew up, constantly interact with each other to to do less, and get more,</p>\n    </section>\n\n    <section>\n      <p>Trouble-making is just a lighthearted way of leaving all that noise behind,</p>\n      <p>and regaining your own beauty, and strengths, and awe for the world around you.</p>\n    </section>\n\n    <section>\n      <p>Give yourself some trouble that actually makes you better for a change.</p>\n      <p>if the path you re walking on feels wrong, you need to begin preparing an adventure backpack.</p>\n    </section>\n\n    <section>\n      <p>A very special Monday is coming around,</p>\n      <p>your clock will go off just like always.</p>\n    </section>\n\n    <section>\n      <p>But this time it will die with a sad whimper as you - slowly and deliberately - unplug it from the wall,</p>\n      <p>and return to sleep, not worried about your deadline, job or school, but simply knowing full well, that they don&apos;t matter anymore; because your well being is infinitely more important.</p>\n    </section>\n\n    <section>\n      <p>Then get into your car, or on a bus, and set a direction for sunny weather,</p>\n      <p>drive, fly, just go, and do not wait to create your rules of adventure, do it as soon as possible.</p>\n    </section>\n\n    <section>\n      <p>When your health returns to you,</p>\n      <p>you&apos;ll know exactly where you are going, and schools will always take you back, and jobs that hurt you are now worthy of your concern at all.</p>\n    </section>\n\n    <section>\n      <p>Don&apos;t make plans about the rest of your life until you catch up where you need to be and become wiser as think things through.</p>\n    </section>\n\n    <section>\n      <p>And finally, if you don&apos;t like the idea of trouble making,</p>\n      <p>then between You and I let us call it: Love of Life.</p>\n    </section>\n\n\n\n\n\n  </body>\n\n</html>"
     },
     "counter": 262,
-    "isNewest": true,
+    "isNewest": false,
     "isOldest": false,
     "olderId": "poetry-0276",
+    "newerId": "poetry-0278",
+    "newestId": "poetry-0278",
+    "oldestId": "poetry-0016"
+  },
+  {
+    "title": "Real World Real Future",
+    "date": "2020-12-04T03:55:02.075Z",
+    "image": "poetry-0278-illustration.jpg",
+    "audio": "poetry-0278.mp3",
+    "timestamp": "Thursday, December 3rd 2020, 10:55:02 pm",
+    "id": "poetry-0278",
+    "data": {
+      "text": "We, or the younger generations may find ourselves in situations where life does not make sense,\nwhere too many things are contradictory, ineffective, and too broken to be of any real use.\n\nWhen we are children we are taught falsehoods,\nindoctrinated into religions, made to think of politics as special, and schools as critical.\n\nWe have no chance to question anything,\nwe have no experience at all.\n\nReligions, broken politics and ineffective schools feed on blind belief,\nif we taught children the truth they would try to help the world grow.\n\nPlus, it does not take very long before life gets real, with bullies, rockets, wars, or illnesses,\nand when we are placed on an imaginary foundation, we can't quite fight all that back, not very effectively.\n\nEducated or not, Human Beings are still very special, and will fight for what little they know,\nit is a terrible tragedy when people fight for something imaginary, that in the end, means nothing.\n\nJust out of respect for children, and for the future generations to whom this planet truly belongs to,\nwe must resist propagating fantasies and myths.\n\nThe governments are not external forces, and they are not fully functional,\nthey are made to be ran by the people of their nations, and depend on schools that produce real results.\n\nWe can't teach the younger generations that World Peace is a funny fantasy,\nWorld Peace has been the next important step for a century now.\n\nLevels of education, wisdom, and greatness all around the world, need to increase,\nwhile schools do work to some degree, they mean little when compared to self education and real results.\n\nIt is cruel to teach children lessons that will frighten them with a world that does not make sense,\nall-the-while real life is happening and they need real facts and not imaginary opinions and wishful thinking.\n\nWorst of all, we propagate myths because it is easier to pass on a faerie tale,\nthan to read a thousand books about the world and growing up.\n\nLet us all put an end to this cycle to strangeness,\nlet us all aim to become self educated with world's finest books and lectures, onward to becoming wise.\n\nLet us inspire the younger generations with facts and not mere opinions,\nand let us remind, that the world and the politics and schools that demand great repairs, all belongs to them.\n\nMay we all rise and rise,\nuntil the world becomes wise.",
+      "html": "<section>\n  <p>We, or the younger generations may find ourselves in situations where life does not make sense,</p>\n  <p>where too many things are contradictory, ineffective, and too broken to be of any real use.</p>\n</section>\n\n<section>\n  <p>When we are children we are taught falsehoods,</p>\n  <p>indoctrinated into religions, made to think of politics as special, and schools as critical.</p>\n</section>\n\n<section>\n  <p>We have no chance to question anything,</p>\n  <p>we have no experience at all.</p>\n</section>\n\n<section>\n  <p>Religions, broken politics and ineffective schools feed on blind belief,</p>\n  <p>if we taught children the truth they would try to help the world grow.</p>\n</section>\n\n\n\n<section>\n  <p>Plus, it does not take very long before life gets real, with bullies, rockets, wars, or illnesses,</p>\n  <p>and when we are placed on an imaginary foundation, we can&apos;t quite fight all that back, not very effectively.</p>\n</section>\n\n<section>\n  <p>Educated or not, Human Beings are still very special, and will fight for what little they know,</p>\n  <p>it is a terrible tragedy when people fight for something imaginary, that in the end, means nothing.</p>\n</section>\n\n<section>\n  <p>Just out of respect for children, and for the future generations to whom this planet truly belongs to,</p>\n  <p>we must resist propagating fantasies and myths.</p>\n</section>\n\n\n<section>\n  <p>The governments are not external forces, and they are not fully functional,</p>\n  <p>they are made to be ran by the people of their nations, and depend on schools that produce real results.</p>\n</section>\n\n<section>\n  <p>We can&apos;t teach the younger generations that World Peace is a funny fantasy,</p>\n  <p>World Peace has been the next important step for a century now.</p>\n</section>\n\n<section>\n  <p>Levels of education, wisdom, and greatness all around the world, need to increase,</p>\n  <p>while schools do work to some degree, they mean little when compared to self education and real results.</p>\n</section>\n\n\n<section>\n  <p>It is cruel to teach children lessons that will frighten them with a world that does not make sense,</p>\n  <p>all-the-while real life is happening and they need real facts and not imaginary opinions and wishful thinking.</p>\n</section>\n\n<section>\n  <p>Worst of all, we propagate myths because it is easier to pass on a faerie tale,</p>\n  <p>than to read a thousand books about the world and growing up.</p>\n</section>\n\n\n<section>\n  <p>Let us all put an end to this cycle to strangeness,</p>\n  <p>let us all aim to become self educated with world&apos;s finest books and lectures, onward to becoming wise.</p>\n</section>\n\n<section>\n  <p>Let us inspire the younger generations with facts and not mere opinions,</p>\n  <p>and let us remind, that the world and the politics and schools that demand great repairs, all belongs to them.</p>\n</section>\n\n<section>\n  <p>May we all rise and rise,</p>\n  <p>until the world becomes wise.</p>\n</section>",
+      "page": "<html>\n\n  <head>\n    <title>Real World Real Future</title>\n\n\n\n  </head>\n\n  <body>\n    <section><img src=\"image/poetry-0278-illustration.jpg\"></section>\n    <section>\n      <p><a href=\"audio/poetry-0278.mp3\">Audio Version</a></p>\n    </section>\n\n    <section>\n      <p>We, or the younger generations may find ourselves in situations where life does not make sense,</p>\n      <p>where too many things are contradictory, ineffective, and too broken to be of any real use.</p>\n    </section>\n\n    <section>\n      <p>When we are children we are taught falsehoods,</p>\n      <p>indoctrinated into religions, made to think of politics as special, and schools as critical.</p>\n    </section>\n\n    <section>\n      <p>We have no chance to question anything,</p>\n      <p>we have no experience at all.</p>\n    </section>\n\n    <section>\n      <p>Religions, broken politics and ineffective schools feed on blind belief,</p>\n      <p>if we taught children the truth they would try to help the world grow.</p>\n    </section>\n\n\n\n    <section>\n      <p>Plus, it does not take very long before life gets real, with bullies, rockets, wars, or illnesses,</p>\n      <p>and when we are placed on an imaginary foundation, we can&apos;t quite fight all that back, not very effectively.</p>\n    </section>\n\n    <section>\n      <p>Educated or not, Human Beings are still very special, and will fight for what little they know,</p>\n      <p>it is a terrible tragedy when people fight for something imaginary, that in the end, means nothing.</p>\n    </section>\n\n    <section>\n      <p>Just out of respect for children, and for the future generations to whom this planet truly belongs to,</p>\n      <p>we must resist propagating fantasies and myths.</p>\n    </section>\n\n\n    <section>\n      <p>The governments are not external forces, and they are not fully functional,</p>\n      <p>they are made to be ran by the people of their nations, and depend on schools that produce real results.</p>\n    </section>\n\n    <section>\n      <p>We can&apos;t teach the younger generations that World Peace is a funny fantasy,</p>\n      <p>World Peace has been the next important step for a century now.</p>\n    </section>\n\n    <section>\n      <p>Levels of education, wisdom, and greatness all around the world, need to increase,</p>\n      <p>while schools do work to some degree, they mean little when compared to self education and real results.</p>\n    </section>\n\n\n    <section>\n      <p>It is cruel to teach children lessons that will frighten them with a world that does not make sense,</p>\n      <p>all-the-while real life is happening and they need real facts and not imaginary opinions and wishful thinking.</p>\n    </section>\n\n    <section>\n      <p>Worst of all, we propagate myths because it is easier to pass on a faerie tale,</p>\n      <p>than to read a thousand books about the world and growing up.</p>\n    </section>\n\n\n    <section>\n      <p>Let us all put an end to this cycle to strangeness,</p>\n      <p>let us all aim to become self educated with world&apos;s finest books and lectures, onward to becoming wise.</p>\n    </section>\n\n    <section>\n      <p>Let us inspire the younger generations with facts and not mere opinions,</p>\n      <p>and let us remind, that the world and the politics and schools that demand great repairs, all belongs to them.</p>\n    </section>\n\n    <section>\n      <p>May we all rise and rise,</p>\n      <p>until the world becomes wise.</p>\n    </section>\n\n\n\n\n\n  </body>\n\n</html>"
+    },
+    "counter": 263,
+    "isNewest": true,
+    "isOldest": false,
+    "olderId": "poetry-0277",
     "newerId": "poetry-0016",
-    "newestId": "poetry-0277",
+    "newestId": "poetry-0278",
     "oldestId": "poetry-0016"
   }
 ]
