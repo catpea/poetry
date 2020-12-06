@@ -38,100 +38,170 @@ remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitH
 
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
-The Serious Business Of Trouble-making
+A Thousand Books
 
-(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
+All that has ever gone wrong,
 
-The best kind of trouble is the trouble you create for yourself,
+has gone wrong due to rejecting realities, and accepting, fantasies.
 
-there is no limit to how elaborate of a problem you can invent.
+To deny truth, is to create a terrible fantasy,
 
-Relativity and contrast play a very important role here,
+and no human being should ever be committed to one - as life is far too precious.
 
-the lower you are and the higher you aim the more it is worth the trouble.
+Yes, fantasies in a sickly way are more comfortable,
 
-It is safe to say that a nice and comfortable bed with an electric blanket,
+than the authentic life that unfolds by rules independent from our wishes.
 
-on a quiet and sleepy afternoon is a pretty good low.
+But rejecting pleasant fantasies is no different
 
-A pretty good height to reach is either ten miles by foot,
+than the rejection of drugs.
 
-or 1,500 miles by car where it usually involves a beach somewhere.
+It is simply not who we are,
 
-Moreover, you need a team deadline, a snooze button, a soon to end semester,
+and not where healthy people wish to be, or can possibly grow.
 
-and an ungrateful team where you do all the work, add a few bullies...
+It is not that the world is too difficult to grasp,
 
-and your co-worker whispering:
+but that, too many people are suffering from lack of knowledge.
 
-"Why did she get a raise, she doesn't know anything" - emphasizing "she doesn't know".
+Knowledge is found in books, best experience in their audio form,
 
-While not purrfect, this is a really good start,
+and on a pleasant and relaxing adventure.
 
-and erasing the deadline from its existence, is a sweet-sweet cherry on top.
+Books whose authors are admired for their hard work, clarity of long therm vision,
 
-There are too more things you could use, a handful or ungrateful friends,
+intelligence, wisdom, and often a wonderful sense of humor.
 
-and a really well thought out backpack, and a large solar charger you can hang on the back.
+Alas, far too many people take to relive their fears by,
 
-See, you are not just headed for Key West and back,
+by constructing a view of the world they can understand and control.
 
-I m sure you will stop at all the antique stores, and hopefully pawn shops as they have good stuff too.
+All fantasies will eventually call for reinforcement,
 
-A good pawn shop somewhere down in Florida or by an ocean is sure to have a cheap Wet Suit,
+and as history shows, at any, and all cost.
 
-it is a little known fact that they aid your buoyancy, it is like wrapping your self in a wee boat.
+Be it something as tiny as the number of likes on a social network,
 
-I think it is really important to consider stopping by the highway accessible State Parks,
+as odd as the status that pointlessly-expensive-cars bring.
 
-they are usually there because something beautiful is going on.
+Or something as heartbreaking as political systems,
 
-You never know what you find, it could be a little lake, maybe enormous dunes,
+where fathers will easily send their children to kill each other in battle fields.
 
-it could be a hill with a historic watchtower of a lookout, or it could be a stable, with horses.
+A fantasy will call for reinforcement,
 
-(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
+to keep it going to make it last, and no price will ever be too big.
 
-For example the reason why someone loses their 4.0 may have nothing to do with their performance,
+Reality, is much harsher and not as comfortable or easy to grasp,
 
-but with the teacher giving out too many A/s in the previous semester, and now just trying to average things out with the people who never complain, so that the dean doesn't come around complaining that his class sticks out.
+will call for constant effort, hard earned foresight, real and lasting results to our endeavors, and authentic dignity.
 
-It doesn't matter if it is High School, or College, or what used to be a Dream Job,
+In reality; color of skin, numbered of colored pieces of paper, or the colors of a flag,
 
-there are unethical fake it until you make it people covering their asses everywhere, it is a tragedy that someone like that should become a reason behind someone's years of suffering.
+do not define who is superior, and who is inferior, who is better and who is worse.
 
-These are simple examples I am making up,
+In fantasy, poverty and war, are facts of life,
 
-in real life, there is no understanding of all the motives as people who never grew up, constantly interact with each other to to do less, and get more,
+in reality, Love, Health, and World Peace, are, the most beautiful rewards for the most difficult of achievements.
 
-Trouble-making is just a lighthearted way of leaving all that noise behind,
+In fantasy we crated tens of thousands of gods and as many battles in their worship,
 
-and regaining your own beauty, and strengths, and awe for the world around you.
+in reality we invent Flight, try to get to the Moon for no clear reason, and even fantasize about Interstellar Travel to cross the galaxy.
 
-Give yourself some trouble that actually makes you better for a change.
+In reality there is no evil, just a steady and colorful progress forward, we build Nuclear Plants and not Nuclear Missiles,
 
-if the path you re walking on feels wrong, you need to begin preparing an adventure backpack.
+in fantasy evil oozes from the cracks that mad men must keep patching to prevent their small minds from falling to a thousand pieces.
 
-A very special Monday is coming around,
+Fantasies spread with culture,
 
-your clock will go off just like always.
+they quite imperceptibly trick us into thinking of ourselves as other than we really are.
 
-But this time it will die with a sad whimper as you - slowly and deliberately - unplug it from the wall,
+For example, if you don't believe you can be a genius,
 
-and return to sleep, not worried about your deadline, job or school, but simply knowing full well, that they don't matter anymore; because your well being is infinitely more important.
+you will not be able to become one, you'll never aim for it.
 
-Then get into your car, or on a bus, and set a direction for sunny weather,
+The longer you delay, the more obstacles will arise in your path
 
-drive, fly, just go, and do not wait to create your rules of adventure, do it as soon as possible.
+if you don't believe you can cross that challenge, you won't even try.
 
-When your health returns to you,
+If you grant others control over your time, or life,
 
-you'll know exactly where you are going, and schools will always take you back, and jobs that hurt you are now worthy of your concern at all.
+you will only limit yourself and how far you can travel.
 
-Don't make plans about the rest of your life until you catch up where you need to be and become wiser as think things through.
+Your mind is powerful enough to host cities of thoughts and dreams of, any size,
 
-And finally, if you don't like the idea of trouble making,
+the only limit to your intelligence is the ability to mistakenly stop your self by accepting some falsehood.
 
-then between You and I let us call it: Love of Life.
+Love, genius, empathy, foresight and insight, and spirituality exist within us all,
 
-(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
+but without knowledge and eventual wisdom they too are limited and fall short.
+
+Yes, at first, the real world is unknown to us,
+
+but it is not meant to frighten us into creating fantasies that we think we can grasp.
+
+It simply requires that we listen to a hundred books,
+
+take a moment to explore the world around us with our new found experience...
+
+And then very slowly and very gently as our long lives unfold,
+
+listen to, and read, just about nine hundred more as not to ever fall short, and always have a beautiful story to tell.
+
+We are sure to become wise, with all the building blocks we gain from books,
+
+and then, if should we wish, we can turn right around and create some new books for others to read, and grow up with.
+
+Do not be scared my friends,
+
+as scary as poverty is, its power flows precisely from lack of education, wisdom and above all foresight.
+
+The more knowledgeable and wiser the world,
+
+the more overwhelming the force to crush poverty.
+
+Growing up to become knowledgeable and wise as opposed to merely age in some easy fantasy,
+
+is critical for our mental health and well being.
+
+A thousand books you can listen to while traveling worlds most beautiful hiking trails,
+
+is hardly a challenge, it shouldn't even bee seen as a inconvenience.
+
+Inheriting real and functional knowledge, that has a powerful and lasting impact on our growing up,
+
+that enriches and enhances our decision making bringing us clear visions and impossible dreams is a great reward.
+
+Becoming broke, or homeless, never being able to get a job, and being seen as a waste of life,
+
+is not something that can happen to a wise a beautiful person that rejects fantasies in search of truths.
+
+And it is important to remember,
+
+that we can't graduate a by cramming and temporary memorizing disconnected facts.
+
+A fake education,
+
+is a meaningless education.
+
+Companies known for hiring such inauthentic individuals are full of life draining liars and pretenders and probably in high positions,
+
+whatever they build cannot be built with vision and wisdom, it can only self destruct.
+
+Once you become self educated,
+
+you are granted the opportunity to build your own companies with foresight and invention.
+
+My dear reader, I would bet building an open and grade-free school that actually educates its students will be high up on your to-do list.
+
+Building companies only becomes stressful when you build them for their own sake due to lack of vision,
+
+when you enter on the path towards wisdom, you won't merely aim to impress investors, you will move generations.
+
+It is OK to blindly set off towards wisdom,
+
+it is one of the few leaps of faith that are worth the while.
+
+Whatever your aims, may you inspire countless dreamers to greatness,
+
+and may you reject all fantasy, holding authenticity and wisdom as the highest of values.
