@@ -38,170 +38,128 @@ remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitH
 
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
-A Thousand Books
+Schools Are Sus!
 
-All that has ever gone wrong,
+Without reading powerful books written by wise beings,
 
-has gone wrong due to rejecting realities, and accepting, fantasies.
+all we can really do is come up with half-baked conspiracy theories.
 
-To deny truth, is to create a terrible fantasy,
+Does High School work?
 
-and no human being should ever be committed to one - as life is far too precious.
+or does it destroy creativity, uniqueness, and self esteem.
 
-Yes, fantasies in a sickly way are more comfortable,
+Does college work?
 
-than the authentic life that unfolds by rules independent from our wishes.
+Or is everyone participating in a mutually beneficial dog an pony show?
 
-But rejecting pleasant fantasies is no different
+Are we supposed to just get a job? or or build a career?
 
-than the rejection of drugs.
+And what about Start-ups and Entrepreneurship and Invention?
 
-It is simply not who we are,
+These questions matter, if you are in highs school,
 
-and not where healthy people wish to be, or can possibly grow.
+and high school isn't working, or working out...
 
-It is not that the world is too difficult to grasp,
+Then what actually is going on,
 
-but that, too many people are suffering from lack of knowledge.
+is that you are falling behind on knowledge and wisdom.
 
-Knowledge is found in books, best experience in their audio form,
+It is not that high school becomes easy or irrelevant when it is ineffective,
 
-and on a pleasant and relaxing adventure.
+but that all this knowledge that would give you more insight into the world, is stolen from you.
 
-Books whose authors are admired for their hard work, clarity of long therm vision,
+Without that empowering knowledge;
 
-intelligence, wisdom, and often a wonderful sense of humor.
+a good grasp on the human condition, a good intuition for liars, manipulators and cheaters.
 
-Alas, far too many people take to relive their fears by,
+Without being well grounded in reality, we'll be forced into desperation,
 
-by constructing a view of the world they can understand and control.
+into confusion, and all to easily swayed from the paths that we want to walk on.
 
-All fantasies will eventually call for reinforcement,
+With a real education, you can operate an online business,
 
-and as history shows, at any, and all cost.
+or write software, or become an art fanatic and illustrator without any upfront investment.
 
-Be it something as tiny as the number of likes on a social network,
+You gain so much support from what you can do,
 
-as odd as the status that pointlessly-expensive-cars bring.
+that poverty ceases to be frightening, and you are allowed to develop further.
 
-Or something as heartbreaking as political systems,
+In school we face this notion of grades and GPA that somehow belittles us,
 
-where fathers will easily send their children to kill each other in battle fields.
+and then we are led through a standardized education under the banner of balance.
 
-A fantasy will call for reinforcement,
+A musician has little interest in biology beyond what a pleasant to read book provides,
 
-to keep it going to make it last, and no price will ever be too big.
+in the world of grades it can only distract and hurt, and interrupt their self education.
 
-Reality, is much harsher and not as comfortable or easy to grasp,
+And yet it appears, that grades exist primarily for getting more funding,
 
-will call for constant effort, hard earned foresight, real and lasting results to our endeavors, and authentic dignity.
+and they are fake, vague, and likely artificially manipulated to show progress.
 
-In reality; color of skin, numbered of colored pieces of paper, or the colors of a flag,
+Participating in nonsense,
 
-do not define who is superior, and who is inferior, who is better and who is worse.
+can only beget more nonsense.
 
-In fantasy, poverty and war, are facts of life,
+It is exhausting to try to figure all this out.
 
-in reality, Love, Health, and World Peace, are, the most beautiful rewards for the most difficult of achievements.
+But think of a religious college, that puts science second to their particular religion,
 
-In fantasy we crated tens of thousands of gods and as many battles in their worship,
+think of a diploma mill, and all the colleges that ended up losing accreditation for questionable practices.
 
-in reality we invent Flight, try to get to the Moon for no clear reason, and even fantasize about Interstellar Travel to cross the galaxy.
+Think about all the happy students, all the hard working teachers,
 
-In reality there is no evil, just a steady and colorful progress forward, we build Nuclear Plants and not Nuclear Missiles,
+all the nice ladies that made little jokes and loved the students they worked with.
 
-in fantasy evil oozes from the cracks that mad men must keep patching to prevent their small minds from falling to a thousand pieces.
+And consider this,
 
-Fantasies spread with culture,
+The most complex of lies exist not just simply for gains,
 
-they quite imperceptibly trick us into thinking of ourselves as other than we really are.
+but also because it is highly impossible or cost prohibitive to prove wrong doing, and down right impossible to prove ill intent.
 
-For example, if you don't believe you can be a genius,
+No university professor ever receives an email about now being able to pawn his loose-leaf "books" on the students,
 
-you will not be able to become one, you'll never aim for it.
+no dean ever asks the professors to let the students cram so that the college can keep their averages high and their accreditation.
 
-The longer you delay, the more obstacles will arise in your path
+These things are implied, assumed, and above all,
 
-if you don't believe you can cross that challenge, you won't even try.
+part of the very foundation of a for-profit-non-profit that has lobbied not to forgive student loans due to bankruptcy.
 
-If you grant others control over your time, or life,
+There is only one way to answer these questions,
 
-you will only limit yourself and how far you can travel.
+and that is to listen to and perhaps read five to fifteen books on each of these subjects.
 
-Your mind is powerful enough to host cities of thoughts and dreams of, any size,
+We must not allow ourselves to be misled into a life of un-education, and desperation,
 
-the only limit to your intelligence is the ability to mistakenly stop your self by accepting some falsehood.
+a school that can't provide results better, than you listening to a few dozen audio-books on some fantastic adventure, is worthless.
 
-Love, genius, empathy, foresight and insight, and spirituality exist within us all,
+The first few years after school should be about us trying to build our own businesses,
 
-but without knowledge and eventual wisdom they too are limited and fall short.
+to see is there is perhaps something better than being overworked for the rest of our lives.
 
-Yes, at first, the real world is unknown to us,
+Entrepreneurship is not something that we can memorize,
 
-but it is not meant to frighten us into creating fantasies that we think we can grasp.
+ideas behind our undertakings have to come from our hearts and souls.
 
-It simply requires that we listen to a hundred books,
+We need a real education for it,
 
-take a moment to explore the world around us with our new found experience...
+if school is not helping us to our independence, then we must switch to self education.
 
-And then very slowly and very gently as our long lives unfold,
+Years go by pretty quickly when we aren't progressing forward,
 
-listen to, and read, just about nine hundred more as not to ever fall short, and always have a beautiful story to tell.
+and life has a way of getting ahead of us and challenging us with complexity.
 
-We are sure to become wise, with all the building blocks we gain from books,
+I can't tell you is schools work or not,
 
-and then, if should we wish, we can turn right around and create some new books for others to read, and grow up with.
+though I am certain that education is life long.
 
-Do not be scared my friends,
+And I can't pick your books for you,
 
-as scary as poverty is, its power flows precisely from lack of education, wisdom and above all foresight.
+because only you know the questions that call to you.
 
-The more knowledgeable and wiser the world,
+But I know that books and especially narrated books and video lectures, that you arrange in a sequence that agrees with you,
 
-the more overwhelming the force to crush poverty.
+and watch at the pace that works best for you, are a powerful way to gain knowledge and to step ever closer to wisdom, and without any distractions.
 
-Growing up to become knowledgeable and wise as opposed to merely age in some easy fantasy,
+We owe it to ourselves to find books that help us away from mediocrity,
 
-is critical for our mental health and well being.
-
-A thousand books you can listen to while traveling worlds most beautiful hiking trails,
-
-is hardly a challenge, it shouldn't even bee seen as a inconvenience.
-
-Inheriting real and functional knowledge, that has a powerful and lasting impact on our growing up,
-
-that enriches and enhances our decision making bringing us clear visions and impossible dreams is a great reward.
-
-Becoming broke, or homeless, never being able to get a job, and being seen as a waste of life,
-
-is not something that can happen to a wise a beautiful person that rejects fantasies in search of truths.
-
-And it is important to remember,
-
-that we can't graduate a by cramming and temporary memorizing disconnected facts.
-
-A fake education,
-
-is a meaningless education.
-
-Companies known for hiring such inauthentic individuals are full of life draining liars and pretenders and probably in high positions,
-
-whatever they build cannot be built with vision and wisdom, it can only self destruct.
-
-Once you become self educated,
-
-you are granted the opportunity to build your own companies with foresight and invention.
-
-My dear reader, I would bet building an open and grade-free school that actually educates its students will be high up on your to-do list.
-
-Building companies only becomes stressful when you build them for their own sake due to lack of vision,
-
-when you enter on the path towards wisdom, you won't merely aim to impress investors, you will move generations.
-
-It is OK to blindly set off towards wisdom,
-
-it is one of the few leaps of faith that are worth the while.
-
-Whatever your aims, may you inspire countless dreamers to greatness,
-
-and may you reject all fantasy, holding authenticity and wisdom as the highest of values.
+and help us inherit lifetimes of functional wisdom towards authenticity and independence.
