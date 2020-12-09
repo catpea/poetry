@@ -8,158 +8,104 @@ remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitH
 
 (SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
 
-Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
-
-
-(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
-
-remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
-remote: warning: See http://git.io/iEPt8g for more information.
-remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
-
-
-(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
-
-
-(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
-Schools Are Sus!
+Each generation, including yours, Dear Reader,
+is charged with figuring out, what is wrong.
 
-Without reading powerful books written by wise beings,
+Previous generations discovered many wrongs,
+Wars, Racism, Inequality, Lack of Education.
 
-all we can really do is come up with half-baked conspiracy theories.
+---
 
-Does High School work?
+Due to ineffective schooling and resulting lack of education,
+we continue repeating mistakes of previous generations.
 
-or does it destroy creativity, uniqueness, and self esteem.
+---
 
-Does college work?
+The primary cause to repetitions of mistakes and their re-emergence,
+is lack of real education that grants the student knowledge, independence, wisdom, and eventual greatness.
 
-Or is everyone participating in a mutually beneficial dog an pony show?
+Liars everywhere, in the blindness caused by lack of education,
+are easily out-competing generations of beings who dedicated their lives to the betterment of Human Kind.
 
-Are we supposed to just get a job? or or build a career?
+Children are forced to memorize and pretend to learn to get good grades,
+and hope to go to colleges and universities that hardly live up to their promises.
 
-And what about Start-ups and Entrepreneurship and Invention?
+Their job search, and school loans,
+the way they are treated from interview to retirement does not do them justice.
 
-These questions matter, if you are in highs school,
+The younger generations are the Sacred Hope and Future of Human Hind,
+but they are now exploited by old fat lice who cannot stop feeding even if their life depends on it.
 
-and high school isn't working, or working out...
+The teachers in their haste to bring a little paycheck home have lost the respect for students,
+professors now sell home-made textbooks as ineffective as their lectures, and universities.
 
-Then what actually is going on,
+The children can see all this,
+they understand the minds of these failures.
 
-is that you are falling behind on knowledge and wisdom.
+They merely need to ask:
+"How would I have to think, and how low would I have to sink, to do as they do."
 
-It is not that high school becomes easy or irrelevant when it is ineffective,
 
-but that all this knowledge that would give you more insight into the world, is stolen from you.
+---
 
-Without that empowering knowledge;
+Humanity requires a real educational system to effectively pass knowledge between generations,
+when we finally create it, we will see blind stupidity and all the evils it fuels, fade.
 
-a good grasp on the human condition, a good intuition for liars, manipulators and cheaters.
+---
 
-Without being well grounded in reality, we'll be forced into desperation,
+My friends, this is not a difficult project,
+we come together to record video lectures, write and narrate books.
 
-into confusion, and all to easily swayed from the paths that we want to walk on.
+We pay,
+for outstanding contributions and translations of these lectures.
 
-With a real education, you can operate an online business,
+---
 
-or write software, or become an art fanatic and illustrator without any upfront investment.
+That payment,
+is the grade.
 
-You gain so much support from what you can do,
+---
 
-that poverty ceases to be frightening, and you are allowed to develop further.
+We create a massively multiplying and overlapping global educational system,
+that has no structure, and countless redundant paths towards knowledge, excellence and wisdom.
 
-In school we face this notion of grades and GPA that somehow belittles us,
+---
 
-and then we are led through a standardized education under the banner of balance.
+Those paths,
+are the diploma.
 
-A musician has little interest in biology beyond what a pleasant to read book provides,
+---
 
-in the world of grades it can only distract and hurt, and interrupt their self education.
+Companies that show compassion, worth and balance,
+inspect these paths in search of talent.
 
-And yet it appears, that grades exist primarily for getting more funding,
+Even so, students are encouraged to build multi-founder start-ups,
+throughout the world and their lives.
 
-and they are fake, vague, and likely artificially manipulated to show progress.
+This world school, is not an neat addition to this world,
+this school: Becomes Our World.
 
-Participating in nonsense,
+It becomes our point of convergence on World Peace,
+and the Library of Ideas worth keeping.
 
-can only beget more nonsense.
+---
 
-It is exhausting to try to figure all this out.
+The fundamentally broken naysayers will come,
+as the erosion of the good ideas and propagation of war, poverty, and all other bad ideas is their food.
 
-But think of a religious college, that puts science second to their particular religion,
+But those who stand against Prosperity, Unity, Knowledge, Wisdom and World Peace,
+are just an animated rotting corpse that needs to be left behind in the poverty and desperation they once exploited to their advantage.
 
-think of a diploma mill, and all the colleges that ended up losing accreditation for questionable practices.
+---
 
-Think about all the happy students, all the hard working teachers,
+For the sake of the future generations,
+let us rise against evil and mediocrity.
 
-all the nice ladies that made little jokes and loved the students they worked with.
+May we abandon all that moves against the grain of reality,
+and all that is fake, ineffective, and lacking positive, real, and permanent results.
 
-And consider this,
-
-The most complex of lies exist not just simply for gains,
-
-but also because it is highly impossible or cost prohibitive to prove wrong doing, and down right impossible to prove ill intent.
-
-No university professor ever receives an email about now being able to pawn his loose-leaf "books" on the students,
-
-no dean ever asks the professors to let the students cram so that the college can keep their averages high and their accreditation.
-
-These things are implied, assumed, and above all,
-
-part of the very foundation of a for-profit-non-profit that has lobbied not to forgive student loans due to bankruptcy.
-
-There is only one way to answer these questions,
-
-and that is to listen to and perhaps read five to fifteen books on each of these subjects.
-
-We must not allow ourselves to be misled into a life of un-education, and desperation,
-
-a school that can't provide results better, than you listening to a few dozen audio-books on some fantastic adventure, is worthless.
-
-The first few years after school should be about us trying to build our own businesses,
-
-to see is there is perhaps something better than being overworked for the rest of our lives.
-
-Entrepreneurship is not something that we can memorize,
-
-ideas behind our undertakings have to come from our hearts and souls.
-
-We need a real education for it,
-
-if school is not helping us to our independence, then we must switch to self education.
-
-Years go by pretty quickly when we aren't progressing forward,
-
-and life has a way of getting ahead of us and challenging us with complexity.
-
-I can't tell you is schools work or not,
-
-though I am certain that education is life long.
-
-And I can't pick your books for you,
-
-because only you know the questions that call to you.
-
-But I know that books and especially narrated books and video lectures, that you arrange in a sequence that agrees with you,
-
-and watch at the pace that works best for you, are a powerful way to gain knowledge and to step ever closer to wisdom, and without any distractions.
-
-We owe it to ourselves to find books that help us away from mediocrity,
-
-and help us inherit lifetimes of functional wisdom towards authenticity and independence.
+Let us cradle the future generations in Knowledge, in Wisdom, and in Greatness,
+and honor them and their challenges, with World Peace.
