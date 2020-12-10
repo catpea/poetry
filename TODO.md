@@ -11,6 +11,8 @@ remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitH
 
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
+Our World
+
 Each generation, including yours, Dear Reader,
 is charged with figuring out, what is wrong.
 
