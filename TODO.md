@@ -18,142 +18,108 @@ remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitH
 
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
-Living Life
 
-Culture switching is the best way to learn, it is about discovering that not only ones own culture is fluid,
+    Mistakes and Misunderstandings divide Humanity today,
+    noting can be done because varying levels of education interfere with unity.
 
-but also, that there is no standard culture, just a colorful bouquet.
+    One of the biggest mistakes is ineffective education
+    tricking students into believing that they are educated.
 
-I think most people assume that switching cultures
+    Mis-education, fake education, ineffective education makes us blind,
+    truths and facts are drowned in an ocean of conflicting and equally wrong opinions.
 
-means living in some other country for a but moving around is just as good.
+    Real education, is the key to unity, to a common grasp on reality,
+    but all the roads there are obscured by confused and confusing chatter.
 
-The point is not to be glued to a single spot,
+    It is not until we accept the responsibility for our own education,
+    that we will start learning, for real.
 
-but continue adapting to as many as possible.
+    ---
 
-Moreover, changing the way we live is just as good,
+    The biggest mistake is borders,
+    groups of wealthy uneducated people coming together to decide the futures of their nations.
 
-spending half a year traveling the Appalachian Trail is the most powerful example.
+    These men claim greatness,
+    and hold up their experience as their proof.
 
-Above all, going to sleep when it gets dark, and rising to watch the sun rise,
+    But experience is no substitute for wisdom,
+    on the surface experience makes a person indistinguishable from a wise one.
 
-is a great treasure, that brings great heath and strength.
+    The first clue to distinguish the two, is found in length of vision,
+    when they get around to speaking of problems of today, they will give excuses that they know - from experience - will hold up.
 
-Going forward every day, and slowing down to match the pace of nature,
+    But they will dismiss the future entirely,
+    because to speak of the future; a person needs a direction, a vision, an objective, a purpose, a wisdom.
 
-helps people have long thoughts and connects all their dots together.
+    Men of experience, are too small minded, too blind and limited, to shallow, to fragile,
+    to see into things that have no impact on them.
 
-Discomfort, is not part of learning and growing, or healing,
+    Our levels of education are insufficient to directly address the problems that we face today,
+    there are too few well educated, knowledgeable and wise beings to repair anything right now.
 
-it is just that we must not succumb to fear and imaginary dragons.
+    An uneducated voting majority is all to easily swayed and misled,
+    and our poverty will prevent our generation from re-learning.
 
-Doing new things is not perfect, but it is not discomfort,
+    One of the worst things about general poverty,
+    is that it induces a poverty of mind, out of lack of time, out of stress, fear, and discomfort.
 
-discomfort is when someone is hurting you, or life is crushing you.
+    (SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit a lot of text has been removed here.)
 
-These are the situations that require drastic changes,
+    Real education is based on students' predispositions,
+    and curiosities.
 
-not just a set of changes, but a long term series of changes.
+    For example, when someone is interested in the moon or stars at night,
+    that marks an entry point into Science Fiction, Astrophysics, Astrography and if they continue to care, Optics, Mathematics, Physics, Writing and so on.
 
-Some people, presumably at-least armchair psychologists,
+    Most children won't care for stars very long, because they are interested in exploring all of the universe,
+    and that is even better because then there is a multitude of passage ways they can use to walk through the sciences.
 
-say that we end up using a more logical side of our brain...
+    But it has to be their own walking, their own direction, and at their own pace,
+    we have to honor their predispositions and curiosities, the students are the future.
 
-But, I am sure that our brains are infinitely more complex than that,
+    We have to remove grades, tests, graduation, class rooms, time divisions, subject divisions, rows of seats, groupings of any kind be it age or area of study,
+    we have to replace the teacher with personalized learning and tutors.
 
-and what is actually going on is that we are leaving a kind of depression behind.
+    And we have to give the students what they need, a telescope, a fast single board computer with all the sensors and servos they could ever need,
+    they need the ability to launch satellites, to operate small remotely operated submarines and small drones, they need access to things they are curious about.
 
-One of our main missions in life, is to live it to its fullest because, life is precious,
+    ---
 
-and that includes living in balance with nature, wisdom, and universe.
+    If a student is walking the wrong path, then it is a path that has been been walked many times before, they are asking a question, and they need powerful answers,
+    they have to see what war is like, what prisons are like, what concentration camps are like - and what love is like - and they will learn.
 
-And while, I do admit that this sounds a wee bit hokey,
+    At the time of writing this in 2020, I realized that there are three nations that operate concentrations camps,
+    which is probably to say, that there are many; and they need to see that too.
 
-the best way to personally explore ideas behind heath and balance.
+    They need to see gang violence, and if they are still around then meet up with Father Gregory Boyle's boys,
+    for they have surely become Great Beings.
 
-Is to try to imagine our elder selves,
+    ---
 
-at say, 85 and a half years, young.
+    Nothing goes wrong in real education,
+    real education is about reality, about really growing up, and really being human.
 
-It is hard to deny that, no one is more connected to the elder you, than you right now,
+    And when these students grow up, become voters, Senators and Congresswomen and Congressmen,
+    then the liars, and pretenders, will lose their hold on humanity.
 
-you can try to project your predispositions and try to imagine what the elder you is like.
+    And then the members of General Assembly of United nations,
+    can finally have their day, in agreement and unity.
 
-Our energy is found in balanced living,
+    ---
 
-we have to move away from stress, and depression, and overwork.
+    My friends,
+    never lose hope.
 
-Our intelligence, and creativity, our memory, and ability to learn, and read books,
+    If something important can't happen today,
+    it only means that you are to begin building the bridge, for others to eventually get there.
 
-requires that we take really good care of ourselves.
+    Real Education is the first step,
+    the second is actually many overlapping steps that will happen all at once, all around the world.
 
-(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
+    ---
 
-Encouraging use of medications that help with temporary memory at school,
-
-and whatever pushes you into overwork and over performing at work.
-
-If you don't do that,
-
-you will be replaced by someone who is willing to live sick for the minimum you got paid, or less.
-
-Allow me to digress, and say that to deal with both of these issues in a healthy fashion,
-
-you can self-educate and and aim to build a serious of start-ups.
-
-Now, when building your companies, you will be tasked with not pushing yourself,
-
-while it is easier to overwork in short term, it is not worth it in long term.
-
-You need heart, and soul, and long visions and thoughts to craft your own future,
-
-and being stressed, depressed, and overworked will only take those powers away from you.
-
-Living healthy should be the easiest thing for you, cramming, overworking, stressing, depressing,
-
-and squeezing every last bit of energy out of yourself, aught to be the more difficult path.
-
-Just listen to what I am saying;
-
-when you are healthy and in balance with your self, or with nature, whatever you conceive to be:
-
-You are at your most intelligent, and most creative, and strongest self,
-
-you are also most beautiful, and I am sure at your funniest, in that worst of ways where no one is sure if are joking or dead serious.
-
-One of the ways to connect with your elder self,
-
-is to make them better, is to grant them outrageous gifts from your youth.
-
-Even if just to remind them,
-
-who the boss really is, or to make them smile in wonder.
-
-Great beings often appear slightly odd and confusingly funny, just because of that,
-
-they are sending a message into their own future, to guarantee the health of their elder selves.
-
-Culture switching helps a person become unstuck,
-
-it exposes them to new experiences, and removes old discomforts, and often making them more courageous.
-
-It is important to read books, and that means to live in a state that is conducive to inheriting lifetimes of knowledge,
-
-and that state just can't be found at places that aim to push you out of balance for their own profit.
-
-It sounds terrible, but this is just a call to rising, to self balancing, to becoming an independent thinker,
-
-to leaving all influences whether perceptible of obscured, behind you, in a blur of a series of challenges.
-
-With each new step,
-
-you will learn new things.
-
-With each new culture,
-
-you will become more illuminated.
-
-And with each Great Endeavor,
-
-you will become, greater.
+    What you have to do is make sure that the students get to own or hold in their own hands the many tools that they need,
+    to learn, and explore the Human Condition, and The Sciences, and The World, and The Stars; as those are their countless bookmarks and the steppingstones to their boundless steps.
+
+    The children want to learn,
+    and that is all the hope Humanity will ever need.
