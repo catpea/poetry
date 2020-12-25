@@ -20,6 +20,8 @@ Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.
 
 Full text version is available at: https://catpea.com
 
+Strive To Be Cheerful
+
 Might is meant for battle only,
 when battles end, we must return to balance.
 
