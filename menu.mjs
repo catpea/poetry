@@ -31,6 +31,10 @@ const questions = [
       name: "1) Build The Main Data Feed",
       value:"bin/feed/index.mjs",
     },
+    {
+      name: "1.5) Build Server Object",
+      value:"bin/server-object/index.mjs",
+    },
 
     {
       name: "2) Run Feed Tests",
