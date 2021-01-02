@@ -81,6 +81,14 @@ const questions = [
     new inquirer.Separator(),
 
     {
+      name: "Build All",
+      value: "bin/build-all/index.sh",
+    },
+
+
+    new inquirer.Separator(),
+
+    {
       name: 'Exit Menu',
       value: 'exit-menu',
     },

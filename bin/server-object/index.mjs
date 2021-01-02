@@ -92,19 +92,7 @@ fs.writeFileSync(feedFile, JSON.stringify(object, null, '  '));
 
 
 
-{
-  // Calculate Schema Stats
-  const schema = {};
-  for(let file of feed){
-    for(let key of Object.keys(file)){
-        if(!schema[key]) schema[key] = 0;
-        schema[key]++
-    }
-  }
 
-  console.log('schema');
-  console.log(schema)
-}
 
 function meta(object){
   // Compute metadata

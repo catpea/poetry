@@ -39,7 +39,7 @@ let feed = fs.readdirSync(path.resolve(options.sourceDatabasePath), { withFileTy
   }
 }));
 
-feed = feed.slice(15);
+//feed = feed.slice(15);
 
 feed = feed.map((entry, index)=>{
 
