@@ -44,31 +44,7 @@ let data = fs.readdirSync(path.resolve(options.sourceDatabasePath), { withFileTy
 })
 ;
 
-// feed = feed.slice(15);
-//
-// feed = feed.map((entry, index)=>{
-//
-//   let newestElementNumber = feed.length;
-//   let oldestElementNumber = 1; // oldest Element is page one
-//
-//   let currentElementNumber = index+1;
-//
-//   let olderElementNumber = currentElementNumber - 1;
-//   let newerElementNumber = currentElementNumber + 1;
-//
-//   if (olderElementNumber == 0) olderElementNumber = newestElementNumber; // wrap around
-//   if (newerElementNumber > newestElementNumber) newerElementNumber = oldestElementNumber; // wrap around
-//
-//   entry.counter = index+1;
-//   entry.isNewest =  currentElementNumber==feed.length?true:false;
-//   entry.isOldest = currentElementNumber==1?true:false;
-//   entry.olderId = feed[olderElementNumber-1].id;
-//   entry.newerId = feed[newerElementNumber-1].id;
-//   entry.newestId = feed[newestElementNumber-1].id;
-//   entry.oldestId = feed[oldestElementNumber-1].id;
-//
-//   return entry;
-// })
+
 
 const object = {
   name: "furkies-purrkies",
@@ -104,7 +80,9 @@ function meta(object){
     const content = $(element).attr('content');
     response[name] = content;
   })
-  //response.timestamp = moment(response.date).format('dddd, MMMM Do YYYY, h:mm:ss a'); // Monday, August 15th 2020, 12:59:34 pm
+  if(!response.image){
+    response.image = "poetry-cover.jpg";
+  }
   return response;
 }
 
