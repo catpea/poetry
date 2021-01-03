@@ -11,19 +11,38 @@ const questions = [
     type: 'list',
     name: 'action',
     message: 'What would you like to do?',
-    pageSize: 15,
+    pageSize: 20,
     loop: false,
     choices: [
 
     {
-      name: "Add New Poem",
+      name: "1) Add New Poem",
       value: "bin/new/index.mjs",
     },
 
     {
-      name: "Upgraded Markup To Buffer",
+      name: "2) Upgraded Markup To Buffer",
       value: "bin/trop/index.sh",
     },
+
+     new inquirer.Separator(),
+
+
+
+     {
+       name: "1) Build All",
+       value: "bin/build-all/index.sh",
+     },
+
+     {
+       name: "2) Publish To Github",
+       value: "bin/publish/index.sh",
+     },
+
+     {
+       name: "3) Convert (copy) Each Audio To Separate Video File",
+       value: "bin/video/index.sh",
+     },
 
      new inquirer.Separator(),
 
@@ -32,58 +51,46 @@ const questions = [
       value:"bin/feed/index.mjs",
     },
     {
-      name: "1.5) Build Server Object",
+      name: "2) Build Server Object",
       value:"bin/server-object/index.mjs",
     },
 
     {
-      name: "2) Run Feed Tests",
+      name: "3) Run Feed Tests",
       value: "bin/test/index.mjs",
     },
 
     {
-      name: "3) Copy audio to ./dist",
+      name: "4) Copy audio to ./dist",
       value: "bin/audio/index.sh",
     },
 
     {
-      name: "4) Convert PNG to JPG and Resize Images",
+      name: "5) Convert PNG to JPG and Resize Images",
       value: "bin/image/index.sh",
     },
 
     {
-      name: "5) Generate Spectrograms",
+      name: "6) Generate Spectrograms",
       value: "bin/spectrogram/index.sh",
     },
 
     {
-      name: "6) Build A Local Mirror",
+      name: "7) Build A Local Mirror",
       value: "bin/mirror/index.sh",
     },
 
-    {
-      name: "7) Publish To Github",
-      value: "bin/publish/index.sh",
-    },
 
      new inquirer.Separator(),
 
-    {
-      name: "Convert (copy) Each Audio To Separate Video File",
-      value: "bin/video/index.sh",
-    },
+
 
     {
-      name: "Build a Audio and Visual Book (Single File Book with Spectrograms)",
+      name: "Build a Audio and Visual Book (Single File Book + Spectrograms)",
       value: "bin/audiobook/index.sh",
     },
 
-    new inquirer.Separator(),
 
-    {
-      name: "Build All",
-      value: "bin/build-all/index.sh",
-    },
 
 
     new inquirer.Separator(),
@@ -114,8 +121,8 @@ function execute(answers){
     child.stderr.on('data', (data) => { console.error(`stderr: ${data}`); });
 
     child.on('error', (error) => { console.error(`error: ${error.message}`); NO(error.message); });
-    child.on('close', (code) => { console.log(`child process exited with code ${code}`); console.log(''); operate++; OK(); });
-    child.on('exit', (code) => { console.log(`child process exited with code ${code}`); console.log(''); operate++; OK(); });
+    child.on('close', (code) => { console.log(`child process exited with code ${code}`); console.clear(); operate++; OK(); });
+    child.on('exit', (code) => { console.log(`child process exited with code ${code}`); console.clear(); operate++; OK(); });
 
   });
 
