@@ -42,11 +42,11 @@ async function main(){
       const $ = cheerio.load(code);
       console.log(entry.location);
 
-      fixImages($);
-      fixSectionTags($);
-      fixLinks($);
+      // fixImages($);
+      // fixSectionTags($);
+      // fixLinks($);
 
-      save(entry.location, $)
+      // save(entry.location, $)
 
   };
 
@@ -63,31 +63,31 @@ async function main(){
 main();
 
 
-function fixImages($){
-  let fixed = false;
-  $('img').each(function (i, elem) {
-    let src = $(this).attr('src');
-    if(src.match(/^image\//)){
-      src = '/'+src;
-      $(this).attr('src', src);
-      fixed = true;
-    }
-  });
-}
-
-function fixSectionTags($){
-  $('section').each(function (i, elem) {
-    this.tagName = 'div';
-    $(this).addClass('section');
-  });
-}
-
-function fixLinks($){
-  //
-  // $('a').each(function (i, elem) {
-  //   let href = $(this).attr('href');
-  // });
-}
+// function fixImages($){
+//   let fixed = false;
+//   $('img').each(function (i, elem) {
+//     let src = $(this).attr('src');
+//     if(src.match(/^image\//)){
+//       src = '/'+src;
+//       $(this).attr('src', src);
+//       fixed = true;
+//     }
+//   });
+// }
+//
+// function fixSectionTags($){
+//   $('section').each(function (i, elem) {
+//     this.tagName = 'div';
+//     $(this).addClass('section');
+//   });
+// }
+//
+// function fixLinks($){
+//   //
+//   // $('a').each(function (i, elem) {
+//   //   let href = $(this).attr('href');
+//   // });
+// }
 
 
 function save(location, $){
