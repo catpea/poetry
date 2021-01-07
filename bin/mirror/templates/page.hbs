@@ -10,7 +10,7 @@
   <title>{{title}}</title>
   <link rel="canonical" href="https://catpea.github.io/poetry/">
   <style>
-    section {
+    div.section {
       margin-bottom: 3rem;
     }
   </style>
@@ -29,17 +29,17 @@
           <small>{{date}}</small>
         </h4>
       </hgroup>
-      
+
       {{#if image}}
-        <section>
+        <div class="section">
           <img src="image/md-{{image}}">
-        </section>
+        </div>
       {{/if}}
 
       {{#if audio}}
-        <section>
+        <div class="section">
           <p><a href="audio/{{audio}}">Audio Version</a></p>
-        </section>
+        </div>
       {{/if}}
 
       {{{data.html}}}

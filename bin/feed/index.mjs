@@ -141,8 +141,8 @@ function page(object){
   // Construct a whole page with html and head and body.
   const $ = cheerio.load(fs.readFileSync(object.path));
   $('head > meta').remove();
-  const illustrationSection = $(`<section/>`)
-  const audioSection = $(`<section/>`)
+  const illustrationSection = $(`<div class="section"/>`)
+  const audioSection = $(`<div class="section"/>`)
   const illustration = $(`<img src="image/${object.image}">`)
   const audio = $(`<p><a href="audio/${object.audio}">Audio Version</a></p>`)
   illustrationSection.append(illustration);
