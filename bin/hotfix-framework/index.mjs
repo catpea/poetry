@@ -2,6 +2,8 @@
 // --redirect-warnings=/dev/null
 
 import fs from 'fs-extra';
+const { COPYFILE_EXCL } = fs.constants;
+
 import path from 'path';
 
 import cheerio from 'cheerio';
@@ -36,15 +38,34 @@ async function main(){
     location: path.join(options.sourceDatabasePath, name),
   }));
 
+  let c = 0;
   for (const entry of texts) {
-
       const code = fs.readFileSync(entry.location).toString();
       const $ = cheerio.load(code);
-      console.log(entry.location);
+      // //console.log(entry.location);
+
+      let baseName = path.basename(entry.location, path.extname(entry.location));
+      let imageFilename = $('meta[name=image]').attr('content');
+
+      if(!imageFilename){
+        c++;
+        console.log('%d: needs an image: %s', c, baseName);
+
+
+
+
+
+        //$('html > head').append(`<meta name="image" content="${baseName}-illustration.jpg" source="https://catpea.com/">`)
+        //fs.copyFileSync(`/home/meow/n/${c}.jpg`, `src/image/${baseName}-illustration.jpg`, COPYFILE_EXCL);
+        //save(entry.location, $)
+
+      }
 
       // fixImages($);
       // fixSectionTags($);
       // fixLinks($);
+
+
 
       // save(entry.location, $)
 
