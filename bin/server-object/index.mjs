@@ -124,8 +124,7 @@ function html(object){
 
 function images(object){
   const $ = cheerio.load(object.html);
-  const list = $('img') .map(function (i, el) { return $(this).attr('src'); }).get()
-  .map(i=>i.replace(/^\/image\/[a-z]{2}-/, ''))
+  const list = $('img') .map(function (i, el) { return {title: $(this).attr('title'), url: $(this).attr('src').replace(/^\/image\/[a-z]{2}-/, '')} }).get()
   return list;
 }
 function links(object){
