@@ -124,12 +124,12 @@ function html(object){
 
 function images(object){
   const $ = cheerio.load(object.html);
-  const list = $('img') .map(function (i, el) { return {title: $(this).attr('alt'), url: $(this).attr('src').replace(/^\/image\/[a-z]{2}-/, '')} }).get()
+  const list = $('img') .map(function (i, el) { return {title: $(this).attr('title')||$(this).attr('alt'), url: $(this).attr('src').replace(/^\/image\/[a-z]{2}-/, '')} }).get()
   return list;
 }
 function links(object){
   const $ = cheerio.load(object.html);
-  const list = $('a') .map(function (i, el) { return {title: startCase($(this).text()), url: $(this).attr('href')} }).get()
+  const list = $('a') .map(function (i, el) { return {title: ($(this).attr('title')||$(this).text()), url: $(this).attr('href')} }).get()
   return list;
 }
 
