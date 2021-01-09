@@ -57,6 +57,7 @@ const object = {
   title: "Furkies Purrkies",
   subtitle: "Anthology of Inspirational Rhyme",
   description: "Just another dang old Audio Book about wisdom and growing up.",
+  icon: "earbuds",
   "links":{
     "Source Code":"https://github.com/catpea/poetry",
     "Mirror":"https://catpea.github.io/poetry/",
