@@ -129,7 +129,7 @@ function images(object){
 }
 function links(object){
   const $ = cheerio.load(object.html);
-  const list = $('a') .map(function (i, el) { return {title: ($(this).attr('title')||$(this).text()), url: $(this).attr('href')} }).get()
+  const list = $('a') .map(function (i, el) { return {title: ($(this).attr('title')||$(this).text()), url: $(this).attr('href'), hostname:new URL($(this).attr('href')).hostname} }).get()
   return list;
 }
 
