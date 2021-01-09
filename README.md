@@ -16,3 +16,12 @@ System Release 3
 - Each audio has a video version where audio plays along a scrolling spectrogram
 - Audio book command creates an mp3 and mp4 version of **everything** (mp4 is a video of audio with spectrogram)
 - There is a tiny build system that makes a docs mirror that is respectful of bandwidth use
+
+## Vocabulary
+
+### Purrkies
+
+Creative and inspirational ideas, that result from an extended cat-like nap, where it felt like you were purring throughout. The word seems to have originated in Westland, Michigan (US), and is primarily used amongst bodybuilders that frequently suffer the carbohydrate coma.
+
+Yo bro, I woke up with so many purrkies on my mind, that I ran out of paper writing them down, and I had to resort to scribbling all over my beautiful body.
+So, I was eating mashed potatoes right? and the purrkies hit me so hard, that I got my hands into the potatoes and started mushing them, man, and I created this beautiful laccolithic butte, that later turned out to be the perfect three dimensional map of the Devils Tower in Wyoming, yo!
