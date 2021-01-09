@@ -47,19 +47,25 @@ async function main(){
       let baseName = path.basename(entry.location, path.extname(entry.location));
       let imageFilename = $('meta[name=image]').attr('content');
 
-      if(!imageFilename){
-        c++;
-        console.log('%d: needs an image: %s', c, baseName);
-
-
-
-
-
-        //$('html > head').append(`<meta name="image" content="${baseName}-illustration.jpg" source="https://catpea.com/">`)
-        //fs.copyFileSync(`/home/meow/n/${c}.jpg`, `src/image/${baseName}-illustration.jpg`, COPYFILE_EXCL);
-        //save(entry.location, $)
-
+      const images = $('img') .map(function (i, el) { return $(this).attr('src'); }).get()
+      .map(i=>i.replace(/^\/image\/[a-z]{2}-/, '')).join(', ');
+      if(images.length){
+        console.log('%s: %s', baseName, images);
       }
+
+      // if(!imageFilename){
+      //   c++;
+      //   console.log('%d: needs an image: %s', c, baseName);
+      //
+      //
+      //
+      //
+      //
+      //   //$('html > head').append(`<meta name="image" content="${baseName}-illustration.jpg" source="https://catpea.com/">`)
+      //   //fs.copyFileSync(`/home/meow/n/${c}.jpg`, `src/image/${baseName}-illustration.jpg`, COPYFILE_EXCL);
+      //   //save(entry.location, $)
+      //
+      // }
 
       // fixImages($);
       // fixSectionTags($);

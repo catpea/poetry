@@ -5,6 +5,7 @@ import path from 'path';
 import cheerio from 'cheerio';
 import moment from 'moment';
 import pretty from 'pretty';
+import startCase from 'lodash/startCase.js';
 
 const options = {
   sourceDatabasePath: './src/text', // used to get a list of md files
@@ -37,6 +38,11 @@ let data = fs.readdirSync(path.resolve(options.sourceDatabasePath), { withFileTy
   html: html(object),
   //  page: page(object),
 
+}))
+.map(object => ({
+  ...object,
+  images: images(object),
+  links: links(object),
 }))
 .map(i=>{
   delete i.path;
@@ -114,6 +120,18 @@ function html(object){
   // Grab only the inner HTML (this does not include metadata use the one in the object)
   const $ = cheerio.load(fs.readFileSync(object.path));
   return pretty($('body').html()).trim();
+}
+
+function images(object){
+  const $ = cheerio.load(object.html);
+  const list = $('img') .map(function (i, el) { return $(this).attr('src'); }).get()
+  .map(i=>i.replace(/^\/image\/[a-z]{2}-/, ''))
+  return list;
+}
+function links(object){
+  const $ = cheerio.load(object.html);
+  const list = $('a') .map(function (i, el) { return {title: startCase($(this).text()), url: $(this).attr('href')} }).get()
+  return list;
 }
 
 function page(object){
