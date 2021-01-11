@@ -8,6 +8,7 @@ import pretty from 'pretty';
 import startCase from 'lodash/startCase.js';
 
 const options = {
+  name: "furkies-purrkies",
   sourceDatabasePath: './src/text', // used to get a list of md files
   extension: '.html', // files to scan
   distributionDirectoryPath: './dist', // to save the feed to
@@ -32,7 +33,7 @@ let data = fs.readdirSync(path.resolve(options.sourceDatabasePath), { withFileTy
 .map(object => ({
   ...object,
   path: undefined,
-  id: path.basename(object.path, options.extension), // Forcing ID based on file name. THis means that id is no longer required in the metaddata, filename takes over...
+  id: options.name + '-' + path.basename(object.path, options.extension), // Forcing ID based on file name. THis means that id is no longer required in the metaddata, filename takes over...
 
   text: text(object),
   html: html(object),
@@ -53,7 +54,7 @@ let data = fs.readdirSync(path.resolve(options.sourceDatabasePath), { withFileTy
 
 
 const object = {
-  name: "furkies-purrkies",
+  name: options.name,
   title: "Furkies Purrkies",
   subtitle: "Anthology of Inspirational Rhyme",
   description: "Just another dang old Audio Book about wisdom and growing up.",
