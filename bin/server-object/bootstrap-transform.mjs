@@ -48,7 +48,7 @@ async function main(){
       });
 
       $('div.section > div.paragraph').each(function (i, elem) {
-        $(this).addClass('card-text stanza my-5 text-center');
+        $(this).addClass('card-text card-stanza my-5 text-center');
       });
 
       /// Rebuild
