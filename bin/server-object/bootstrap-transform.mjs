@@ -40,17 +40,16 @@ async function main(){
 
 
       $('div.section').each(function (i, elem) {
-        $(this).wrap(`<div class="card card-section bg-dark text-warning shadow mb-3"></div>`)
+        $(this).wrap(`<div class="card card-section bg-dark text-warning shadow"></div>`)
       });
 
       $('div.section').each(function (i, elem) {
           $(this).addClass('card-body mb-0 my-2');
       });
 
-      // $('div.section > div.paragraph').each(function (i, elem) {
-      //   $(this).addClass('card-text fs-3 my-5 text-center');
-      //   $(this).attr('style', `text-shadow: 3px 2px 2px rgba(0,0,0,1);`);
-      // });
+      $('div.section > div.paragraph').each(function (i, elem) {
+        $(this).addClass('card-text stanza my-5 text-center');
+      });
 
       /// Rebuild
 
