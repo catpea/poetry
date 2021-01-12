@@ -52,7 +52,7 @@ const questions = [
     },
     {
       name: "2) Build Server Object",
-      value:"bin/server-object/index.mjs",
+      value:"bin/server-object/index.sh",
     },
 
     {
