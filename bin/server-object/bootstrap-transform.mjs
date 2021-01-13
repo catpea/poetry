@@ -25,6 +25,7 @@ async function main(){
 
 
   feed.data.forEach(entry=>{
+    entry.print = entry.html;
     const $ = cheerio.load(entry.html);
 
 
