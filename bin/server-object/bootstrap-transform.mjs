@@ -30,7 +30,7 @@ async function main(){
 
 
       $('div.section > hr').each(function (i, elem) {
-        $(this).parent().replaceWith(`<div class="mb-5">&nbsp;</div>`)
+        $(this).parent().replaceWith(`<div class="mb-5 section-spacer">&nbsp;</div>`)
       });
 
       $('div.section > p').each(function (i, elem) {
@@ -70,7 +70,7 @@ async function main(){
     updated = updated.replace(/&quot;/gi, '"');
     updated = updated.replace(/&amp;/gi, '&');
     entry.html = updated;
-    console.log(updated);
+    //console.log(updated);
 
   }); // forEach
 
