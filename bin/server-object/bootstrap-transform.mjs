@@ -49,7 +49,7 @@ async function main(){
         const number = links.length+1;
         const url = $(this).attr('href');
         links.push({number, url});
-        $(this).replaceWith(`<span>${$(this).text()} <sup>[${number}]</sup></span>`)
+        $(this).replaceWith(`<span>${$(this).text()}<sup>[${number}]</sup></span>`)
       });
 
 
