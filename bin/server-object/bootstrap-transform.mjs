@@ -52,15 +52,16 @@ async function main(){
         $(this).replaceWith(`<span>${$(this).text()}<sup>[${number}]</sup></span>`)
       });
 
-
-      const linkHtml = `
-      <div class="break-after">&nbsp;</div>
-      <div>
-        <div class="section" style="padding-bottom: 1rem;">${entry.title} References</div>
-        ${links.map(link=>`<div>[${link.number}]: ${link.url}</div>`).join('\n')}
-      </div>
-      `;
-      $('body').append(linkHtml)
+      if(links.length > 0){
+        const linkHtml = `
+        <div class="break-after">&nbsp;</div>
+        <div>
+          <div class="section" style="padding-bottom: 1rem;">${entry.title} References</div>
+          ${links.map(link=>`<div>[${link.number}]: ${link.url}</div>`).join('\n')}
+        </div>
+        `;
+        $('body').append(linkHtml)
+      }
 
       let updated =  pretty($('body').html(), {ocd:true});
       updated = updated.replace(/&apos;/gi, '\'');
