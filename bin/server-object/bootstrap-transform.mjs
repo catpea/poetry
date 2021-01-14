@@ -54,6 +54,7 @@ async function main(){
 
 
       const linkHtml = `
+      <div class="break-after">&nbsp;</div>
       <div>
         <div>References</div>
         ${links.map(link=>`<div>[${link.number}]: ${link.url}</div>`).join('\n')}
