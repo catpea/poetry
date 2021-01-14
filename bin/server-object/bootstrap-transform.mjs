@@ -29,10 +29,17 @@ async function main(){
 
     {
       const $ = cheerio.load(entry.html);
+
       $('div.section').each(function (i, elem) {
         $(this).addClass('avoid-break-inside');
+        $(this).css({paddingBottom: '2rem'});
       });
-      let updated =  pretty($.html(), {ocd:true});
+
+      $('div.section > hr').each(function (i, elem) {
+        $(this).replaceWith(`<br>`)
+      });
+
+      let updated =  pretty($('body').html(), {ocd:true});
       updated = updated.replace(/&apos;/gi, '\'');
       updated = updated.replace(/&quot;/gi, '"');
       updated = updated.replace(/&amp;/gi, '&');
@@ -82,7 +89,7 @@ async function main(){
 
 
 
-    let updated =  pretty($.html(), {ocd:true});
+    let updated =  pretty($('body').html(), {ocd:true});
     updated = updated.replace(/&apos;/gi, '\'');
     updated = updated.replace(/&quot;/gi, '"');
     updated = updated.replace(/&amp;/gi, '&');
