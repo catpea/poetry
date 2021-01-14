@@ -43,7 +43,11 @@ async function main(){
         this.tagName = 'div';
         $(this).addClass('paragraph');
       });
-      
+
+      $('a').each(function (i, elem) {
+        $(this).replaceWith(`<div>${$(this).text()} <small>(${$(this).attr('href')})</small></div>`)
+      });
+
       let updated =  pretty($('body').html(), {ocd:true});
       updated = updated.replace(/&apos;/gi, '\'');
       updated = updated.replace(/&quot;/gi, '"');
