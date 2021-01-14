@@ -45,7 +45,7 @@ async function main(){
       });
 
       $('a').each(function (i, elem) {
-        $(this).replaceWith(`<div>${$(this).text()} <small>(${$(this).attr('href')})</small></div>`)
+        $(this).replaceWith(`<span>${$(this).text()} <small>(${$(this).attr('href')})</small></span>`)
       });
 
       let updated =  pretty($('body').html(), {ocd:true});
