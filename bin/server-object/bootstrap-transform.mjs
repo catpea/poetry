@@ -32,7 +32,7 @@ async function main(){
 
       $('div.section').each(function (i, elem) {
         $(this).addClass('avoid-break-inside');
-        $(this).css({paddingBottom: '2rem'});
+        $(this).css({'padding-bottom': '2rem'});
       });
 
       $('div.section > hr').each(function (i, elem) {
