@@ -25,7 +25,23 @@ async function main(){
 
 
   feed.data.forEach(entry=>{
-    entry.print = entry.html;
+
+
+    {
+      const $ = cheerio.load(entry.html);
+      $('div.section').each(function (i, elem) {
+        $(this).addClass('avoid-break-inside');
+      });
+      let updated =  pretty($.html(), {ocd:true});
+      updated = updated.replace(/&apos;/gi, '\'');
+      updated = updated.replace(/&quot;/gi, '"');
+      updated = updated.replace(/&amp;/gi, '&');
+      entry.print = updated;
+    }
+
+
+
+
     const $ = cheerio.load(entry.html);
 
 
