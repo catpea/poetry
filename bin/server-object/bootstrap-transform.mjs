@@ -39,6 +39,11 @@ async function main(){
         $(this).replaceWith(`<br>`)
       });
 
+      $('div.section > p').each(function (i, elem) {
+        this.tagName = 'div';
+        $(this).addClass('paragraph');
+      });
+      
       let updated =  pretty($('body').html(), {ocd:true});
       updated = updated.replace(/&apos;/gi, '\'');
       updated = updated.replace(/&quot;/gi, '"');
