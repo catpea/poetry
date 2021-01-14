@@ -46,7 +46,7 @@ async function main(){
       });
 
       $('a').each(function (i, elem) {
-        const number = links.length;
+        const number = links.length+1;
         const url = $(this).attr('href');
         links.push({number, url});
         $(this).replaceWith(`<span>${$(this).text()} <sup>[${number}]</sup></span>`)
