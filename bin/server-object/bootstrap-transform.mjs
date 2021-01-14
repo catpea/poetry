@@ -55,7 +55,8 @@ async function main(){
 
       const linkHtml = `
       <div>
-        ${links.map(link=>`<div>[${link.number}]: ${link.url}</div>`)}
+        <div>References</div>
+        ${links.map(link=>`<div>[${link.number}]: ${link.url}</div>`).join('\n')}
       </div>
       `;
       $('body').append(linkHtml)
