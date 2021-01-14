@@ -29,6 +29,7 @@ async function main(){
 
     {
       const $ = cheerio.load(entry.html);
+      const links = [];
 
       $('div.section').each(function (i, elem) {
         $(this).addClass('avoid-break-inside');
@@ -45,8 +46,19 @@ async function main(){
       });
 
       $('a').each(function (i, elem) {
-        $(this).replaceWith(`<span>${$(this).text()} <small>(${$(this).attr('href')})</small></span>`)
+        const number = links.length;
+        const url = $(this).attr('href');
+        links.push({number, url});
+        $(this).replaceWith(`<span>${$(this).text()} <sup>[${number}]</sup></span>`)
       });
+
+
+      const linkHtml = `
+      <div>
+        ${links.map(link=>`<div>[${link.number}]: ${link.url}</div>`)}
+      </div>
+      `;
+      $('body').append(linkHtml)
 
       let updated =  pretty($('body').html(), {ocd:true});
       updated = updated.replace(/&apos;/gi, '\'');
