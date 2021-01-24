@@ -13,245 +13,116 @@ Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.
 
 Full text version is available at: https://catpea.com
 
-Music Theory is not something you learn or study,
-it is something you independently invent.
 
-Music theory contains a very important lesson,
-there is an infinity within.
+To Share Wisdom
 
-You can spend a life inventing music,
-but you have to stop yourself, to live one.
+  You may not realize that the way you have been treated in school,
+  has been slowly turning you away from knowledge and wisdom.
 
-Similarly, you can spend a lifetime
-trying to create photo-realistic paintings.
+  See, the teachers convinced us all that what they are doing is sharing knowledge,
+  but it is actually the opposite of knowledge that they are sharing.
 
-But it is best to let the brush be a brush,
-and let the paining say that it is a painting.
+  Real knowledge comes with real results,
+  fake knowledge depends on making you feel perpetually inadequate and then squeezes you into desperation just to make you thing you made progress as it pushes you along.
 
-The perfection of a painting
-is found in the rays of the sun it contains.
+  ---
 
-The perfection of a song,
-is found in the way it makes a dancer's body move.
+  Real knowledge brings Happiness,
+  it makes you ridiculous with your inventions.
 
-To sit down with sound synthesizers
-is more about meditation than composition.
+  With every cheerfully useless invention,
+  you learn something priceless, and create an unspeakably beautiful addition to your Portfolio.
 
-There are libraries of pre-made sounds out there,
-and it is not a terrible thing to use them.
+  ---
 
-Just like it is better to learn to make songs,
-by trying to replicate existing ones.
+  As to the fantasy of good grades and good jobs.
 
-It is better to learn about good sound synthesis,
-by making use of pre made sounds or sample.
+  You shouldn't be surprised that the people who cram and memorize, do get the best jobs but only by cheating and lying, and manipulating, and by being well connected,
+  thus, destroying the environments, and the very goodness of that position by creating that toxic environment.
 
-The samples that you fall in love with,
-will call to you, and eventually you'll recreate them.
+  We can all imagine that one perfect job, where creativity is cherished above all,
+  and they would never hire a liar, because liars are toxic.
 
-Once you create a really good song that connects with you,
-you can then re-synthesize your own version of the sounds within.
+  And we all need to stop with the fantasies,
+  those jobs only exist when the company is forming, once they get that $100M venture capitol, only those who perform at maximum will be kept, and only until they burn out.
 
-Music is about having fun, it is about creating beautiful things,
-it is not about slaving over bare bone sound synthesis.
+  No, no, no.
+  It is not cool to live in the office drinking free energy drinks and writing your best code ever.
 
-It is important to keep in mind that sharing fun, is even more fun,
-songs that help people dance, may just be the loveliest kind of songs.
+  You need wisdom, balance, knowledge, dignity, Content of Character,
+  being quirky in a high powered job where the suits don't even speak your language is not cool.
 
----
+  All these people that you think don't get it, have negotiated contracts with expensive lawyers, and guaranteed golden parachutes,
+  you are still the little guy, no matter how big your code.
 
-Let us make a strange little dance song,
-out of existing sound samples.
+  As sweet as those memories are,
+  the job is not the point, our lives are meant to be lived in great dignity and wisdom, with great foresight and onward to creating a body of knowledge that will make lasting contributions to Human Kind.
 
-We'll use the sounds found in
-Sam Aaron's Sonic Pi project.
+  You have to Think Big,
+  there is no other way.
 
----
 
-It is not a bad idea to start with the Rhythm of the song first,
-the rhythm is like a foundation onto which we can add Harmony and Melody.
+  ---
 
-If we started with Melody first,
-the melody would not tell us much about the rhythm of the song.
 
-Starting with rhythm we can get our foot tapping,
-and those taps will dictate how that melody will move.
+  If there are temporary exceptions, the exceptions want you to have a real education,
+  they want you to fight for real knowledge, so that they may love you for helping them grow.
 
----
+  A 4.0 GPA has go nothing to do with those exceptions,
+  memorization and cramming will prevent you from getting into one of those rare situations, even if you do come across it (most of us won't)
 
-Using ready made samples
-we can instantly get a nice drum setup going.
+  ---
 
-*song plays*
+  For you High School or maybe Middle School, or even college poses a confusing challenge,
+  as you detect it is not possible to get an education because everything is too disconnected and you must memorize or you fail classes and destroy your GPA.
 
----
+  But for someone who is comfortable with lying,
+  pretending to get an education, to get a dream job, is a dream come true.
 
-And then sprinkle in a bit of hats, or cymbals,
-now to be fair, we got to get our shoes on, and dance it out.
+  They actually make that dumb fantasy happen,
+  but that life is stressful, unstable, and a house of cards.
 
-A dance song must always be tested,
-against the type of dancing that it will be used for.
+  Lying is like living life in a VR helmet,
+  they aren't actually there, making that progress, they are still in High School, lying, pretending, still a kid.
 
-Here are the fist three sections,
-a clumsy intro, a cymbal free beat, and then the initial enchilada.
+  ---
 
-*song plays*
+  Forget the fantasy of getting a good job for getting good grades,
+  build your own companies, become an entrepreneur, the sooner the better.
 
-It is at 130 beats per minute, and it is reasonably danceable,
-it is nothing too special, but it is a danceable rhythm.
+  It is too unstable,
+  life it too precious, and there are way too many moody people in your way, not to mention the liars.
 
----
+  ---
 
-We can bend it a little bit,
-but we have to mindful of our dancer.
+  And no, graduating from MIT is still part of the same fantasy,
+  you can't cram, it does not work, it doesn't do anything for your mind, you just end up with debt.
 
-They are currently meditating to our song,
-and we must not interrupt their mediation.
+  Brand-name colleges are not in the business of restoring authenticity to the world,
+  they are in the business of staying in business and making people's education look rare and prestigious so that they can stick their foot in some door.
 
-Or they'll skip the song,
-and later remove the song from their play list.
+  ---
 
----
+  And a full ride scholarship, is never a full ride, they'll still make money of of you,
+  or you will have to cram double and learn even less to graduate on time before it all expires.
 
-It is a sad fact of life,
-that no matter how good our song is.
+  The only way to win,
+  is not to play.
 
-It will stop being catchy to the dancer,
-in less than 30 days.
+  I know what you are thinking, the Dean, surely the Dean is honest,
+  the Dean will help you, they will see the goodness of your heart, that is what they are there for...
 
-There is nothing you can do,
-your song will expire like produce.
+  Surely.
 
----
+  I believe that too, and with tears in my eyes,
+  that there are people up there that can help all of us, that they moment they see our hearts, they will never betray us.
 
-While we are on the dancer's mind,
-we can bring them some joy by alternating moods as the song progresses.
+  ---
 
-Let us create a more intense mood in what we have so far,
-by adding bass.
+  But we need to,
+  snap out of it!
 
-Bass is still a low frequency sound like the drums,
-but it is less percussive (as in hitting a drum) and more stretched as in a whistle.
+  Listen up, listen,
+  the only way - is to built your own way.
 
-One common example of bass is a bass guitar,
-it is low and deep, but unlike the drum the sound it makes is long.
-
----
-
-Let me take a moment and explain how melodies,
-including bass, as bass guitar usually plays simple melody get created.
-
-The rule of melody making is keep it simple and sweet,
-and I am not joking about this.
-
-The creation is so simple that all we need to create a melody,
-is dots and lines.
-
-Moreover, it almost does not matter how the dots and lines are arranged,
-so as long as they go up and down a little bit.
-
-(Just to clarify, the dots and lines I am referring to, represent long ans short sounds,
-is basically what you would see on an cowboy era automatic-player-piano sheet.)
-
-Let us go over to a text to Morse code translator,
-and convert the word meow to Morse code for our melody.
-
-*beeps play*
-
-This does not sound very good because it is the same note,
-it is as boring as whistling the same tone:
-
-*whistle -- / . / --- / .--*
-
-So let us very gently vary the notes used in our melody here,
-just gently going left and right with our finger on the piano.
-
-When making melodies, you can skip two keys, maybe three,
-but don't make a huge jump of four notes, because then you have to search for notes that go well together.
-
-Interestingly enough if you have a piano handy and never played it,
-you can easily improvise a song by pressing a key to a tempo, and then just gently moving left and right.
-
-As a bonus try to keep rhythm with the low frequency keys on your left,
-that will be your "piano drum" and your right hand will give the melody.
-
-As an extra bonus try pressing two or three keys at the same time to create a chord,
-this will make a richer sound - you'll probably make a better song than I am making right now...
-
----
-
-Here is what our Morse code melody sounds like, in low bass,
-with a couple of gentle changes to sync it up top the back beat.
-
-*song plays*
-
-and here it is with drums:
-
-*song plays*
-
----
-
-Remember, that all the samples you are using, are uniquely stacked together,
-very few other songs will use the same bass sample, with whatever you put on top of it.
-
-The way to think about bass is this:
-a fuzzy and furry container for higher pitched melodies.
-
-It almost has the same result as hall effect has on old school computer chip tunes,
-but here you are not relying on an echo to blend beeps into something richer,
-
-You are relying on hand picked bass sample, or even a real guitar,
-and there ain't no nothing wrong with that.
-
-So now that we have the beat, the hat/cymbals, and the bass,
-we now need to add that melody that goes on top of the bass, that will melt into the bass.
-
----
-
-Now, before we you add a melody, you need to take a breath of fresh air,
-we can't pretend that music creation is a science, it is a exploratory and generative process.
-
-So we have to listen, and understand to the soul of the song we have just created,
-my use of the Morse code, is kind of already whispering something.
-
-When you really listen to the melody our Morse code created,
-it sounds Russian.
-
-We have to listen to the song,
-the song is dictating a certain path through a maze of infinite complexity.
-
-In this situation,
-I went NASA's website and borrowed the sound of Спутник (ракета-носитель)
-
-And our little Sputnik gives us melody,
-here is what it sounds like.
-
-*song plays*
-
----
-
-At this point we have a tird of a song,
-it is not a bad idea to end the song, with a variation on the begining, without ading anything new.
-
-So that gives us about a minute and a half,
-and we only need about 60 more seconds, as our dancer has better songs to dance to.
-
-Since our song wants to be russion, let us grab a recording of an old russian number station from wikipedia,
-and sprinkle in a bit more more sputnik at the end.
-
----
-
-I chose to decorate the center of the song with a piano,
-as that will pleasantly surprise our dancer.
-
-Overall the songe ended up being very tanky,
-but it is dancable.
-
-If I had to do something differently,
-it would be spending more time replicationg and studying othr songs to make the song less Heavy Industries and more Cutting Shapes.
-
-In closing, Building songs should not rely on a pre-set recipe,
-it is a creative process that should invole lots of randomness and pleanty of dancing.
-
-Here is the full song we just created,
-*song plays*.
+  (SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
