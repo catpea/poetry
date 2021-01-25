@@ -13,116 +13,130 @@ Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.
 
 Full text version is available at: https://catpea.com
 
+For The Advancement Of Human Kind
+   Start by building a school,
+   that will teach for real.
 
-To Share Wisdom
+   ---
 
-  You may not realize that the way you have been treated in school,
-  has been slowly turning you away from knowledge and wisdom.
+   You can't use teachers,
+   because one teacher for many students is wrong.
 
-  See, the teachers convinced us all that what they are doing is sharing knowledge,
-  but it is actually the opposite of knowledge that they are sharing.
+   You will have to use bots similar to 2020 Apple Siri,
+   and get everyone to participate in answering new questions in the background.
 
-  Real knowledge comes with real results,
-  fake knowledge depends on making you feel perpetually inadequate and then squeezes you into desperation just to make you thing you made progress as it pushes you along.
+   On the surface it will appear like your bot is talking,
+   but beneath it will be the students and some minimal faculty building a knowledge base.
 
-  ---
+   ---
 
-  Real knowledge brings Happiness,
-  it makes you ridiculous with your inventions.
+   Don't worry about certification (it never meant a damn),
+   though do talk to the city officials, as they may be of help.
 
-  With every cheerfully useless invention,
-  you learn something priceless, and create an unspeakably beautiful addition to your Portfolio.
+   Above all take care of your students,
+   create support circles for those who were bullied.
 
-  ---
+   Help the ones that need an apartment away from their family,
+   by connecting them with options or student exchange, failing that, child protective services.
 
-  As to the fantasy of good grades and good jobs.
+   Make sure all those who lost faith in Humanity,
+   will become aware of your school, and grant them free access, especially to narrated books.
 
-  You shouldn't be surprised that the people who cram and memorize, do get the best jobs but only by cheating and lying, and manipulating, and by being well connected,
-  thus, destroying the environments, and the very goodness of that position by creating that toxic environment.
+   Grant all free medical care,
+   a new start.
 
-  We can all imagine that one perfect job, where creativity is cherished above all,
-  and they would never hire a liar, because liars are toxic.
+   ---
 
-  And we all need to stop with the fantasies,
-  those jobs only exist when the company is forming, once they get that $100M venture capitol, only those who perform at maximum will be kept, and only until they burn out.
+   Teaching for real is a big deal,
+   when a boy wishes to become a musician, you must provide real results.
 
-  No, no, no.
-  It is not cool to live in the office drinking free energy drinks and writing your best code ever.
+   Get them into an lmms-like class,
+   have the other kids help him find videos and answer basic questions.
 
-  You need wisdom, balance, knowledge, dignity, Content of Character,
-  being quirky in a high powered job where the suits don't even speak your language is not cool.
+   Stick to Open Source software,
+   and always choose platforms that pose a possibility of making some money.
 
-  All these people that you think don't get it, have negotiated contracts with expensive lawyers, and guaranteed golden parachutes,
-  you are still the little guy, no matter how big your code.
+   The students need to see ways of supporting themselves,
+   they have to sell some of their music, or license it - even if for a few dollars.
 
-  As sweet as those memories are,
-  the job is not the point, our lives are meant to be lived in great dignity and wisdom, with great foresight and onward to creating a body of knowledge that will make lasting contributions to Human Kind.
+   Capture the educational path of every student,
+   and check if there are others who may wish to follow the same curriculum.
 
-  You have to Think Big,
-  there is no other way.
+   ---
 
+   The ultimate aim for a modern and evolved school,
+   is to pay its students.
 
-  ---
+   In a world where schools are selling out students for a small profit,
+   you are not going to have trouble finding students wanting to get paid.
 
+   Funding your operation will be your first problem,
+   as you are only allowed to use money of long-term professional investors at first.
 
-  If there are temporary exceptions, the exceptions want you to have a real education,
-  they want you to fight for real knowledge, so that they may love you for helping them grow.
+   And your first venture capitol meeting,
+   will help you grow, it will make you more; you - instantly.
 
-  A 4.0 GPA has go nothing to do with those exceptions,
-  memorization and cramming will prevent you from getting into one of those rare situations, even if you do come across it (most of us won't)
+   ---
 
-  ---
+   You'll sit down in-front of a bunch of old men,
+   who have heard every damn story imaginable.
 
-  For you High School or maybe Middle School, or even college poses a confusing challenge,
-  as you detect it is not possible to get an education because everything is too disconnected and you must memorize or you fail classes and destroy your GPA.
+   Except, for yours, and you will begin with:
+   "I am going to pay my students a living wage.".
 
-  But for someone who is comfortable with lying,
-  pretending to get an education, to get a dream job, is a dream come true.
+   "I will build a framework, to support my students for a few years,
+   and then take 10% percent of my successful graduate's long term earnings."
 
-  They actually make that dumb fantasy happen,
-  but that life is stressful, unstable, and a house of cards.
+   "The struggling ones will never pay,
+   nor will they need to pay back."
 
-  Lying is like living life in a VR helmet,
-  they aren't actually there, making that progress, they are still in High School, lying, pretending, still a kid.
+   "If my first undertaking fails,
+   we will meet again, as I try again, and again, and again, and again."
 
-  ---
+   "Where I will fail my successors will take over"
 
-  Forget the fantasy of getting a good job for getting good grades,
-  build your own companies, become an entrepreneur, the sooner the better.
+   Tell them that the school motto is based on the West Point honor code,
+   which it self is based on something much nobler.
 
-  It is too unstable,
-  life it too precious, and there are way too many moody people in your way, not to mention the liars.
+   "A student will not harm, manipulate, pretend, lie, cheat, steal,
+   or tolerate any of those who do."
 
-  ---
+   ---
 
-  And no, graduating from MIT is still part of the same fantasy,
-  you can't cram, it does not work, it doesn't do anything for your mind, you just end up with debt.
+   Eventually, the school that does take off,
+   will go national, and get a budget from the Government.
 
-  Brand-name colleges are not in the business of restoring authenticity to the world,
-  they are in the business of staying in business and making people's education look rare and prestigious so that they can stick their foot in some door.
+   Think about the military budget,
+   now think how much more important is the school.
 
-  ---
+   Now scale the military funding by that number,
+   that will be your starting figure.
 
-  And a full ride scholarship, is never a full ride, they'll still make money of of you,
-  or you will have to cram double and learn even less to graduate on time before it all expires.
+   ---
 
-  The only way to win,
-  is not to play.
+   Then you go international,
+   and retire.
 
-  I know what you are thinking, the Dean, surely the Dean is honest,
-  the Dean will help you, they will see the goodness of your heart, that is what they are there for...
+   Your successor will need to negotiate with some 195 nations,
+   to establish multiple schools funded by, but independent of, the government.
 
-  Surely.
+   ---
 
-  I believe that too, and with tears in my eyes,
-  that there are people up there that can help all of us, that they moment they see our hearts, they will never betray us.
+   Humanity, fueled by real education,
+   will begin growing for real, rising from centuries of dark ages.
 
-  ---
+   ---
 
-  But we need to,
-  snap out of it!
+   Be good to yourself.
 
-  Listen up, listen,
-  the only way - is to built your own way.
+   Hopefully by the century this text reaches you,
+   the scientists will have cured aging.
 
-  (SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
+   If so, then hope you will witness your school to become the New United Nations,
+   and in the century that follows a formation of the two friendly giants.
+
+   The Unites States of The World,
+   and the Eurasian Union.
+
+   May you never run out of Undiscovered Country & Space,
+   I wish you an Eternity of Prosperity and Cheerfulness.
