@@ -133,8 +133,19 @@ function links(object){
   const $ = cheerio.load(object.html);
   const list = $('a') .map(function (i, el) {
     //console.log($(el).html());
-    return {title: ($(this).attr('title')||$(this).text()), url: $(this).attr('href'), hostname:new URL($(this).attr('href')).hostname}
-  }).get()
+    return {title: ($(this).attr('title')||$(this).text()), url: $(this).attr('href')}
+  }).get().map(i=>{
+    i.hostname = "catpea.com";
+    try {
+      i.hostname = new URL(i.url).hostname
+    }catch(e){
+      // borked.
+    }
+    return i;
+  })
+
+
+
   return list;
 }
 
