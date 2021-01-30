@@ -135,7 +135,7 @@ function links(object){
     //console.log($(el).html());
     return {title: ($(this).attr('title')||$(this).text()), url: $(this).attr('href')}
   }).get().map(i=>{
-    i.hostname = "catpea.com";
+    i.hostname = "local";
     try {
       i.hostname = new URL(i.url).hostname
     }catch(e){
