@@ -8,137 +8,128 @@ Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.
 
 Full text version is available at: https://catpea.com
 
-How To Easily Learn Anything And Everything
+Get Mad: Of High School And Music
 
+In today's episode,
+we get mad at High School and Music.
 
-First of all, you can't just pick a subject out of the blue,
-nor can anybody tell you what you need to learn.
+We use songs as an example of a thing...
+that the first semester of music class should teach you how to make.
 
-If you are forced to learn something under a threat,
-you are likely to memorize it, and thus create the wrong impression of the subject.
-
----
-
-Saying "I hate math",
-and keeping away from mathematical things is not healthy.
-
-Saying "I hate school math.", and "I hate the way they teach math",
-is correct.
-
-Schools do not distinguish between forcing you to memorize something,
-and you actually learning something for real.
-
-This helps them increase graduation rates,
-and keep getting funding, they depend on you pretending to learn.
-
-Personally, I think the threat of failing a class,
-makes it so that it is wiser (in that context) to pretend to learn by memorizing.
-
-It is not just one class that is broken,
-it is many overlapping classes, with disconnected and irrelevant subjects.
-
-There may not _be a way_ to learn it all for real,
-as the class curricula evolved along side students pretending to learn.
-
+I want you to think about a website, with an album of 10 songs,
+that your customers can buy, or license from you for their business use.
 
 ---
 
-Just in case you need to hear it - and you shouldn't need to rely on hearing somebody else say it...
-schools are bad for us, they don't work, they probably can't work.
+Music is simple, elevator music is so simple it is automatically generated,
+so is brainless video music that plays in the background.
+
+Underwhelming workout music, that people kind of prefer,
+is little more than background music.
+
+So, from now on when you hear brainless music, void of soul and love,
+get mad, at your teacher and say:
+
+"Don't waste my time, don't make me memorize.",
+if you want to teach, teach me something complete and useful, wrapped in a small business.
+
+When they kick you out of class for being disruptive,
+stay mad, and babble something madly and awkwardly under your nose, don't give up.
 
 ---
 
-A real school would pay you for grades,
-it would help you move into your own apartment, not a dorm room.
+If the world governments really believed that you were the future of their nation,
+they wouldn't be putting you in debt for higher education.
 
-And it would help you begin saving money,
-you would graduate with enough money to buy a house, car, and start a little business.
+If teachers were really interested in nobly educating you out of their goodness,
+they would have never allowed book publishers to cheat you.
 
-In return, your level of education,
-would help your city, and nation, grow stronger, grow collectively wiser.
+If schools were on your side,
+student debt would never have existed in the first place.
 
-The money you would get from schools,
-is just an investment in your nations future.
-
-Happy and well educated graduates,
-create a Happy and Well Educated, and Wise, Nation; and soon afer a Wiser World.
+Student debt forgiveness is not enough,
+a school that charges money has a conflict of interest, it will simply educate less and aim to profit more.
 
 ---
 
-Right now, our wisest Politicians, the greatest beings in Politics,
-are fighting for a livable minim wage, which is to say doubling the minimum wage.
+Get mad, you can always go back to school,
+but you will not always have an opportunity to focus all your attention on some amazing experiment.
 
-And the companies that will have to pay double,
-are probably getting ready to cut their workforce in half, with automation and computers.
+I mention music because it is everywhere,
+and if music class really did teach music, we would all be able to create songs.
 
-I greatly admire these politicians, and they bring tears to my eyes,
-but the minimum wage shouldn't be $15 but, at least, $50.
+It is just Drums,
+Bass, Chords, and Melodies.
 
-More than $50 per hour, 40 hours a week,
-full medical insurance, and lots of perks.
-
-Personally, I feel that it should be $75/h,
-not $15.
+Music Theory is not difficult either when taught right,
+with simple emphasis on the Circle of Fifths and focus on examples in lmms.
 
 ---
 
-Not only school is making it impossible to learn,
-but working for a large company is severely broken.
+If schools really cared to help you,
+they would help you find and fund a path towards a small business.
 
-(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
+Such as the creating of workout music,
+and sale of workout programs.
 
-The way you can learn anything,
-is by accepting the responsibility for your own education.
+At the end of the first year of high school,
+you would not be getting a grade, but your first business.
 
-And accepting the responsibility for launching a series of small start-ups,
-as you learn to become an Entrepreneur.
-
-The problem with learning in school is that the information they are forcing you to memorize,
-is too abstract, it is irrelevant to you.
-
-That is why, even if you tried learning for real,
-your knowledge of the subject will be such low quality, that companies won't even want to hire you.
-
-They prefer candidates with years of experience,
-and anyway, you shouldn't be looking for an entry level position after years of studying.
-
-Even though companies asking for years of experience for entry level positions,
-may still grant you a job, it will be - by their own definition - a less than entry level position.
+And you would experience making your first $100,
+the next year you would have a second, and third and fourth.
 
 ---
 
-Self Education, and Entrepreneurship, and putting yourself in positions where learning math will be relevant to your success,
-will help you learn for real.
+Some of your best customers,
+would be kids from your school.
 
-Would you even think to yourself "I hate math",
-if your company worked on <a href="https://www.youtube.com/watch?v=VV0Tjwq7Uc0">self replicating 3D printers</a>.
+Music is really useful when creating videos, documentaries,
+workouts, commercials, presentations, you name it.
 
-When you are working in real context, on a meaningful project,
-that will help to launch your first company for example, it is never a question of learning, you just do it.
+Because you are right there,
+they would be licensing lots of material from you.
 
-When you have a real world context, and an aim that is personally meaningful to you,
-you simply progress forward, you become so passionate about your education.
-
-If you are not interested in 3D printing, then perhaps you will become interested in something that involves it,
-how about 3D printing fashion, art, musical instruments of apartment buildings for the homeless.
-
-And if there is nothing in the world that can get you into math,
-then it will be your top engineer friend who will gently walk you through, seeing that you have great respect for her or him,
-but that you struggle to understand what they are doing sometimes.
-
-There are countless pathways that can help you learn anything,
-Biology, and Combinatorial Genomics will easily call to you if you take to publishing a Journal Of Anti-aging, for example.
+And this would continue on,
+and the word would spread, your little company would reliably make a little bit of money.
 
 ---
 
-In conclusion, we can't learn in school, because it is too abstract,
-and the risk of failing a class and ruining a GPA is just too great.
+Get mad, because your time is precious,
+and nobody should take advantage of your inexperience, by acting high and mighty, all the while selling you out for a small paycheck.
 
-But, we can learn if we put ourselves in a position where a subject is relevant to us,
-and it is far more than just learning, we become passionate about it.
+Get mad, because you deserve a real and functional education,
+that enhances your predispositions, not cookie cutter classes that attack you for having unique interests.
 
-By creating our own future, our own job in a company that we build,
-we no longer need to rely on minimum wage, and deal with unforgivable debt.
+We all face poverty, and we are given this idea of going to college and making money,
+but college took upon it self to actually puts us in debt, shove us into the minus.
 
-In a way, especially when we are young, self education becomes a school that does pay us for grades,
-there is no better grade, or reward, than running a small and successful, smartly positioned independent business.
+And allow others to nibble some more,
+"a debt that cannot be removed with bankruptcy", "a predatory textbook business model" - are you kidding me?
+
+---
+
+Get mad, because you are being handed lemons,
+and forced to drink the lemonade, that the school convinces you, that only they can teach you how to make.
+
+It is time to stop pretending to learn by cramming for tests and memorizing material,
+and time to start asking questions.
+
+And what is this <a href="https://www.youtube.com/watch?v=a5uqNhfNHL8">grade and GPA nonsense</a>?
+grades are not real just for the fact that tests can be crammed for, they only reflect forgotten memories.
+
+Even the Dean's List seems like a scam when you have to pay for lectures,
+it just gets the students to play the charade some more.
+
+---
+
+Music class, to give you a simple example,
+must enable every student to make music.
+
+On the final day of the first semester,
+everyone needs to know how to make songs with lmms.
+
+It is that simple, music class teaches you to make music,
+if you can't make an album of songs, then you just got tricked.
+
+Your time is precious and is not to be wasted, and let me tell you something,
+get mad, because the teacher sure took a bunch of money home for pretending to teach you.
