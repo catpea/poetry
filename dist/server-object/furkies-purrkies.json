@@ -5944,6 +5944,48 @@
           "hostname": "local"
         }
       ]
+    },
+    {
+      "title": "Schools Are Bad For Us So Build Better Schools And Don't Look Back",
+      "date": "2021-02-17T02:16:17.573Z",
+      "image": "poetry-0353-illustration.jpg",
+      "audio": "poetry-0353.mp3",
+      "id": "furkies-purrkies-poetry-0353",
+      "text": "Don't fall into the trap of explaining why,\njust start building the new schools, forget the old.\n\nThe new schools are amazing,\nbecause they are about happiness.\n\nSeriously, you go there,\nand you pick a classroom that makes you smile the most.\n\nThis is not an easy task,\nbecause once you pick up some information here...\n\n...then you want to go over there,\nand when you get there...\n\n...you'll see everyone scooting over,\nelsewhere...\n\n...all the while,\nyour face stars hurting from the smiling.\n\nLyke,\nwhat the heck.\n\nSee, there is no Biology,\nyou never freaking learn about the powerhouse of the cell.\n\nThere is a series of presentations, about Anti-aging,\na series or presentations about Synthetic Life.\n\nAnd all the older kids seem to be really into Astrobiology,\nand then there is a lab that is heavily into Practical Applications with CRISPR 3.1\n\nSame applies to everything else, you won't find Music for example,\nyou'll find Instrument Making, or Song Publishing, and Building a Music Label which includes getting help with Start-up Accelerators.\n\nDon't fall into the trap of explaining why schools are bad,\njust start building, keep moving forward, don't look back.\n\n\n[Anti-aging]: https://www.youtube.com/watch?v=AvWtSUdOWVI\n[Synthetic Life]: https://www.youtube.com/watch?v=QHIocNOHd7A\n[Astrobiology]: https://www.youtube.com/watch?v=EszGIvRdgTE\n[CRISPR 3.1]: https://www.youtube.com/watch?v=jAhjPd4uNFY\n[Instrument Making]: https://www.youtube.com/watch?v=46w99bZ3W_M\n[Start-up Accelerators]: https://www.youtube.com/watch?v=_4JtyLKDjXk",
+      "html": "<div class=\"section\">\n  <p>Don&apos;t fall into the trap of explaining why,</p>\n  <p>just start building the new schools, forget the old.</p>\n</div>\n\n<div class=\"section\">\n  <p>The new schools are amazing,</p>\n  <p>because they are about happiness.</p>\n</div>\n\n<div class=\"section\">\n  <p>Seriously, you go there,</p>\n  <p>and you pick a classroom that makes you smile the most.</p>\n</div>\n\n<div class=\"section\">\n  <p>This is not an easy task,</p>\n  <p>because once you pick up some information here...</p>\n</div>\n\n<div class=\"section\">\n  <p>...then you want to go over there,</p>\n  <p>and when you get there...</p>\n</div>\n\n<div class=\"section\">\n  <p>...you&apos;ll see everyone scooting over,</p>\n  <p>elsewhere...</p>\n</div>\n\n<div class=\"section\">\n  <p>...all the while,</p>\n  <p>your face stars hurting from the smiling.</p>\n</div>\n\n<div class=\"section\">\n  <p>Lyke,</p>\n  <p>what the heck.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>See, there is no Biology,</p>\n  <p>you never freaking learn about the powerhouse of the cell.</p>\n</div>\n\n<div class=\"section\">\n  <p>There is a series of presentations, about <a href=\"https://www.youtube.com/watch?v=AvWtSUdOWVI\">Anti-aging</a>,</p>\n  <p>a series or presentations about <a href=\"https://www.youtube.com/watch?v=QHIocNOHd7A\">Synthetic Life</a>.</p>\n</div>\n\n<div class=\"section\">\n  <p>And all the older kids seem to be really into <a href=\"https://www.youtube.com/watch?v=EszGIvRdgTE\">Astrobiology</a>,</p>\n  <p>and then there is a lab that is heavily into Practical Applications with <a href=\"https://www.youtube.com/watch?v=jAhjPd4uNFY\">CRISPR 3.1</a></p>\n</div>\n\n<div class=\"section\">\n  <p>Same applies to everything else, you won&apos;t find Music for example,</p>\n  <p>you&apos;ll find <a href=\"https://www.youtube.com/watch?v=46w99bZ3W_M\">Instrument Making</a>, or Song Publishing, and Building a Music Label which includes getting help with <a href=\"https://www.youtube.com/watch?v=_4JtyLKDjXk\">Start-up Accelerators</a>.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>Don&apos;t fall into the trap of explaining why schools are bad,</p>\n  <p>just start building, keep moving forward, don&apos;t look back.</p>\n</div>",
+      "images": [],
+      "links": [
+        {
+          "title": "Anti-aging",
+          "url": "https://www.youtube.com/watch?v=AvWtSUdOWVI",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Synthetic Life",
+          "url": "https://www.youtube.com/watch?v=QHIocNOHd7A",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Astrobiology",
+          "url": "https://www.youtube.com/watch?v=EszGIvRdgTE",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "CRISPR 3.1",
+          "url": "https://www.youtube.com/watch?v=jAhjPd4uNFY",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Instrument Making",
+          "url": "https://www.youtube.com/watch?v=46w99bZ3W_M",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Start-up Accelerators",
+          "url": "https://www.youtube.com/watch?v=_4JtyLKDjXk",
+          "hostname": "www.youtube.com"
+        }
+      ]
     }
   ]
 }
