@@ -8,140 +8,121 @@ Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.
 
 Full text version is available at: https://catpea.com
 
-Real Education Is Everywhere
+Bad Grades Are Meaningless Grades
 
-The worst thing about schools being bad for us,
+You have to punch through what everyone else is saying,
+if something feels wrong, you walk, you get out, you don't let people push you.
 
-is how amazing getting a real education is.
+---
 
-Above all, a real education will take you through,
+Long time ago, we had these little schools,
+that taught reading, writing, and arithmetic.
 
-a series of small businesses that will help you learn about moneymaking.
+And people loved them, everyone loved and admired them,
+it was a true gift, and teachers were True Angels of Wisdom.
 
-It ends poverty, fears of losing a job,
+---
 
-or losing a little home, or working in a cubicle.
+But schools require funding,
+part of that funding is paying teachers.
 
-Real education teaches you real things,
+And what that means is:
+money.
 
-and real things are pretty useful in the real world.
+Everyone suddenly was a teacher,
+and to optimize money, testing, testing, testing.
 
-Real education begins with you,
+This is not a school anymore,
+this is a business, all the teachers now take a paycheck home.
 
-what you like, where you are going, and where you have already been.
+---
 
-You read books that touch your heart,
+The concept of grades is very iffy, very lazy, a teacher should talk to the parent.
+if grades used to work, then maybe they didn't matter much, somehow.
 
-you listen to music that moves you.
+But over time,
+with everyone busy optimizing things to get or make more money.
 
-You do things that are connected,
+With schools everywhere needing funding,
+with teachers needing to get paid.
 
-to you, to your future, to your knowledge.
+Nobody would have noticed,
+when grades became everything.
 
-You don't practice photography,
+Same with tests, nobody noticed when lectures became too abstract,
+and people just started memorizing for tests to get good grades.
 
-for some undefined reason.
+---
 
-You have a need to take a photo,
+So now, we have a school, that needs funding,
+teachers that need to get paid.
 
-to learn the power of light and darkness, and the magic of focal length.
+And lectures and tests,
+setup in a way where majority passes by memorization.
 
-So that you can begin your portrait drawings,
+---
 
-by projecting that photo on a large paper sheet and tracing it.
+And then there are those who assume that teachers are there to teach,
+and that the abstract disconnected lectures actually make sense.
 
-You will learn photo editing in the process,
+They don't know everyone is memorizing,
+they assume they are just not smart enough.
 
-as you fiddle with GIMP to trace edges, find mid-tones, and make your portrait perfect.
+C, and D, an occasional B+. but mostly Cs,
+it wouldn't occur to them that teachers are looking at other classes and give the same grade.
 
-By the time you sit down to your first oil paining,
+Nor would it occur to them that statistically a certain number of students,
+should have bad grades, and the teacher will make that happen as not to stick out.
 
-your photography and portrait drawings are going to be perfect.
+---
 
-Music, will accompany your studies,
+And then there is the big one, the biggie,
+the one that nobody talks about, that inconvenient fact.
 
-and it won't be too long before you will begin composing your own music.
+The grades, are actually a performance score of how well the teacher is teaching,
+and they have not a darn thing to do with any of the students.
 
-You will discover some of your call to music,
+---
 
-when you paint, it just make sense that you should learn from the greats and make your own.
+You can't learn disconnected facts,
+you can only temporarily memorize them.
 
-Programs like LMMS take care of all the boring parts,
+Your grades are are reflection of how inclined you are  to participate in a memorization charade,
+that fetches the teacher money, and keeps your school operating.
 
-and let you sit down to compose chords and melodies.
+They have to get paid,
+they have to put food on their table.
 
-Whether you take to dance music or begin composing for an impossibly large orchestra,
+They can't teach, because that would mean addressing every student,
+that is just not possible, and they would rather get a job elsewhere.
 
-you will discover another call.
+More importantly, they won't know, they won't even care, when you do find something that you like,
+they will take that away you, because there is no time for you to learn, you have to pass tests that are in class right now.
 
-A call to automation,
+---
 
-a call to programming.
+If you don't pass the standardized tests that are an insult to your uniqueness, your predispositions, talents and creativity,
+the teacher will have to be transferred to another school as a <a href="https://www.youtube.com/watch?v=5Hh6uHUx728">lemon</a> and that makes them look bad.
 
-Software development is very easy,
+How dare you,
+how dare you little child.
 
-people just make it sound complicated.
+They will behave high and mighty,
+while selling your mind for a paycheck.
 
-Learn just a tiny little bit about Linux,
+Do yo see?
+do you see?
 
-and begin building your own commands.
+The tests were never a judgment of you,
+they are just the simplest way to track who the worst teachers are.
 
-Learn how data can be efficiently streamed between programs,
+Everything that surrounds you in school is created with the least amount of effort,
+they are using grades to make you feel bad, so that you will memorize and pretend to learn, so that everyone keeps getting paid.
 
-chunk by chunk without needing to transfer the whole data-set.
+That is what the teacher wants,
+put food on the table.
 
-And take to using the Event Emitter or Streams in your programs,
+They don't know what it means to get bad grades,
+the fact that they are a teachers shows that they crammed, memorized and probably were proud of their meaningless grades.
 
-so that all components can communicate, and stream as well.
-
-Programming will help you automate art,
-
-it will help you compose endless music.
-
-Where business is concerned, it is a tool that eliminates the need for warehouses,
-
-and keeps your upfront investment at zero.
-
-Art, music and product generation,
-
-will call to mathematics.
-
-And as you can imagine by now,
-
-math is pretty simple.
-
-The biggest challenge in mathematics is finding a use for it,
-
-but you already have one, Generative Music and Art, maybe games, perhaps with Pixel Art?
-
-As you carry on, it is impossible to resist narrated non-fiction books,
-
-and you will no doubt fall in love with science by going over the science popularizer books.
-
-From here even the sky is not a limit,
-
-one day you maybe collecting micro-meteorites and studying microbiology, and the next day tending to your greenhouses and electronics.
-
-The more your work takes you outside,
-
-the more you will find it useful to bring electronics along with you.
-
-Here you'll find yourself soldering single board computers and sensors,
-
-programming relays and maybe controlling robots and drones.
-
-The more you learn the harder it is to predict what will call to you,
-
-Philosophy and Psychology, Education and Mathematics, Engineering and Entrepreneurship, Leadership and Wisdom.
-
-But eventually you will wish to share what you know, to help the world grow a little bit,
-
-and that is almost certainly about creating inspirational Audio Books and Books.
-
-And if you ever need proof of exceptional ability your Portfolio, Experiments, Adventures and Videos,
-
-will speak more than words.
-
-Real education,
-
-is found in all the real things we do.
+(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
