@@ -8,121 +8,133 @@ Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.
 
 Full text version is available at: https://catpea.com
 
-Bad Grades Are Meaningless Grades
+The Lighthouse
 
-You have to punch through what everyone else is saying,
-if something feels wrong, you walk, you get out, you don't let people push you.
+I pulled up to the gate at Ludington State Park,
+it made no sense to get to the hiking sites this late, and I didn't want a camper spot, I grabbed a tent site.
 
----
+I had to show the woman at the booth my Raccoon Drawings,
+she loved them, and I think I had a deer in there too.
 
-Long time ago, we had these little schools,
-that taught reading, writing, and arithmetic.
-
-And people loved them, everyone loved and admired them,
-it was a true gift, and teachers were True Angels of Wisdom.
+I quickly explained to her,
+you need a cheap office projector, then use a photo editing program to help you find edges, and mid tones, and trace them.
 
 ---
 
-But schools require funding,
-part of that funding is paying teachers.
+I drove in circles and circles, and some crazy fog I half remember,
+and finally found the tent sites, way, way, way down the road.
 
-And what that means is:
-money.
+I setup my first, overpriced, extra light tent, and started the fire,
+I had my leather jacket on, it was cold in the evening.
 
-Everyone suddenly was a teacher,
-and to optimize money, testing, testing, testing.
-
-This is not a school anymore,
-this is a business, all the teachers now take a paycheck home.
+I was probably listening to "The Story of Philosophy" by Durant,
+you have to listen to it dozens of times.
 
 ---
 
-The concept of grades is very iffy, very lazy, a teacher should talk to the parent.
-if grades used to work, then maybe they didn't matter much, somehow.
+There was a family camping behind me, their boy played a guitar,
+how do they do that I wondered.
 
-But over time,
-with everyone busy optimizing things to get or make more money.
+They made a couple of trips for fire wood,
+and we chatted a little.
 
-With schools everywhere needing funding,
-with teachers needing to get paid.
-
-Nobody would have noticed,
-when grades became everything.
-
-Same with tests, nobody noticed when lectures became too abstract,
-and people just started memorizing for tests to get good grades.
+I told the mom that it is really important that her boy listens to audio books,
+I showed her my iPod, and how you scroll the wheel to bring up the audio books.
 
 ---
 
-So now, we have a school, that needs funding,
-teachers that need to get paid.
+She asked if this is what I do,
+and then pointed at my car to change the subject.
 
-And lectures and tests,
-setup in a way where majority passes by memorization.
+"yeah" - I said,
+simply.
 
----
-
-And then there are those who assume that teachers are there to teach,
-and that the abstract disconnected lectures actually make sense.
-
-They don't know everyone is memorizing,
-they assume they are just not smart enough.
-
-C, and D, an occasional B+. but mostly Cs,
-it wouldn't occur to them that teachers are looking at other classes and give the same grade.
-
-Nor would it occur to them that statistically a certain number of students,
-should have bad grades, and the teacher will make that happen as not to stick out.
+I waived goodbye, and got into my tent,
+probably fell asleep to A Short History of Nearly Everything, Bryson is a kindred spirit.
 
 ---
 
-And then there is the big one, the biggie,
-the one that nobody talks about, that inconvenient fact.
+I woke up, packed and left early in the morning,
+before the family could talk to me again.
 
-The grades, are actually a performance score of how well the teacher is teaching,
-and they have not a darn thing to do with any of the students.
+I am not sure if she waited until Christmas with buying the iPod for her boy,
+I think not.
 
----
-
-You can't learn disconnected facts,
-you can only temporarily memorize them.
-
-Your grades are are reflection of how inclined you are  to participate in a memorization charade,
-that fetches the teacher money, and keeps your school operating.
-
-They have to get paid,
-they have to put food on their table.
-
-They can't teach, because that would mean addressing every student,
-that is just not possible, and they would rather get a job elsewhere.
-
-More importantly, they won't know, they won't even care, when you do find something that you like,
-they will take that away you, because there is no time for you to learn, you have to pass tests that are in class right now.
+There are too many books to be read,
+she set him up right after they got back, yeah she did.
 
 ---
 
-If you don't pass the standardized tests that are an insult to your uniqueness, your predispositions, talents and creativity,
-the teacher will have to be transferred to another school as a <a href="https://www.youtube.com/watch?v=5Hh6uHUx728">lemon</a> and that makes them look bad.
+I probably drove to Nordhouse for a few days,
+for a change of scenery.
 
-How dare you,
-how dare you little child.
+I don't know why people judge me to be a Yellow Buttercup Pansy,
+a month after the three days that I planned to stay.
 
-They will behave high and mighty,
-while selling your mind for a paycheck.
+I ran into another mini-hiker who recognized from the parking lot the month before,
+this was on THAT steep hill in the middle of Arrowhead Trail.
 
-Do yo see?
-do you see?
+---
 
-The tests were never a judgment of you,
-they are just the simplest way to track who the worst teachers are.
+He was surprised to see me in the wilder-beast version,
+with three or four fanny packs, a huge and well warn Bushcraft KA-BAR, and a dank superman shirt.
 
-Everything that surrounds you in school is created with the least amount of effort,
-they are using grades to make you feel bad, so that you will memorize and pretend to learn, so that everyone keeps getting paid.
+"Dood?" - He Said,
+to express his surprise that I also stayed there forever.
 
-That is what the teacher wants,
-put food on the table.
+I drove my heavy walking log into the ground and pronounced:
+"Though shalt pass", for that was about all the conversation I cared to have, I was listening to Paul Strathern's Philosophy in 90 Minutes series, it is good refresher.
 
-They don't know what it means to get bad grades,
-the fact that they are a teachers shows that they crammed, memorized and probably were proud of their meaningless grades.
+---
 
-(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
+Anyway, It was three times the conversation that he cared to have,
+but it was still kind of sad, it meant that the woods were crowded now.
+
+I drove back home, but I didn't take the stuff out of the car,
+and I really appreciated the sand being everywhere, I like beach sand.
+
+I drove back in a couple of months, I showed the lady at the booth, some more drawings,
+she asked me not to stop being an amazing artist, bless her heart.
+
+---
+
+This time I unpacked over a the hiking sites,
+I think I was re-listening to A Walk in the Woods by Bryson.
+
+Whichever book has that damn paragraph about that owl swooping down,
+and freeing a man of his scalp, thinking it is a fury creature, an easy mistake to make when you fly, apparently.
+
+Gosh, squeaking with that water pump,
+with the smell of my camp fire, the lake right over the dune Seth Shostack's "Search for Intelligent Life in Space" lectures playing and a nice sunset a moment before was very relaxing.
+
+---
+
+In the morning I went to search for that shipwreck site, a man with a troop of cub-scouts walked up,
+and mumbled something, but I couldn't look away from his forehead - I was confused about what I was looking at.
+
+Then he explained with a heavy heart, that the perfect sideways D on his forehead,
+is from his baseball cap that he had on backwards, I nodded carefully.
+
+But, I didn't have a poker face back them, it is a recent talent,
+there is nothing I can do to remember what he was asking, but I am pretty sure I was listening to either Robinson Crusoe.
+
+---
+
+Shortly thereafter, I climbed up the dune,
+put my hands on my hips and proclaimed, "it is time to go see what that little lighthouse is all about".
+
+I put on "The Science of Superheroes", hooked my shoes to my day-pack,
+and slowly begun walking the beach making plenty of stops for snacks.
+
+It turned out there was a little apartment there,
+and they rented it out to the person that worked there.
+
+
+And they had a whole bunch of little knick·knacks for sale,
+I stared brainlessly at a postcard of the lighthouse I was in.
+
+I don't know what conclusion I came to in regards to the post card was,
+but it certainly didn't involve wishing to make it my own.
+
+The sunset,
+was perfect that day, not a cloud in the sky.
