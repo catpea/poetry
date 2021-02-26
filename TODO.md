@@ -1,140 +1,108 @@
 remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
 remote: warning: See http://git.io/iEPt8g for more information.
 remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
-
 (SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
-
 Full text version is available at: https://catpea.com
 
-The Lighthouse
+Little Adventures At Nordhouse Dunes
 
-I pulled up to the gate at Ludington State Park,
-it made no sense to get to the hiking sites this late, and I didn't want a camper spot, I grabbed a tent site.
+I parked at a little wooded rest area,
+I was already nearing Ludington I didn't need to stop.
+But I had some tasty crackers with me,
+and I wasn't actually in any hurry to get anywhere at all.
+This was early morning,
+and it is not possible to describe that early morning fragrance.
+It was the middle of summer,
+and everything was blooming, everything was alive.
+Mornings were especially thick with the scent of pine trees,
+and endless, endless deep and dark woods.
+I put the key in the ignition, and my power inverter cheerfully tweeted at me,
+followed by the GPS babbling something about a turn.
+Highway 31 ended, and in a split second decision, if you can call it that,
+I turned right on US 10, I was going to skip Ludington and head straight for Nordhouse.
+I usually take North Stiles Road, until it ends at West Townline Rd
+and then I turn left onto North Quaterline Rd.
+Here when I am headed straight for the wilderness,
+I turn left on West Nurnberg Rd which leads to a neat parking area.
+This time I drive a little but further and did a left turn on West Forest Trail Rd,
+this leads to a day camp area if you keep going forward where the road changes name to Porter Creek.
+But I took the well manicured left turn keeping on West Forest Trail Rd,
+and took it all the way until the end passing hundreds of happy campers and fancy sites.
+I parked at the loop where the road ended, paid a few dollars for few days of parking my car,
+and set off for the Nordhouse Wildernes.
+I made it up the first hill, and sat down for a moment, a lovely couple walked by with a big dog,
+that was proudly trotting with a very funny little-backpack on.
+I thought to myself, I'd be happy too if I was carrying my snacks with me,
+alas, I ate mine at the rest area, which now seemed like a terrible mistake.
+I waited a moment to let the couple go on ahead of me,
+so that they could have the wilderness to themselves.
+Slowly put my backpack on, which was heavy, with all the water,
+and went on my way.
+I was kind of half-heatedly looking for a nice site looking down from the top of the ancient dune,
+you know I got to tell you, there was this unusual cool breeze which in the warm air felt like a miracle.
+The smell was even more beautiful, I think if I tried to describe it,
+I would end up crying, it is the fragrance of Happy and Healthy Nature.
+I thought to my self if visitors from outer-space find this planet,
+many will just end up going hiking to all the world's destinations to just sniff the woods.
+I switched my Audio Book from Seth Shostack's "Search for Intelligent Life in Space" lectures,
+to Bill Bryon's A Walk In The Woods.
+It was only later that I found out that bears were re-introduced to Nordhouse,
+now that I think about it, it was probably on top of a bunch of bears quietly living there already.
+It took a few moments to actually get to the sign that indicates that,
+this is the Nordhouse Wilderness Area,
+Few moments later the sites started popping up,
+you can see patches of well worn exposed dirt where hikers or hunters camp, they are all very nice.
+Mine ended up being the second or third, it was small and beautiful,
+but to get there I had to descend down the ancient dune, not exactly an easy task with a heavy backpack on.
+I set up my tent, and took to gathering up firewood for the evening,
+especially the chunky fallen logs which people usually can't carry as they can't chop them in pieces.
+I bring a sharp saw, really sharp,
+and the dry fallen logs are much easier to cut and carry.
+This time people dragged a huge fallen tree into the site,
+they were using it for sitting, so I used that for fire, and to clean up the site so that there is nothing left but dirt.
+Not sure what time it was but the sun was still up high,
+so I set off for a long walk down the beach.
+The dunes are very beautiful studded with big old trees,
+every-time you look you discover something different, a break in the tree line, or a sandy area where the dune parted for some reason,
+Or in this case an exceptionally tall stretch of dune,
+way taller than even I expected.
+When I got back from my sunny walk,
+I decided to walk the same distance, but now on the Arrowhead Trail in the woods.
+I almost felt guilty about the beauty that was surrounding me,
+and then I made an amazing discovery.
+There was a fork in the trail that I have never noticed before,
+and the right path lead to a less worn trail that led up that gigantic dune I saw earlier.
+Just as I was getting comfortable with being speechless about all the beauty around me,
+things became even more beautiful.
+To get to the top of the high dune you had to climb the cutest little trail,
+that dune could be one of the most beautiful features of Nordhouse.
+And looking towards Lake Michigan you kind of see the lake in a new light as well,
+it looks, well, more beautiful from that height as you get to see more waves, and what seems like a more distant horizon.
+When I finally made it to the highest spot,
+I checked for ants and bears, and sat down on a log, speechless.
+When I finally took it all in, I had a drink of water,
+and of all the things, my phone beeped that it had a signal.
+Happy with my discoveries, I begun my descent and just kept slowly walking back,
+I was going through a phase where I was re-listening to "Electric Universe, The Shocking True Story Of Electricity." over and over.
+When I got to my camp, I just kept walking forward, as if it was a strangers tent down there,
+and I made it back to my car.
+The amazing fact about the West Forest Trail Rd is that it's other end,
+is a gas station by a continuation of US 31, this is a whole new stretch.
+The US 31 is connected by about four and a half miles of US 10,
+it is very strange, I just see them as two endings.
+You don't need much when you live in the wilderness,
+some crackers, a bit of ice cream, and a sausage.
+I paid for my snacks and cheerfully described to the employees my journey thus far,
+I had to hurry back it is a 10 mile drive but it is beautiful.
+When I made it back to camp, I hung up my food in the tree,
+even though in my experience there aren't any raccoons down there, and went down to m beach.
+I circled around waiting for the sunset, probably found a fossil or two,
+and finally sat down to watch the sun put on a show.
+It got a little bit cooler almost instantly,
+I took to lighting the fire and roasting my sausage on one of the twigs I found earlier.
+By the time all the stars came out I was already in my sleeping bag,
+watching them through the netting, as I fell asleep to the Electric Universe.
 
-I had to show the woman at the booth my Raccoon Drawings,
-she loved them, and I think I had a deer in there too.
-
-I quickly explained to her,
-you need a cheap office projector, then use a photo editing program to help you find edges, and mid tones, and trace them.
-
----
-
-I drove in circles and circles, and some crazy fog I half remember,
-and finally found the tent sites, way, way, way down the road.
-
-I setup my first, overpriced, extra light tent, and started the fire,
-I had my leather jacket on, it was cold in the evening.
-
-I was probably listening to "The Story of Philosophy" by Durant,
-you have to listen to it dozens of times.
-
----
-
-There was a family camping behind me, their boy played a guitar,
-how do they do that I wondered.
-
-They made a couple of trips for fire wood,
-and we chatted a little.
-
-I told the mom that it is really important that her boy listens to audio books,
-I showed her my iPod, and how you scroll the wheel to bring up the audio books.
-
----
-
-She asked if this is what I do,
-and then pointed at my car to change the subject.
-
-"yeah" - I said,
-simply.
-
-I waived goodbye, and got into my tent,
-probably fell asleep to A Short History of Nearly Everything, Bryson is a kindred spirit.
-
----
-
-I woke up, packed and left early in the morning,
-before the family could talk to me again.
-
-I am not sure if she waited until Christmas with buying the iPod for her boy,
-I think not.
-
-There are too many books to be read,
-she set him up right after they got back, yeah she did.
-
----
-
-I probably drove to Nordhouse for a few days,
-for a change of scenery.
-
-I don't know why people judge me to be a Yellow Buttercup Pansy,
-a month after the three days that I planned to stay.
-
-I ran into another mini-hiker who recognized from the parking lot the month before,
-this was on THAT steep hill in the middle of Arrowhead Trail.
-
----
-
-He was surprised to see me in the wilder-beast version,
-with three or four fanny packs, a huge and well warn Bushcraft KA-BAR, and a dank superman shirt.
-
-"Dood?" - He Said,
-to express his surprise that I also stayed there forever.
-
-I drove my heavy walking log into the ground and pronounced:
-"Though shalt pass", for that was about all the conversation I cared to have, I was listening to Paul Strathern's Philosophy in 90 Minutes series, it is good refresher.
-
----
-
-Anyway, It was three times the conversation that he cared to have,
-but it was still kind of sad, it meant that the woods were crowded now.
-
-I drove back home, but I didn't take the stuff out of the car,
-and I really appreciated the sand being everywhere, I like beach sand.
-
-I drove back in a couple of months, I showed the lady at the booth, some more drawings,
-she asked me not to stop being an amazing artist, bless her heart.
-
----
-
-This time I unpacked over a the hiking sites,
-I think I was re-listening to A Walk in the Woods by Bryson.
-
-Whichever book has that damn paragraph about that owl swooping down,
-and freeing a man of his scalp, thinking it is a fury creature, an easy mistake to make when you fly, apparently.
-
-Gosh, squeaking with that water pump,
-with the smell of my camp fire, the lake right over the dune Seth Shostack's "Search for Intelligent Life in Space" lectures playing and a nice sunset a moment before was very relaxing.
-
----
-
-In the morning I went to search for that shipwreck site, a man with a troop of cub-scouts walked up,
-and mumbled something, but I couldn't look away from his forehead - I was confused about what I was looking at.
-
-Then he explained with a heavy heart, that the perfect sideways D on his forehead,
-is from his baseball cap that he had on backwards, I nodded carefully.
-
-But, I didn't have a poker face back them, it is a recent talent,
-there is nothing I can do to remember what he was asking, but I am pretty sure I was listening to either Robinson Crusoe.
-
----
-
-Shortly thereafter, I climbed up the dune,
-put my hands on my hips and proclaimed, "it is time to go see what that little lighthouse is all about".
-
-I put on "The Science of Superheroes", hooked my shoes to my day-pack,
-and slowly begun walking the beach making plenty of stops for snacks.
-
-It turned out there was a little apartment there,
-and they rented it out to the person that worked there.
-
-
-And they had a whole bunch of little knick·knacks for sale,
-I stared brainlessly at a postcard of the lighthouse I was in.
-
-I don't know what conclusion I came to in regards to the post card was,
-but it certainly didn't involve wishing to make it my own.
-
-The sunset,
-was perfect that day, not a cloud in the sky.
+(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
