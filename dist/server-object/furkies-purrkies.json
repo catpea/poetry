@@ -6567,6 +6567,108 @@
           "hostname": "www.youtube.com"
         }
       ]
+    },
+    {
+      "title": "How To Create A Tiny Product",
+      "date": "2021-03-04T02:09:50.700Z",
+      "image": "poetry-0368-illustration.jpg",
+      "audio": "poetry-0368.mp3",
+      "id": "furkies-purrkies-poetry-0368",
+      "text": "If I only had to say one thing about it,\nI'd say:\n\n\"You create a tiny product by putting in a tiny amount of effort.\"\nHow tiny?,\n\nMy smallest product,\nwas 6x4 pixels small.\n\nI generated my own color swatches via the HSL Color Model\nrandomly colored my some of my pixels, and then re-sized my little 6x4 creation to 4K (3840 × 2160).\n\nI resized it using ImageMagick,\nwhich by default will blur the end result to create a beautifully smooth background.\n\nI uploaded them to Creative Market as 4K Desktop Backgrounds,\nand a made $60 in sales, before I shut the experiment down.\n\nI had another $60 there already,\nfrom a much more complex product.\n\nOne that took months, and generated 30,000 Bootstrap Card designs, and had a variation that was connected to Stripe.\n(Bootstrap helps with Graphic User Interface design, and Stripe is a Payment Processing Gateway)\n\nI fully embrace failure in my product design,\nI almost want it, because that is the best way to learn.\n\nMake your products small and beautiful,\nand learn from your failures.\n\nI classified my computer creations as Minimum Viable Products,\nand I continue my search for tiny and valuable things, I am currently looking at automatically generating dance and workout music.\n\nIf you don't like computers,\nthen that maybe even better.\n\nAdam Savage of Myth Busters fame has a small video about hand made products,\nin which he mentions markets like Etsy.\n\nHand made does not mean hard work,\nyou kind of probably should sell products that are not yet assembled - so product kits.\n\nYou can manufacture them by looking around for a local business that will help you machine parts,\nor online where you can 3D print prototypes or laser cut leather, or wood, or acrylic, with Shapeways and Ponoko\n\nYou can also find a Maker Space,\nwhere you maybe able to find the tools and advice you need.\n\nI know that selling cute wooden charms is not a way to build a business,\nbut holding your first product in your hands is a very educational experience, and money well spent.\n\nPlus, you get a new item for your design portfolio,\nwhere you can beautifully feature your diagrams, sketches, and ideas.\n\nYour earliest products,\nare priceless, in 30 years as you look through your portfolio your silly wooden charms will make you very proud.\n\nThe distance to a good product from a silly little charm,\nis actually just a few more sketches, and a CNC & Laser Cutter shop where you can design a range of pricey wallets.\n\nOr, wallet kits, where you ship a futuristic wallet along with a little screwdriver and shiny brass screws,\nallowing the customer to customize it during the final assembly.\n\nThink of it as outsourcing your assembly to the customer,\nand passing on the savings.\n\nAnd if you prefer more modern technology,\nthen design a range of cases for the Raspberry PI, here it makes even greater sense to ship it as a kit, and of course you don't need to include the Raspberry PI.\n\nJust accept failure as part of progress,\nand focus on design a range of very interesting products, for three reasons.\n\nLearning the work flow, beginning with customer interest,\nonward to sales, and getting a nice review, or rating.\n\nLearning from failure,\nor you can call it: slowly seeking a path to success.\n\nAnd filling your portfolio with beautiful sketches and prototypes,\ndocumenting your path to success, and later on publishing your Design Portfolio as an actual book that people all over the world can use for inspiration.\n\nIt is better to start slowly a little bit at a time,\nfocus on creating miniature side-businesses first, enjoy the product design, and leave nothing out of your portfolio.\n\n\n[color swatches]: https://colorhunt.co/\n[HSL Color Model]: https://www.youtube.com/watch?v=NAw2_NtGNaA\n[ImageMagick]: https://www.youtube.com/watch?v=Sy_2Dncb26s\n[Creative Market]: https://creativemarket.com/\n[Bootstrap Card]: https://getbootstrap.com/docs/5.0/components/card/\n[Stripe]: https://www.youtube.com/watch?v=1XKRxeo9414\n[Bootstrap]: https://www.youtube.com/watch?v=I7CfaDYzTVM\n[Minimum Viable Products]: https://www.youtube.com/watch?v=kmfC-i9WgH0\n[Adam Savage of Myth Busters fame has a small video about hand made products]: https://www.youtube.com/watch?v=nZZlEbttaO0\n[Etsy]: https://www.youtube.com/watch?v=_UISLd3-KN8\n[Shapeways]: https://www.youtube.com/watch?v=yaxwSVr3cl8\n[Ponoko]: https://www.youtube.com/watch?v=ZOTUw6Iz2GY\n[Maker Space]: https://www.youtube.com/watch?v=wti6FMvDAE4\n[cute wooden charms]: https://www.youtube.com/watch?v=ZOTUw6Iz2GY\n[in 30 years as you look through your portfolio your silly wooden charms will make you very proud]: https://www.youtube.com/watch?v=ex2ALzWigB8\n[where you can design a range of pricey wallets]: https://www.trayvax.com/\n[design a range of cases for the Raspberry PI]: https://www.etsy.com/search?q=Raspberry+PI+Case\n[Raspberry PI]: https://www.youtube.com/watch?v=EKPobkb1N6o&t=20",
+      "html": "<div class=\"section\">\n  <p>If I only had to say one thing about it,</p>\n  <p>I&apos;d say:</p>\n</div>\n\n<div class=\"section\">\n  <p>&quot;You create a tiny product by putting in a tiny amount of effort.&quot;</p>\n  <p>How tiny?,</p>\n</div>\n\n<div class=\"section\">\n  <p>My smallest product,</p>\n  <p>was 6x4 pixels small.</p>\n</div>\n\n<div class=\"section\">\n  <p>I generated my own <a href=\"https://colorhunt.co/\">color swatches</a> via the <a href=\"https://www.youtube.com/watch?v=NAw2_NtGNaA\">HSL Color Model</a></p>\n  <p>randomly colored my some of my pixels, and then re-sized my little 6x4 creation to 4K (3840 &#xD7; 2160).</p>\n</div>\n\n<div class=\"section\">\n  <p>I resized it using <a href=\"https://www.youtube.com/watch?v=Sy_2Dncb26s\">ImageMagick</a>,</p>\n  <p>which by default will blur the end result to create a beautifully smooth background.</p>\n</div>\n\n<div class=\"section\">\n  <p>I uploaded them to <a href=\"https://creativemarket.com/\">Creative Market</a> as 4K Desktop Backgrounds,</p>\n  <p>and a made $60 in sales, before I shut the experiment down.</p>\n</div>\n\n<div class=\"section\">\n  <p>I had another $60 there already,</p>\n  <p>from a much more complex product.</p>\n</div>\n\n<div class=\"section\">\n  <p>One that took months, and generated 30,000 <a href=\"https://getbootstrap.com/docs/5.0/components/card/\">Bootstrap Card</a> designs, and had a variation that was connected to <a href=\"https://www.youtube.com/watch?v=1XKRxeo9414\">Stripe</a>.</p>\n  <p>(<a href=\"https://www.youtube.com/watch?v=I7CfaDYzTVM\">Bootstrap</a> helps with Graphic User Interface design, and Stripe is a Payment Processing Gateway)</p>\n</div>\n\n<div class=\"section\">\n  <p>I fully embrace failure in my product design,</p>\n  <p>I almost want it, because that is the best way to learn.</p>\n</div>\n\n<div class=\"section\">\n  <p>Make your products small and beautiful,</p>\n  <p>and learn from your failures.</p>\n</div>\n\n<div class=\"section\">\n  <p>I classified my computer creations as <a href=\"https://www.youtube.com/watch?v=kmfC-i9WgH0\">Minimum Viable Products</a>,</p>\n  <p>and I continue my search for tiny and valuable things, I am currently looking at automatically generating dance and workout music.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>If you don&apos;t like computers,</p>\n  <p>then that maybe even better.</p>\n</div>\n\n<div class=\"section\">\n  <p><a href=\"https://www.youtube.com/watch?v=nZZlEbttaO0\">Adam Savage of Myth Busters fame has a small video about hand made products</a>,</p>\n  <p>in which he mentions markets like <a href=\"https://www.youtube.com/watch?v=_UISLd3-KN8\">Etsy</a>.</p>\n</div>\n\n<div class=\"section\">\n  <p>Hand made does not mean hard work,</p>\n  <p>you kind of probably should sell products that are not yet assembled - so product kits.</p>\n</div>\n\n<div class=\"section\">\n  <p>You can manufacture them by looking around for a local business that will help you machine parts,</p>\n  <p>or online where you can 3D print prototypes or laser cut leather, or wood, or acrylic, with <a href=\"https://www.youtube.com/watch?v=yaxwSVr3cl8\">Shapeways</a> and <a href=\"https://www.youtube.com/watch?v=ZOTUw6Iz2GY\">Ponoko</a></p>\n</div>\n\n<div class=\"section\">\n  <p>You can also find a <a href=\"https://www.youtube.com/watch?v=wti6FMvDAE4\">Maker Space</a>,</p>\n  <p>where you maybe able to find the tools and advice you need.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>I know that selling <a href=\"https://www.youtube.com/watch?v=ZOTUw6Iz2GY\">cute wooden charms</a> is not a way to build a business,</p>\n  <p>but holding your first product in your hands is a very educational experience, and money well spent.</p>\n</div>\n\n<div class=\"section\">\n  <p>Plus, you get a new item for your design portfolio,</p>\n  <p>where you can beautifully feature your diagrams, sketches, and ideas.</p>\n</div>\n\n<div class=\"section\">\n  <p>Your earliest products,</p>\n  <p>are priceless, <a href=\"https://www.youtube.com/watch?v=ex2ALzWigB8\">in 30 years as you look through your portfolio your silly wooden charms will make you very proud</a>.</p>\n</div>\n\n<div class=\"section\">\n  <p>The distance to a good product from a silly little charm,</p>\n  <p>is actually just a few more sketches, and a CNC &amp; Laser Cutter shop <a href=\"https://www.trayvax.com/\">where you can design a range of pricey wallets</a>.</p>\n</div>\n\n<div class=\"section\">\n  <p>Or, wallet kits, where you ship a futuristic wallet along with a little screwdriver and shiny brass screws,</p>\n  <p>allowing the customer to customize it during the final assembly.</p>\n</div>\n\n<div class=\"section\">\n  <p>Think of it as outsourcing your assembly to the customer,</p>\n  <p>and passing on the savings.</p>\n</div>\n\n<div class=\"section\">\n  <p>And if you prefer more modern technology,</p>\n  <p>then <a href=\"https://www.etsy.com/search?q=Raspberry+PI+Case\">design a range of cases for the Raspberry PI</a>, here it makes even greater sense to ship it as a kit, and of course you don&apos;t need to include the <a href=\"https://www.youtube.com/watch?v=EKPobkb1N6o&amp;t=20\">Raspberry PI</a>.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>Just accept failure as part of progress,</p>\n  <p>and focus on design a range of very interesting products, for three reasons.</p>\n</div>\n\n<div class=\"section\">\n  <p>Learning the work flow, beginning with customer interest,</p>\n  <p>onward to sales, and getting a nice review, or rating.</p>\n</div>\n\n<div class=\"section\">\n  <p>Learning from failure,</p>\n  <p>or you can call it: slowly seeking a path to success.</p>\n</div>\n\n<div class=\"section\">\n  <p>And filling your portfolio with beautiful sketches and prototypes,</p>\n  <p>documenting your path to success, and later on publishing your Design Portfolio as an actual book that people all over the world can use for inspiration.</p>\n</div>\n\n<div class=\"section\">\n  <p>It is better to start slowly a little bit at a time,</p>\n  <p>focus on creating miniature side-businesses first, enjoy the product design, and leave nothing out of your portfolio.</p>\n</div>",
+      "images": [],
+      "links": [
+        {
+          "title": "color swatches",
+          "url": "https://colorhunt.co/",
+          "hostname": "colorhunt.co"
+        },
+        {
+          "title": "HSL Color Model",
+          "url": "https://www.youtube.com/watch?v=NAw2_NtGNaA",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "ImageMagick",
+          "url": "https://www.youtube.com/watch?v=Sy_2Dncb26s",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Creative Market",
+          "url": "https://creativemarket.com/",
+          "hostname": "creativemarket.com"
+        },
+        {
+          "title": "Bootstrap Card",
+          "url": "https://getbootstrap.com/docs/5.0/components/card/",
+          "hostname": "getbootstrap.com"
+        },
+        {
+          "title": "Stripe",
+          "url": "https://www.youtube.com/watch?v=1XKRxeo9414",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Bootstrap",
+          "url": "https://www.youtube.com/watch?v=I7CfaDYzTVM",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Minimum Viable Products",
+          "url": "https://www.youtube.com/watch?v=kmfC-i9WgH0",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Adam Savage of Myth Busters fame has a small video about hand made products",
+          "url": "https://www.youtube.com/watch?v=nZZlEbttaO0",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Etsy",
+          "url": "https://www.youtube.com/watch?v=_UISLd3-KN8",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Shapeways",
+          "url": "https://www.youtube.com/watch?v=yaxwSVr3cl8",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Ponoko",
+          "url": "https://www.youtube.com/watch?v=ZOTUw6Iz2GY",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Maker Space",
+          "url": "https://www.youtube.com/watch?v=wti6FMvDAE4",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "cute wooden charms",
+          "url": "https://www.youtube.com/watch?v=ZOTUw6Iz2GY",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "in 30 years as you look through your portfolio your silly wooden charms will make you very proud",
+          "url": "https://www.youtube.com/watch?v=ex2ALzWigB8",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "where you can design a range of pricey wallets",
+          "url": "https://www.trayvax.com/",
+          "hostname": "www.trayvax.com"
+        },
+        {
+          "title": "design a range of cases for the Raspberry PI",
+          "url": "https://www.etsy.com/search?q=Raspberry+PI+Case",
+          "hostname": "www.etsy.com"
+        },
+        {
+          "title": "Raspberry PI",
+          "url": "https://www.youtube.com/watch?v=EKPobkb1N6o&t=20",
+          "hostname": "www.youtube.com"
+        }
+      ]
     }
   ]
 }
