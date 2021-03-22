@@ -5,104 +5,51 @@ remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitH
 (SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
-
 Full text version is available ad free at: https://catpea.com
 
-Evenings At Nordhouse: Adventures At The Edge Of The Universe
+What In The Equinox?
 
-We are each a unique creature,
-so what I felt won't be what you will feel when you are there.
-
-But there are some things
-that may be similar.
-
-There are more than 218 moons in our solar system,
-each one is an edge, just like the beach at Nordhouse is an edge.
-
-It is really,
-just about the same place, gravity doesn't matter much since you are elated anyway.
-
-You are royalty,
-out on your very own Moon.
-
----
-
-It is important that you have paper an pen,
-make sure your notes resist getting wet, test it, things can get wet out there.
-
-The journal, is for a single compound sentence type things,
-it is good to write it down.
-
-Though you can't possibly forget it,
-but if you did, the thought would come back to you.
-
-The journal is so that you can scribble a big thought,
-and move on to the bigger one.
-
----
-
-Some example observations maybe...
-
-"Schools are not teaching, tests aren't testing knowledge,
-diplomas are bunk, colleges are a business, and the whole thing is a scam."
-
-"Uneducated voters are easily swayed by all the things that uneducated,
-have always showed to be passionate about, racism, nationalism, hate, and us vs. them logic."
-
-"Military targets young boys, because it is easy, because they are easily impressed,
-they don't know enough about the world nor will they know war until it is too late;
-fathers are sending their children to kill each other in wars about thing that they ruined."
-
-"The Thirteenth Amendment of United States, may force those who participate in Jury Duty,
-into participating in slavery, as a slaver."
-
-"Criminal who are fractured by the bony hands of poverty,
-are not themselves, they are they are victimized by poverty and the denial of even the most basic human rights."
-
-"The unforgivable by the desperate act of bankruptcy, College Debt,
-alters the meaning of money, a meaning already eroded by the worst of human ideas,
-unforgivable debt makes what is owed void, and invalid, it is just a sick version of money that isn't real."
-
-"Government paying colleges for student debt, to save the students from it, is a temporary fix;
-asking why colleges charge so much money, is not even the right question,
-"Do colleges teach?", is the correct question."
-
-"Poverty and Lack of Education, has brought progress down to a stop,
-countries that fought for freedom with great vision,
-are falling back down for lack of it,
-that vision can only be found in real education, in real wisdom that opens gateways to greatness."
-
----
-
-These observations never end... some of them are a little crooked,
-you may not have a full picture.
-
-But once you make the observation,
-you will become sensitive to all the subjects that stand in support of it.
-
-You won't make wrong observations,
-just ones that need more information.
-
----
-
-If there is something that is really calling to you,
-like Philosophy called to me.
-
-Then just get 15 audio books about it,
-sometimes books that don't come out well as audio books, are just not that good.
-
-Audio books,
-may just mark the elite of books worth investing time it,
-
-Einstein said,
-"If you can't explain it simply, you don't understand it well enough."
-
-So if a book doesn't explain something valuable and magnificent, simply,
-it probably relates to another quote which goes:
-
-"There's a sucker born every minute"
-
-So just keep an eye out for the fake charts,
-designed to sell garbage meant to pray on uneducated readers...
-
-(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
+I knew today was special somehow,
+so I got out of my bed with a high brow.
+Still a little woozy from a good night's sleep,
+I skipped over to my computers in a single leap.
+I turned on Bach's famous Prélude from the Cello Suite No. 1,
+with Yo-Yo Ma performing it was a lot of fun.
+At 1:51 in the video the Prélude began speaking about drums to me,
+it calls to a drum and some sticks from a tree.
+I closed my eyes and muttered "How curious",
+I hope this won't make Bach furious...
+Because I can rebuild hos song,
+and it won't even take very long.
+I left that project for another day,
+but as learning goes, rebuilding songs is the way.
+My computer popped up an update,
+one I had to install meow, it couldn't wait.
+And then I squeaked, Holly molly batman,
+the Raspberry PI has an option to control the fan.
+I moved the wires on the GPIO header,
+and the fan started working a lot better.
+Now the fan only turns on when it hits 70C,
+my Raspberry PI is now as quiet as me.
+Then I pondered the old computers some more,
+how simple the commands were in the days of yore.
+At 6:02 of AT&T Archives: The UNIX Operating System Brian Kernighan of the UNIX and K&R fame,
+describes the original aim.
+And I thought to myself, we all understand,
+we just need to set our foot in the computer land.
+We just need an inexpensive Unix or Linux machine,
+with a nice and wide screen.
+I pondered Node.js too,
+node streams flow just like UNIX commands do.
+And finally I put my shoes on as not to spend the whole day here,
+and bought another bag of ghost pepper chips, they burned from my nose to the ear.
+Days like this may seem uneventful,
+but this is what we end up withing for when life becomes a handful.
+This was a magical Equinox and a spicy Equinox Eve,
+this is what they mean when people say appreciate the little things - I believe.
+And somehow all my neighborhood conspired to to fire up their fireplaces one last time,
+the air smells so good it is hard to rhyme.
+There is no doubt that we are all genius level smart,
+and lives must be lived as if they were precious works of art.
+Do not let troublemakers, schools, or work get in your way,
+we should treat each day, as if it was a special holiday.
