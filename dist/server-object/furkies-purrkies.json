@@ -7873,6 +7873,68 @@
           "hostname": "www.youtube.com"
         }
       ]
+    },
+    {
+      "title": "New Music Revolution",
+      "date": "2021-04-03T01:33:20.721Z",
+      "image": "poetry-0398-illustration.jpg",
+      "audio": "poetry-0398.mp3",
+      "id": "furkies-purrkies-poetry-0398",
+      "text": "Pretty frequently there comes a moment,\nthat can define future's past.\n\nThey are always simple moments,\nand always revolve around simple things.\n\nMr. Jobs liked to keep his house empty of useless things,\nthis helped him think about what items exist in every home.\n\nNot emerging trends like the computer or mp3 player,\nbut the well established ones that haven't changed in a long time.\n\nSome trends fade away, the mp3 player is a niche item now,\nsome self destruct, the Mac is moving away from the x86 processors now.\n\nSome linger, unbreakably, unmovingly,\nlike the Linux Phone.\n\nMany like the Linux phone, are misunderstood, Linux phones should not be about apps,\nthey need a conversational interface to the Linux System, the phone needs to replace apps with Automation and Programming.\n\nProgramming is the future,\nand it is not as hard as people make it out to be.\n\nAnd it is just as worth the while to try to bring something back, or do it right,\nas it is to begin a new revolution.\n\nBut there is something nice about being the first to start something,\nfor one you get to watch it grow.\n\nThe Music Revolution has already somewhat begun,\nbut it does not quite yet, get it self.\n\nThere is but a single reasonable program Tone.js,\nwhere there should be hundreds.\n\nThe firs person to program Tone.js right,\nwill become known as the Mother or Father of what will then become modern music.\n\nThis is big,\nit will make the music that we know today sound like soulless banging.\n\nRight now, Sam Aaron,\nis blazing the trail, and the sound of his music is in deed made unique by his SonicPI instrument.\n\nWhat I am talking about is greater than Live Music,\nI am talking about using programming languages to code entire Albums of Songs.\n\nI am talking about abandoning Digital Audio Workstations and Graphic User Interfaces,\nand bravely venturing into the world of programming-language-driven Music Composition.\n\nIt is a good idea to use the language of the web for this,\nif you are going to learn a programming language learn JavaScript\n\nBefore we go on, I want you to hear the sound of the previous generation of music,\nsearch the web for Kraftwerk Interview Ralf Hütter BBC2 England,\nand Giorgio Moroder - live at Lowlands 2019.\n\nBegin learning how to use Tone.js perhaps with a focus on using pre-recorded samples at first,\nyou can build your own Live Performance Environment like Mr. Aaron did, but think of songs as stand alone programs.\n\nInstead of trying to bend languages to your will or desire,\nlearn to bend yourself, and use the bare bones and existing API at your disposal.\n\nLearn to merge Music with what is already at your disposal,\ndo not try to bend the spoon.\n\nInvent your style,\nbegin publishing your music as computer programs, perhaps on npm, or github, or similar.\n\nAnd understand that this is your time,\nthat you are the new generation of Kraftwerk and Giorgio Moroder, that you are the future.\n\nYou are exactly where Techno begun,\nat the cusp of a new genre.\n\nIf you can do it, with purest of JavaScript and API so that others don't have to learn new things,\nand keep your music free and open under an Open Source License so that your music can spread.\n\nYours is the future,\nand you will become an inspiration for countless many, for eons to come.\n\nMay your works become a treasure of equal proportions to Kraftwerk and Giorgio Moroder...\n\"Begin at the beginning, and go on till you come to the end: then stop.\"\n\n\n[Tone.js]: https://www.youtube.com/watch?v=8u1aQdG5Nrk\n[Sam Aaron]: https://www.youtube.com/watch?v=G1m0aX9Lpts\n[SonicPI]: https://www.youtube.com/watch?v=TK1mBqKvIyU\n[learn JavaScript]: https://www.youtube.com/results?search_query=Learn+JavaScript\n[Kraftwerk Interview Ralf Hütter BBC2 England]: https://www.youtube.com/watch?v=2Js-dxl1BKc\n[Giorgio Moroder - live at Lowlands 2019]: https://www.youtube.com/watch?v=BDgelEJwZoo\n[you can build your own Live Performance Environment like Mr. Aaron did]: https://www.youtube.com/watch?v=xBQef0fs-_Q\n[npm]: https://www.npmjs.com/\n[github]: https://github.com/\n[Open Source License]: https://choosealicense.com/",
+      "html": "<div class=\"section\">\n  <p>Pretty frequently there comes a moment,</p>\n  <p>that can define future&apos;s past.</p>\n</div>\n\n<div class=\"section\">\n  <p>They are always simple moments,</p>\n  <p>and always revolve around simple things.</p>\n</div>\n\n<div class=\"section\">\n  <p>Mr. Jobs liked to keep his house empty of useless things,</p>\n  <p>this helped him think about what items exist in every home.</p>\n</div>\n\n<div class=\"section\">\n  <p>Not emerging trends like the computer or mp3 player,</p>\n  <p>but the well established ones that haven&apos;t changed in a long time.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>Some trends fade away, the mp3 player is a niche item now,</p>\n  <p>some self destruct, the Mac is moving away from the x86 processors now.</p>\n</div>\n\n<div class=\"section\">\n  <p>Some linger, unbreakably, unmovingly,</p>\n  <p>like the Linux Phone.</p>\n</div>\n\n<div class=\"section\">\n  <p>Many like the Linux phone, are misunderstood, Linux phones should not be about apps,</p>\n  <p>they need a conversational interface to the Linux System, the phone needs to replace apps with Automation and Programming.</p>\n</div>\n\n<div class=\"section\">\n  <p>Programming is the future,</p>\n  <p>and it is not as hard as people make it out to be.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>And it is just as worth the while to try to bring something back, or do it right,</p>\n  <p>as it is to begin a new revolution.</p>\n</div>\n\n<div class=\"section\">\n  <p>But there is something nice about being the first to start something,</p>\n  <p>for one you get to watch it grow.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>The Music Revolution has already somewhat begun,</p>\n  <p>but it does not quite yet, get it self.</p>\n</div>\n\n<div class=\"section\">\n  <p>There is but a single reasonable program <a href=\"https://www.youtube.com/watch?v=8u1aQdG5Nrk\">Tone.js</a>,</p>\n  <p>where there should be hundreds.</p>\n</div>\n\n<div class=\"section\">\n  <p>The firs person to program Tone.js right,</p>\n  <p>will become known as the Mother or Father of what will then become modern music.</p>\n</div>\n\n<div class=\"section\">\n  <p>This is big,</p>\n  <p>it will make the music that we know today sound like soulless banging.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>Right now, <a href=\"https://www.youtube.com/watch?v=G1m0aX9Lpts\">Sam Aaron</a>,</p>\n  <p>is blazing the trail, and the sound of his music is in deed made unique by his <a href=\"https://www.youtube.com/watch?v=TK1mBqKvIyU\">SonicPI</a> instrument.</p>\n</div>\n\n<div class=\"section\">\n  <p>What I am talking about is greater than Live Music,</p>\n  <p>I am talking about using programming languages to code entire Albums of Songs.</p>\n</div>\n\n<div class=\"section\">\n  <p>I am talking about abandoning Digital Audio Workstations and Graphic User Interfaces,</p>\n  <p>and bravely venturing into the world of programming-language-driven Music Composition.</p>\n</div>\n\n<div class=\"section\">\n  <p>It is a good idea to use the language of the web for this,</p>\n  <p>if you are going to learn a programming language <a href=\"https://www.youtube.com/results?search_query=Learn+JavaScript\">learn JavaScript</a></p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>Before we go on, I want you to hear the sound of the previous generation of music,</p>\n  <p>search the web for <a href=\"https://www.youtube.com/watch?v=2Js-dxl1BKc\">Kraftwerk Interview Ralf H&#xFC;tter BBC2 England</a>,</p>\n  <p>and <a href=\"https://www.youtube.com/watch?v=BDgelEJwZoo\">Giorgio Moroder - live at Lowlands 2019</a>.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>Begin learning how to use Tone.js perhaps with a focus on using pre-recorded samples at first,</p>\n  <p><a href=\"https://www.youtube.com/watch?v=xBQef0fs-_Q\">you can build your own Live Performance Environment like Mr. Aaron did</a>, but think of songs as stand alone programs.</p>\n</div>\n\n<div class=\"section\">\n  <p>Instead of trying to bend languages to your will or desire,</p>\n  <p>learn to bend yourself, and use the bare bones and existing API at your disposal.</p>\n</div>\n\n<div class=\"section\">\n  <p>Learn to merge Music with what is already at your disposal,</p>\n  <p>do not try to bend the spoon.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>Invent your style,</p>\n  <p>begin publishing your music as computer programs, perhaps on <a href=\"https://www.npmjs.com/\">npm</a>, or <a href=\"https://github.com/\">github</a>, or similar.</p>\n</div>\n\n<div class=\"section\">\n  <p>And understand that this is your time,</p>\n  <p>that you are the new generation of Kraftwerk and Giorgio Moroder, that you are the future.</p>\n</div>\n\n<div class=\"section\">\n  <p>You are exactly where Techno begun,</p>\n  <p>at the cusp of a new genre.</p>\n</div>\n\n<div class=\"section\">\n  <p>If you can do it, with purest of JavaScript and API so that others don&apos;t have to learn new things,</p>\n  <p>and keep your music free and open under an <a href=\"https://choosealicense.com/\">Open Source License</a> so that your music can spread.</p>\n</div>\n\n<div class=\"section\">\n  <p>Yours is the future,</p>\n  <p>and you will become an inspiration for countless many, for eons to come.</p>\n</div>\n\n<div class=\"section\">\n  <p>May your works become a treasure of equal proportions to Kraftwerk and Giorgio Moroder...</p>\n  <p>&quot;Begin at the beginning, and go on till you come to the end: then stop.&quot;</p>\n</div>",
+      "images": [],
+      "links": [
+        {
+          "title": "Tone.js",
+          "url": "https://www.youtube.com/watch?v=8u1aQdG5Nrk",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Sam Aaron",
+          "url": "https://www.youtube.com/watch?v=G1m0aX9Lpts",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "SonicPI",
+          "url": "https://www.youtube.com/watch?v=TK1mBqKvIyU",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "learn JavaScript",
+          "url": "https://www.youtube.com/results?search_query=Learn+JavaScript",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Kraftwerk Interview Ralf Hütter BBC2 England",
+          "url": "https://www.youtube.com/watch?v=2Js-dxl1BKc",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Giorgio Moroder - live at Lowlands 2019",
+          "url": "https://www.youtube.com/watch?v=BDgelEJwZoo",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "you can build your own Live Performance Environment like Mr. Aaron did",
+          "url": "https://www.youtube.com/watch?v=xBQef0fs-_Q",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "npm",
+          "url": "https://www.npmjs.com/",
+          "hostname": "www.npmjs.com"
+        },
+        {
+          "title": "github",
+          "url": "https://github.com/",
+          "hostname": "github.com"
+        },
+        {
+          "title": "Open Source License",
+          "url": "https://choosealicense.com/",
+          "hostname": "choosealicense.com"
+        }
+      ]
     }
   ]
 }
