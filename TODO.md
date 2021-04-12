@@ -7,96 +7,74 @@ Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.
 
 Full text version is available ad free at: https://catpea.com
 
-The New Computer Revolution
+Every adventure has its own unique song,
+and you have to listen to it.
 
-The moment you write a program it starts becoming old,
+You have to do as it tells you to do,
+only then will the adventure become good.
 
-libraries become outdated, the user interface gets a smell.
+When the lake is cold, and you need a bath,
+there is no better time to yell bad words then when you take the dip.
 
-In many cases once a program goes online it becomes vulnerable to attacks,
+When the trail seems to resume at every corner, you never stop,
+you keep going forward until you discover the very end.
 
-and get this: attacks that didn't exist while the program was being written.
+And when you are 10 mines away from civilization and it gets suddenly hazy,
+that's the rain the clouds warned you about, and that's when you put your hood on...
 
-To really write a program, a real program,
+---
 
-you have to create a text description of it.
+...and keep going,
+so as long as you are cozy and cheerful, you keep on trucking.
 
-Not some incomprehensible requirements document,
+The reward, the bounty,
+is a treasure chest of all kinds of colorful gems.
 
-but a book of many chapters, sections and paragraphs.
+You'll be granted a shower,
+by Mother nature her self, the seasons is how you turn up the heat.
 
-You then have to create a private tool that converts your narrative,
+You will become a happy curiosity, in the curious minds of countless many motorists,
+as they wonder if it was rain that caught you, or if it was you that caught the rain.
 
-into tests that either pass or fail.
+You'll sleep better, you may dream of cozy places,
+and you'll be more rested in the morning.
 
-Pass means, that whatever the paragraph was describing exists,
+And somewhere in all the haste of ducking under the occasional tree,
+to hide from sudden downpours, you'll snap a cute photo.
 
-and works when provided some sample data.
+---
 
-Fail mean that the feature you described,
+Adventure and Expedition,
+is a Form Of Art.
 
-has not yet been implemented.
+It is no different than searching for the next note,
+that fits the melody that you have thus far, and where you hope to get to next.
 
-A really good description, would hold up under the stress of creating the same program,
+It is no different, than sitting down on a bench, with a well proportioned sketch,
+with your trusty pencils and softest blending stumps to capture the afternoon shadows of a street corner you fancy.
 
-in different languages, by different development teams.
+You have to listen to what you have,
+and make the best of it in hopes of creating a new masterpiece.
 
-It is the English description of your invention that is the real program,
+---
 
-the code is just one of many implementations.
+And consider all the other rebels,
+the ultra-marathon runners out on Western States mindful of the Mountain Lion.
 
-You don't need to learn programming languages,
+The hikers out on AT,
+keeping one eye on the weather, and the other on the bear.
 
-you need a Good Idea and a fine description.
+And the countless invisible ones,
+who make their own trails, and rules, and legends.
 
-Here are a few very brilliant programs that you can safely base your invention on,
+When the rain comes, or snow, or thunder,
+and you don't know where to go anymore.
 
-UNIX, HyperCard, Inform 7, WikiWikiWeb, Siri, Visual Programming Languages, Infographics and Dashboards.
+That is not the end of your adventure,
+that is the Mother Nature's Invitation and Seal of Approval.
 
-This is a good starting point to thinking about Real Programming,
+Every one of us is a magnificent adventurer,
+and just as fine of a philosopher.
 
-where you deal with concepts, not code.
-
-I think the most important type of a program the world needs today,
-
-is a Visual Programming Language with an easy on ramp.
-
-Creating a programming language that would enable all human beings to collaborate on computer programs,
-
-would change the world.
-
-And as you can imagine,
-
-this can't be designed by a programmer.
-
-It can't be created from the inside, where programmers only think in code,
-
-and tend to follow requirements documents.
-
-It has to be created from the outside of the software world,
-
-by making demands that must be met.
-
-It has to be created,
-
-by a non-programmer.
-
-It has to be revolutionary,
-
-because this will create a new computer revolution.
-
-It has to work on the smart phone,
-
-perhaps it is something that looks at diagrams that are drawn on paper.
-
-Maybe it is something that uses a special on-screen keyboard,
-
-where letters are replaced with words that can be strung together into commands like in the old adventure games.
-
-Once invented all other programs can be re-developed in this language,
-
-people will begin programming their homes, and cars, and even dance routines and workouts.
-
-The question is: Who will lead the new computer revolution...
-
-Is it you?
+Mother Nature,
+is only trying to help.
