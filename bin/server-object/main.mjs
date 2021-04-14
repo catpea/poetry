@@ -59,6 +59,7 @@ const object = {
   subtitle: "Anthology of Inspirational Rhyme",
   description: "Just another dang old Audio Book about wisdom and growing up.",
   icon: "earbuds",
+
   "links":{
     "Source Code":"https://github.com/catpea/poetry",
     "Mirror":"https://catpea.github.io/poetry/",
@@ -66,6 +67,12 @@ const object = {
     "YouTube":"https://www.youtube.com/playlist?list=PLOo-pqnffyOqsK6hf5tFwMqzvhogksrgW"
   },
   order: "latest",
+
+  coverImages: true,
+  contactSheet: false,
+  audioVersion: true,
+  localAssets: true,
+
   data,
 }
 
