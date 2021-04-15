@@ -54,6 +54,7 @@ let data = fs.readdirSync(path.resolve(options.sourceDatabasePath), { withFileTy
 
 
 const object = {
+  format: 'v1',
   name: options.name,
   title: "Furkies Purrkies",
   subtitle: "Anthology of Inspirational Rhyme",

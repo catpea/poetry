@@ -1,4 +1,5 @@
 {
+  "format": "v1",
   "name": "furkies-purrkies",
   "title": "Furkies Purrkies",
   "subtitle": "Anthology of Inspirational Rhyme",
@@ -8250,6 +8251,58 @@
         {
           "title": "passionately speaking about something that matters to you",
           "url": "https://www.youtube.com/watch?v=9FCsyK4aRXQ",
+          "hostname": "www.youtube.com"
+        }
+      ]
+    },
+    {
+      "title": "Programming Is A Superpower",
+      "date": "2021-04-15T02:50:16.255Z",
+      "image": "poetry-0410-illustration.jpg",
+      "audio": "poetry-0410.mp3",
+      "id": "furkies-purrkies-poetry-0410",
+      "text": "You don't really want to write your programs,\nyou need to get good at program architecture, and programmer coordination.\n\nYou want to come up with a system,\nwhere many people can work on your big programs at the same time.\n\nWriting little programs is fun,\na one person program can become a piece of art.\n\nProgramming has a lot to do with creating universes,\nany kind of universe, in any kind of shape.\n\nRemember that inner fractal tesseract scene from interstellar,\nthat is where you go when you create universes.\n\nIt is a place where everything is strangely slid,\nexcept it is not as dramatic as the movie, and you can interact with everything.\n\nYou go into a world where anything,\ncan be anything you want.\n\nThings CAN get exotic if you put your imagination to it,\ncreating a world in Inform 7 can be a wonderful experience.\n\nWriting your own virtual world creation programs,\nwhere you can create abstract graphics and bend physics to your will can be fun.\n\nCreating 2D games, scrolling games with Pixel Art and all kinds of new game mechanics,\nas in Mari0 (spelled with a zero) can be an amazing experience.\n\nAnd games are the least of it,\nprogramming robots, drones, submersibles, to cross the Atlantic, automatically race, or fly in swarms... is like taking games outside.\n\nAnd the moment you put that on the internet,\nyou'll get job offers, and nobody is going to ask you if you completed High School or not.\n\nThen, there is the research zone, there are mountains of white papers,\nand just as many helpful explanations, so programming can be both Art and Science.\n\nAnd programming can give life to mathematics,\nit can make all those formulas start moving.\n\nIt is also a very useful tool for business, or product creation,\nor creating things out of thin air, like a magician.\n\nWhile programming is a form of art,\nlearning programming is an art too.\n\nYou learn how to learn,\nand you learn to spot liars that clam to teach.\n\nWhen you are learning for real at home,\nyou get front-row seats to watch the fake education experience.\n\nProgramming is really empowering,\nwhen it comes to the battle against poverty.\n\nSomething that schools do nothing about, if not downright perpetuate by charging money,\nand not reasonable or restrained sums, but the maximum they can get away with.\n\nLearning programming, is not about memorizing the languages,\nbut practicing programming by creating curious little things and having fun.\n\nI always thought about programming as inventing, watchmaking, and tiny universes,\nbut Karlie Kloss calls Programming a superpower, and I think her explanation is the correct one.\n\nIf I had to recommend a starting project,\nit would be generative art, that can be printed out on big canvas and displayed in galleries.\n\nProgramming art it is a fun way to learn about math,\nand get started with 3D printing, electronics, and robotics.\n\nComputers really are,\nthe future.\n\n\n[inner fractal tesseract scene from interstellar]: https://www.youtube.com/watch?v=nrVpYwUFewU\n[Inform 7]: https://www.youtube.com/watch?v=SqyV9Jmbex0&t=150s\n[Mari0]: https://www.youtube.com/watch?v=r-DpFmEzRJo\n[mountains of white papers]: https://github.com/catpea/papers-we-love\n[creating curious little things]: https://www.youtube.com/watch?v=BGeT8IyKd2M\n[Karlie Kloss calls Programming a superpower]: https://www.youtube.com/watch?v=Bwiln7v0fdc\n[it is a fun way to learn about math]: https://www.youtube.com/watch?v=kZNTozzsNqk\n[3D printing, electronics, and robotics]: https://www.youtube.com/watch?v=Zdv4cOmOmb8",
+      "html": "<div class=\"section\">\n  <p>You don&apos;t really want to write your programs,</p>\n  <p>you need to get good at program architecture, and programmer coordination.</p>\n</div>\n\n<div class=\"section\">\n  <p>You want to come up with a system,</p>\n  <p>where many people can work on your big programs at the same time.</p>\n</div>\n\n<div class=\"section\">\n  <p>Writing little programs is fun,</p>\n  <p>a one person program can become a piece of art.</p>\n</div>\n\n<div class=\"section\">\n  <p>Programming has a lot to do with creating universes,</p>\n  <p>any kind of universe, in any kind of shape.</p>\n</div>\n\n<div class=\"section\">\n  <p>Remember that <a href=\"https://www.youtube.com/watch?v=nrVpYwUFewU\">inner fractal tesseract scene from interstellar</a>,</p>\n  <p>that is where you go when you create universes.</p>\n</div>\n\n<div class=\"section\">\n  <p>It is a place where everything is strangely slid,</p>\n  <p>except it is not as dramatic as the movie, and you can interact with everything.</p>\n</div>\n\n<div class=\"section\">\n  <p>You go into a world where anything,</p>\n  <p>can be anything you want.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>Things CAN get exotic if you put your imagination to it,</p>\n  <p>creating a world in <a href=\"https://www.youtube.com/watch?v=SqyV9Jmbex0&amp;t=150s\">Inform 7</a> can be a wonderful experience.</p>\n</div>\n\n<div class=\"section\">\n  <p>Writing your own virtual world creation programs,</p>\n  <p>where you can create abstract graphics and bend physics to your will can be fun.</p>\n</div>\n\n<div class=\"section\">\n  <p>Creating 2D games, scrolling games with Pixel Art and all kinds of new game mechanics,</p>\n  <p>as in <a href=\"https://www.youtube.com/watch?v=r-DpFmEzRJo\">Mari0</a> (spelled with a zero) can be an amazing experience.</p>\n</div>\n\n<div class=\"section\">\n  <p>And games are the least of it,</p>\n  <p>programming robots, drones, submersibles, to cross the Atlantic, automatically race, or fly in swarms... is like taking games outside.</p>\n</div>\n\n<div class=\"section\">\n  <p>And the moment you put that on the internet,</p>\n  <p>you&apos;ll get job offers, and nobody is going to ask you if you completed High School or not.</p>\n</div>\n\n<div class=\"section\">\n  <p>Then, there is the research zone, there are <a href=\"https://github.com/catpea/papers-we-love\">mountains of white papers</a>,</p>\n  <p>and just as many helpful explanations, so programming can be both Art and Science.</p>\n</div>\n\n<div class=\"section\">\n  <p>And programming can give life to mathematics,</p>\n  <p>it can make all those formulas start moving.</p>\n</div>\n\n<div class=\"section\">\n  <p>It is also a very useful tool for business, or product creation,</p>\n  <p>or creating things out of thin air, like a magician.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>While programming is a form of art,</p>\n  <p>learning programming is an art too.</p>\n</div>\n\n<div class=\"section\">\n  <p>You learn how to learn,</p>\n  <p>and you learn to spot liars that clam to teach.</p>\n</div>\n\n<div class=\"section\">\n  <p>When you are learning for real at home,</p>\n  <p>you get front-row seats to watch the fake education experience.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>Programming is really empowering,</p>\n  <p>when it comes to the battle against poverty.</p>\n</div>\n\n<div class=\"section\">\n  <p>Something that schools do nothing about, if not downright perpetuate by charging money,</p>\n  <p>and not reasonable or restrained sums, but the maximum they can get away with.</p>\n</div>\n\n<div class=\"section\">\n  <hr>\n</div>\n\n<div class=\"section\">\n  <p>Learning programming, is not about memorizing the languages,</p>\n  <p>but practicing programming by <a href=\"https://www.youtube.com/watch?v=BGeT8IyKd2M\">creating curious little things</a> and having fun.</p>\n</div>\n\n<div class=\"section\">\n  <p>I always thought about programming as inventing, watchmaking, and tiny universes,</p>\n  <p>but <a href=\"https://www.youtube.com/watch?v=Bwiln7v0fdc\">Karlie Kloss calls Programming a superpower</a>, and I think her explanation is the correct one.</p>\n</div>\n\n<div class=\"section\">\n  <p>If I had to recommend a starting project,</p>\n  <p>it would be generative art, that can be printed out on big canvas and displayed in galleries.</p>\n</div>\n\n<div class=\"section\">\n  <p>Programming art <a href=\"https://www.youtube.com/watch?v=kZNTozzsNqk\">it is a fun way to learn about math</a>,</p>\n  <p>and get started with <a href=\"https://www.youtube.com/watch?v=Zdv4cOmOmb8\">3D printing, electronics, and robotics</a>.</p>\n</div>\n\n<div class=\"section\">\n  <p>Computers really are,</p>\n  <p>the future.</p>\n</div>",
+      "images": [],
+      "links": [
+        {
+          "title": "inner fractal tesseract scene from interstellar",
+          "url": "https://www.youtube.com/watch?v=nrVpYwUFewU",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Inform 7",
+          "url": "https://www.youtube.com/watch?v=SqyV9Jmbex0&t=150s",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Mari0",
+          "url": "https://www.youtube.com/watch?v=r-DpFmEzRJo",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "mountains of white papers",
+          "url": "https://github.com/catpea/papers-we-love",
+          "hostname": "github.com"
+        },
+        {
+          "title": "creating curious little things",
+          "url": "https://www.youtube.com/watch?v=BGeT8IyKd2M",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "Karlie Kloss calls Programming a superpower",
+          "url": "https://www.youtube.com/watch?v=Bwiln7v0fdc",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "it is a fun way to learn about math",
+          "url": "https://www.youtube.com/watch?v=kZNTozzsNqk",
+          "hostname": "www.youtube.com"
+        },
+        {
+          "title": "3D printing, electronics, and robotics",
+          "url": "https://www.youtube.com/watch?v=Zdv4cOmOmb8",
           "hostname": "www.youtube.com"
         }
       ]
