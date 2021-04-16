@@ -7,74 +7,119 @@ Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.
 
 Full text version is available ad free at: https://catpea.com
 
-Every adventure has its own unique song,
-and you have to listen to it.
+The World Is Growing Up Faster And Faster
 
-You have to do as it tells you to do,
-only then will the adventure become good.
+Prisons should not exist,
+only schools and care facilities.
 
-When the lake is cold, and you need a bath,
-there is no better time to yell bad words then when you take the dip.
+Money should not hold Humanity back,
+it should help Humanity grow.
 
-When the trail seems to resume at every corner, you never stop,
-you keep going forward until you discover the very end.
-
-And when you are 10 mines away from civilization and it gets suddenly hazy,
-that's the rain the clouds warned you about, and that's when you put your hood on...
+And at birth, every child should be granted a home,
+and all the money they will ever need.
 
 ---
 
-...and keep going,
-so as long as you are cozy and cheerful, you keep on trucking.
+We should not tolerate broken ideas,
+we should reject all that propagates them.
 
-The reward, the bounty,
-is a treasure chest of all kinds of colorful gems.
+The schools are broken,
+schools do not teach.
 
-You'll be granted a shower,
-by Mother nature her self, the seasons is how you turn up the heat.
-
-You will become a happy curiosity, in the curious minds of countless many motorists,
-as they wonder if it was rain that caught you, or if it was you that caught the rain.
-
-You'll sleep better, you may dream of cozy places,
-and you'll be more rested in the morning.
-
-And somewhere in all the haste of ducking under the occasional tree,
-to hide from sudden downpours, you'll snap a cute photo.
+And one of the most important things for a student,
+must be exchange programs, each semester in a different part of the world.
 
 ---
 
-Adventure and Expedition,
-is a Form Of Art.
+I will forgo writing about the meaning of legal systems,
+in cities that do nothing to prevent poverty.
 
-It is no different than searching for the next note,
-that fits the melody that you have thus far, and where you hope to get to next.
+I won't write about Judges tolerating the difference between Fairness and Justice,
+and what is in the law books.
 
-It is no different, than sitting down on a bench, with a well proportioned sketch,
-with your trusty pencils and softest blending stumps to capture the afternoon shadows of a street corner you fancy.
+I will not mention the second part of the 13th amendment,
+and what that makes us.
 
-You have to listen to what you have,
-and make the best of it in hopes of creating a new masterpiece.
+I am not going to discuss,
+tolerance of poverty.
+
+I won't write about tolerance of cults that erase curiosity,
+and all the things they got away with especially when no one was looking.
+
+I will clench my teeth and won't say a word about bad teachers,
+and their sick curricula.
+
+I won't speak about bad parenting,
+and arrogance.
+
+I wasn't even going to talk about ineffective politics,
+there is actually nothing to say on that subject, ZERO!
+
+I won't talk about hospitals turning a profit,
+from the sick and dying.
+
+It is hard not to talk about losing Tigers,
+but I can hold my tears back, I won't speak.
+
+I won't mention the risks that have been taken with climate,
+pollution and plastics, deforestation, melting glaciers and ocean desolinization.
+
+I won't speak of the Holocene extinction,
+but I will mention it with anger.
+
+I won't talk about vaccine hesitancy, though like racism and crime,
+it is just a basic function of lack of education and the impact that toxicity of poverty has on us.
+
+There are many more things that I won't speak of, human right violations, ongoing slavery in wealthy nations,
+children in concentration camps in both US, and N.Korea looking to the moon and wondering if someone else is looking too, and can they hear their thoughts and feel their despair.
 
 ---
 
-And consider all the other rebels,
-the ultra-marathon runners out on Western States mindful of the Mountain Lion.
+I will leave it up to you to notice all those terrible things,
+in the noble course of your own self education, as you rise to become a grown up.
 
-The hikers out on AT,
-keeping one eye on the weather, and the other on the bear.
+I just want you to know, that the reason why you can't understand the world,
+and why nobody has the answers that you need, is because nothing works.
 
-And the countless invisible ones,
-who make their own trails, and rules, and legends.
+Somethings do work sometimes,
+but not always, not reliably, not for everyone, not equally.
 
-When the rain comes, or snow, or thunder,
-and you don't know where to go anymore.
+This is not to say that the world is a bad place,
+but it is IN a bad place, a bad place in its history.
 
-That is not the end of your adventure,
-that is the Mother Nature's Invitation and Seal of Approval.
+---
 
-Every one of us is a magnificent adventurer,
-and just as fine of a philosopher.
+The one thing that has been consistent, that we can be sure of,
+is that every day, more and more people notice more and more problems.
 
-Mother Nature,
-is only trying to help.
+This increase of awareness has been going on for thousands of years,
+and it cannot stop, it is just not possible.
+
+There cannot exist any borders or nations sick enough to stop it,
+we are too complex, the world is too chaotic and connected.
+
+---
+
+Each day, we notice more and more broken things,
+each day there are more and more people in every village and city, of every nation, noticing more and more.
+
+The Universal Declaration of Human Rights is a miracle,
+it is incomplete, but it is a beginning it is a perfect and unerasable starting point for upcoming change.
+
+The Global Change that will come out of nowhere,
+as a function of our connectedness and the rejection of broken things.
+
+---
+
+When it finally happens,
+people, especially young people, will look back at our generations with disbelief.
+
+In their culture,
+the culture of Reason... Restraint, Dignity, Nobility, Unbreakability, Fortitude, Courage, Honor, Love;
+and Insight; and Foresight; and Understanding; and Authenticity; and Heroism... and Compassion and Wisdom.
+
+The way we are today will be very unclear to them,
+just like we can't understand bathing once a year, or living in caves...
+
+They will be born to an integrated and truly modern world,
+that will make ours... far too strange.
