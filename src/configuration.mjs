@@ -1,0 +1,30 @@
+export default {
+  format: 'v1',
+  name: "furkies-purrkies",
+  title: "Furkies Purrkies",
+  subtitle: "Anthology of Inspirational Rhyme",
+  description: "Just another dang old Audio Book about wisdom and growing up.",
+  icon: "earbuds",
+
+  "links":{
+    "Source Code":"https://github.com/catpea/poetry",
+    "Mirror":"https://catpea.github.io/poetry/",
+    "Bugs":"https://github.com/catpea/poetry/issues",
+    "YouTube":"https://www.youtube.com/playlist?list=PLOo-pqnffyOqsK6hf5tFwMqzvhogksrgW"
+  },
+
+  dependencies: {
+    'src/image/poetry-cover.jpg': 'image',
+    'src/audio/audio-jogger.mp3': 'audio',
+    'src/audio/bird-pecking-complaint.mp3': 'audio',
+    'src/audio/emergence.mp3': 'audio',
+  },
+
+  order: "latest",
+
+  coverImages: true,
+  contactSheet: false,
+  audioVersion: true,
+  localAssets: true,
+
+}

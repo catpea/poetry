@@ -6,6 +6,7 @@ import cheerio from 'cheerio';
 import moment from 'moment';
 import pretty from 'pretty';
 import startCase from 'lodash/startCase.js';
+import configuration from '../../src/configuration.mjs';
 
 const options = {
   name: "furkies-purrkies",
@@ -53,29 +54,8 @@ let data = fs.readdirSync(path.resolve(options.sourceDatabasePath), { withFileTy
 
 
 
-const object = {
-  format: 'v1',
-  name: options.name,
-  title: "Furkies Purrkies",
-  subtitle: "Anthology of Inspirational Rhyme",
-  description: "Just another dang old Audio Book about wisdom and growing up.",
-  icon: "earbuds",
-
-  "links":{
-    "Source Code":"https://github.com/catpea/poetry",
-    "Mirror":"https://catpea.github.io/poetry/",
-    "Bugs":"https://github.com/catpea/poetry/issues",
-    "YouTube":"https://www.youtube.com/playlist?list=PLOo-pqnffyOqsK6hf5tFwMqzvhogksrgW"
-  },
-  order: "latest",
-
-  coverImages: true,
-  contactSheet: false,
-  audioVersion: true,
-  localAssets: true,
-
-  data,
-}
+const object = configuration;
+object.data = data;
 
 // Save The Feed
 const feedFile = path.resolve(path.join(options.distributionDirectoryPath, options.dataFeedDirectory, options.dataFeedFile));
@@ -99,6 +79,10 @@ function meta(object){
   if(!response.image){
     response.image = "poetry-cover.jpg";
   }
+
+  // <meta name="image" content="poetry-0386-illustration.jpg" source="https://unsplash.com/photos/0A450BR1JWk">
+  const artwork = $('meta[name=image][source]').attr('source');
+  if(artwork) response.artwork = artwork;
   return response;
 }
 
