@@ -4,122 +4,139 @@ remote: warning: See http://git.io/iEPt8g for more information.
 remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
 (SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
-
 Full text version is available ad free at: https://catpea.com
 
-The World Is Growing Up Faster And Faster
+Of Self Education And Foresight
 
-Prisons should not exist,
-only schools and care facilities.
-
-Money should not hold Humanity back,
-it should help Humanity grow.
-
-And at birth, every child should be granted a home,
-and all the money they will ever need.
-
----
-
-We should not tolerate broken ideas,
-we should reject all that propagates them.
-
-The schools are broken,
-schools do not teach.
-
-And one of the most important things for a student,
-must be exchange programs, each semester in a different part of the world.
-
----
-
-I will forgo writing about the meaning of legal systems,
-in cities that do nothing to prevent poverty.
-
-I won't write about Judges tolerating the difference between Fairness and Justice,
-and what is in the law books.
-
-I will not mention the second part of the 13th amendment,
-and what that makes us.
-
-I am not going to discuss,
-tolerance of poverty.
-
-I won't write about tolerance of cults that erase curiosity,
-and all the things they got away with especially when no one was looking.
-
-I will clench my teeth and won't say a word about bad teachers,
-and their sick curricula.
-
-I won't speak about bad parenting,
-and arrogance.
-
-I wasn't even going to talk about ineffective politics,
-there is actually nothing to say on that subject, ZERO!
-
-I won't talk about hospitals turning a profit,
-from the sick and dying.
-
-It is hard not to talk about losing Tigers,
-but I can hold my tears back, I won't speak.
-
-I won't mention the risks that have been taken with climate,
-pollution and plastics, deforestation, melting glaciers and ocean desolinization.
-
-I won't speak of the Holocene extinction,
-but I will mention it with anger.
-
-I won't talk about vaccine hesitancy, though like racism and crime,
-it is just a basic function of lack of education and the impact that toxicity of poverty has on us.
-
-There are many more things that I won't speak of, human right violations, ongoing slavery in wealthy nations,
-children in concentration camps in both US, and N.Korea looking to the moon and wondering if someone else is looking too, and can they hear their thoughts and feel their despair.
-
----
-
-I will leave it up to you to notice all those terrible things,
-in the noble course of your own self education, as you rise to become a grown up.
-
-I just want you to know, that the reason why you can't understand the world,
-and why nobody has the answers that you need, is because nothing works.
-
-Somethings do work sometimes,
-but not always, not reliably, not for everyone, not equally.
-
-This is not to say that the world is a bad place,
-but it is IN a bad place, a bad place in its history.
-
----
-
-The one thing that has been consistent, that we can be sure of,
-is that every day, more and more people notice more and more problems.
-
-This increase of awareness has been going on for thousands of years,
-and it cannot stop, it is just not possible.
-
-There cannot exist any borders or nations sick enough to stop it,
-we are too complex, the world is too chaotic and connected.
-
----
-
-Each day, we notice more and more broken things,
-each day there are more and more people in every village and city, of every nation, noticing more and more.
-
-The Universal Declaration of Human Rights is a miracle,
-it is incomplete, but it is a beginning it is a perfect and unerasable starting point for upcoming change.
-
-The Global Change that will come out of nowhere,
-as a function of our connectedness and the rejection of broken things.
-
----
-
-When it finally happens,
-people, especially young people, will look back at our generations with disbelief.
-
-In their culture,
-the culture of Reason... Restraint, Dignity, Nobility, Unbreakability, Fortitude, Courage, Honor, Love;
-and Insight; and Foresight; and Understanding; and Authenticity; and Heroism... and Compassion and Wisdom.
-
-The way we are today will be very unclear to them,
-just like we can't understand bathing once a year, or living in caves...
-
-They will be born to an integrated and truly modern world,
-that will make ours... far too strange.
+It is difficult to try to give advice,
+that dictates the life ahead, of someone else.
+Personally, I would not take out a school loan,
+even if theoretically it would only take four years to pay it off.
+To me, those four years matter,
+as well as the ten years of mounting debt that lead up to it.
+I can easily imagine people who don't care about the debt,
+and they don't even notice when they pay it off.
+By that time, they become a successful Doctor in their community,
+they are admired, and often go on fantastic adventures.
+In my mind, the schools must pay their students,
+a student should never be put in the position of debt.
+Especially student debt that can go up to a million dollars and cannot be forgiven by bankruptcy,
+there are no guarantees in life, we are too beautiful to be crushed by mounting pressure.
+Plus, it is not just about Medical Students or West Point Officers,
+this practice of putting students in unforgivable debt, applies to a person who just wants to have a nice college diploma.
+Student debt is an error,
+it is not fair for the older generation to stress the future of the world.
+On top of that, a job or a career,
+is just a little thing.
+Our ultimate aim in life,
+is to become a great being making lasting contributions and leaving an inspirational legacy behind.
+Life is a one way road,
+you can only amplify forward, and you can't ever go back.
+All those shortcuts prized by many, really do work,
+but in the most terrible of ways.
+The wishes of skipping over the hard things,
+are granted, as if by the twisted mind of a genie.
+A solid shortcut will bridge the youth with old age,
+and make the one doing the skipping none the wiser.
+As it often is,
+the world too has a few tricks up its sleeve.
+Just like I didn't know to call for help when my bullies came,
+because I said to myself, it is my fault, I am fat, I have bad grades, and I wont' fight them.
+Terrible things will conspire against you too,
+and it is hard to catch them before they happen, it all too easily flies over our heads.
+Already, you are likely to be tricked into thinking that education is a chore,
+and likely, you have failed to notice that schools are not functioning.
+That is what you are up against,
+not only lack of knowledge and experience, but also and overwhelming mediocrity and incompleteness.
+Incompleteness of things that you are taught to trust,
+and would not ordinary think to question.
+Moreover, things are already being stolen from you,
+your insight, your brilliance and energy.
+People in authority may try to force you to follow a pre-made way of thinking,
+rather than to encourage you to discover your own, your own path in life is sacred.
+And then there are the numbers,
+the statistics that reveal the broken promises.
+Though it has been a long time,
+I still remember feeling that school has been made artificially difficult.
+Trickery,
+to convince us that it is hard work that works out, if you work hard.
+I want you to imagine,
+playing with programming for several years.
+And then really try to visualize,
+the overwhelming pleasure and excitement, of going to a programming school, having already learned almost everything on your own.
+What can be more pleasant,
+then a refresher course that meanders through things you enjoy anyway.
+And if you forgo the diploma,
+all you need to launch your first start-up is what you have learned on your own.
+Going to a school that deal with a specific subject, especially when you are already well educated on the subject,
+is what the real school should feel like, learning on top of what you already know, extending your unique strengths.
+A school that punishes,
+is just fraud.
+One of the most painful observations for me,
+is the fact that if we get good at microbiology, we will still fail biology exams.
+The range of questions in standardized education is not realistic,
+it is nothing like learning programming, and then passing all the software development exams at a coder school.
+In the average school,
+you still fail if you are good at something.
+The notion of standardized knowledge,
+one arranged by uneducated politicians seeking reelection or promotion is an insult, an affront to the entire world.
+Pretending to educate has real world consequences,
+lack of real education is a terrible curse.
+We must reject what is broken,
+and we must learn to reject the shortcuts.
+A school that is not educating its student for real,
+is not worth going to even if it offers a diploma, and some promise of a job.
+Fraud, is fraud,
+it will take you nowhere, and probably put you in unforgivable student loan debt.
+Student loan debt is a terrible mistake that must be considered in full ahead of time,
+debt is no fun and it takes a lot of joy out of life.
+Real knowledge, real education, must come first,
+even if it is self education that then requires going through a program to get it certified.
+Real education leads to Knowledge and Wisdom,
+towards love of life, and it offers a path towards greatness.
+We have to learn to get ahead of those who will trick us,
+or things that will put us in debt.
+And we have to learn to jump ahead of ourselves,
+and ask our elder selves what their regrets are.
+While it may feel that everyone is selling a different version of a solution,
+world's top selling - and beloved - non-fiction books, are still the best way to inherit true wisdom.
+Best selling books, are in a way voted on by the entire humanity, or entire nations,
+and the overwhelming majority of those books, and especially those that reference each other hold true wisdom.
+In an age where we can easily get at the narrated versions,
+it can't be any easier to accept responsibility for a fine and well balanced self education that fits who we are.
+In a world where schools are not teaching,
+you will have to educate yourself ahead of time, and only then should you move forward.
+Going into a school that is not teaching,
+and hoping to graduate, is a mistake.
+But, even if you do have a great school,
+the idea that it will put you into unforgivable debt for any length of time, and in a world that comes with few guarantees - rings an alarm bell.
+Your life must be lived stress free,
+more than that, it should be lived beautifully.
+The journey that real education represents,
+is one of the most beautiful things we will experience in life.
+Our progression forward,
+is similar to how a flower grows and then blooms.
+It is very important that the flower is allowed to grow free,
+and not be put through stress or drought.
+Finally, as much as there is to be said about career choice,
+where, we work, is not everything.
+That we grow up and bloom as Great Beings,
+and make lasting, positive, and meaningful contributions to the Human Kind is the thing.
+A job of career by contrast,
+is just a little thing.
+And remember that poverty is an error,
+that it is not students who should pay school, but schools and employers that should pay students for the privilege of making their institutions better.
+Not only that, but a wise world, a just world, is a world that practices the prevention of stressing or fracturing of its people,
+it is a world that grants each child a free home, and all the money they will ever require.
+In a normal worlds, standardized education is seen as cruel and primitive,
+and people learn mostly on their own, but also through a personalized curriculum.
+In a real school, there are no teachers,
+but tutors that never fail to help a curious student find all the answers they need.
+Do you understand the full scope of considering your own future now,
+not only do you have to face the unknowns, the fraud, the mediocrity and all the unfinished things...
+But you also have to consider,
+things not as they are, but as they would be in a well developed and complete, and honest and wise world.
+The only way to see yourself in time,
+is to take to self education, so that you learn about life, before you have to make life changing decisions.
+One way or another,
+real education, self education, is something that we can't do without.
