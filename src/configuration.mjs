@@ -22,9 +22,16 @@ export default {
 
   order: "latest",
 
-  coverImages: true,
-  contactSheet: false,
-  audioVersion: true,
-  localAssets: true,
+  plugins: {
+    coverImages: {},
+    resizeCoverImage: {},
+    convertAudioToVideo: {},
+    createMirror: {},
+    createWebsite: {},
+    localAssets: {},
+    // yamlDatabase: {},
+    // createContactSheetImage: {},
+    // downloadVideoThumbnails: {},
+  }
 
 }
