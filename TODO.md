@@ -5,88 +5,89 @@ remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitH
 (SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
+
 Full text version is available ad free at: https://catpea.com
 
-The Future School
+Learning To Learn
 
-Above all, school pays for a hotel of your choice, including food and whatever else you need,
-it does not matter if you are an exchange student, of if you want to live on your own.
+Learning is like climbing a mountain,
+there are no shortcuts, and you have to go step by step.
+And it is also like putting a computer together,
+or wiring a home entertainment center, you can't leave something out.
+It is also like learning just a little bit about ice skating,
+you really need to carefully step on that ice and see what it feels like.
+Learning for real, is the same as having fun,
+being fascinated about what you are doing, enjoying it.
+Finally, learning for real is also about long term achievement,
+like section hiking the Appalachian Trail over many decades...
+...and then arriving at Mount Katahdin, come your golden age;
+it is about making a difference, and becoming better for it, adding to greater whole.
+When we go to school, and we end up thinking,
+if I jump through these hoops I will graduate and then I'll figure the next step.
+The strong sequence, the integrated whole, becomes a wet rag,
+the aim becomes a carrot on a stick, things become unclear, but we keep going.
+It is OK to make this mistake,
+so as long as we learn from it.
+So as long as we learn,
+and prevent others from being taken advantage of the same way.
+Begin asking questions about education,
+don't just sit there memorizing disconnected facts, demand a real education.
+We all have computers now,
+we should all learn about programming.
+We need to know that a function takes an input,
+transforms it, often by calling other functions, and return an output, output = function(input);
+We need to know what a loop is,
+that it often processes a list of items, one at a time, calling functions with the item as input.
+For example, for every user in a list,
+if membership expires soon on this user, then send warning message for this user.
+Programming, is so simple,
+that it only takes a few days to learn.
+You have to do it right,
+that is what schools were meant to help us with.
+For example, YOU NEVER, EVER, EVER, EVER, start by just creating a file,
+and then configuring things, NO, you start with a boilerplate.
+Only later, when you have time to waste,
+you go and read the darn manual or guide.
+I am actually serious about this,
+the manual will never tell you what the most important parts are relative to your use case.
+If you just need a window with a blank canvas,
+for a little 50 line wiki that helps you study, you don't need to worry about drop downs, or icon sizes.
+You will return many times to the things that are useful,
+and with each use case, you will learn a new way of using the program, that is far more than any documentation can explain.
+Another huge deal, is the language you start with,
+I know many programming languages but I don't use them, some are too old, but in most cases they just do things badly and are too small.
+The language you choose must be the one getting the most stress, attention, and hate,
+because to hate a language is to admit to have learned the wrong one.
+Today that language is ES2021,
+it is the evolution of JavaScript, the language behind all the web applications, that also runs on the server via node.js.
+There are some strong side languages that are worth considering venturing into,
+but just bookmark them and forget it.
+You need to learn language that will help you create cute little command line programs, mighty web apps,
+quick and dirty web servers that never complain under real stress, and desktop applications, including powerful code editors.
+Above all, it all needs to be cross platform,
+so that you never have to worry about rewriting your program for a different operating system.
+To learn something, we need really competent teachers,
+who learned what they know not from textbooks, but from experience.
+If it is not possible to have good teachers,
+then it is more important to lean on your own first, and then go to school to get the diploma.
+If the school isn't teaching then you are not going to learn anything,
+you are only going to learn something that isn't even all that useful.
 
-And you can't be expelled for any reason, if you do something wrong,
-no one will punish you, you'll get group therapy session with all the other people who think different.
+(SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 word limit.)
 
-Until you are ready to leave, school becomes your home,
-and since there is no graduation, you can always come back.
-
-Just like there are no creepy dorm rooms,
-there is no real nurses office, you go to a hospital and the school will cover your bills.
-
----
-
-This is a place that will always treat you with great dignity,
-they know that if you drop out, the future of the world will be darker for it.
-
-You will be granted peace and serenity, and calm and safety and security,
-and no one will take that way from you.
-
-If you take of to work on your own,
-and your business fails, you will be welcomed back.
-
-The worst thing that will ever happen to you,
-is coming back home, speaking out about your challenges, and trying again, until don't come back.
-
----
-
-The school is focused on real results,
-here you will not be asked to memorize what the powerhouse of the cell is.
-
-If you are into Microbiology, Medicine, you get a white coat,
-and you are asked to find a place where you fit in.
-
-And isn't very often that a person can't find a place where they fit in,
-it is because to become curious about Microbiology is to have read a hundred books about it...
-
-...is to be passionate about some detail,
-there will be plenty of others with similar interests.
-
----
-
-Software development is perhaps the most illustrative idea,
-the community is extremely friendly and the world is full of tutorials to help you get started.
-
-It is a self guiding field,
-driven by new ideas.
-
-And your relation to the field will transform,
-from student, to employee or mentor, to business owner, and employer, and leader, and inspiration.
-
-There is nothing abstract to memorize here,
-it is a clear road of achievement and excellence.
-
----
-
-School demands that you travel a lot,
-switching cultures, nations, languages, laboratories and even interests.
-
-It is not scary, it is not lonely, you pick when and where to go,
-but you have to move from school to school.
-
-You will never feel stuck or lonely,
-you will never be among strangers, you will never be unsafe.
-
-It is difficult to describe the change that your mind will go through,
-there will be a visible change in your behavior as you become a Citizen of The Wold.
-
----
-
-The primary purpose of the school,
-is to encourage you to become a leader in the field or fields that call to you.
-
-It is there, to help you, to heal you, to protect you,
-to give you unlimited retries until you succeed.
-
-The school will recognize you as an investment,
-a key to a worthy and peaceful future for Human Kind.
-
-In return, you will rise to become a healthy, dignified, knowledgeable, and independent thinker and creator,
-one to make meaningful contributions to Human Kind, and come your retirement; leave a lasting legacy behind.
+In school we get stressed out about passing the exams,
+or trying to graduate in half the time to save money, and that is no way to learn.
+That is not how a Student should be treated,
+a Student represents the future of humanity, they should be treated with great dignity and respect.
+I think time has come to view schools that charge for education, and companies that require a diploma,
+as institutions that have little talent, will eventually either lose credibility, or just go out of business.
+What does a company that demands a diploma say,
+about its stability and your retirement plan, what does it say about the talent that you will encounter there.
+Will your co-workers be passionate about making cute little file saving discoveries,
+or is it all going to be about profit maximization and promotions.
+Once you retire,
+the real work starts.
+You now enter an age where you are experienced enough to make lasting contributions,
+to leave an inspired and meaningful legacy.
+And at this stage in your life,
+having learned for real, becomes even more important, as you rely on it, to become a Great Being.
