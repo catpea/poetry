@@ -5,121 +5,129 @@ remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitH
 (SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 character limit.)
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 
+Pay Attention To Broken Things
 
-Full text version is available ad free at: https://catpea.com
+When you are sitting at your desk, in school,
+and the teacher is regurgitating textbooks to get you to pass tests.
 
-The Noble Quest Against Falsehoods
+And you have no idea what the heck he is taking about, and you are not inclined to understand that everyone else is lost too,
+and that the reason they are getting better grades than you, is because they aren't listening to comprehend, but to memorize.
 
-Falsehoods,
-are mind killers.
+Know, that he teacher can't rely on your comprehension skills,
+because they won't risk getting into trouble over your actual understanding.
 
-Falsehoods limit us, they divide us,
-they poison Humanity.
-
-People who believe in falsehoods,
-are prevented from growing up.
-
----
-
-As scary as that is,
-we also have everything it takes to remove them from our minds.
-
-In deed, there is scarcely a place out there that will preach truth,
-even a proper University will rely on the scholar to find the reproducible result.
-
-Removing falsehoods,
-is a healthy, and mighty, part of growing up.
+So what they will do, is look over the test you need to pass,
+and then feed you information that will help you pass if you blindly memorize it.
 
 ---
 
-Books that are held in high esteem by the wise and intellectual,
-will hasten and balance the process discovering truths.
+If you don't understand,
+that you are not supposed to understand.
 
-A book, or a narrated book, that shares true wisdom,
-is a briefcase of good ideas, and treasures for our minds (or upgrades if you are technologically inclined).
+If you don't understand,
+that you are only supposed to memorize to pass the tests so that they can put food on the table.
 
-Without books, we would be struck by the urge to visit Universities, and lecture halls,
-and to write to those who have things to say, which is what would cause them to share wisdom or letters in books.
+Then you are running the risk,
+of becoming convinced that you are unintelligent.
 
-Many people need to hear a book,
-and it truly a beautiful experience to hear a book read by its author.
-
-Equipped with a couple of hundred narrated books,
-you can easily inherit lifetimes of knowledge and experience.
+Which you are not,
+the world is just not understanding how badly schools are broken.
 
 ---
 
-Falsehoods are harder, and take longer to get rid of than you think,
-as they often embedded in, and obscured by, our lifestyles, family culture, neighborhood culture, and even national culture.
+You have to pay attention,
+to the broken things, and know when to walk.
 
-But there is a sure cure for that,
-a very noble tradition, practiced by humans probably for tens of thousands of years.
-
-In Modern Day, that is the act of buying a backpack, and bug spray, and strangely overpriced pants and shoes,
-and a tent, or a hammock tent, and reconnecting with nature on long and winding trails.
-
-Quests, that require a lot of walking,
-that pull you out of your environment, and give you a healthy substitute for a prolonged period of time.
+All the broken things are equally toxic,
+and you have to protect your mind.
 
 ---
 
-Think about how your mind changes when you go on a vacation,
-how you become more contemplative, relaxed, and become more of yourself.
+Sitting in rows, while being spoon-fed timed lectures, from a one-for-all curriculum that does not see you as a unique human being with a colorful imagination,
+and then being graded down for not having temporarily-memorized it for long enough - is not an education, that's just fraud.
 
-Know, that,
-that is the real you.
-
-When your mind is rested and unstressed
-it is most receptive to growth, to growing up, to being Human.
-
-Many people start reading books on their vacations,
-that is because reaching out for knowledge about or wisdom from other lives, is a very natural thing for us.
+You are manipulated into cramming,
+so that the teacher can hold up the tests as evidence, that he is not a fraud.
 
 ---
 
-The power of falsehoods,
-is too often impossibly overwhelming.
+There are no standardized humans,
+there cannot be a standardized assessment.
 
-Talking about it and thinking about it is not enough,
-when falsehoods grab a hold of us, we too often point ourselves away from the right way, and make things worse.
+Even in prestigious universities, and medical schools,
+a standardized assessment can only asses the height you are standing on, while cutting out the entire being that you are.
 
-Falsehoods can stress us to self medicate with overeating,
-they have the power to make ourselves ill.
-
-Falsehoods like the belief that out poverty is our fault,
-can press us into a job where we never read a book, and never take to wisdom.
+In average schools, a standardized assessment can only asses,
+whether or not you have given up who you are, under the stress of being held back, and laughed at.
 
 ---
 
+There are no bad grades,
+you either understand something or not.
 
-In conclusion of this text,
-I must ask you to make a powerful change.
-
-I have to ask you,
-to go on a marvelous shopping expedition for camping gear, and go on a long and deeply relaxing vacation.
-
-And never return to the mindset that you left behind when you set off for that quest,
-you must use your power to live your life in the state of mind brought on by a vacation.
-
-Know that whatever troubles you left behind as you went on your vacation,
-have always been holding you back and are preventing you from growing up.
+A bad grade is a nail in the coffin of a school,
+it reveals its own fraud - and blames it on you.
 
 ---
 
-You are a Noble and Beautiful Human Being,
-you are mean to grow, to reach for Knowledge, Wisdom and Greatness.
+A school could be built to do you and your classmates justice,
+but it would be an unstructured series of games, levels that would require actual study.
 
-Nothing must stand in the way of your growing up,
-without growing up you will never become yourself.
+And when you fail to progress,
+nobody would know about it.
 
-When you grow,
-the world grows along with you.
+It would not be the final test,
+you'd find a better book and get to the bottom of what had you stuck.
 
-Please go on a vacation,
-and don't comeback.
+Only your progression forward would matter,
+you would never be punished for learning what you like at your own pace.
 
-Become,
-a Great Being.
+---
 
-Grow,
-Free.
+Do not let broken things trick you into thinking there is something wrong with you,
+do not let them hold you back from the real thing.
+
+Graded fantasy education that trick you into unforgivable-debt is an insult with a curse,
+the real thing is blooming ecosystem of a thousand pursuits that you track the same way as the streets of a sprawling city.
+
+It is a road that will slowly meander towards wisdom,
+fake education may deny you that path.
+
+---
+
+Education is one-of-many examples of broken things,
+and all the broken tings will obscure your path forward.
+
+Try, try to figure it out ahead of time,
+the elder you may look back and see that you didn't have all the necessary ideas, but also appreciate that you fought for truth.
+
+Scientists are taught to question everything,
+to search for evidence, avoid common mistakes, and to reproduce results.
+
+Next time you get a bad grade in school,
+don't feel bad, instead question how you were taught and whether or not that adds up to create any real and lasting results.
+
+Do not let the broken things and the actors that line their pockets with them trick you,
+and blame it all on you.
+
+---
+
+Finally, if you want to learn Biology
+build a computer game that simulates everything we know.
+
+If you want to learn chemistry,
+build a virtual world that helps everyone visualize how everything works beneath the reaction.
+
+If you want to learn Physics
+build a game that simulates Humans taking to the stars.
+
+To learn Mathematics,
+create generative art, games, and visualizations of all that we know.
+
+If you really want to learn for real,
+then you will have to be the first one to build a real school.
+
+---
+
+Whatever you do, pay attention to the broken things,
+do not let anybody trick you and blame it all on you.
