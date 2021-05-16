@@ -10,7 +10,7 @@ mkdir -p $DIST_VIDEO;
 for source in $(ls -1 $AUDIO/poetry-*.mp3 | sort -r); do
   name=$(basename -s .mp3 $source)
   destination="${DIST_VIDEO}/${name}.mp4";
-
+	echo $destination;
   execute=false;
   if [ ! -f "$destination" ]; then
     echo Audio has not yet been converted to video: $source;
