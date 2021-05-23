@@ -5,4 +5,3 @@ remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitH
 (SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 character limit.)
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
 Full text version is available ad free at: https://catpea.com
- 
