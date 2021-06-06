@@ -1,3 +1,15 @@
+<li><a href="https://www.youtube.com/results?search_query=Friedrich+Nietzsche">Friedrich Nietzsche</a></li>
+<li><a href="https://www.youtube.com/results?search_query=Socrates">Socrates</a></li>
+<li><a href="https://www.youtube.com/results?search_query=Immanuel+Kant">Immanuel Kant</a></li>
+<li><a href="https://www.youtube.com/results?search_query=Ludwig+Wittgenstein">Ludwig Wittgenstein</a></li>
+<li><a href="https://www.youtube.com/results?search_query=Rene+Descartes">Ren&#xE9; Descartes</a></li>
+<li><a href="https://www.youtube.com/results?search_query=S%C3%B8ren+Kierkegaard">S&#xF8;ren Kierkegaard</a></li>
+Kandice Sumner
+Bill Bryson
+Erica Goldson
+Dan Barker
+Julia Sweeny
+
 REMOVE SAT trademark,
 remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
 remote: warning: See http://git.io/iEPt8g for more information.
