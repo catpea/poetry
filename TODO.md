@@ -15,41 +15,51 @@ remote: warning: See http://git.io/iEPt8g for more information.
 remote: warning: File docs/image/cover.xcf is 50.09 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
 (SEE https://catpea.com FOR FULL VERSION, YouTube has a 5,000 character limit.)
 Text version of Furkies Purrkies: Anthology of Inspirational Rhyme by Dr. M, Ph.D. is available at: https://catpea.com
+
 Full text version is available ad free at: https://catpea.com
 
-Super Nintendent Meow
+All human beings must be born free from indoctrination,
+no child is to be lied to, misled, tricked, manipulated, coerced, fractured, stressed, threatened, or punished.
 
-Neither this, nor that,
-here is an idea I've been working at.
-You have to follow the three steps exactly as I explain,
-or the whole thing will be in vain.
-One, create a fun computer game,
-that will earn you some fame.
-Two, create an editor and an automator,
-that will help your player become a creator.
-Three, create a marketplace and set the player free,
-from their poverty.
-These are not easy steps top follow,
-and the final step maybe hard to swallow.
-But if you give me a moment, and wait,
-I will explain to you what you will create.
-It is a school, that teaches abstract thinking,
-that helps the student learn without their account shrinking.
-This is a game, that uses an abstract language to communicate,
-it speaks to the entire world and will erase any and all hate.
-It is actually meant to help Humanity grow,
-and it is the biggest idea since the radio.
-It is a school, a factory, and a marketplace,
-one that will never run out of space.
-Make the first implementation,
-about audio book creation and or narration.
-The second should be about music creation,
-and include automatic song mutation.
-The third implementation can be about 3D sculpture and jeweler creation,
-and should also have a button for automatic permutation.
-I leave all the other implementations to you,
-as I know it will lead you to a great breakthrough.
-Don't forget, this is not just a game, editor, and a store,
-this is about the World Peace that all the children are asking for.
-Just to be sure you hit all the steps and make the program free, one more time, repeat after me,
-one, two, and three.
+All human beings must be introduced to an honest, authentic, and truth oriented culture,
+no child is to be taught opinions as facts, falsehoods as truths, and fantasies as realities.
+
+All human beings must be free from oppression and hate,
+all must be recognized as students; and guided to Knowledge, Wisdom, and Greatness.
+
+All human beings must be free from poverty,
+no child is to inherit poverty, or be placed in poverty of any kind.
+
+All human beings must be granted open access to the entirety of Human Knowledge,
+it must be presented with Great Honor and in Great Dignity, by real and authentic professional teachers.
+
+---
+
+All human beings must be part of cultures that do not tolerate torture, enhanced interrogation, slavery, or inhumane detention,
+no government should benefit any and all cultures of hate, forced labor, concentration camps, detention camps, prison camps, and similar.
+
+All human beings must live in cultures free of prisons, that scientifically recognize the criminal mind,
+as unfortunately ill, and potentially requiring life-long supervision and medical care in, medical facilities with compassionate and understanding medical staff.
+
+All human beings must belong to cultures free from violence oriented first responders and police,
+a police officer can only save, protect, and or  remove people from danger; police is to leave the conflict and capture to trained medical professionals equipped with humane means of disarming dangerous situations.
+
+All human beings must only participate in systems politics far removed from money making, and focused on representing their people,
+all politicians that accept, or make, or exchange, or trade, or benefit financially directly or indirectly, in any way, must permanently leave office.
+
+All human beings must be part of legal systems that constantly review their laws,
+short sighted laws, that impact humanity negatively, that rob it of hope and beauty,  that hold its progress back, must be put under review.
+
+---
+
+Let us aim to learn to think like the creators of the Universal Declaration of Human Rights,
+let us err where there is something of which consequences we don't quite fully grasp.
+
+But let us work together to comprehend all the Declarations and Laws of Our World,
+let us make all the needed repairs and ensure that the future of our kind is worthy of each and every one of us at our best.
+
+Let us bring the Universal Declaration of Human Rights,
+into our homes.
+
+Let us dream, let us think,
+let us change the future for better, for best.
