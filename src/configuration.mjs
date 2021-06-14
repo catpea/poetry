@@ -18,6 +18,7 @@ export default {
     'src/audio/audio-jogger.mp3': 'audio',
     'src/audio/bird-pecking-complaint.mp3': 'audio',
     'src/audio/emergence.mp3': 'audio',
+    'src/audio/bonus-phone-ring.mp3': 'audio',
   },
 
   order: "latest",
