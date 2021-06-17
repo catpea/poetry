@@ -14,11 +14,17 @@ export default {
   },
 
   dependencies: {
+
+    // OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO //
+    //   ONLY FOR FILES NOT LINKED IN POEMS!!!!!  //
+    // OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO //
+
     'src/image/poetry-cover.jpg': 'image',
     'src/audio/audio-jogger.mp3': 'audio',
     'src/audio/bird-pecking-complaint.mp3': 'audio',
     'src/audio/emergence.mp3': 'audio',
-    'src/audio/bonus-phone-ring.mp3': 'audio',
+    //'src/audio/bonus-phone-ring.mp3': 'audio', // this one is linked.
+
   },
 
   order: "latest",
